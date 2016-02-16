@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
+    <def-cat n="noun">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+    </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vaux.*"/>
+      <cat-item tags="vbmod.*"/>
+      <cat-item tags="vbser.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -10,8 +20,64 @@
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
+    <def-attr n="a_case">
       <attr-item tags="nom"/>
+      <attr-item tags="ine"/>
+      <attr-item tags="ela"/>
+      <attr-item tags="ill"/>
+      <attr-item tags="ade"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="all"/>
+      <attr-item tags="par"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="tra"/>
+      <attr-item tags="lat"/>
+      <attr-item tags="ess"/>
+      <attr-item tags="dat"/>
+    </def-attr>
+    <def-attr n="a_noun">
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+    </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+    </def-attr>
+    <def-attr n="a_gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
+    </def-attr>
+    <def-attr n="a_number">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
+    </def-attr>
+    <def-attr n="a_verb">
+        <attr-item tags="vblex"/>
+        <attr-item tags="vaux"/>
+        <attr-item tags="vbser"/>
+        <attr-item tags="vbmod"/>
+    </def-attr>
+    <def-attr n="a_voice">
+        <attr-item tags="actv"/>
+        <attr-item tags="pasv"/>
+    </def-attr>
+    <def-attr n="a_tense">
+        <attr-item tags="pri"/>
+        <attr-item tags="pii"/>
+        <attr-item tags="ifi"/>
+        <attr-item tags="pres"/>
+        <attr-item tags="past"/>
+    </def-attr>
+    <def-attr n="a_prsnum">
+        <attr-item tags="p1.sg"/>
+        <attr-item tags="p2.sg"/>
+        <attr-item tags="p3.sg"/>
+        <attr-item tags="p1.pl"/>
+        <attr-item tags="p2.pl"/>
+        <attr-item tags="p3.pl"/>
     </def-attr>
   </section-def-attrs>
 
@@ -26,10 +92,141 @@
             <lit v=""/>
           </let>
     </def-macro>
+    <def-macro n="case-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <or>
+              <!-- accusative cases -->
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ela"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ill"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="abl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="all"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="par"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="acc"/></equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <!-- dative cases -->
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ine"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ade"/></equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="dat"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+              <!-- nominative cases -->
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ins"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="tra"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="ess"/></equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/>
+          </let>
+        </when>
+        <!-- otherwise, same case -->
+      </choose>
+    </def-macro>
+    <def-macro n="tensemood-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="past"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pii"/>
+          </let>
+        </when>
+        <!-- otherwise, same tense -->
+      </choose>
+    </def-macro>
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SENT">
+    <rule comment="Drop voice from verbs, mangle tense mood">
+      <pattern>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_tense"/>
+              <clip pos="1" side="tl" part="a_prsnum"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="Mangle case of nouns">
+      <pattern>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="np" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_gender"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="Mangle case of adjs">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="np" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="AP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="sint.attr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="Default rule">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
