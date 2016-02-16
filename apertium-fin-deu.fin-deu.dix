@@ -12,11 +12,13 @@
     <sdef n="mf"    c="Both"/>
     <sdef n="m"     c="Man"/>
     <sdef n="f"     c="Foman"/>
+    <sdef n="p1"     c="Separate 1st person"/>
+    <sdef n="p2"     c="Separate 2nd person"/>
+    <sdef n="p3"     c="Separate 3rd person"/>
     <sdef n="adj"   c="adjection"/>
     <sdef n="sint"  c="inflecting"/>
     <sdef n="cnjcoo"  c="coordinating conjunction"/>
     <sdef n="cnjadv"  c="adverbial conjunction"/>
-    <sdef n="p3"  c="third person"/>
     <sdef n="vbser"  c="verb to be"/>
     <sdef n="vbmod"  c="modal verb"/>
     <sdef n="num"  c="numeral"/>
@@ -42,36 +44,37 @@
 
     <!-- nouns -->
     
-    <e><p><l>puutarha<s n="n"/></l><r>Garten<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>talo<s n="n"/></l><r>Haus<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>lapsi<s n="n"/></l><r>Kind<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>poika<s n="n"/></l><r>Junge<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>tyttö<s n="n"/></l><r>Mädchcen<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>sisko<s n="n"/></l><r>Schwester<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>koira<s n="n"/></l><r>Hund<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>kissa<s n="n"/></l><r>Katze<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>leikki<s n="n"/></l><r>Spiel<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>vuosi<s n="n"/></l><r>Jahre<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>äiti<s n="n"/></l><r>Mutter<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>ikkuna<s n="n"/></l><r>Fenster<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>vesi<s n="n"/></l><r>Wasser<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>tuoli<s n="n"/></l><r>Stuhl<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>pöytä<s n="n"/></l><r>Tisch<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>aika<s n="n"/></l><r>Zeit<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>lintu<s n="n"/></l><r>Vogel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>eläin<s n="n"/></l><r>Tier<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>halu<s n="n"/></l><r>Begehren<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>hyvä<s n="n"/></l><r>Gute<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>puu<s n="n"/></l><r>Baum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ikkuna<s n="n"/></l><r>Fenster<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>kerto<s n="n"/></l><r>Multiplikator<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>kissa<s n="n"/></l><r>Katze<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>koira<s n="n"/></l><r>Hund<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>kysymys<s n="n"/></l><r>Frage<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>käsi<s n="n"/></l><r>Hand<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>lapsi<s n="n"/></l><r>Kind<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>leikki<s n="n"/></l><r>Spiel<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>lintu<s n="n"/></l><r>Vogel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>meno<s n="n"/></l><r>Lauf<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>piilo<s n="n"/></l><r>Versteck<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>käsi<s n="n"/></l><r>Hand<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>poika<s n="n"/></l><r>Junge<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>puu<s n="n"/></l><r>Baum<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>puutarha<s n="n"/></l><r>Garten<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pöytä<s n="n"/></l><r>Tisch<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>silmä<s n="n"/></l><r>Auge<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>sisko<s n="n"/></l><r>Schwester<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>sää<s n="n"/></l><r>Wetter<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>talo<s n="n"/></l><r>Haus<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>tuoli<s n="n"/></l><r>Stuhl<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>tyttö<s n="n"/></l><r>Mädchcen<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>vastaus<s n="n"/></l><r>Antwort<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>kysymys<s n="n"/></l><r>Frage<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>kerto<s n="n"/></l><r>Multiplikator<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>halu<s n="n"/></l><r>Begehren<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e><p><l>ääni<s n="n"/></l><r>Laut<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>vesi<s n="n"/></l><r>Wasser<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>voi<s n="n"/></l><r>Butter<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>vuosi<s n="n"/></l><r>Jahr<s n="n"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>äiti<s n="n"/></l><r>Mutter<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>ääni<s n="n"/></l><r>Laut<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
     <!-- adverbs -->
     
@@ -154,12 +157,20 @@
     <e><p><l>vaikka<s n="cnjadv"/></l><r>obwohl<s n="cnjadv"/></r></p></e>
 
     <!-- {{{ pronouns -->
-    
+
+    <!-- personal pronouns -->
+
+    <!-- minä.prn.pres.p2.sg. * ↔ ich.prn.pers.p1.mf.sg.* -->
     <e><p><l>minä<s n="prn"/></l><r>ich<s n="prn"/></r></p></e>
-    <e><p><l>sinä<s n="prn"/></l><r>du<s n="prn"/></r></p></e>
-    <e><p><l>sää<s n="prn"/></l><r>du<s n="prn"/></r></p></e>
+    
+    <!-- minä.prn.pres.p2.sg. * ↔ ich.prn.pers.p1.mf.sg.* -->
+    <e><p><l>sinä<s n="prn"/><s n="pers"/><s n="p2"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+    
     <e><p><l>hän<s n="prn"/></l><r>er<s n="prn"/></r></p></e>
-        
+
+    <!-- dialectals -->
+    <e r="LR"><p><l>sää<s n="prn"/><s n="pers"/><s n="p2"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+
     <e><p><l>se<s n="prn"/></l><r>es<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/></r></p></e>
     <e><p><l>nämä<s n="prn"/></l><r>diese<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/></r></p></e>
 
