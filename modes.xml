@@ -283,7 +283,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -319,7 +319,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -371,7 +371,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
     </pipeline>
@@ -384,7 +384,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -398,7 +398,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -415,7 +415,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -435,7 +435,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -456,7 +456,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -481,7 +481,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
