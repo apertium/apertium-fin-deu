@@ -5,6 +5,9 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="prnpers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -56,6 +59,9 @@
       <attr-item tags="n"/>
       <attr-item tags="det"/>
       <attr-item tags="np"/>
+    </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn"/>
     </def-attr>
     <def-attr n="a_num">
       <attr-item tags="sg"/>
@@ -111,7 +117,7 @@
             <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="dat"/></equal>
           </test>
           <let>
-            <clip pos="1" side="tl" part="a_case"/><lit-tag v="all"/>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/>
           </let>
         </when>
         <when>
@@ -202,6 +208,29 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="prn pers: case mangle and drop mfs">
+      <pattern>
+        <pattern-item n="prnpers"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="PRNP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PRN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="a_num"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
