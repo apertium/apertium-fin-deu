@@ -4,6 +4,12 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vbser.*"/>
+      <cat-item tags="vbmod.*"/>
+      <cat-item tags="vaux.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -12,7 +18,29 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="dat"/>
     </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
+    <def-attr n="a_temp">
+      <attr-item tags="pri"/>
+      <attr-item tags="pii"/>
+    </def-attr>
+    <def-attr n="a_pers">
+      <attr-item tags="p1.sg"/>
+      <attr-item tags="p2.sg"/>
+      <attr-item tags="p3.sg"/>
+      <attr-item tags="p1.pl"/>
+      <attr-item tags="p2.pl"/>
+      <attr-item tags="p3.pl"/>
+    </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -29,6 +57,27 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="verbs: add activ passif">
+      <pattern>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <clip pos="1" side="tl" part="a_temp"/>
+              <clip pos="1" side="tl" part="a_pers"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
