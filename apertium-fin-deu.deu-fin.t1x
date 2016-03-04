@@ -41,9 +41,10 @@
       <attr-item tags="vbmod"/>
       <attr-item tags="vaux"/>
     </def-attr>
-    <def-attr n="a_temp">
+    <def-attr n="a_tense">
       <attr-item tags="pri"/>
       <attr-item tags="pii"/>
+      <attr-item tags="past"/>
     </def-attr>
     <def-attr n="a_noun">
       <attr-item tags="n"/>
@@ -75,6 +76,19 @@
             <var n="number"/>
             <lit v=""/>
           </let>
+    </def-macro>
+    <def-macro n="tensemood-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="past"/>
+          </let>
+        </when>
+        <!-- otherwise, same tense -->
+      </choose>
     </def-macro>
     <def-macro n="case-mangler" npar="1">
       <choose>
@@ -108,11 +122,14 @@
   </section-def-macros>
 
   <section-rules>
-    <rule comment="verbs: add activ passif">
+    <rule comment="verbs: add activ passif, change past tags">
       <pattern>
         <pattern-item n="verb"/>
       </pattern>
       <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -122,7 +139,7 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
-              <clip pos="1" side="tl" part="a_temp"/>
+              <clip pos="1" side="tl" part="a_tense"/>
               <clip pos="1" side="tl" part="a_pers"/>
             </lu>
           </chunk>
