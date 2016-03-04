@@ -5,6 +5,9 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
@@ -45,6 +48,9 @@
       <attr-item tags="pri"/>
       <attr-item tags="pii"/>
       <attr-item tags="past"/>
+    </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
     </def-attr>
     <def-attr n="a_noun">
       <attr-item tags="n"/>
@@ -198,6 +204,28 @@
               <clip pos="1" side="tl" part="a_noun"/>
               <clip pos="1" side="tl" part="a_num"/>
               <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adjs: add case">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="AP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="pos.sg.nom"/>
             </lu>
           </chunk>
         </out>
