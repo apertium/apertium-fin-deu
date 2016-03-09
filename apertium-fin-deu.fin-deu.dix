@@ -45,6 +45,7 @@
     <sdef n="neg"  c="negation verb"/>
     <sdef n="itg"  c="interrogative"/>
     <sdef n="np"   c="proper noun"/>
+    <sdef n="ant"   c="-- antropomorphic"/>
     <sdef n="sent" c="sentence "/>
     <sdef n="lquot" c="left quote "/>
     <sdef n="rquot" c="right quote "/>
@@ -243,7 +244,7 @@
     
     <e><p><l>hän<s n="prn"/></l><r>er<s n="prn"/></r></p></e>
 
-    <e><p><l>he<s n="prn"/></l><r>sie<s n="prn"/></r></p></e>
+    <e><p><l>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>sie<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <!-- some prpers schaiße -->
     <e><p><l>hän<s n="prn"/></l><r>prpers<s n="prn"/><s n="det"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
@@ -351,8 +352,8 @@
     
     <e><p><l>Jaakko<s n="np"/></l><r>Jaakko<s n="np"/></r></p></e>
     <e><p><l>Mari<s n="np"/></l><r>Mari<s n="np"/></r></p></e>
-    <e><p><l>Maria<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
-    <e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
+    <e><p><l>Maria<s n="np"/><s n="ant"/><s n="f"/></l><r>Maria<s n="np"/></r></p></e>
+    <e><p><l>Jan<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/></r></p></e>
 
     <!-- puncts -->
 
