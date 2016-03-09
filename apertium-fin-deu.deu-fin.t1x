@@ -11,6 +11,10 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="adp">
+      <cat-item tags="post.*"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
@@ -55,9 +59,16 @@
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
     </def-attr>
+    <def-attr n="a_adp">
+      <attr-item tags="post"/>
+      <attr-item tags="pr"/>
+    </def-attr>
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="det"/>
+      <attr-item tags="np.ant.m"/>
+      <attr-item tags="np.ant.f"/>
+      <attr-item tags="np.ant"/>
       <attr-item tags="np"/>
     </def-attr>
     <def-attr n="a_prn">
@@ -255,6 +266,24 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <lit-tag v="pos.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adps: drop case">
+      <pattern>
+        <pattern-item n="adp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="AdpP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Adp"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adp"/>
             </lu>
           </chunk>
         </out>
