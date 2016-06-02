@@ -5,7 +5,7 @@
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
-    <sdef n="n"     c="Noun"/>
+    <sdef n="n"     c="NOUN"/>
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
     <sdef n="sp"    c="Singular AND plural"/>
@@ -45,11 +45,20 @@
     <sdef n="neg"  c="negation verb"/>
     <sdef n="itg"  c="interrogative"/>
     <sdef n="np"   c="proper noun"/>
+    <sdef n="qst"  c="question clitic"/>
+
+    <sdef n="punct" c="PUNCT"/>
+    <sdef n="sym" c="SYM "/>
     <sdef n="sent" c="sentence "/>
     <sdef n="lquot" c="left quote "/>
     <sdef n="rquot" c="right quote "/>
     <sdef n="cm" c="comma "/>
     <sdef n="part" c="particle "/>
+
+    <sdef n="ine" c="inessive" />
+    <sdef n="nom" c="nominative" />
+    <sdef n="par" c="partitive" />
+    <sdef n="tra" c="partitive" />
   </sdefs>
 
   <section id="main" type="standard">
@@ -67,6 +76,7 @@
     <e><p><l>kysymys<s n="n"/></l><r>Frage<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käsi<s n="n"/></l><r>Hand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lapsi<s n="n"/></l><r>Kind<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>leikkiminen<s n="n"/></l><r>Spielen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>leikki<s n="n"/></l><r>Spiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lintu<s n="n"/></l><r>Vogel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meno<s n="n"/></l><r>Lauf<s n="n"/><s n="m"/></r></p></e>
@@ -93,6 +103,7 @@
     <e><p><l>kahvi<s n="n"/></l><r>Kaffee<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tee<s n="n"/></l><r>Tee<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>olut<s n="n"/></l><r>Bier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kuu<s n="n"/></l><r>Mond<s n="n"/><s n="m"/></r></p></e>
 
     <!-- personal details -->
     
@@ -146,6 +157,7 @@
     <e><p><l>nopeasti<s n="adv"/></l><r>fest<s n="adv"/></r></p></e>
     <e><p><l>todennäköisesti<s n="adv"/></l><r>wahrscheinlich<s n="adv"/></r></p></e>
     <e><p><l>hitaasti<s n="adv"/></l><r>langsam<s n="adv"/></r></p></e>
+    <e><p><l>erittäin<s n="adv"/></l><r>sehr<s n="adv"/></r></p></e>
     <e><p><l>paljon<s n="adv"/></l><r>sehr<s n="adv"/></r></p></e>
     <e><p><l>ulkona<s n="adv"/></l><r>draußen<s n="adv"/></r></p></e>
     <e><p><l>kernaasti<s n="adv"/></l><r>gerne<s n="adv"/></r></p></e>
@@ -159,6 +171,11 @@
     <e><p><l>tarkasti<s n="adv"/></l><r>genau<s n="adv"/></r></p></e>
     <e><p><l>vähän<s n="adv"/></l><r>etwas<s n="adv"/></r></p></e>
     <e><p><l>koskaan<s n="adv"/></l><r>nie<s n="adv"/></r></p></e>
+    <e><p><l>yhdessä<s n="adv"/></l><r>zusammen<s n="adv"/></r></p></e>
+    <e><p><l>sisällä<s n="adv"/></l><r>herein<s n="adv"/></r></p></e>
+    <e><p><l>ulos<s n="adv"/></l><r>raus<s n="adv"/></r></p></e>
+
+    <e><p><l>ja<s n="adv"/></l><r>und<s n="cnjcoo"/></r></p></e>
     
     <!-- verbs -->
 
@@ -166,12 +183,15 @@
     <e><p><l>ei<s n="vblex"/><s n="neg"/></l><r>nein<s n="adv"/></r></p></e>
     
     <e><p><l>olla<s n="vblex"/></l><r>sein<s n="vbser"/></r></p></e>
+    <e><p><l>olla<s n="vaux"/></l><r>sein<s n="vbser"/></r></p></e>
     
     <e><p><l>haluta<s n="vaux"/></l><r>wollen<s n="vaux"/></r></p></e>
     
     <e><p><l>voida<s n="vblex"/></l><r>können<s n="vbmod"/></r></p></e>
+    <e><p><l>voida<s n="vaux"/></l><r>können<s n="vbmod"/></r></p></e>
     <e><p><l>täytyä<s n="vblex"/></l><r>müssen<s n="vbmod"/></r></p></e>
     <e><p><l>pitää<s n="vaux"/></l><r>freuen<s n="vblex"/></r></p></e>
+    <e><p><l>pitää<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
 
     <e><p><l>omistaa<s n="vblex"/></l><r>haben<s n="vbhaver"/></r></p></e>
     <e><p><l>olla<s n="vbhaver"/></l><r>haben<s n="vbhaver"/></r></p></e>
@@ -260,7 +280,7 @@
 
     <e><p><l>mikä<s n="prn"/><s n="itg"/></l><r>was<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
     <e><p><l>missä<s n="prn"/><s n="itg"/></l><r>wo<s n="adv"/></r></p></e>
-    <e><p><l>miksi<s n="prn"/><s n="itg"/></l><r>warum<s n="adv"/></r></p></e>
+    <e><p><l>miksi<s n="prn"/></l><r>warum<s n="adv"/></r></p></e>
     <e><p><l>minne<s n="prn"/><s n="itg"/></l><r>wohin<s n="adv"/></r></p></e>
 
     <!-- + relatives -->
@@ -275,6 +295,10 @@
 
     <!-- restmull -->
     
+    <e><p><l>mikä<s n="prn"/><s n="ine"/></l><r>wo<s n="adv"/></r></p></e>
+    <e><p><l>mikä<s n="prn"/><s n="nom"/></l><r>was<s n="prn"/></r></p></e>
+    <e><p><l>mikä<s n="prn"/><s n="par"/></l><r>was<s n="prn"/></r></p></e>
+    <e><p><l>mikä<s n="prn"/><s n="tra"/></l><r>warum<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>jokin<s n="prn"/></l><r>etwas<s n="prn"/></r></p></e>
     <e><p><l>mitään<s n="prn"/></l><r>nichts<s n="adv"/></r></p></e>
     <e><p><l>mikään<s n="prn"/></l><r>kein<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
@@ -340,6 +364,10 @@
     <e r="RL"><p><l/><r>nack<s n="pr"/></r></p></e>
     <e r="RL"><p><l/><r>von<s n="pr"/></r></p></e>
 
+    <!-- clits -->
+
+    <e r="LR"><p><l>ko<s n="qst"/></l><r/></p></e>
+
     <!-- numerals -->
 
     <e><p><l>yksi<s n="num"/></l><r>ein<s n="num"/></r></p></e>
@@ -356,11 +384,11 @@
 
     <!-- puncts -->
 
-    <e><p><l>.<s n="sent"/></l><r>.<s n="sent"/></r></p></e>
-    <e><p><l>?<s n="sent"/></l><r>?<s n="sent"/></r></p></e>
-    <e><p><l>!<s n="sent"/></l><r>!<s n="sent"/></r></p></e>
-    <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
-    <e><p><l>"<s n="lquot"/></l><r>"<s n="lquot"/></r></p></e>
+    <e><p><l>.<s n="punct"/></l><r>.<s n="sent"/></r></p></e>
+    <e><p><l>?<s n="punct"/></l><r>?<s n="sent"/></r></p></e>
+    <e><p><l>!<s n="punct"/></l><r>!<s n="sent"/></r></p></e>
+    <e><p><l>,<s n="punct"/></l><r>,<s n="cm"/></r></p></e>
+    <e><p><l>"<s n="punct"/></l><r>"<s n="lquot"/></r></p></e>
 
   </section>
 </dictionary>
