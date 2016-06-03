@@ -7,6 +7,14 @@
     </def-cat>
     <def-cat n="prnpers">
       <cat-item tags="prn.pers.*"/>
+  </def-cat>
+  <def-cat n="nominal">
+        <cat-item tags="n.*"/>
+        <cat-item tags="np.*"/>
+        <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="haver">
+        <cat-item tags="vbhaver.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -17,6 +25,9 @@
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
     </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
@@ -74,7 +85,7 @@
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
     </def-attr>
-    <def-attr n="a_num">
+    <def-attr n="a_number">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
@@ -87,6 +98,11 @@
       <attr-item tags="p3.pl"/>
     </def-attr>
 
+    <def-attr n="a_num">
+        <attr-item tags="num.card"/>
+      <attr-item tags="num.ord"/>
+      <attr-item tags="num"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -169,6 +185,41 @@
         </out>
       </action>
     </rule>
+    <rule comment="nouns haver: adessive structurise!">
+      <pattern>
+        <pattern-item n="nominal"/>
+        <pattern-item n="haver"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+      </call-macro>
+      <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+      </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="ade"/>
+          </lu>
+          <b/>
+          <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <clip pos="2" side="tl" part="a_tense"/>
+              <clip pos="2" side="tl" part="a_pers"/>
+          </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="dets nouns: case mangle">
       <pattern>
         <pattern-item n="det"/>
@@ -189,14 +240,14 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
-              <clip pos="2" side="tl" part="a_num"/>
+              <clip pos="2" side="tl" part="a_number"/>
               <clip pos="2" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -219,7 +270,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -242,7 +293,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
-              <clip pos="1" side="tl" part="a_num"/>
+              <clip pos="1" side="tl" part="a_number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -266,6 +317,28 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
               <lit-tag v="pos.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="nums: add case, drop pl to sg">
+      <pattern>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="AP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <lit-tag v="card.sg.gen"/> <!-- deu nums are unnecessarily pl too -->
             </lu>
           </chunk>
         </out>
