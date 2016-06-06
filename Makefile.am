@@ -197,11 +197,21 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "house" | apertium -d . fin-deu | tee .test-mt
-	@echo "house" > .test-ref
+	echo "talo" | apertium -d . fin-deu | tee .test-mt
+	@echo "Haus#" > .test-ref
 	@diff .test-ref .test-mt
-	echo "house" | apertium -d . deu-fin | tee .test-mt
-	@echo "house" > .test-ref
+	echo "Haus" | apertium -d . deu-fin | tee .test-mt
+	@echo "talo" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
+
+# Slow but near-complete test of dictionary consistency:
+test-gen-fin-deu: all
+	! dev/testvoc/generation.sh --hfst fin-deu
+
+test-gen-deu-fin: all
+	! dev/testvoc/generation.sh deu-fin
+
+test-voc: test-gen-fin-deu \
+	      test-gen-deu-fin
 
