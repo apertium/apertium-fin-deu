@@ -179,6 +179,12 @@
     <e><p><l>jäätelö<s n="n"/></l><r>Eis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jäätelö<s n="n"/></l><r>Speiseeis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elokuvatuotantoyhtiö<s n="n"/></l><r>Filmproduktionsgesellschaft<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>laajennus<s n="n"/></l><r>Ausbau<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>huomio<s n="n"/></l><r>Aufmerksamkeit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yleiskatsaus<s n="n"/></l><r>Überblick<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sulkeminen<s n="n"/></l><r>Abschluss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>avaus<s n="n"/></l><r>Eröffnung<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>avajaiset<s n="n"/></l><r>Eröffnung<s n="n"/><s n="m"/></r></p></e>
     
 
     <!-- personal details -->
@@ -266,6 +272,9 @@
     <e><p><l>huolellisesti<s n="adv"/></l><r>vorsichtig<s n="adv"/></r></p></e>
     <e><p><l>tyhjä<s n="adv"/></l><r>leer<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
+    <e><p><l>yhtään<s n="adv"/></l><r>irgend<s n="adv"/></r></p></e>
+    <e><p><l>kaikkiaan<s n="adv"/></l><r>irgend<s n="adv"/></r></p></e>
+    <e><p><l>tosiaan<s n="adv"/></l><r>genau<s n="adv"/></r></p></e>
 
     <!-- rarities
         (the kind of adverb / intj / particle use is so rare that we ignore)
@@ -515,6 +524,8 @@
     <e><p><l>normaali<s n="adj"/></l><r>normal<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>saavutettava<s n="adj"/></l><r>verfügbar<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>historiallinen<s n="adj"/></l><r>historische<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>antelias<s n="adj"/></l><r>großzügig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>keskeinen<s n="adj"/></l><r>zentral<s n="adj"/><s n="sint"/></r></p></e>
 
     <!-- }}}
          {{{ adpositions -->
