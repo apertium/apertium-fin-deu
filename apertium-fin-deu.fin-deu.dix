@@ -31,8 +31,11 @@
     <sdef n="sent"    c="PUNCT"/>
     <sdef n="lquot"   c="PUNCT"/>
     <sdef n="rquot"   c="PUNCT"/>
+    <sdef n="rpar"   c="PUNCT"/>
     <sdef n="cm"      c="PUNCT"/>
+    <sdef n="guio"      c="PUNCT"/>
     <sdef n="part"    c="PART"/>
+    <sdef n="ito"     c="PART"/>
 
                  <!-- c="Ufeat=value" -->
     <sdef n="sg"    c="Singular"/>
@@ -185,6 +188,15 @@
     <e><p><l>sulkeminen<s n="n"/></l><r>Abschluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaus<s n="n"/></l><r>Eröffnung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avajaiset<s n="n"/></l><r>Eröffnung<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kausi<s n="n"/></l><r>Staffel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sarja<s n="n"/></l><r>Serie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>suhde<s n="n"/></l><r>Beziehung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mesi<s n="n"/></l><r>Met<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sima<s n="n"/></l><r>Met<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>loppu<s n="n"/></l><r>Ende<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>häät<s n="n"/></l><r>Hochzeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>toukokuu<s n="n"/></l><r>Mai<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>syyskuu<s n="n"/></l><r>September<s n="n"/><s n="m"/></r></p></e>
     
 
     <!-- personal details -->
@@ -275,6 +287,21 @@
     <e><p><l>yhtään<s n="adv"/></l><r>irgend<s n="adv"/></r></p></e>
     <e><p><l>kaikkiaan<s n="adv"/></l><r>irgend<s n="adv"/></r></p></e>
     <e><p><l>tosiaan<s n="adv"/></l><r>genau<s n="adv"/></r></p></e>
+    <e><p><l>kun<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
+    <e><p><l>kuin<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
+    <e><p><l>asti<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
+    <e><p><l>saakka<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
+    <e><p><l>kuitenkin<s n="adv"/></l><r>jedoch<s n="adv"/></r></p></e>
+    <e><p><l>ulos<s n="adv"/></l><r>aus<s n="adv"/></r></p></e>
+    <e><p><l>ennen<s n="adv"/></l><r>vor<s n="adv"/></r></p></e>
+    <e><p><l>ainoastaan<s n="adv"/></l><r>nur<s n="adv"/></r></p></e>
+    <e><p><l>vain<s n="adv"/></l><r>nur<s n="adv"/></r></p></e>
+    <e><p><l>siellä<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>täällä<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>jo<s n="adv"/></l><r>bereits<s n="adv"/></r></p></e>
+    <e><p><l>jo<s n="adv"/></l><r>schon<s n="adv"/></r></p></e>
+    <e><p><l>tietysti<s n="adv"/></l><r>schon<s n="adv"/></r></p></e>
+    <e><p><l>lopulta<s n="adv"/></l><r>schließlich<s n="adv"/></r></p></e>
 
     <!-- rarities
         (the kind of adverb / intj / particle use is so rare that we ignore)
@@ -301,6 +328,7 @@
     <!-- auxiliaries -->
 
     <e><p><l>haluta<s n="vaux"/></l><r>wollen<s n="vaux"/></r></p></e>
+    <e><p><l>haluta<s n="vaux"/></l><r>wollen<s n="vbmod"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
     <e><p><l>voida<s n="vblex"/></l><r>können<s n="vbmod"/></r></p></e>
     <e><p><l>voida<s n="vaux"/></l><r>können<s n="vbmod"/></r></p></e>
@@ -308,7 +336,8 @@
     <e><p><l>täytyä<s n="vaux"/></l><r>müssen<s n="vbmod"/></r></p></e>
     <e><p><l>pitää<s n="vaux"/></l><r>freuen<s n="vblex"/></r></p></e>
     <e><p><l>pitää<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
-    <e><p><l>aikoa<s n="vblex"/></l><r>wollen<s n="vbmod"/></r></p></e>
+    <e><p><l>aikoa<s n="vblex"/></l><r>werden<s n="vaux"/></r></p></e>
+    <e><p><l>aikoa<s n="vblex"/></l><r>werden<s n="vblex"/></r></p></e>
 
     <!-- to have -->
 
@@ -372,6 +401,12 @@
     <e><p><l>ylittää<s n="vblex"/></l><r>überbieten<s n="vblex"/></r></p></e>
     <e><p><l>arvostella<s n="vblex"/></l><r>bewerten<s n="vblex"/></r></p></e>
     <e><p><l>tallentaa<s n="vblex"/></l><r>speichern<s n="vblex"/></r></p></e>
+    <e><p><l>julkaista<s n="vblex"/></l><r>erscheinen<s n="vblex"/></r></p></e>
+    <e><p><l>nimittää<s n="vblex"/></l><r>nominieren<s n="vblex"/></r></p></e>
+    <e><p><l>ottaa<s n="vblex"/></l><r>nehmen<s n="vblex"/></r></p></e>
+    <e><p><l>viedä<s n="vblex"/></l><r>mitnehmen<s n="vblex"/></r></p></e>
+    <e><p><l>voittaa<s n="vblex"/></l><r>gewinnen<s n="vblex"/></r></p></e>
+    <e><p><l>seurata<s n="vblex"/></l><r>folgen<s n="vblex"/></r></p></e>
 
     <!-- }}}
          {{{ conjunctions -->
@@ -380,6 +415,7 @@
     <e><p><l>mutta<s n="cnjcoo"/></l><r>aber<s n="cnjcoo"/></r></p></e>
     <e><p><l>tai<s n="cnjcoo"/></l><r>oder<s n="cnjcoo"/></r></p></e>
     <e><p><l>että<s n="cnjsub"/></l><r>dass<s n="cnjsub"/></r></p></e>
+    <e><p><l>jotta<s n="cnjsub"/></l><r>um<s n="cnjsub"/></r></p></e>
     <e><p><l>kun<s n="cnjsub"/></l><r>wenn<s n="cnjsub"/></r></p></e>
     <e><p><l>kun<s n="cnjsub"/></l><r>wann<s n="cnjadv"/></r></p></e>
     <e><p><l>kun<s n="cnjsub"/></l><r>als<s n="cnjadv"/></r></p></e>
@@ -387,6 +423,7 @@
     <e><p><l>vaikka<s n="cnjsub"/></l><r>obwohl<s n="cnjsub"/></r></p></e>
     <e><p><l>sitten<s n="cnjsub"/></l><r>da<s n="cnjsub"/></r></p></e>
     <e><p><l>kuin<s n="cnjsub"/></l><r>wie<s n="cnjadv"/></r></p></e>
+    <e><p><l>kunnes<s n="cnjsub"/></l><r>bis<s n="cnjsub"/></r></p></e>
 
     <!-- }}}
          {{{ pronouns -->
@@ -396,9 +433,13 @@
     <!-- minä.prn.pres.p2.sg. * ↔ ich.prn.pers.p1.mf.sg.* -->
     <e><p><l>minä<s n="prn"/></l><r>ich<s n="prn"/></r></p></e>
     
-    <!-- minä.prn.pres.p2.sg. * ↔ ich.prn.pers.p1.mf.sg.* -->
+    <!-- sinä.prn.pres.p2.sg. * ↔ du.prn.pers.p1.mf.sg.* -->
     <e><p><l>sinä<s n="prn"/><s n="pers"/><s n="p2"/></l>
           <r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+  
+    <e><p><l>sinä<s n="prn"/><s n="pers"/><s n="p2"/></l>
+          <r>sie<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+    
     
     <e><p><l>hän<s n="prn"/></l><r>er<s n="prn"/></r></p></e>
 
@@ -464,6 +505,7 @@
     <e><p><l>mikä<s n="prn"/><s n="rel"/></l><r>welche<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
     <e><p><l>joka<s n="prn"/><s n="rel"/></l><r>der<s n="rel"/><s n="mfn"/></r></p></e>
     <e><p><l>joka<s n="prn"/><s n="rel"/></l><r>der<s n="rel"/><s n="f"/></r></p></e>
+    <e><p><l>joka<s n="prn"/><s n="rel"/></l><r>der<s n="rel"/><s n="m"/></r></p></e>
 
     <!-- demons -->
 
@@ -493,11 +535,16 @@
     <!-- }}}
          {{{ determiners! -->
 
+    <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="nt"/></r></p></e>
+    <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
+    <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
     <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
     <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
     <e><p><l>se<s n="det"/></l><r>der<s n="det"/><s n="def"/><s n="nt"/></r></p></e>
     <e><p><l>se<s n="det"/></l><r>der<s n="det"/><s n="def"/><s n="mfn"/></r></p></e>
     <e><p><l>se<s n="det"/></l><r>der<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
+    <e><p><l>se<s n="det"/></l><r>der<s n="det"/><s n="def"/><s n="f"/></r></p></e>
+    <e><p><l>se<s n="det"/></l><r>der<s n="det"/><s n="def"/><s n="m"/></r></p></e>
     
 
 
@@ -526,6 +573,9 @@
     <e><p><l>historiallinen<s n="adj"/></l><r>historische<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>antelias<s n="adj"/></l><r>großzügig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>keskeinen<s n="adj"/></l><r>zentral<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ensimmäinen<s n="adj"/></l><r>erste<s n="adj"/></r></p></e>
+    <e><p><l>myöhä<s n="adj"/></l><r>spät<s n="adj"/></r></p></e>
+    <e><p><l>paljo<s n="adj"/></l><r>viel<s n="adj"/></r></p></e>
 
     <!-- }}}
          {{{ adpositions -->
@@ -553,6 +603,7 @@
     <e r="RL"><p><l/><r>auf<s n="pr"/></r></p></e>
     <e r="RL"><p><l/><r>nack<s n="pr"/></r></p></e>
     <e r="RL"><p><l/><r>von<s n="pr"/></r></p></e>
+    <e r="RL"><p><l/><r>für<s n="pr"/></r></p></e>
 
     <!-- }}}
          {{{ clits -->
@@ -577,6 +628,18 @@
     <e><p><l>Koiranen<s n="np"/><s n="ant"/></l><r>Koiranen<s n="np"/></r></p></e>
     <e><p><l>Marin<s n="np"/><s n="ant"/></l><r>Marin<s n="np"/></r></p></e>
     <e><p><l>Marilla<s n="np"/><s n="ant"/><s n="f"/></l><r>Marilla<s n="np"/></r></p></e>
+    <e><p><l>Ted<s n="np"/></l><r>Ted<s n="np"/></r></p></e>
+    <e><p><l>Robin<s n="np"/></l><r>Robin<s n="np"/></r></p></e>
+    <e><p><l>Marshall<s n="np"/></l><r>Marshall<s n="np"/></r></p></e>
+    <e><p><l>Lily<s n="np"/></l><r>Lily<s n="np"/></r></p></e>
+    <e><p><l>Neil<s n="np"/></l><r>Neil<s n="np"/></r></p></e>
+    <e><p><l>Patrick<s n="np"/></l><r>Patrick<s n="np"/></r></p></e>
+    <e><p><l>Harris<s n="np"/></l><r>Harris<s n="np"/></r></p></e>
+    <e><p><l>Tracy<s n="np"/></l><r>Tracy<s n="np"/></r></p></e>
+    <e><p><l>Victoria<s n="np"/></l><r>Victoria<s n="np"/></r></p></e>
+    <e><p><l>Marvin<s n="np"/></l><r>Marvin<s n="np"/></r></p></e>
+    <e><p><l>Stella<s n="np"/></l><r>Stella<s n="np"/></r></p></e>
+    <e><p><l>Don<s n="np"/></l><r>Don<s n="np"/></r></p></e>
 
     <!-- }}}
          {{{ interjections -->
@@ -587,6 +650,11 @@
     <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="ij"/></r></p></e>
 
     <!-- }}}
+         {{{ ito -->
+
+    <e r="RL"><p><l/><r>zu<s n="ito"/></r></p></e>
+
+    <!-- }}}
          {{{ puncts -->
 
     <e><p><l>.<s n="punct"/></l><r>.<s n="sent"/></r></p></e>
@@ -594,7 +662,11 @@
     <e><p><l>!<s n="punct"/></l><r>!<s n="sent"/></r></p></e>
     <e><p><l>,<s n="punct"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="punct"/></l><r>"<s n="lquot"/></r></p></e>
+    <e><p><l>”<s n="punct"/></l><r>“<s n="rquot"/></r></p></e>
     <e><p><l>:<s n="punct"/></l><r>:<s n="sent"/></r></p></e>
+    <e><p><l>)<s n="punct"/></l><r>)<s n="rpar"/></r></p></e>
+    <e><p><l>-<s n="punct"/></l><r>-<s n="guio"/></r></p></e>
+    <e><p><l>–<s n="punct"/></l><r>–<s n="guio"/></r></p></e>
 
   </section>
 </dictionary>
