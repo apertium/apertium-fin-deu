@@ -74,6 +74,7 @@
 
     </pipeline>
   </mode>
+
   <mode name="fin-deu-dgen" install="no">
     <pipeline>
       <program name="hfst-proc">
@@ -309,6 +310,38 @@
         <file name="deu-fin.autogen.hfst"/>
       </program>
 
+    </pipeline>
+  </mode>
+
+  <mode name="deu-fin-debug" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="deu-fin.automorf-untrimmed.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w1n">
+        <file name="deu-fin.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="deu-fin.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-fin-deu.deu-fin.t1x"/>
+        <file name="deu-fin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-fin-deu.deu-fin.t2x"/>
+        <file name="deu-fin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-fin-deu.deu-fin.t3x"/>
+        <file name="deu-fin.t3x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="deu-fin.autogen.hfst"/>
+      </program>
     </pipeline>
   </mode>
 
