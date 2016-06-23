@@ -236,7 +236,8 @@
           <chunk name="NP" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="N"/></tag>
-            </tags>
+          </tags>
+          <!-- usually no dets...
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
@@ -244,6 +245,7 @@
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
             <b pos="1"/>
+           -->
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
@@ -352,7 +354,8 @@
         <out>
           <chunk name="AdpP" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="Adp"/></tag>
+                <tag><lit-tag v="Adp"/></tag>
+                <tag><clip pos="1" side="sl" part="a_cas"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
