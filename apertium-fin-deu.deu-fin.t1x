@@ -7,14 +7,17 @@
     </def-cat>
     <def-cat n="prnpers">
       <cat-item tags="prn.pers.*"/>
-  </def-cat>
-  <def-cat n="nominal">
-        <cat-item tags="n.*"/>
-        <cat-item tags="np.*"/>
-        <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="nominal">
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="perfection">
+      <cat-item tags="vblex.*.pp"/>
     </def-cat>
     <def-cat n="haver">
-        <cat-item tags="vbhaver.*"/>
+      <cat-item tags="vbhaver.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -63,6 +66,7 @@
       <attr-item tags="vaux"/>
     </def-attr>
     <def-attr n="a_tense">
+      <attr-item tags="prs"/>
       <attr-item tags="pri"/>
       <attr-item tags="pii"/>
       <attr-item tags="past"/>
@@ -88,6 +92,9 @@
     <def-attr n="a_number">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_perf">
+      <attr-item tags="pp"/>
     </def-attr>
     <def-attr n="a_pers">
       <attr-item tags="p1.sg"/>
@@ -126,6 +133,14 @@
             <clip pos="1" side="tl" part="a_tense"/><lit-tag v="past"/>
           </let>
         </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="prs"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/>
+          </let>
+        </when>
         <!-- otherwise, same tense -->
       </choose>
     </def-macro>
@@ -161,6 +176,43 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="perfect verbs: re-order, and re-perfect">
+      <pattern>
+        <pattern-item n="perfection"/>
+        <pattern-item n="haver"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="PERF"/></tag>
+            </tags>
+            <lu>
+              <lit v="olla"/>     <!-- haben -> olla -->
+              <lit-tag v="vaux"/> <!-- vbhaver -> vaux -->
+              <lit-tag v="actv"/> <!-- 0 -> actv -->
+              <clip pos="2" side="tl" part="a_tense"/>
+              <clip pos="2" side="tl" part="a_pers"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- gehen -> tehdä -->
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/> <!-- 0 -> actv -->
+              <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
+              <clip pos="2" side="tl" part="a_number"/> <!-- sg from mainv -> sg -->
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="verbs: add activ passif, change past tags">
       <pattern>
         <pattern-item n="verb"/>
