@@ -96,8 +96,6 @@
 
       <!-- {{{ nouns -->
 
-    
-
     <e c="language"><p><l>mari<s n="n"/></l><r>Mari<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aikalainen<s n="n"/></l><r>Zeitgenosse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aika<s n="n"/></l><r>Zeit<s n="n"/><s n="f"/></r></p></e>
@@ -486,7 +484,9 @@
     <e><p><l>ääni<s n="n"/></l><r>Laut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ääni<s n="n"/></l><r>Stimme<s n="n"/><s n="f"/></r></p></e>
 
-    <!-- uncategorised genders -->
+    <!-- }}}
+         {{{ uncategorised genders 
+      -->
 
     <e c="US?"><p><l>osavaltio<s n="n"/></l><r>US-Bundesstaat<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>affekti<s n="n"/></l><r>Affekt<s n="n"/></r></p><par n="anyg"/></e>
@@ -788,12 +788,181 @@
     <e><p><l>merkitys<s n="n"/></l><r>Bezeichnung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kaupunki<s n="n"/></l><r>Burg<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>instituutti<s n="n"/></l><r>Institut<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kirkko<s n="n"/></l><r>Kirche<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>prosentti<s n="n"/></l><r>Prozent<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kilometri<s n="n"/></l><r>Kilometer<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kunta<s n="n"/></l><r>Landkreis<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>joukkue<s n="n"/></l><r>Mannschaft<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lähiympäristö<s n="n"/></l><r>Nähe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>seuraaja<s n="n"/></l><r>Nachfolger<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>väestö<s n="n"/></l><r>Bevölkerung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tarkoitus<s n="n"/></l><r>Bedeutung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>johtaja<s n="n"/></l><r>Vorsitzender<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>pelaaja<s n="n"/></l><r>Spieler<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>käyttö<s n="n"/></l><r>Einsatz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kehitys<s n="n"/></l><r>Entwicklung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tiimi<s n="n"/></l><r>Team<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>luostari<s n="n"/></l><r>Kloster<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ryhmä<s n="n"/></l><r>Truppe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>poliitikko<s n="n"/></l><r>Politiker<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>museo<s n="n"/></l><r>Museum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>rivi<s n="n"/></l><r>Reihe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kohde<s n="n"/></l><r>Ziel<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>graafi<s n="n"/></l><r>Graf<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kuva<s n="n"/></l><r>Bild<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>teema<s n="n"/></l><r>Thema<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>käyttäjä<s n="n"/></l><r>Benutzer<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>työntekijä<s n="n"/></l><r>Mitarbeiter<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>euro<s n="n"/></l><r>Euro<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kanttoni<s n="n"/></l><r>Kanton<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maakunta<s n="n"/></l><r>County<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lahtaus<s n="n"/></l><r>Schlacht<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>aisti<s n="n"/></l><r>Sinn<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>reitti<s n="n"/></l><r>Strecke<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>yhteiskunta<s n="n"/></l><r>Gesellschaft<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>hallitus<s n="n"/></l><r>Regierung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>piispa<s n="n"/></l><r>Bischof<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>luku<s n="n"/></l><r>Anzahl<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>edustaja<s n="n"/></l><r>Vertreter<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>esitelmä<s n="n"/></l><r>Vortrag<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>fokus<s n="n"/></l><r>Fokus<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>hologrammi<s n="n"/></l><r>Hologramm<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>teknologia<s n="n"/></l><r>Technologie<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>universumi<s n="n"/></l><r>Universum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tutkimus<s n="n"/></l><r>Forschung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kieli<s n="n"/></l><r>Sprache<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tietosanakirja<s n="n"/></l><r>Enzyklopädie<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>vaihto<s n="n"/></l><r>Wechsel<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>haku<s n="n"/></l><r>Suche<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>scifi<s n="n"/></l><r>Science-Fiction<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>franchise<s n="n"/></l><r>Franchise<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>geeni<s n="n"/></l><r>Gen<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>avaruusalus<s n="n"/></l><r>Raumschiff<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>pilotti<s n="n"/></l><r>Pilotfilm<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>pilotti<s n="n"/></l><r>Pilot<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kansa<s n="n"/></l><r>Volk<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sarjakuva<s n="n"/></l><r>Comic<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>elokuvateatterifilmi<s n="n"/></l><r>Kinofilm<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kaanon<s n="n"/></l><r>Kanon<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lähihistoria<s n="n"/></l><r>Kurzgeschichte<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>romaani<s n="n"/></l><r>Roman<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>universumi<s n="n"/></l><r>Universum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tv<s n="n"/></l><r>Fernsehen<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kontakti<s n="n"/></l><r>Kontakt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>generaatio<s n="n"/></l><r>Generation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>avaruusasema<s n="n"/></l><r>Raumstation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sivilisaatio<s n="n"/></l><r>Zivilisation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>konfrontaatio<s n="n"/></l><r>Konfrontaatio<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maa<s n="n"/></l><r>Erde<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>planeetta<s n="n"/></l><r>Planet<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>linnunrata<s n="n"/></l><r>Milchstraße<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>visio<s n="n"/></l><r>Vision<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tehtävä<s n="n"/></l><r>Mission<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>periaate<s n="n"/></l><r>Prinzip<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>etiikka<s n="n"/></l><r>Ethik<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>etikka<s n="n"/></l><r>Essig<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>satanen<s n="n"/></l><r>Hundert<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>objekti<s n="n"/></l><r>Objekt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>laiva<s n="n"/></l><r>Schiff<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lento<s n="n"/></l><r>Flug<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kärpänen<s n="n"/></l><r>Fliege<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kulttuuri<s n="n"/></l><r>Kultur<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ulkoavaruus<s n="n"/></l><r>Weltraum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>komento<s n="n"/></l><r>Kommando<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kommando<s n="n"/></l><r>Kommando<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>prototyyppi<s n="n"/></l><r>Prototyp<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>laji<s n="n"/></l><r>Spezies<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>direktiivi<s n="n"/></l><r>Direktive<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kielto<s n="n"/></l><r>Verbot<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>nimi<s n="n"/></l><r>Namen<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>aurinkojärjestelmä<s n="n"/></l><r>Sonnensystem<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>yli-ihminen<s n="n"/></l><r>Übermensch<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>karkotus<s n="n"/></l><r>Exil<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>räjähdys<s n="n"/></l><r>Explosion<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>annostus<s n="n"/></l><r>Dosis<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ruumis<s n="n"/></l><r>Körper<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>keskusta<s n="n"/></l><r>Zentrum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>puolikas<s n="n"/></l><r>Hälfte<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>muunnos<s n="n"/></l><r>Modifikation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lippulaiva<s n="n"/></l><r>Flagschiff<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>alfa<s n="n"/></l><r>Alpha<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>beeta<s n="n"/></l><r>Beta<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>gamma<s n="n"/></l><r>Gamma<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>delta<s n="n"/></l><r>Delta<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>asukas<s n="n"/></l><r>Bewohner<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kotimatka<s n="n"/></l><r>Heimreise<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>suunta<s n="n"/></l><r>Richtung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ilmakehä<s n="n"/></l><r>Atmosphäre<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sitaatti<s n="n"/></l><r>Zitat<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>fyysikko<s n="n"/></l><r>Physiker<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>julkaisu<s n="n"/></l><r>Publikation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>fiktio<s n="n"/></l><r>Fiktion<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>alakulttuuri<s n="n"/></l><r>Subkultur<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>klubi<s n="n"/></l><r>Club<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sukkula<s n="n"/></l><r>Shuttle<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>internet<s n="n"/></l><r>Internet<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>pääosanesittäjä<s n="n"/></l><r>Hauptdarsteller<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>konkurrenssi<s n="n"/></l><r>Konkurrenz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>foorumi<s n="n"/></l><r>Forum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>rakenne<s n="n"/></l><r>Struktur<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>aspekti<s n="n"/></l><r>Aspekt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>t-paita<s n="n"/></l><r>T-Shirt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>telefooni<s n="n"/></l><r>Telefon<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>posteri<s n="n"/></l><r>Poster<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>fakta<s n="n"/></l><r>Fakt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>adaptaatio<s n="n"/></l><r>Adaption<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>buumi<s n="n"/></l><r>Boom<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lehti<s n="n"/></l><r>Magazin<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>live<s n="n"/></l><r>Live<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>näkemys<s n="n"/></l><r>Konzeption<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>faniklubi<s n="n"/></l><r>Fanclub<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>fiktio<s n="n"/></l><r>Fiction<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ilmiö<s n="n"/></l><r>Phänomen<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>jakku<s n="n"/></l><r>Jacke<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kassi<s n="n"/></l><r>Tasse<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maski<s n="n"/></l><r>Maske<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>televisio<s n="n"/></l><r>Television<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>näyttely<s n="n"/></l><r>Darstellung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sanakirja<s n="n"/></l><r>Wörterbuch<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>PC<s n="n"/></l><r>PC<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>romaani<s n="n"/></l><r>Romane<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>video<s n="n"/></l><r>Video<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>titaani<s n="n"/></l><r>Titan<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>seikkailu<s n="n"/></l><r>Abenteuer<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kadetti<s n="n"/></l><r>Kadett<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>serveri<s n="n"/></l><r>Server<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>alusta<s n="n"/></l><r>Plattform<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lisenssi<s n="n"/></l><r>Lizenz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>lataus<s n="n"/></l><r>Download<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ego<s n="n"/></l><r>Ego<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>perspektiivi<s n="n"/></l><r>Perspektive<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>menestys<s n="n"/></l><r>Erfolg<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>efekti<s n="n"/></l><r>Effekten<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>koko<s n="n"/></l><r>Größe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ohjelma<s n="n"/></l><r>Programm<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>todellisuus<s n="n"/></l><r>Realität<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sisältö<s n="n"/></l><r>Inhalt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ip-osoite<s n="n"/></l><r>IP-Adresse<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>juhla<s n="n"/></l><r>Jubiläum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>editio<s n="n"/></l><r>Edition<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>meikki<s n="n"/></l><r>Make-up<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>miljardi<s n="n"/></l><r>Milliarde<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>poika<s n="n"/></l><r>Junge<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kriitikko<s n="n"/></l><r>Kritiker<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>analyysi<s n="n"/></l><r>Analyse<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>federaatio<s n="n"/></l><r>Föderation<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>avaruus<s n="n"/></l><r>Raum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tiede<s n="n"/></l><r>Wissenschaft<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tiedemies<s n="n"/></l><r>Wissenschaftler<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>keksintö<s n="n"/></l><r>Erfindung<s n="n"/></r></p><par n="anyg"/></e>
 
     <e r="RL" c="old orth"><p><l>syy<s n="n"/></l><r>Anlaß<s n="n"/></r></p><par n="anyg"/></e>
 
     <e c="SI unit"><p><l>newton<s n="n"/></l><r>Newton<s n="n"/></r></p><par n="anyg"/></e>
 
-    <!-- lower broken stuff -->
+    <!-- }}}
+         {{{ lower broken stuff 
+      -->
 
     <e><p><l>aikalainen<s n="n"/></l><r>zukünftiger<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>finaali<s n="n"/></l><r>finale<s n="n"/></r></p><par n="anyg"/></e>
@@ -824,6 +993,9 @@
     <e><p><l>nimi<s n="n"/></l><r>name<s n="n"/><s n="m"/></r></p></e>
 
 
+    <!-- }}}
+         {{{ noun abbreviations
+    -->
     <e><p><l>tammik.<s n="n"/><s n="abbr"/></l><r>Jan.<s n="abbr"/></r></p></e>
     <e><p><l>helmik.<s n="n"/><s n="abbr"/></l><r>Feb.<s n="abbr"/></r></p></e>
     <e><p><l>huhtik.<s n="n"/><s n="abbr"/></l><r>Apr.<s n="abbr"/></r></p></e>
@@ -1531,6 +1703,15 @@
     <e><p><l>ymmärtää<s n="vblex"/></l><r>verstehen<s n="vblex"/></r></p></e>
     <e><p><l>yrittää<s n="vblex"/></l><r>versuchen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
+    <e><p><l>johtaa<s n="vblex"/></l><r>leiten<s n="vblex"/></r></p></e>
+    <e><p><l>työskennellä<s n="vblex"/></l><r>wirken<s n="vblex"/></r></p></e>
+    <e><p><l>tarjota<s n="vblex"/></l><r>bieten<s n="vblex"/></r></p></e>
+    <e><p><l>nousta<s n="vblex"/></l><r>steigen<s n="vblex"/></r></p></e>
+    <e><p><l>startata<s n="vblex"/></l><r>starten<s n="vblex"/></r></p></e>
+    <e><p><l>nimittää<s n="vblex"/></l><r>ernennen<s n="vblex"/></r></p></e>
+    <e><p><l>saavuttaa<s n="vblex"/></l><r>reichen<s n="vblex"/></r></p></e>
+    <e><p><l>saavuttaa<s n="vblex"/></l><r>erzielen<s n="vblex"/></r></p></e>
+    <e><p><l>tietää<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
 
     <!-- light verbs -->
 
@@ -1696,6 +1877,7 @@
     <e><p><l>jokainen<s n="prn"/></l><r>jede<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
     <e><p><l>joka<s n="prn"/></l><r>jede<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
     <e><p><l>jokin<s n="prn"/></l><r>etwas<s n="prn"/></r></p></e>
+    <e><p><l>joku<s n="prn"/></l><r>jemand<s n="prn"/></r></p></e>
     <e><p><l>joku<s n="prn"/></l><r>wer<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>kaikki<s n="prn"/></l><r>alle<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
     <e><p><l>kaikki<s n="prn"/></l><r>alle<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
@@ -1746,7 +1928,7 @@
 
     <!-- }}}
          {{{ adjectives -->
-    
+
     <e><p><l>aamuinen<s n="adj"/></l><r>morgendlich<s n="adj"/></r></p></e>
     <e><p><l>ahdistunut<s n="adj"/></l><r>angst<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>bisherig<s n="adj"/></r></p></e>
@@ -1967,6 +2149,56 @@
     <e><p><l>ystävystynyt<s n="adj"/></l><r>befreundet<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>extrem<s n="adj"/></r></p></e>
 
+    <e><p><l>aiempi<s n="adj"/></l><r>ehemalig<s n="adj"/></r></p></e>
+    <e><p><l>erilainen<s n="adj"/></l><r>verschieden<s n="adj"/></r></p></e>
+    <e><p><l>ranskalainen<s n="adj"/></l><r>französisch<s n="adj"/></r></p></e>
+    <e><p><l>nykyinen<s n="adj"/></l><r>heutig<s n="adj"/></r></p></e>
+    <e><p><l>tämänpäiväinen<s n="adj"/></l><r>heutig<s n="adj"/></r></p></e>
+    <e><p><l>kansainvälinen<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
+    <e><p><l>poliittinen<s n="adj"/></l><r>politisch<s n="adj"/></r></p></e>
+    <e><p><l>pohjoinen<s n="adj"/></l><r>nördlich<s n="adj"/></r></p></e>
+    <e><p><l>britannialainen<s n="adj"/></l><r>britisch<s n="adj"/></r></p></e>
+    <e><p><l>historiallinen<s n="adj"/></l><r>historisch<s n="adj"/></r></p></e>
+    <e><p><l>itäinen<s n="adj"/></l><r>östlich<s n="adj"/></r></p></e>
+    <e><p><l>eteläinen<s n="adj"/></l><r>südlich<s n="adj"/></r></p></e>
+    <e><p><l>ainoa<s n="adj"/></l><r>einzige<s n="adj"/></r></p></e>
+    <e><p><l>ainoa<s n="adj"/></l><r>einzig<s n="adj"/></r></p></e>
+    <e><p><l>katolinen<s n="adj"/></l><r>katholisch<s n="adj"/></r></p></e>
+    <e><p><l>läntinen<s n="adj"/></l><r>west<s n="adj"/></r></p></e>
+    <e><p><l>läntinen<s n="adj"/></l><r>westlich<s n="adj"/></r></p></e>
+    <e><p><l>todellinen<s n="adj"/></l><r>aktuell<s n="adj"/></r></p></e>
+    <e><p><l>juutalainen<s n="adj"/></l><r>jüdisch<s n="adj"/></r></p></e>
+    <e><p><l>julkinen<s n="adj"/></l><r>öffentlich<s n="adj"/></r></p></e>
+    <e><p><l>itävaltalainen<s n="adj"/></l><r>österreichisch<s n="adj"/></r></p></e>
+    <e><p><l>silloinen<s n="adj"/></l><r>damalig<s n="adj"/></r></p></e>
+    <e><p><l>yleinen<s n="adj"/></l><r>häufig<s n="adj"/></r></p></e>
+    <e><p><l>ylimääräinen<s n="adj"/></l><r>zusätzlich<s n="adj"/></r></p></e>
+    <e><p><l>tieteellinen<s n="adj"/></l><r>wissenschaftlich<s n="adj"/></r></p></e>
+    <e><p><l>taloudellinen<s n="adj"/></l><r>wirtschaftlich<s n="adj"/></r></p></e>
+    <e><p><l>italialainen<s n="adj"/></l><r>italienisch<s n="adj"/></r></p></e>
+    <e><p><l>venäläinen<s n="adj"/></l><r>russisch<s n="adj"/></r></p></e>
+    <e><p><l>eurooppalainen<s n="adj"/></l><r>europäisch<s n="adj"/></r></p></e>
+    <e><p><l>olympialainen<s n="adj"/></l><r>olympisch<s n="adj"/></r></p></e>
+    <e><p><l>kokonainen<s n="adj"/></l><r>vollständig<s n="adj"/></r></p></e>
+    <e><p><l>täysivaltainen<s n="adj"/></l><r>vollständig<s n="adj"/></r></p></e>
+    <e><p><l>yleinen<s n="adj"/></l><r>allgemein<s n="adj"/></r></p></e>
+    <e><p><l>oikea<s n="adj"/></l><r>recht<s n="adj"/></r></p></e>
+    <e><p><l>tunnettu<s n="adj"/></l><r>belegt<s n="adj"/></r></p></e>
+    <e><p><l>matala<s n="adj"/></l><r>gering<s n="adj"/></r></p></e>
+    <e><p><l>tekninen<s n="adj"/></l><r>technisch<s n="adj"/></r></p></e>
+    <e><p><l>roomalainen<s n="adj"/></l><r>römisch<s n="adj"/></r></p></e>
+    <e><p><l>puolalainen<s n="adj"/></l><r>polnisch<s n="adj"/></r></p></e>
+    <e><p><l>espanjalainen<s n="adj"/></l><r>spanisch<s n="adj"/></r></p></e>
+    <e><p><l>relevantti<s n="adj"/></l><r>relevant<s n="adj"/></r></p></e>
+    <e><p><l>vapaa<s n="adj"/></l><r>frei<s n="adj"/></r></p></e>
+    <e><p><l>vakava<s n="adj"/></l><r>ernst<s n="adj"/></r></p></e>
+    <e><p><l>yksityinen<s n="adj"/></l><r>privat<s n="adj"/></r></p></e>
+    <e><p><l>avoin<s n="adj"/></l><r>offen<s n="adj"/></r></p></e>
+    <e><p><l>olemassaoleva<s n="adj"/></l><r>vorhanden<s n="adj"/></r></p></e>
+    <e><p><l>huoneinen<s n="adj"/></l><r>raum<s n="adj"/></r></p></e>
+    <e><p><l>maailmanlaajuinen<s n="adj"/></l><r>weltweit<s n="adj"/></r></p></e>
+    <e><p><l>vastaava<s n="adj"/></l><r>jeweilig<s n="adj"/></r></p></e>
+    <e><p><l>virallinen<s n="adj"/></l><r>offiziell<s n="adj"/></r></p></e>
 
 
     <!-- }}}
@@ -2081,58 +2313,94 @@
     <e><p><l>kymmenen<s n="num"/></l><r>zehn<s n="num"/></r></p></e>
     <e><p><l>yksitoista<s n="num"/></l><r>elf<s n="num"/></r></p></e>
     <e><p><l>kaksitoista<s n="num"/></l><r>zwölf<s n="num"/></r></p></e>
+    <e><p><l>sata<s n="num"/></l><r>einhundert<s n="num"/></r></p></e>
+    <e><p><l>sata<s n="num"/></l><r>hundert<s n="num"/></r></p></e>
+    <e><p><l>tuhat<s n="num"/></l><r>eintausend<s n="num"/></r></p></e>
+    <e><p><l>tuhat<s n="num"/></l><r>tausend<s n="num"/></r></p></e>
 
     <!-- digit loops -->
 
     <e><re>[0-9][0-9 ,.:]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
+    <!-- romans -->
+
+    <e><re>[XVILMC][XVILMC]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+
     <!-- odd digit exprs -->
 
     <e><p><l>4:3<s n="n"/></l><r>4:3<s n="num"/></r></p></e>
     <e><p><l>16:9<s n="n"/></l><r>16:9<s n="num"/></r></p></e>
-    
+
     <!-- }}}
          {{{ props -->
-    
+
+    <e><p><l>Alberta<s n="np"/></l><r>Alberta<s n="np"/></r></p></e>
     <e><p><l>Aldrin<s n="np"/></l><r>Aldrin<s n="np"/></r></p></e>
+    <e><p><l>Alexander<s n="np"/></l><r>Alexander<s n="np"/></r></p></e>
+    <e><p><l>Alex<s n="np"/></l><r>Alex<s n="np"/></r></p></e>
     <e><p><l>Alfred<s n="np"/></l><r>Alfred<s n="np"/></r></p></e>
     <e><p><l>Amanda<s n="np"/></l><r>Amanda<s n="np"/></r></p></e>
     <e><p><l>Amy<s n="np"/></l><r>Amy<s n="np"/></r></p></e>
     <e><p><l>Argentiina<s n="np"/></l><r>Argentinien<s n="np"/></r></p></e>
     <e><p><l>Ashley<s n="np"/></l><r>Ashley<s n="np"/></r></p></e>
     <e><p><l>Barker<s n="np"/></l><r>Barker<s n="np"/></r></p></e>
+    <e><p><l>Bennett<s n="np"/></l><r>Bennett<s n="np"/></r></p></e>
     <e><p><l>Benson<s n="np"/></l><r>Benson<s n="np"/></r></p></e>
+    <e><p><l>Berliini<s n="np"/></l><r>Berlin<s n="np"/></r></p></e>
     <e><p><l>Bob<s n="np"/></l><r>Bob<s n="np"/></r></p></e>
     <e><p><l>Brad<s n="np"/></l><r>Brad<s n="np"/></r></p></e>
     <e><p><l>Brady<s n="np"/></l><r>Brady<s n="np"/></r></p></e>
     <e><p><l>Britney<s n="np"/></l><r>Britney<s n="np"/></r></p></e>
     <e><p><l>Bryan<s n="np"/></l><r>Bryan<s n="np"/></r></p></e>
+    <e><p><l>Carl<s n="np"/></l><r>Carl<s n="np"/></r></p></e>
     <e><p><l>Carter<s n="np"/></l><r>Carter<s n="np"/></r></p></e>
     <e><p><l>Charles<s n="np"/></l><r>Charles<s n="np"/></r></p></e>
+    <e><p><l>Charlie<s n="np"/></l><r>Charlie<s n="np"/></r></p></e>
+    <e><p><l>Charlie<s n="np"/></l><r>Charlie<s n="np"/></r></p></e>
     <e><p><l>Chicago<s n="np"/></l><r>Chicago<s n="np"/></r></p></e>
     <e><p><l>Chris<s n="np"/></l><r>Chris<s n="np"/></r></p></e>
+    <e><p><l>Christian<s n="np"/></l><r>Christian<s n="np"/></r></p></e>
     <e><p><l>Claudia<s n="np"/></l><r>Claudia<s n="np"/></r></p></e>
     <e><p><l>Cleveland<s n="np"/></l><r>Cleveland<s n="np"/></r></p></e>
     <e><p><l>Clinton<s n="np"/></l><r>Clinton<s n="np"/></r></p></e>
     <e><p><l>Clint<s n="np"/></l><r>Clint<s n="np"/></r></p></e>
     <e><p><l>Craig<s n="np"/></l><r>Craig<s n="np"/></r></p></e>
     <e><p><l>Daisy<s n="np"/></l><r>Daisy<s n="np"/></r></p></e>
+    <e><p><l>Dan<s n="np"/></l><r>Dan<s n="np"/></r></p></e>
+    <e><p><l>Dave<s n="np"/></l><r>Dave<s n="np"/></r></p></e>
     <e><p><l>David<s n="np"/></l><r>David<s n="np"/></r></p></e>
+    <e><p><l>Denise<s n="np"/></l><r>Denise<s n="np"/></r></p></e>
+    <e><p><l>Denise<s n="np"/></l><r>Denise<s n="np"/></r></p></e>
+    <e><p><l>Diane<s n="np"/></l><r>Diane<s n="np"/></r></p></e>
+    <e><p><l>Diane<s n="np"/></l><r>Diane<s n="np"/></r></p></e>
     <e><p><l>Don<s n="np"/></l><r>Don<s n="np"/></r></p></e>
+    <e><p><l>Dortmund<s n="np"/></l><r>Dortmund<s n="np"/></r></p></e>
+    <e><p><l>Duane<s n="np"/></l><r>Duane<s n="np"/></r></p></e>
     <e><p><l>Ellie<s n="np"/></l><r>Ellie<s n="np"/></r></p></e>
     <e><p><l>Eric<s n="np"/></l><r>Eric<s n="np"/></r></p></e>
+    <e><p><l>Eugene<s n="np"/></l><r>Eugene<s n="np"/></r></p></e>
     <e><p><l>Evelyn<s n="np"/></l><r>Evelyn<s n="np"/></r></p></e>
     <e><p><l>Franklin<s n="np"/></l><r>Franklin<s n="np"/></r></p></e>
     <e><p><l>Frank<s n="np"/></l><r>Frank<s n="np"/></r></p></e>
+    <e><p><l>Franz<s n="np"/></l><r>Franz<s n="np"/></r></p></e>
+    <e><p><l>Friedman<s n="np"/></l><r>Friedman<s n="np"/></r></p></e>
+    <e><p><l>Friedrich<s n="np"/></l><r>Friedrich<s n="np"/></r></p></e>
+    <e><p><l>Fuller<s n="np"/></l><r>Fuller<s n="np"/></r></p></e>
+    <e><p><l>Genesis<s n="np"/></l><r>Genesis<s n="np"/></r></p></e>
     <e><p><l>George<s n="np"/></l><r>George<s n="np"/></r></p></e>
+    <e><p><l>Georg<s n="np"/></l><r>Georg<s n="np"/></r></p></e>
     <e><p><l>Gordon<s n="np"/></l><r>Gordon<s n="np"/></r></p></e>
     <e><p><l>Green<s n="np"/></l><r>Green<s n="np"/></r></p></e>
     <e><p><l>Greta<s n="n"/></l><r>Greta<s n="np"/></r></p></e>
+    <e><p><l>Grey<s n="np"/></l><r>Grey<s n="np"/></r></p></e>
     <e><p><l>Hale<s n="np"/></l><r>Hale<s n="np"/></r></p></e>
+    <e><p><l>Hans<s n="np"/></l><r>Hans<s n="np"/></r></p></e>
     <e><p><l>Harris<s n="np"/></l><r>Harris<s n="np"/></r></p></e>
     <e><p><l>Harry<s n="np"/></l><r>Harry<s n="np"/></r></p></e>
     <e><p><l>Heather<s n="np"/></l><r>Heather<s n="np"/></r></p></e>
     <e><p><l>Heidi<s n="np"/></l><r>Heidi<s n="np"/></r></p></e>
+    <e><p><l>Heinrich<s n="np"/></l><r>Heinrich<s n="np"/></r></p></e>
+    <e><p><l>Hermann<s n="np"/></l><r>Hermann<s n="np"/></r></p></e>
     <e><p><l>Hudson<s n="np"/></l><r>Hudson<s n="np"/></r></p></e>
     <e><p><l>Island<s n="np"/></l><r>Island<s n="np"/></r></p></e>
     <e><p><l>Italia<s n="np"/></l><r>Italien<s n="np"/></r></p></e>
@@ -2143,32 +2411,46 @@
     <e><p><l>Jan<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/></r></p></e>
     <e><p><l>Japani<s n="np"/></l><r>Japan<s n="np"/></r></p></e>
     <e><p><l>Jason<s n="np"/></l><r>Jason<s n="np"/></r></p></e>
+    <e><p><l>Jean-Luc<s n="np"/></l><r>Jean-Luc<s n="np"/></r></p></e>
+    <e><p><l>Jean-Luc<s n="np"/></l><r>Jean-Luc<s n="np"/></r></p></e>
+    <e><p><l>Jean<s n="np"/></l><r>Jean<s n="np"/></r></p></e>
     <e><p><l>Jennifer<s n="np"/></l><r>Jennifer<s n="np"/></r></p></e>
     <e><p><l>Jeremy<s n="np"/></l><r>Jeremy<s n="np"/></r></p></e>
     <e><p><l>Jersey<s n="np"/></l><r>Jersey<s n="np"/></r></p></e>
     <e><p><l>Jim<s n="np"/></l><r>Jim<s n="np"/></r></p></e>
     <e><p><l>Joe<s n="np"/></l><r>Joe<s n="np"/></r></p></e>
+    <e><p><l>Johanne<s n="np"/></l><r>Johanne<s n="np"/></r></p></e>
+    <e><p><l>Johann<s n="np"/></l><r>Johann<s n="np"/></r></p></e>
     <e><p><l>John<s n="np"/></l><r>John<s n="np"/></r></p></e>
+    <e><p><l>Jonathan<s n="np"/></l><r>Jonathan<s n="np"/></r></p></e>
+    <e><p><l>Jonathan<s n="np"/></l><r>Jonathan<s n="np"/></r></p></e>
     <e><p><l>Jones<s n="np"/></l><r>Jones<s n="np"/></r></p></e>
+    <e><p><l>Joseph<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
     <e><p><l>Josh<s n="np"/></l><r>Josh<s n="np"/></r></p></e>
     <e><p><l>Judy<s n="np"/></l><r>Judy<s n="np"/></r></p></e>
+    <e><p><l>Justin<s n="np"/></l><r>Justin<s n="np"/></r></p></e>
     <e><p><l>Kanada<s n="np"/></l><r>Kanada<s n="np"/></r></p></e>
+    <e><p><l>Karl<s n="np"/></l><r>Karl<s n="np"/></r></p></e>
     <e><p><l>Katie<s n="np"/></l><r>Katie<s n="np"/></r></p></e>
+    <e><p><l>Keith<s n="np"/></l><r>Keith<s n="np"/></r></p></e>
     <e><p><l>Keskuspuisto<s n="np"/></l><r>Central<b/>Park<s n="np"/></r></p></e>
     <e><p><l>Kevin<s n="np"/></l><r>Kevin<s n="np"/></r></p></e>
     <e><p><l>Klaus<s n="np"/></l><r>Klaus<s n="np"/></r></p></e>
     <e><p><l>Koiranen<s n="np"/><s n="ant"/></l><r>Koiranen<s n="np"/></r></p></e>
     <e><p><l>Kyle<s n="np"/></l><r>Kyle<s n="np"/></r></p></e>
+    <e><p><l>Lawrence<s n="np"/></l><r>Lawrence<s n="np"/></r></p></e>
     <e><p><l>Lennon<s n="np"/></l><r>Lennon<s n="np"/></r></p></e>
     <e><p><l>Lilly<s n="np"/></l><r>Lilly<s n="np"/></r></p></e>
     <e><p><l>Lily<s n="np"/></l><r>Lily<s n="np"/></r></p></e>
     <e><p><l>Lima<s n="np"/></l><r>Lima<s n="np"/></r></p></e>
     <e><p><l>Lindsay<s n="np"/></l><r>Lindsay<s n="np"/></r></p></e>
+    <e><p><l>Lin<s n="np"/></l><r>Lin<s n="np"/></r></p></e>
     <e><p><l>Long<s n="np"/></l><r>Long<s n="np"/></r></p></e>
     <e><p><l>Lopez<s n="np"/></l><r>Lopez<s n="np"/></r></p></e>
     <e><p><l>Los<b/>Angeles<s n="np"/></l><r>Los<b/>Angeles<s n="np"/></r></p></e>
     <e><p><l>Lucy<s n="np"/></l><r>Lucy<s n="np"/></r></p></e>
     <e><p><l>Mandy<s n="np"/></l><r>Mandy<s n="np"/></r></p></e>
+    <e><p><l>Manfred<s n="np"/></l><r>Manfred<s n="np"/></r></p></e>
     <e><p><l>Marcus<s n="np"/></l><r>Marcus<s n="np"/></r></p></e>
     <e><p><l>Maria<s n="np"/><s n="ant"/><s n="f"/></l><r>Maria<s n="np"/></r></p></e>
     <e><p><l>Marilla<s n="np"/><s n="ant"/><s n="f"/></l><r>Marilla<s n="np"/></r></p></e>
@@ -2178,30 +2460,50 @@
     <e><p><l>Martin<s n="np"/></l><r>Martin<s n="np"/></r></p></e>
     <e><p><l>Marvin<s n="np"/></l><r>Marvin<s n="np"/></r></p></e>
     <e><p><l>May<s n="np"/></l><r>May<s n="np"/></r></p></e>
+    <e><p><l>McCormack<s n="np"/></l><r>McCormack<s n="np"/></r></p></e>
     <e><p><l>Meg<s n="np"/></l><r>Meg<s n="np"/></r></p></e>
     <e><p><l>Melinda<s n="np"/></l><r>Melinda<s n="np"/></r></p></e>
+    <e><p><l>Michael<s n="np"/></l><r>Michael<s n="np"/></r></p></e>
     <e><p><l>Mike<s n="np"/></l><r>Mike<s n="np"/></r></p></e>
     <e><p><l>Morrison<s n="np"/></l><r>Morrison<s n="np"/></r></p></e>
     <e><p><l>München<s n="np"/></l><r>München<s n="np"/></r></p></e>
     <e><p><l>Neil<s n="np"/></l><r>Neil<s n="np"/></r></p></e>
     <e><p><l>New<b/>York<s n="np"/></l><r>New<b/>York<s n="np"/></r></p></e>
+    <e><p><l>Nichols<s n="np"/></l><r>Nichols<s n="np"/></r></p></e>
+    <e><p><l>Nichols<s n="np"/></l><r>Nichols<s n="np"/></r></p></e>
     <e><p><l>Nick<s n="np"/></l><r>Nick<s n="np"/></r></p></e>
     <e><p><l>Nicole<s n="np"/></l><r>Nicole<s n="np"/></r></p></e>
     <e><p><l>Nora<s n="np"/></l><r>Nora<s n="np"/></r></p></e>
+    <e><p><l>Oscar<s n="np"/></l><r>Oscar<s n="np"/></r></p></e>
+    <e><p><l>Oscar<s n="np"/></l><r>Oscar<s n="np"/></r></p></e>
+    <e><p><l>Oscar<s n="np"/></l><r>Oscar<s n="np"/></r></p></e>
+    <e><p><l>Oscar<s n="np"/></l><r>Oscar<s n="np"/></r></p></e>
+    <e><p><l>Oscar<s n="np"/></l><r>Oscar<s n="np"/></r></p></e>
+    <e><p><l>Otto<s n="np"/></l><r>Otto<s n="np"/></r></p></e>
     <e><p><l>Pamela<s n="np"/></l><r>Pamela<s n="np"/></r></p></e>
+    <e><p><l>Paris<s n="np"/></l><r>Paris<s n="np"/></r></p></e>
     <e><p><l>Patrick<s n="np"/></l><r>Patrick<s n="np"/></r></p></e>
+    <e><p><l>Paul<s n="np"/></l><r>Paul<s n="np"/></r></p></e>
     <e><p><l>Perry<s n="np"/></l><r>Perry<s n="np"/></r></p></e>
+    <e><p><l>Peter<s n="np"/></l><r>Peter<s n="np"/></r></p></e>
     <e><p><l>Philipp<s n="np"/></l><r>Philipp<s n="np"/></r></p></e>
     <e><p><l>Rachel<s n="np"/></l><r>Rachel<s n="np"/></r></p></e>
     <e><p><l>Ralph<s n="np"/></l><r>Ralph<s n="np"/></r></p></e>
+    <e><p><l>Ranska<s n="np"/></l><r>Frankreich<s n="np"/></r></p></e>
+    <e><p><l>Richard<s n="np"/></l><r>Richard<s n="np"/></r></p></e>
+    <e><p><l>Robert<s n="np"/></l><r>Robert<s n="np"/></r></p></e>
     <e><p><l>Robin<s n="np"/></l><r>Robin<s n="np"/></r></p></e>
     <e><p><l>Rom<s n="np"/></l><r>Rom<s n="np"/></r></p></e>
+    <e><p><l>Rossi<s n="np"/></l><r>Rossi<s n="np"/></r></p></e>
     <e><p><l>Ryan<s n="n"/></l><r>Ryan<s n="np"/></r></p></e>
     <e><p><l>Saksa<s n="np"/></l><r>Deutschland<s n="np"/></r></p></e>
     <e><p><l>Sally<s n="np"/></l><r>Sally<s n="np"/></r></p></e>
     <e><p><l>San<b/>Francisco<s n="np"/></l><r>San<b/>Francisco<s n="np"/></r></p></e>
     <e><p><l>Sarah<s n="np"/></l><r>Sarah<s n="np"/></r></p></e>
     <e><p><l>Scott<s n="np"/></l><r>Scott<s n="np"/></r></p></e>
+    <e><p><l>Scotty<s n="np"/></l><r>Scotty<s n="np"/></r></p></e>
+    <e><p><l>Scotty<s n="np"/></l><r>Scotty<s n="np"/></r></p></e>
+    <e><p><l>Scotty<s n="np"/></l><r>Scotty<s n="np"/></r></p></e>
     <e><p><l>Seth<s n="np"/></l><r>Seth<s n="np"/></r></p></e>
     <e><p><l>Smith<s n="np"/></l><r>Smith<s n="np"/></r></p></e>
     <e><p><l>Spears<s n="np"/></l><r>Spears<s n="np"/></r></p></e>
@@ -2209,6 +2511,7 @@
     <e><p><l>Stuart<s n="np"/></l><r>Stuart<s n="np"/></r></p></e>
     <e><p><l>Suomi<s n="np"/></l><r>Finnland<s n="np"/></r></p></e>
     <e><p><l>Sveitsi<s n="np"/></l><r>Schweiz<s n="np"/></r></p></e>
+    <e><p><l>Sydney<s n="np"/></l><r>Sydney<s n="np"/></r></p></e>
     <e><p><l>Ted<s n="n"/></l><r>Ted<s n="np"/></r></p></e>
     <e><p><l>Theodore<s n="np"/></l><r>Theodore<s n="np"/></r></p></e>
     <e><p><l>Thomas<s n="np"/></l><r>Thomas<s n="np"/></r></p></e>
@@ -2220,8 +2523,13 @@
     <e><p><l>US<s n="np"/></l><r>US<s n="np"/></r></p></e>
     <e><p><l>Victoria<s n="np"/></l><r>Victoria<s n="np"/></r></p></e>
     <e><p><l>Virginia<s n="np"/></l><r>Virginia<s n="np"/></r></p></e>
+    <e><p><l>Walter<s n="np"/></l><r>Walter<s n="np"/></r></p></e>
+    <e><p><l>Walter<s n="np"/></l><r>Walter<s n="np"/></r></p></e>
     <e><p><l>Washington<s n="np"/></l><r>Washington<s n="np"/></r></p></e>
     <e><p><l>Wayne<s n="np"/></l><r>Wayne<s n="np"/></r></p></e>
+    <e><p><l>Westeuropa<s n="np"/></l><r>Westeuropa<s n="np"/></r></p></e>
+    <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/></r></p></e>
+    <e><p><l>Wilhelm<s n="np"/></l><r>Wilhelm<s n="np"/></r></p></e>
     <e><p><l>William<s n="np"/></l><r>William<s n="np"/></r></p></e>
     <e><p><l>Yhdysvallat<s n="np"/></l><r>Vereinigte<b/>Staaten<s n="np"/></r></p></e>
     <e><p><l>Yhdysvallat<s n="np"/></l><r>Vereinigten<b/>Staaten<s n="np"/></r></p></e>
@@ -2247,6 +2555,7 @@
     <e><p><l>!<s n="punct"/></l><r>!<s n="sent"/></r></p></e>
     <e><p><l>,<s n="punct"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="punct"/></l><r>"<s n="lquot"/></r></p></e>
+    <e><p><l>'<s n="punct"/></l><r>'<s n="apos"/></r></p></e>
     <e><p><l>”<s n="punct"/></l><r>“<s n="rquot"/></r></p></e>
     <e><p><l>”<s n="punct"/></l><r>„<s n="lquot"/></r></p></e>
     <e><p><l>’<s n="punct"/></l><r>’<s n="apos"/></r></p></e>
@@ -2261,6 +2570,9 @@
     <e><p><l>-<s n="punct"/></l><r>-<s n="guio"/></r></p></e>
     <e><p><l>–<s n="punct"/></l><r>–<s n="guio"/></r></p></e>
 
+    <!--
+         }}}
+    -->
   </section>
 </dictionary>
 <!-- vim: set foldmethod=marker: -->
