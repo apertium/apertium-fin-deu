@@ -23,6 +23,9 @@
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vblex.ger.*"/>
+      <cat-item tags="vaux.inf"/>
+      <cat-item tags="vbser.inf"/>
+      <cat-item tags="vbhaver.inf"/>
     </def-cat>
     <def-cat n="perfection">
       <cat-item tags="vblex.*.pp"/>
@@ -288,6 +291,42 @@
 
   <section-rules>
 
+    <rule comment="nouns haver: adessive structurise!">
+      <pattern>
+        <pattern-item n="nominal"/>
+        <pattern-item n="haver"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+      </call-macro>
+      <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+      </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="ade"/>
+          </lu>
+          <b/>
+          <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <clip pos="2" side="tl" part="a_tense"/>
+              <clip pos="2" side="tl" part="a_pers"/>
+          </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="perfect verbs: re-order, and re-perfect">
       <pattern>
         <pattern-item n="perfection"/>
@@ -361,7 +400,7 @@
         </out>
       </action>
     </rule>
-    
+
     <rule comment="neg verbs: to neg conneg">
       <pattern>
         <pattern-item n="verbnegation"/>
@@ -472,41 +511,6 @@
               <clip pos="1" side="tl" part="a_tense"/>
               <clip pos="1" side="tl" part="a_pers"/>
             </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="nouns haver: adessive structurise!">
-      <pattern>
-        <pattern-item n="nominal"/>
-        <pattern-item n="haver"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-      </call-macro>
-      <call-macro n="tensemood-mangler">
-          <with-param pos="2"/>
-      </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="N"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <lit-tag v="ade"/>
-          </lu>
-          <b/>
-          <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <lit-tag v="actv"/>
-              <clip pos="2" side="tl" part="a_tense"/>
-              <clip pos="2" side="tl" part="a_pers"/>
-          </lu>
           </chunk>
         </out>
       </action>
@@ -666,7 +670,7 @@
         </out>
       </action>
     </rule>
-    
+
     <!-- {{{ single word units last resorts -->
     <rule comment="adjs: add case">
       <pattern>
