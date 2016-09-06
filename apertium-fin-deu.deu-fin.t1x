@@ -430,7 +430,276 @@
         </out>
       </action>
     </rule>
+    <rule comment="dets nouns: case mangle">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+          </tags>
+          <!-- usually no dets...
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+            <b pos="1"/>
+           -->
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="prn pers: case mangle and drop mfs">
+      <pattern>
+        <pattern-item n="prnpers"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="PRNP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PRN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adp nominal: drop case move case">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><clip pos="1" side="sl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <clip pos="2" side="tl" part="a_number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="numeral nouns: partitive or stuff">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="MeasureP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="CountP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <lit-tag v="card.sg.nom"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <lit-tag v="sg.par"/> <!-- either agree or sg.par -->
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adp numeral: add case and number">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NumP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NumP"/></tag>
+                <tag><clip pos="1" side="sl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_num"/>
+              <lit-tag v="card.sg"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
+    <!-- {{{ single word units last resorts -->
+    <rule comment="nouns: case mangle">
+      <pattern>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adjs: add case">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="AP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <lit-tag v="pos.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="prns: case mangle">
+      <pattern>
+        <pattern-item n="prn"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="PrnP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PRN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="nums: add case, drop pl to sg">
+      <pattern>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="AP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <lit-tag v="card.sg.nom"/> <!-- deu nums are unnecessarily pl too -->
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adps: drop case">
+      <pattern>
+        <pattern-item n="adp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="AdpP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="Adp"/></tag>
+                <tag><clip pos="1" side="sl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="stranded dets: usually go home">
+      <pattern>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="DetP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Det"/></tag>
+          </tags>
+          <!-- usually no dets...
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+            <b pos="1"/>
+           -->
+          <b/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="lost perfect verbs: re-perfect">
       <pattern>
         <pattern-item n="perfection"/>
@@ -511,250 +780,6 @@
               <clip pos="1" side="tl" part="a_tense"/>
               <clip pos="1" side="tl" part="a_pers"/>
             </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="dets nouns: case mangle">
-      <pattern>
-        <pattern-item n="det"/>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="2"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="N"/></tag>
-          </tags>
-          <!-- usually no dets...
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-            <b pos="1"/>
-           -->
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="prns: case mangle">
-      <pattern>
-        <pattern-item n="prn"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="PrnP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="PRN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_prn"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="nouns: case mangle">
-      <pattern>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="N"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="prn pers: case mangle and drop mfs">
-      <pattern>
-        <pattern-item n="prnpers"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="PRNP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="PRN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_prn"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="adp nominal: drop case move case">
-      <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="nominal"/>
-      </pattern>
-      <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="NP"/></tag>
-                <tag><clip pos="1" side="sl" part="a_case"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
-              <var n="adpcase"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="adp numeral: add case and number">
-      <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="num"/>
-      </pattern>
-      <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="NumP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="NumP"/></tag>
-                <tag><clip pos="1" side="sl" part="a_case"/></tag>
-            </tags>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_num"/>
-              <lit-tag v="card.sg"/>
-              <var n="adpcase"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <!-- {{{ single word units last resorts -->
-    <rule comment="adjs: add case">
-      <pattern>
-        <pattern-item n="adj"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="AP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="A"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="pos.sg.nom"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="nums: add case, drop pl to sg">
-      <pattern>
-        <pattern-item n="num"/>
-      </pattern>
-      <action>
-        <call-macro n="case-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <out>
-          <chunk name="AP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="A"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <lit-tag v="card.sg.nom"/> <!-- deu nums are unnecessarily pl too -->
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="adps: drop case">
-      <pattern>
-        <pattern-item n="adp"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="AdpP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="Adp"/></tag>
-                <tag><clip pos="1" side="sl" part="a_case"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_adp"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="stranded dets: usually go home">
-      <pattern>
-        <pattern-item n="det"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="DetP" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="Det"/></tag>
-          </tags>
-          <!-- usually no dets...
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
-            </lu>
-            <b pos="1"/>
-           -->
-          <b/>
           </chunk>
         </out>
       </action>
