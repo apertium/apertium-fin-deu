@@ -20,6 +20,10 @@
       <cat-item lemma="nicht" tags="adv"/>
       <cat-item lemma="kein" tags="adv"/>
     </def-cat>
+    <def-cat n="werden">
+      <cat-item lemma="werden" tags="vaux.*"/>
+      <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: not aux? -->
+    </def-cat>
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vblex.ger.*"/>
@@ -29,6 +33,7 @@
     </def-cat>
     <def-cat n="perfection">
       <cat-item tags="vblex.*.pp"/>
+      <cat-item tags="vblex.pp"/>
     </def-cat>
     <def-cat n="haver">
       <cat-item tags="vbhaver.*"/>
@@ -362,6 +367,35 @@
       </action>
     </rule>
 
+    <rule comment="pp werden: passive construction, kill aux and passivise">
+      <pattern>
+        <pattern-item n="perfection"/>
+        <pattern-item n="werden"/>
+      </pattern>
+      <action>
+        <call-macro n="infinite-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="AUX"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- gehen -> tehdä -->
+              <clip pos="1" side="tl" part="a_verb"/> <!-- vblex -->
+              <lit-tag v="pasv"/> <!-- 0 -> pasv -->
+              <clip pos="2" side="tl" part="a_tense"/> <!-- pri -->
+              <lit-tag v="impers"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="aux verbs: re-order, and distribute">
       <pattern>
         <pattern-item n="infinite"/>
@@ -700,7 +734,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="lost perfect verbs: re-perfect">
+    <rule comment="lost perfect verbs: maybe predicative adj">
       <pattern>
         <pattern-item n="perfection"/>
       </pattern>
@@ -715,19 +749,11 @@
               <tag><lit-tag v="PERF"/></tag>
             </tags>
             <lu>
-              <lit v="olla"/>     <!-- haben -> olla -->
-              <lit-tag v="vaux"/> <!-- vbhaver -> vaux -->
-              <lit-tag v="actv"/> <!-- 0 -> actv -->
-              <clip pos="1" side="tl" part="a_tense"/>
-              <clip pos="1" side="tl" part="a_pers"/>
-            </lu>
-            <b/>
-            <lu>
               <clip pos="1" side="tl" part="lem"/> <!-- gehen -> tehdä -->
-              <clip pos="1" side="tl" part="a_verb"/>
-              <lit-tag v="actv"/> <!-- 0 -> actv -->
+              <clip pos="1" side="tl" part="a_verb"/> <!-- vblex -->
+              <lit-tag v="pasv"/> <!-- 0 -> pasv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
-              <clip pos="1" side="tl" part="a_number"/> <!-- sg -> sg -->
+              <lit-tag v="sg"/> <!-- if no other information -->
             </lu>
           </chunk>
         </out>
