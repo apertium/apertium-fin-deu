@@ -78,6 +78,7 @@
     <sdef n="iobj"  c="question clitic"/>
 
     <sdef n="ant"   c="-- antropomorphic"/>
+    <sdef n="top"   c="-- topological"/>
 
     <sdef n="ine" c="inessive" />
     <sdef n="nom" c="nominative" />
@@ -4208,7 +4209,7 @@
     <e><p><l>libyalainen<s n="adj"/></l><r>libysch<s n="adj"/></r></p></e>
     <e><p><l>liiallinen<s n="adj"/></l><r>exzessiv<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>verbunden<s n="adj"/></r></p></e>
-    <e><p><l>liki<s n="adj"/></l><r>nah<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>läheinen<s n="adj"/></l><r>nah<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lingvistinen<s n="adj"/></l><r>sprachlich<s n="adj"/></r></p></e>
     <e><p><l>logistinen<s n="adj"/></l><r>logistisch<s n="adj"/></r></p></e>
     <e><p><l>loistava<s n="adj"/></l><r>ausgezeichnet<s n="adj"/></r></p></e>

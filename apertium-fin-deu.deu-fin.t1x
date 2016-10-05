@@ -119,6 +119,7 @@
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
+      <attr-item tags="np.top"/>
       <attr-item tags="np"/>
     </def-attr>
     <def-attr n="a_nominal">
@@ -127,6 +128,7 @@
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
+      <attr-item tags="np.top"/>
       <attr-item tags="np"/>
     </def-attr>
     <def-attr n="a_prn">
