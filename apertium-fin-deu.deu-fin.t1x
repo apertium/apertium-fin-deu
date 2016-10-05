@@ -22,7 +22,7 @@
     </def-cat>
     <def-cat n="werden">
       <cat-item lemma="werden" tags="vaux.*"/>
-      <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: not aux? -->
+      <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: also not aux? -->
     </def-cat>
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
@@ -44,9 +44,16 @@
     <def-cat n="adp">
       <cat-item tags="post.*"/>
       <cat-item tags="pr.*"/>
+      <cat-item tags="post"/>
+      <cat-item tags="pr"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="cardinal">
+      <cat-item tags="num"/>
+      <cat-item tags="num.card"/>
+      <cat-item tags="num.card.*"/>
     </def-cat>
     <def-cat n="num">
       <cat-item tags="num.*"/>
@@ -57,6 +64,7 @@
       <cat-item tags="vbser.*"/>
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vaux.*"/>
+      <cat-item tags="vbhaver.*"/>
     </def-cat>
     <def-cat n="auxiliary">
       <cat-item tags="vbmod.*"/>
@@ -106,6 +114,7 @@
     </def-attr>
     <def-attr n="a_noun">
       <attr-item tags="n"/>
+      <attr-item tags="n.acr"/>
       <attr-item tags="det"/>
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
@@ -113,6 +122,7 @@
       <attr-item tags="np"/>
     </def-attr>
     <def-attr n="a_nominal">
+      <attr-item tags="n.acr"/>
       <attr-item tags="n"/>
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
@@ -137,10 +147,11 @@
       <attr-item tags="p2.pl"/>
       <attr-item tags="p3.pl"/>
     </def-attr>
-
+    <def-attr n="a_numtype">
+      <attr-item tags="card"/>
+      <attr-item tags="ord"/>
+    </def-attr>
     <def-attr n="a_num">
-      <attr-item tags="num.card"/>
-      <attr-item tags="num.ord"/>
       <attr-item tags="num"/>
     </def-attr>
     <def-attr n="a_inf">
@@ -155,15 +166,42 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="case"/>
+    <def-var n="tense"/>
     <def-var n="adpcase"/>
+    <def-var n="numtype"/>
   </section-def-vars>
 
   <section-def-macros>
     <def-macro n="test" npar="1">
+      <let>
+        <var n="number"/>
+        <lit v=""/>
+      </let>
+    </def-macro>
+    <def-macro n="numtype-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_numtype"/><lit-tag v="card"/></equal>
+          </test>
           <let>
-            <var n="number"/>
-            <lit v=""/>
+            <var n="numtype"/><lit-tag v="card"/>
           </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_numtype"/><lit-tag v="ord"/></equal>
+          </test>
+          <let>
+            <var n="numtype"/><lit-tag v="ord"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="numtype"/><lit-tag v="card"/>
+          </let>
+        </otherwise>
+      </choose>
     </def-macro>
     <def-macro n="tensemood-mangler" npar="1">
       <choose>
@@ -172,7 +210,7 @@
               <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
           </test>
           <let>
-            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="past"/>
+            <var n="tense"/><lit-tag v="past"/>
           </let>
         </when>
         <when>
@@ -180,7 +218,7 @@
               <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="prs"/></equal>
           </test>
           <let>
-            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/>
+            <var n="tense"/><lit-tag v="pri"/>
           </let>
         </when>
         <when>
@@ -188,10 +226,22 @@
               <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pis"/></equal>
           </test>
           <let>
-            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/>
+            <var n="tense"/><lit-tag v="pri"/>
           </let>
         </when>
-        <!-- otherwise, same tense -->
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="past"/></equal>
+          </test>
+          <let>
+            <var n="tense"/><lit-tag v="past"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="tense"/><lit-tag v="pri"/>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
     <def-macro n="case-mangler" npar="1">
@@ -255,7 +305,7 @@
             <var n="case"/><lit-tag v="ine"/>
           </let>
         </when>
-        <!-- otherwise, same tense -->
+        <!-- otherwise, same case -->
       </choose>
     </def-macro>
     <def-macro n="adp-mangler" npar="1">
@@ -263,6 +313,14 @@
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ine"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="bei"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
@@ -284,7 +342,15 @@
             <var n="adpcase"/><lit-tag v="ill"/>
           </let>
         </when>
-        <!-- otherwise, same tense -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="als"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ess"/>
+          </let>
+        </when>
+        <!-- otherwise, same adp case -->
         <otherwise>
           <let>
             <var n="adpcase"/><lit-tag v="nom"/>
@@ -296,6 +362,38 @@
 
   <section-rules>
 
+    <rule comment="adp det nouns: drop case, det, move case">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="det"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><clip pos="1" side="sl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nominal"/>
+              <clip pos="2" side="tl" part="a_number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="nouns haver: adessive structurise!">
       <pattern>
         <pattern-item n="nominal"/>
@@ -324,7 +422,7 @@
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
-              <clip pos="2" side="tl" part="a_tense"/>
+              <var n="tense"/>
               <clip pos="2" side="tl" part="a_pers"/>
           </lu>
           </chunk>
@@ -351,7 +449,7 @@
               <lit v="olla"/>     <!-- haben -> olla -->
               <lit-tag v="vaux"/> <!-- vbhaver -> vaux -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
-              <clip pos="2" side="tl" part="a_tense"/>
+              <var n="tense"/>
               <clip pos="2" side="tl" part="a_pers"/>
             </lu>
             <b/>
@@ -389,7 +487,7 @@
               <clip pos="1" side="tl" part="lem"/> <!-- gehen -> tehdä -->
               <clip pos="1" side="tl" part="a_verb"/> <!-- vblex -->
               <lit-tag v="pasv"/> <!-- 0 -> pasv -->
-              <clip pos="2" side="tl" part="a_tense"/> <!-- pri -->
+              <var n="tense"/> <!-- pri -->
               <lit-tag v="impers"/>
             </lu>
           </chunk>
@@ -418,7 +516,7 @@
               <clip pos="2" side="tl" part="lem"/>     <!-- mögen -> haluta -->
               <clip pos="2" side="tl" part="a_verb"/> <!-- vbmod/aux/... -> vaux -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
-              <clip pos="2" side="tl" part="a_tense"/> <!-- pis -->
+              <var n="tense"/> <!-- pis -->
               <clip pos="2" side="tl" part="a_pers"/> <!-- p3.sg -->
             </lu>
             <b/>
@@ -550,10 +648,13 @@
     </rule>
     <rule comment="numeral nouns: partitive or stuff">
       <pattern>
-        <pattern-item n="num"/>
+        <pattern-item n="cardinal"/>
         <pattern-item n="nominal"/>
       </pattern>
       <action>
+        <call-macro n="numtype-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="MeasureP" case="caseFirstWord">
             <tags>
@@ -583,6 +684,9 @@
         <call-macro n="adp-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NumP" case="caseFirstWord">
             <tags>
@@ -592,7 +696,8 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_num"/>
-              <lit-tag v="card.sg"/>
+              <var n="numtype"/>
+              <lit-tag v="sg"/>
               <var n="adpcase"/>
             </lu>
           </chunk>
@@ -674,18 +779,19 @@
         <pattern-item n="num"/>
       </pattern>
       <action>
-        <call-macro n="case-mangler">
+        <call-macro n="numtype-mangler">
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="AP" case="caseFirstWord">
+          <chunk name="NumP" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="A"/></tag>
+              <tag><lit-tag v="Num"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_num"/>
-              <lit-tag v="card.sg.nom"/> <!-- deu nums are unnecessarily pl too -->
+              <var n="numtype"/>
+              <lit-tag v="sg.nom"/> <!-- deu nums are unnecessarily pl too -->
             </lu>
           </chunk>
         </out>
@@ -803,7 +909,7 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
-              <clip pos="1" side="tl" part="a_tense"/>
+              <var n="tense"/>
               <clip pos="1" side="tl" part="a_pers"/>
             </lu>
           </chunk>
