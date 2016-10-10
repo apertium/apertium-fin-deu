@@ -24,6 +24,10 @@
       <cat-item lemma="werden" tags="vaux.*"/>
       <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: also not aux? -->
     </def-cat>
+    <def-cat n="als">
+      <cat-item lemma="als" tags="adv"/>
+      <cat-item lemma="als" tags="cnjadv"/> <!-- XXX: also not cnjadv? -->
+    </def-cat>
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vblex.ger.*"/>
@@ -121,6 +125,7 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np"/>
+      <attr-item tags="num.card"/>
     </def-attr>
     <def-attr n="a_nominal">
       <attr-item tags="n.acr"/>
@@ -130,6 +135,7 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np"/>
+      <attr-item tags="num.card"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
@@ -179,6 +185,31 @@
         <var n="number"/>
         <lit v=""/>
       </let>
+    </def-macro>
+    <def-macro n="number-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="pl"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="number"/><lit-tag v="sg"/>
+          </let>
+        </otherwise>
+      </choose>
     </def-macro>
     <def-macro n="numtype-mangler" npar="1">
       <choose>
@@ -460,6 +491,7 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
+              <lit-tag v="pos.nom"/>
               <clip pos="2" side="tl" part="a_number"/> <!-- sg from mainv -> sg -->
             </lu>
           </chunk>
@@ -467,6 +499,34 @@
       </action>
     </rule>
 
+    <rule comment="als noun: is essive">
+      <pattern>
+        <pattern-item n="als"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+              <tag><lit-tag v="ESS"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- Text -> teksti -->
+              <clip pos="2" side="tl" part="a_noun"/> <!-- n -->
+              <var n="number"/> <!-- pri -->
+              <lit-tag v="ess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="pp werden: passive construction, kill aux and passivise">
       <pattern>
         <pattern-item n="perfection"/>
@@ -739,6 +799,9 @@
         <call-macro n="case-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="AP" case="caseFirstWord">
             <tags>
@@ -747,18 +810,23 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="pos.sg.nom"/>
+              <lit-tag v="pos"/>
+              <var n="number"/>
+              <lit-tag v="nom"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
-    <rule comment="prns: case mangle">
+    <rule comment="prns: case mangle, determine number">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
       <action>
         <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
           <with-param pos="1"/>
         </call-macro>
         <out>
@@ -769,7 +837,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
-              <clip pos="1" side="tl" part="a_number"/>
+              <var n="number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -861,7 +929,7 @@
               <clip pos="1" side="tl" part="a_verb"/> <!-- vblex -->
               <lit-tag v="pasv"/> <!-- 0 -> pasv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
-              <lit-tag v="sg"/> <!-- if no other information -->
+              <lit-tag v="pos.nom.sg"/> <!-- if no other information -->
             </lu>
           </chunk>
         </out>
