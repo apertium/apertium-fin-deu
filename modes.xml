@@ -306,7 +306,7 @@
         <file name="apertium-fin-deu.deu-fin.t3x"/>
         <file name="deu-fin.t3x.bin"/>
       </program>
-      <program name="hfst-proc $1">
+      <program name="hfst-proc -N 1 $1">
         <file name="deu-fin.autogen.hfst"/>
       </program>
 
