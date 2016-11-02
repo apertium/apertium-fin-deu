@@ -353,10 +353,18 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="bei"/></equal>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="über"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="bei"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ade"/>
           </let>
         </when>
         <when>
