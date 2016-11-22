@@ -136,6 +136,8 @@
       <attr-item tags="np.top"/>
       <attr-item tags="np"/>
       <attr-item tags="num.card"/>
+      <attr-item tags="det"/>
+      <attr-item tags="prn"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
