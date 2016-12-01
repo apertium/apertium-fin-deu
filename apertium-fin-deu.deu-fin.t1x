@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
+
+  <!-- {{{ cats -->
   <section-def-cats>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
@@ -78,7 +80,8 @@
       <cat-item tags="sent"/>
     </def-cat>
   </section-def-cats>
-
+  <!-- }}}
+       {{{ attrs -->
   <section-def-attrs>
     <def-attr n="a_case">
       <attr-item tags="nom"/>
@@ -172,15 +175,18 @@
       <attr-item tags="ger"/>
     </def-attr>
   </section-def-attrs>
-
+  <!-- }}}
+       {{{ vars -->
   <section-def-vars>
+    <def-var n="pers"/>
     <def-var n="number"/>
     <def-var n="case"/>
     <def-var n="tense"/>
     <def-var n="adpcase"/>
     <def-var n="numtype"/>
   </section-def-vars>
-
+  <!-- }}}
+       {{{ macros -->
   <section-def-macros>
     <def-macro n="test" npar="1">
       <let>
@@ -275,6 +281,63 @@
         <otherwise>
           <let>
             <var n="tense"/><lit-tag v="pri"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="pers-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p1.sg"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p1.sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p2.sg"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p2.sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p3.sg"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p3.sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p1.pl"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p1.pl"/>
+          </let>
+        </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p2.pl"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p2.pl"/>
+          </let>
+        </when>
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_pers"/><lit-tag v="p3.pl"/></equal>
+          </test>
+          <let>
+            <var n="pers"/><lit-tag v="p3.pl"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="pers"/><lit-tag v="p3.sg"/>
           </let>
         </otherwise>
       </choose>
@@ -393,6 +456,14 @@
             <var n="adpcase"/><lit-tag v="ess"/>
           </let>
         </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="mit"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ade"/>
+          </let>
+        </when>
         <!-- otherwise, same adp case -->
         <otherwise>
           <let>
@@ -402,7 +473,8 @@
       </choose>
     </def-macro>
   </section-def-macros>
-
+  <!-- }}}
+       {{{ rules -->
   <section-rules>
 
     <rule comment="adp det nouns: drop case, det, move case">
@@ -437,6 +509,7 @@
         </out>
       </action>
     </rule>
+
     <rule comment="nouns haver: adessive structurise!">
       <pattern>
         <pattern-item n="nominal"/>
@@ -445,14 +518,18 @@
       <action>
         <call-macro n="case-mangler">
           <with-param pos="1"/>
-      </call-macro>
-      <call-macro n="tensemood-mangler">
+        </call-macro>
+        <call-macro n="tensemood-mangler">
           <with-param pos="2"/>
-      </call-macro>
+        </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="N"/></tag>
+              <tag><lit-tag v="ADE"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -466,7 +543,7 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
-              <clip pos="2" side="tl" part="a_pers"/>
+              <var n="pers"/>
           </lu>
           </chunk>
         </out>
@@ -566,7 +643,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="aux verbs: re-order, and distribute">
+    <rule comment="aux verbs: re-order, and distribute, persons">
       <pattern>
         <pattern-item n="infinite"/>
         <pattern-item n="auxiliary"/>
@@ -576,6 +653,9 @@
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="pers-mangler">
           <with-param pos="2"/>
         </call-macro>
         <out>
@@ -589,7 +669,7 @@
               <clip pos="2" side="tl" part="a_verb"/> <!-- vbmod/aux/... -> vaux -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <var n="tense"/> <!-- pis -->
-              <clip pos="2" side="tl" part="a_pers"/> <!-- p3.sg -->
+              <var n="pers"/> <!-- p3.sg -->
             </lu>
             <b/>
             <lu>
@@ -980,6 +1060,9 @@
         <call-macro n="tensemood-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -989,8 +1072,8 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
-              <var n="tense"/>
-              <clip pos="1" side="tl" part="a_pers"/>
+              <var n="tense"/> <!-- pri past -->
+              <var n="pers"/> <!-- p123.sgpl -->
             </lu>
           </chunk>
         </out>
@@ -1017,12 +1100,4 @@
   </section-rules>
 </transfer>
 
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Chunking:_A_full_example
-    http://wiki.apertium.org/wiki/Chunking
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
-    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
-    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
-
-vim: set foldmethod=marker: -->
+<!-- vim: set foldmethod=marker: -->
