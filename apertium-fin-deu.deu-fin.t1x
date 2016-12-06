@@ -115,6 +115,11 @@
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
     </def-attr>
+    <def-attr n="a_comp">
+      <attr-item tags="pos"/>
+      <attr-item tags="comp"/>
+      <attr-item tags="sup"/>
+    </def-attr>
     <def-attr n="a_adp">
       <attr-item tags="post"/>
       <attr-item tags="pr"/>
@@ -184,6 +189,7 @@
     <def-var n="tense"/>
     <def-var n="adpcase"/>
     <def-var n="numtype"/>
+    <def-var n="comparison"/>
   </section-def-vars>
   <!-- }}}
        {{{ macros -->
@@ -193,6 +199,31 @@
         <var n="number"/>
         <lit v=""/>
       </let>
+    </def-macro>
+    <def-macro n="comparison-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_comp"/><lit-tag v="comp"/></equal>
+          </test>
+          <let>
+            <var n="comparison"/><lit-tag v="comp"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_comp"/><lit-tag v="sup"/></equal>
+          </test>
+          <let>
+            <var n="comparison"/><lit-tag v="sup"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="comparison"/><lit-tag v="pos"/>
+          </let>
+        </otherwise>
+      </choose>
     </def-macro>
     <def-macro n="number-mangler" npar="1">
       <choose>
@@ -892,6 +923,9 @@
         <call-macro n="number-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="AP" case="caseFirstWord">
             <tags>
@@ -900,7 +934,8 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="pos"/>
+              <var n="comparison"/>
+              <!-- <lit-tag v="pos"/>-->
               <var n="number"/>
               <lit-tag v="nom"/>
             </lu>
