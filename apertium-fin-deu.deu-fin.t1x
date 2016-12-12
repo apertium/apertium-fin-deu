@@ -732,6 +732,41 @@
       </action>
     </rule>
 
+    <rule comment="verb negs: to neg conneg">
+      <pattern>
+        <pattern-item n="verb"/>
+        <pattern-item n="verbnegation"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="NEG"/></tag>
+            </tags>
+            <lu>
+              <lit v="ei"/>
+              <lit-tag v="vblex.neg.actv"/>
+              <var n="pers"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <var n="tense"/>
+              <lit-tag v="conneg"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="neg verbs: to neg conneg">
       <pattern>
         <pattern-item n="verbnegation"/>
@@ -1022,6 +1057,25 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="stray negs: just say no">
+      <pattern>
+        <pattern-item n="verbnegation"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="NEG"/></tag>
+            </tags>
+            <lu>
+              <lit v="ei"/>
+              <lit-tag v="vblex.neg.actv.p3.sg"/>
             </lu>
           </chunk>
         </out>
