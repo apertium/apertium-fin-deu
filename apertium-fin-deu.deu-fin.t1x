@@ -188,6 +188,7 @@
     <def-var n="case"/>
     <def-var n="tense"/>
     <def-var n="adpcase"/>
+    <def-var n="adpmaybe"/>
     <def-var n="numtype"/>
     <def-var n="comparison"/>
   </section-def-vars>
@@ -207,7 +208,7 @@
             <equal><clip pos="1" side="sl" part="a_comp"/><lit-tag v="comp"/></equal>
           </test>
           <let>
-            <var n="comparison"/><lit-tag v="comp"/>
+            <var n="comparison"/><lit-tag v="com"/>
           </let>
         </when>
         <when>
@@ -444,6 +445,9 @@
             <equal><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
           </test>
           <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+          <let>
             <var n="adpcase"/><lit-tag v="ine"/>
           </let>
         </when>
@@ -454,6 +458,9 @@
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
           </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
         </when>
         <when>
           <test>
@@ -462,13 +469,19 @@
           <let>
             <var n="adpcase"/><lit-tag v="abl"/>
           </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
         </when>
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="über"/></equal>
           </test>
           <let>
-            <var n="adpcase"/><lit-tag v="ine"/>
+            <var n="adpcase"/><lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
           </let>
         </when>
         <when>
@@ -478,6 +491,9 @@
           <let>
             <var n="adpcase"/><lit-tag v="ade"/>
           </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
         </when>
         <when>
           <test>
@@ -485,6 +501,9 @@
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
           </let>
         </when>
         <when>
@@ -494,6 +513,9 @@
           <let>
             <var n="adpcase"/><lit-tag v="ill"/>
           </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
         </when>
         <when>
           <test>
@@ -501,6 +523,9 @@
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ess"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
           </let>
         </when>
         <when>
@@ -510,11 +535,17 @@
           <let>
             <var n="adpcase"/><lit-tag v="ade"/>
           </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
         </when>
-        <!-- otherwise, same adp case -->
+        <!-- otherwise, clip adp and gen -->
         <otherwise>
           <let>
-            <var n="adpcase"/><lit-tag v="nom"/>
+            <var n="adpcase"/><lit-tag v="gen"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><clip pos="1" side="tl" part="whole"/>
           </let>
         </otherwise>
       </choose>
@@ -546,6 +577,10 @@
                 <tag><lit-tag v="NP"/></tag>
                 <tag><clip pos="1" side="sl" part="a_case"/></tag>
             </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_nominal"/>
@@ -871,6 +906,10 @@
                 <tag><clip pos="1" side="sl" part="a_case"/></tag>
             </tags>
             <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
               <clip pos="2" side="tl" part="a_number"/>
@@ -927,6 +966,10 @@
                 <tag><lit-tag v="NumP"/></tag>
                 <tag><clip pos="1" side="sl" part="a_case"/></tag>
             </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_num"/>
