@@ -3214,7 +3214,7 @@
     <e><p><l>lähtien<s n="adv"/></l><r>seitdem<s n="adv"/></r></p></e>
     <e><p><l>lähtien<s n="adv"/></l><r>seither<s n="adv"/></r></p></e>
     <e><p><l>läpikotaisin<s n="adv"/></l><r>durchweg<s n="adv"/></r></p></e>
-    <e><p><l>lävitse<s n="adv"/></l><r>dadurch<s n="adv"/></r></p></e>
+    <e><p><l>läpi<s n="adv"/></l><r>dadurch<s n="adv"/></r></p></e>
     <e><p><l>maailmanlaajuisesti<s n="adv"/></l><r>weltweit<s n="adv"/></r></p></e>
     <e><p><l>maanantaisin<s n="adv"/></l><r>montags<s n="adv"/></r></p></e>
     <e><p><l>maanlaajuisesti<s n="adv"/></l><r>landesweit<s n="adv"/></r></p></e>
@@ -3545,10 +3545,10 @@
         (the kind of adverb / intj / particle use is so rare that we ignore)
     -->
 
-    <e><p><l>edessä<s n="adv"/></l><r>vor<s n="pr"/></r></p></e>
-    <e><p><l>ja<s n="adv"/></l><r>und<s n="cnjcoo"/></r></p></e>
-    <e><p><l>kun<s n="adv"/></l><r>wann<s n="cnjadv"/></r></p></e>
-    <e><p><l>tai<s n="adv"/></l><r>oder<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>edessä<s n="adv"/></l><r>vor<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>ja<s n="adv"/></l><r>und<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>kun<s n="adv"/></l><r>wann<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>tai<s n="adv"/></l><r>oder<s n="cnjcoo"/></r></p></e>
 
     <!-- }}}
          {{{ verbs -->
@@ -4710,7 +4710,7 @@
     <e><p><l>osata<s n="vaux"/></l><r>können<s n="vbmod"/></r></p></e>
     <e><p><l>pitää<s n="vaux"/></l><r>freuen<s n="vblex"/></r></p></e>
     <e><p><l>pitää<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
-    <e><p><l>saada<s n="vaux"/></l><r>dürfen<s n="vbmod"/></r></p></e>
+    <e><p><l>voida<s n="vaux"/></l><r>dürfen<s n="vbmod"/></r></p></e>
     <e><p><l>täytyä<s n="vaux"/></l><r>müssen<s n="vbmod"/></r></p></e>
     <e><p><l>täytyä<s n="vaux"/></l><r>sollen<s n="vbmod"/></r></p></e>
     <e><p><l>voida<s n="vaux"/></l><r>können<s n="vbmod"/></r></p></e>
@@ -5960,13 +5960,11 @@
     <e><p><l>alapuolella<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>alla<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>avuksi<s n="post"/></l><r>zugunsten<s n="pr"/></r></p></e>
-    <e><p><l>edessä<s n="post"/></l><r>vor<s n="pr"/></r></p></e>
     <e><p><l>huolimatta<s n="post"/></l><r>trotz<s n="pr"/></r></p></e>
     <e><p><l>huolimatta<s n="post"/></l><r>ungeachtet<s n="pr"/></r></p></e>
     <e><p><l>ilman<s n="pr"/></l><r>mangels<s n="pr"/></r></p></e>
     <e><p><l>ilman<s n="pr"/></l><r>ohne<s n="pr"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>außerhalb<s n="pr"/></r></p></e>
-    <e><p><l>jälkeen<s n="post"/></l><r>nach<s n="pr"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>post<s n="pr"/></r></p></e>
     <e><p><l>kanssa<s n="post"/></l><r>mit<s n="pr"/></r></p></e>
     <e><p><l>kanssa<s n="post"/></l><r>zusammen<b/>mit<s n="pr"/></r></p></e>
@@ -5980,7 +5978,6 @@
     <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
     <e><p><l>lähellä<s n="post"/></l><r>nahe<s n="pr"/></r></p></e>
     <e><p><l>lähellä<s n="post"/></l><r>neben<s n="pr"/></r></p></e>
-    <e><p><l>läpi<s n="post"/></l><r>durch<s n="pr"/></r></p></e>
     <e><p><l>miinuksella<s n="post"/></l><r>minus<s n="pr"/></r></p></e>
     <e><p><l>mukaanlukien<s n="post"/></l><r>einschließlich<s n="pr"/></r></p></e>
     <e><p><l>mukaanlukien<s n="post"/></l><r>inklusive<s n="pr"/></r></p></e>
@@ -5998,7 +5995,6 @@
     <e><p><l>sisällä<s n="post"/></l><r>innerhalb<s n="pr"/></r></p></e>
     <e><p><l>sisäpuolella<s n="post"/></l><r>innerhalb<s n="pr"/></r></p></e>
     <e><p><l>sisään<s n="post"/></l><r>binnen<s n="pr"/></r></p></e>
-    <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/></r></p></e>
     <e><p><l>takana<s n="post"/></l><r>jenseits<s n="pr"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>infolge<s n="pr"/></r></p></e>
@@ -6018,7 +6014,8 @@
     <e><p><l>äärellä<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
     <e r="LR"><p><l>sisällä<s n="post"/></l><r>in<s n="pr"/></r></p></e>
 
-    <!-- german ppreps -->
+    <!-- }}}
+         {{{ german ppreps -->
 
     <e><p><l>mukaan<s n="post"/></l><r>zufolge<s n="pprep"/><s n="dat"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>wegen<s n="pprep"/></r></p></e>
@@ -6027,7 +6024,8 @@
     <e><p><l>mukaan<s n="post"/></l><r>entsprechend<s n="pprep"/></r></p></e>
     <e><p><l>vastaavasti<s n="adv"/></l><r>entsprechend<s n="pprep"/></r></p></e>
 
-    <!-- deutsche preadvs -->
+    <!-- }}}
+         {{{ deutsche preadvs -->
 
     <e><p><l>ennen<s n="post"/></l><r>bevor<s n="preadv"/></r></p></e>
     <e><p><l>kanssa<s n="post"/></l><r>damit<s n="preadv"/></r></p></e>
@@ -6037,12 +6035,17 @@
     <e><p><l>silloin<s n="adv"/></l><r>unterdessen<s n="preadv"/></r></p></e>
     <e><p><l>liiankin<s n="adv"/></l><r>allzu<s n="preadv"/></r></p></e>
 
-    <!-- datives translate to translative / illative -->
+    <!-- }}}
+         {{{ adpositions with cases (deu) -->
 
     <e><p><l>luokse<s n="post"/></l><r>zu<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>alle<s n="post"/></l><r>unter<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>päälle<s n="post"/></l><r>an<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>taakse<s n="post"/></l><r>hinter<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>jälkeen<s n="post"/></l><r>nach<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>eteen<s n="post"/></l><r>vor<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>lävitse<s n="post"/></l><r>durch<s n="pr"/><s n="acc"/></r></p></e>
 
     <!-- }}}
          {{{ cases -->

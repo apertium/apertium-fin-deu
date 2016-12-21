@@ -133,6 +133,9 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="np.org"/>
+      <attr-item tags="np.cog"/>
       <attr-item tags="num.card"/>
     </def-attr>
     <def-attr n="a_nominal">
@@ -899,6 +902,9 @@
         <call-macro n="adp-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
@@ -912,7 +918,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <var n="number"/>
               <var n="adpcase"/>
             </lu>
           </chunk>
