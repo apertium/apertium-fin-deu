@@ -644,6 +644,12 @@
         <call-macro n="tensemood-mangler">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -654,17 +660,17 @@
               <lit v="olla"/>     <!-- haben -> olla -->
               <lit-tag v="vaux"/> <!-- vbhaver -> vaux -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
-              <var n="tense"/>
-              <clip pos="2" side="tl" part="a_pers"/>
+              <var n="tense"/> <!-- pres/past -->
+              <var n="pers"/> <!-- p3 -->
             </lu>
             <b/>
             <lu>
               <clip pos="1" side="tl" part="lem"/> <!-- gehen -> tehdä -->
-              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_verb"/> <!-- vblex/vaux... -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
-              <lit-tag v="pos.nom"/>
-              <clip pos="2" side="tl" part="a_number"/> <!-- sg from mainv -> sg -->
+              <lit-tag v="pos.nom"/> <!-- extra junk -->
+              <var n="number"/>   <!-- sg/pl from main verb-->
             </lu>
           </chunk>
         </out>
@@ -692,7 +698,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/> <!-- Text -> teksti -->
               <clip pos="2" side="tl" part="a_noun"/> <!-- n -->
-              <var n="number"/> <!-- pri -->
+              <var n="number"/> <!-- pl/sg -->
               <lit-tag v="ess"/>
             </lu>
           </chunk>
