@@ -6,9 +6,9 @@ if ! test -f ${DAILYMAIL} ; then
 fi
 make
 if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
-    fgrep --colour=always '@' ; then
+    egrep -v '^#' | fgrep --colour=always '@' ; then
     if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
-        fgrep --colour=always '#' ; then
+        egrep -v '^#' | fgrep --colour=always '#' ; then
         apertium -d . deu-fin < ${DAILYMAIL}
     fi
 fi
