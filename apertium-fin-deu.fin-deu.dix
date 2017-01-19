@@ -72,6 +72,7 @@
     <sdef n="itg"  c="interrogative"/>
     <sdef n="qst"  c="question clitic"/>
     <sdef n="card"  c="question clitic"/>
+    <sdef n="nocard"  c="question clitic"/>
     <sdef n="ord"  c="question clitic"/>
     <sdef n="abbr"  c="question clitic"/>
     <sdef n="acr"  c="question clitic"/>
@@ -6424,12 +6425,15 @@
 
 
     <!-- any digit series, no mismatched thousand seps -->
-    <e><re>[0-9][0-9 ,:]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9][0-9 ,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <!-- any ordinal with final . -->
     <e><re>[0-9][0-9 ,]*[.]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
-    <!-- day with card on deu side -->
+    <!-- clock with card hacks -->
+    <e><re>[0-9]+:[0-9]+:?[0-9]*</re><p><l><s n="num"/><s n="nocard"/></l><r><s n="num"/></r></p></e>
+
+    <!-- day with card hacks -->
     <e><re>[0-9][0-9]?[.][0-9][0-9]?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9][0-9]?[.][0-9][0-9]?[.][0-9][0-9]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 

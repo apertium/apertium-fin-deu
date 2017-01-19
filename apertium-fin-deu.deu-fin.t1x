@@ -57,7 +57,6 @@
       <cat-item tags="det.*"/>
     </def-cat>
     <def-cat n="cardinal">
-      <cat-item tags="num"/>
       <cat-item tags="num.card"/>
       <cat-item tags="num.card.*"/>
     </def-cat>
@@ -170,6 +169,7 @@
     </def-attr>
     <def-attr n="a_numtype">
       <attr-item tags="card"/>
+      <attr-item tags="nocard"/>
       <attr-item tags="ord"/>
     </def-attr>
     <def-attr n="a_num">
@@ -270,6 +270,14 @@
           </test>
           <let>
             <var n="numtype"/><lit-tag v="ord"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_numtype"/><lit-tag v="nocard"/></equal>
+          </test>
+          <let>
+            <var n="numtype"/><lit v=""/>
           </let>
         </when>
         <otherwise>
