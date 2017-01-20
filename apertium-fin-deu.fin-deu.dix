@@ -137,7 +137,6 @@
     <e><p><l>ajaja<s n="n"/></l><r>Chauffeur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkoholi<s n="n"/></l><r>Alkohol<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alluusio<s n="n"/></l><r>Anspielung<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>amerikandollari<s n="n"/></l><r>US-Dollar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ammattikorkeakoulu<s n="n"/></l><r>Fachhochschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ammattikoulu<s n="n"/></l><r>Fachschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ammatti<s n="n"/></l><r>Beruf<s n="n"/><s n="m"/></r></p></e>
@@ -399,11 +398,11 @@
     <e><p><l>pöytä<s n="n"/></l><r>Tisch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakkaus<s n="n"/></l><r>Liebe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ramppi<s n="n"/></l><r>Rampe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>raportti<s n="n"/></l><r>Bericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rappu<s n="n"/></l><r>Treppe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raskaus<s n="n"/></l><r>Schwangerschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ravintola<s n="n"/></l><r>Restaurant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rekisteröity<b/>parisuhde<s n="n"/></l><r>Eingetragene<b/>Lebenspartnerschaft<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>raportti<s n="n"/></l><r>Bericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>resonanssi<s n="n"/></l><r>Resonanz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>riimi<s n="n"/></l><r>Reim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>Besetzung<s n="n"/><s n="f"/></r></p></e>
@@ -487,6 +486,7 @@
     <e><p><l>työtehtävä<s n="n"/></l><r>Auftrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tähti<s n="n"/></l><r>Star<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tähti<s n="n"/></l><r>Stern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>uutinen<s n="n"/></l><r>Nachricht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaate<s n="n"/></l><r>Kleidung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valmistuminen<s n="n"/></l><r>Abschluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaus<s n="n"/></l><r>Antwort<s n="n"/><s n="f"/></r></p></e>
@@ -497,11 +497,11 @@
     <e><p><l>verkko<s n="n"/></l><r>Netz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>versio<s n="n"/></l><r>Version<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vesi<s n="n"/></l><r>Wasser<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>uutinen<s n="n"/></l><r>Nachricht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vinkki<s n="n"/></l><r>Hinweis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voi<s n="n"/></l><r>Butter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Sieg<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuosi<s n="n"/></l><r>Jahr<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>yhdysvaltaindollari<s n="n"/></l><r>US-Dollar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yksityiskohta<s n="n"/></l><r>Detail<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yleiskatsaus<s n="n"/></l><r>Überblick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yleisö<s n="n"/></l><r>Publikum<s n="n"/><s n="nt"/></r></p></e>
@@ -6313,7 +6313,6 @@
     <e><p><l>per<s n="post"/></l><r>pro<s n="pr"/></r></p></e>
     <e><p><l>perusteella<s n="post"/></l><r>aufgrund<s n="pr"/></r></p></e>
     <e><p><l>pitkin<s n="post"/></l><r>entlang<s n="pr"/></r></p></e>
-    <e><p><l>saakka<s n="post"/></l><r>bis<b/>zu<s n="pr"/></r></p></e>
     <e><p><l>seurauksena<s n="post"/></l><r>kraft<s n="pr"/></r></p></e>
     <e><p><l>sijaan<s n="post"/></l><r>anstatt<s n="pr"/></r></p></e>
     <e><p><l>sijaan<s n="post"/></l><r>anstelle<s n="pr"/></r></p></e>
@@ -6364,22 +6363,23 @@
     <!-- }}}
           {{{ adpositions with cases (deu) -->
 
-    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="acc"/></r></p></e>
-    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
-    <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>lailla<s n="post"/></l><r>wie<s n="pr"/><s n="nom"/></r></p></e>
-    <e><p><l>mukaan<s n="post"/></l><r>laut<s n="pr"/><s n="gen"/></r></p></e>
-    <e><p><l>luokse<s n="post"/></l><r>zu<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>alle<s n="post"/></l><r>unter<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>päälle<s n="post"/></l><r>an<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>taakse<s n="post"/></l><r>hinter<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>jälkeen<s n="post"/></l><r>nach<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>eteen<s n="post"/></l><r>vor<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>jälkeen<s n="post"/></l><r>nach<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>lailla<s n="post"/></l><r>wie<s n="pr"/><s n="nom"/></r></p></e>
+    <e><p><l>luokse<s n="post"/></l><r>zu<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
+    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>lävitse<s n="post"/></l><r>durch<s n="pr"/><s n="acc"/></r></p></e>
-    <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>mukaan<s n="post"/></l><r>laut<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>päälle<s n="post"/></l><r>an<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>saakka<s n="post"/></l><r>bis<b/>zu<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>taakse<s n="post"/></l><r>hinter<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
 
     <!-- }}}
          {{{ cases -->
