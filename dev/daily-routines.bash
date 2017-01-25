@@ -10,5 +10,14 @@ if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
     if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
         egrep -v '^#' | fgrep --colour=always '#' ; then
         apertium -d . deu-fin < ${DAILYMAIL}
+    else
+        echo bidix miss candidates in apertium-fin:
+        apertium -d . deu-fin-debug < ${DAILYMAIL} |\
+            egrep -o '#[^<]*' |\
+            tr -d '#<' |\
+            sort |\
+            uniq |\
+            hfst-lookup -q fin-deu.automorf.hfst |\
+            fgrep '<'
     fi
 fi
