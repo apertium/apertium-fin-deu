@@ -1013,7 +1013,6 @@
     <e><p><l>isovanhempi<s n="n"/></l><r>Großelter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>istuin<s n="n"/></l><r>Sitz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>istunto<s n="n"/></l><r>Sitzung<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>istuva<s n="n"/></l><r>Amtsinhaber<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>isä<s n="n"/></l><r>Papa<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>italialainen<s n="n"/></l><r>Italiener<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>itäranta<s n="n"/></l><r>Ostküste<s n="n"/></r></p><par n="anyg"/></e>
@@ -1233,12 +1232,12 @@
     <e><p><l>keskeytys<s n="n"/></l><r>Unterbrechung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskiaika<s n="n"/></l><r>Mittelalter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskipiste<s n="n"/></l><r>Mittelpunkt<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>keski<s n="n"/></l><r>Mitte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskittyminen<s n="n"/></l><r>Konzentration<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskiviikkoilta<s n="n"/></l><r>Mittwochabend<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskiyö<s n="n"/></l><r>Mitternacht<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskus<s n="n"/></l><r>Zentrale<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskusta<s n="n"/></l><r>Center<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>keskusta<s n="n"/></l><r>Mitte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskusta<s n="n"/></l><r>Zentrum<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskustelu<s n="n"/></l><r>Diskussion<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>keskustelu<s n="n"/></l><r>Konversation<s n="n"/></r></p><par n="anyg"/></e>
@@ -2842,7 +2841,6 @@
     <e><p><l>valmistelu<s n="n"/></l><r>Vorbereitung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>valmistuminen<s n="n"/></l><r>Beendigung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>valokuva<s n="n"/></l><r>Foto<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>valtaapitävä<s n="n"/></l><r>Amtsinhaber<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>valtakunnansyyttäjä<s n="n"/></l><r>Staatsanwaltschaft<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>valtakunta<s n="n"/></l><r>Reich<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>valtaosa<s n="n"/></l><r>Großteil<s n="n"/></r></p><par n="anyg"/></e>
@@ -2951,6 +2949,7 @@
     <e><p><l>villa<s n="n"/></l><r>Villa<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>vinkki<s n="n"/></l><r>Tipp<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>virallisuus<s n="n"/></l><r>Öffentlichkeit<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>viranhaltija<s n="n"/></l><r>Amtsinhaber<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>virasto<s n="n"/></l><r>Amt<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>virkailija<s n="n"/></l><r>Beamter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>virkailija<s n="n"/></l><r>Offizier<s n="n"/></r></p><par n="anyg"/></e>
@@ -3266,6 +3265,7 @@
     <e><p><l>edelleen<s n="adv"/></l><r>hervor<s n="adv"/></r></p></e>
     <e><p><l>edelleen<s n="adv"/></l><r>weiterhin<s n="adv"/></r></p></e>
     <e><p><l>edellä<s n="adv"/></l><r>vorn<s n="adv"/></r></p></e>
+    <e><p><l>edessä<s n="adv"/></l><r>davor<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>vorne<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>vorn<s n="adv"/></r></p></e>
     <e><p><l>eilen<s n="adv"/></l><r>gestern<s n="adv"/></r></p></e>
@@ -3300,7 +3300,6 @@
     <e><p><l>esimerkiksi<s n="adv"/></l><r>zum<b/>beispiel<s n="adv"/></r></p></e>
     <e><p><l>esimerkillisesti<s n="adv"/></l><r>beispielsweise<s n="adv"/></r></p></e>
     <e><p><l>eteläisesti<s n="adv"/></l><r>südlich<s n="adv"/></r></p></e>
-    <e><p><l>etupuolella<s n="adv"/></l><r>davor<s n="adv"/></r></p></e>
     <e><p><l>euroopanlaajuisesti<s n="adv"/></l><r>Europaweit<s n="adv"/></r></p></e>
     <e><p><l>harvoin<s n="adv"/></l><r>selten<s n="adv"/></r></p></e>
     <e><p><l>heikosti<s n="adv"/></l><r>schwach<s n="adv"/></r></p></e>
@@ -6352,7 +6351,6 @@
     <e><p><l>ulkona<s n="post"/></l><r>außer<s n="pr"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>außerhalb<s n="pr"/></r></p></e>
     <e><p><l>valossa<s n="post"/></l><r>angesichts<s n="pr"/></r></p></e>
-    <e><p><l>varten<s n="post"/></l><r>wegen<s n="pr"/></r></p></e>
     <e><p><l>vastapäätä<s n="post"/></l><r>gegenüber<s n="pr"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/></r></p></e>
     <e><p><l>yli<s n="post"/></l><r>über<s n="pr"/></r></p></e>
@@ -6406,6 +6404,7 @@
     <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>taakse<s n="post"/></l><r>hinter<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>varten<s n="post"/></l><r>wegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
 
