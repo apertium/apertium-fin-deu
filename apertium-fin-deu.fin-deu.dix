@@ -6513,7 +6513,7 @@
 
     <!-- day with card hacks -->
     <e><re>[0-9][0-9]?[.][0-9][0-9]?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9][0-9]?[.][0-9][0-9]?[.][0-9][0-9]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9][0-9]?[.][0-9][0-9]?[.][0-9][0-9]*</re><p><l><s n="num"/><s n="nocard"/></l><r><s n="num"/></r></p></e>
 
     <!-- turn one thousand separator space<->. -->
     <e><re>[0-9][0-9]*</re><p><l><b/></l><r>.</r></p><re>[0-9][0-9][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
