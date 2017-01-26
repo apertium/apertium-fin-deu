@@ -132,6 +132,7 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.acr"/>
       <attr-item tags="np.al"/>
       <attr-item tags="np.org"/>
       <attr-item tags="np.cog"/>
@@ -144,7 +145,11 @@
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.org"/>
+      <attr-item tags="np.al"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.acr"/>
       <attr-item tags="num.card"/>
       <attr-item tags="det"/>
       <attr-item tags="prn"/>
