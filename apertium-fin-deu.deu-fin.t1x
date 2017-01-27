@@ -399,6 +399,9 @@
           <let>
             <clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/>
           </let>
+          <let>
+            <var n="case"/><lit-tag v="gen"/>
+          </let>
         </when>
         <when>
           <test>
@@ -406,6 +409,9 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/>
+          </let>
+          <let>
+            <var n="case"/><lit-tag v="gen"/>
           </let>
         </when>
         <when>
@@ -415,6 +421,9 @@
           <let>
             <clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/>
           </let>
+          <let>
+            <var n="case"/><lit-tag v="nom"/>
+          </let>
         </when>
         <when>
           <test>
@@ -423,8 +432,19 @@
           <let>
             <clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/>
           </let>
+          <let>
+            <var n="case"/><lit-tag v="nom"/>
+          </let>
         </when>
         <!-- otherwise, same case -->
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/>
+          </let>
+          <let>
+            <var n="case"/><lit-tag v="nom"/>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
     <def-macro n="infinite-mangler" npar="1">
@@ -1019,13 +1039,13 @@
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="N"/></tag>
+              <tag><lit-tag v="N.FOOFOO"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
               <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
@@ -1082,7 +1102,7 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <var n="number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
