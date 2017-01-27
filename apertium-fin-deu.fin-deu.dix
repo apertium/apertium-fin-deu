@@ -4660,7 +4660,7 @@
     <e><p><l>selviytyä<s n="vblex"/></l><r>davonkommen<s n="vblex"/></r></p></e>
     <e><p><l>selviytyä<s n="vblex"/></l><r>überwiegen<s n="vblex"/></r></p></e>
     <e><p><l>sensuroida<s n="vblex"/></l><r>zensieren<s n="vblex"/></r></p></e>
-    <e><p><l>seuraa<s n="vblex"/></l><r>erfolgen<s n="vblex"/></r></p></e>
+    <e><p><l>seurata<s n="vblex"/></l><r>erfolgen<s n="vblex"/></r></p></e>
     <e><p><l>seurata<s n="vblex"/></l><r>befolgen<s n="vblex"/></r></p></e>
     <e><p><l>seurata<s n="vblex"/></l><r>beobachten<s n="vblex"/></r></p></e>
     <e><p><l>seurata<s n="vblex"/></l><r>folgen<s n="vblex"/></r></p></e>
@@ -6385,8 +6385,6 @@
     <!-- }}}
          {{{ adpositions -->
 
-    <e><p><l>aikana<s n="post"/></l><r>anlässlich<s n="pr"/></r></p></e>
-    <e><p><l>aikana<s n="post"/></l><r>während<s n="pr"/></r></p></e>
     <e><p><l>alapuolella<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>alla<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>avuksi<s n="post"/></l><r>zugunsten<s n="pr"/></r></p></e>
@@ -6483,6 +6481,9 @@
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>aikana<s n="post"/></l><r>anlässlich<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>aikana<s n="post"/></l><r>während<s n="pr"/><s n="gen"/></r></p></e>
+
 
     <!-- }}}
          {{{ cases -->
