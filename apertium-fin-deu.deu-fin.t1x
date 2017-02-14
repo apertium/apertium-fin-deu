@@ -591,6 +591,47 @@
        {{{ rules -->
   <section-rules>
 
+    <rule comment="dets adjs nouns: share case and pl">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp det nouns: drop case, det, move case">
       <pattern>
         <pattern-item n="adp"/>
@@ -622,6 +663,46 @@
               <clip pos="3" side="tl" part="a_nominal"/>
               <clip pos="2" side="tl" part="a_number"/>
               <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="als adj noun: is essive">
+      <pattern>
+        <pattern-item n="als"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="comparison-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><lit-tag v="ESS"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <lit-tag v="ess"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> <!-- Text -> teksti -->
+              <clip pos="3" side="tl" part="a_noun"/> <!-- n -->
+              <var n="number"/> <!-- pl/sg -->
+              <lit-tag v="ess"/>
             </lu>
           </chunk>
         </out>
