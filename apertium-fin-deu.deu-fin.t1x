@@ -627,6 +627,46 @@
         </out>
       </action>
     </rule>
+    <rule comment="adjs nouns: share case and pl">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="nouns haver: adessive structurise!">
       <pattern>
