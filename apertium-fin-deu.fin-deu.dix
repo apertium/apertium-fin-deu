@@ -3498,6 +3498,7 @@
     <e><p><l>kunhan<s n="adv"/></l><r>soweit<s n="adv"/></r></p></e>
     <e><p><l>kuukausittain<s n="adv"/></l><r>monatlich<s n="adv"/></r></p></e>
     <e><p><l>kyllä<s n="adv"/></l><r>ja<s n="adv"/></r></p></e>
+    <e><p><l>kylmästi<s n="adv"/></l><r>kalt<s n="adv"/></r></p></e>
     <e><p><l>kymmenvuotisesti<s n="adv"/></l><r>jarzehntelang<s n="adv"/></r></p></e>
     <e><p><l>käsin<s n="adv"/></l><r>manuell<s n="adv"/></r></p></e>
     <e><p><l>käytännössä<s n="adv"/></l><r>praktisch<s n="adv"/></r></p></e>
@@ -3661,6 +3662,7 @@
     <e><p><l>silti<s n="adv"/></l><r>dennoch<s n="adv"/></r></p></e>
     <e><p><l>sinne<s n="adv"/></l><r>dahin<s n="adv"/></r></p></e>
     <e><p><l>sinne<s n="adv"/></l><r>dorthin<s n="adv"/></r></p></e>
+    <e><p><l>sinne<s n="adv"/></l><r>hin<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>herein<s n="adv"/></r></p></e>
     <e><p><l>sisään<s n="adv"/></l><r>hinein<s n="adv"/></r></p></e>
     <e><p><l>siten<s n="adv"/></l><r>vorbei<s n="adv"/></r></p></e>
@@ -4189,6 +4191,7 @@
     <e><p><l>kasvattaa<s n="vblex"/></l><r>erhöhen<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>zunehmen<s n="vblex"/></r></p></e>
     <e><p><l>katkaista<s n="vblex"/></l><r>abschneiden<s n="vblex"/></r></p></e>
+    <e><p><l>katsella<s n="vblex"/></l><r>durchsehen<s n="vblex"/></r></p></e>
     <e><p><l>katsoa<s n="vblex"/></l><r>ansehen<s n="vblex"/></r></p></e>
     <e><p><l>katsoa<s n="vblex"/></l><r>betrachten<s n="vblex"/></r></p></e>
     <e><p><l>katsoa<s n="vblex"/></l><r>sehen<s n="vblex"/></r></p></e>
@@ -5148,9 +5151,12 @@
     <!--}}}
          {{{ negation verbs -->
 
-    <e><p><l>ei<s n="vblex"/><s n="neg"/></l><r>nein<s n="adv"/></r></p></e>
-    <e><p><l>ei<s n="vblex"/><s n="neg"/></l><r>nicht<s n="adv"/></r></p></e>
-    <e><p><l>ei<s n="vblex"/><s n="neg"/></l><r>weder<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>ei<s n="vblex"/><s n="neg"/></l><r>nein<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>ei<s n="vblex"/><s n="neg"/></l><r>nicht<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>ei<s n="vblex"/><s n="neg"/></l><r>weder<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>ei<s n="ij"/><s n="neg"/></l><r>nein<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ei<s n="ij"/><s n="neg"/></l><r>nicht<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ja<s n="cnjcoo"/><s n="neg"/></l><r>weder<s n="cnjcoo"/></r></p></e>
 
     <!-- neg conj -->
 
@@ -5369,8 +5375,8 @@
     <!-- + interrogatives -->
 
     <e><p><l>mikä<s n="prn"/><s n="itg"/></l><r>was<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
-    <e><p><l>missä<s n="prn"/><s n="itg"/></l><r>wo<s n="adv"/></r></p></e>
-    <e><p><l>missä<s n="adv"/></l><r>wo<s n="adv"/></r></p></e>
+    <e><p><l>missä<s n="prn"/></l><r>wo<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>missä<s n="adv"/></l><r>wo<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>mihin<s n="adv"/></l><r>woher<s n="adv"/></r></p></e>
     <e><p><l>miksi<s n="prn"/></l><r>warum<s n="adv"/></r></p></e>
     <e><p><l>minne<s n="prn"/><s n="itg"/></l><r>wohin<s n="adv"/></r></p></e>
@@ -5440,7 +5446,6 @@
     <e><p><l>muutama<s n="prn"/></l><r>einige<s n="det"/><s n="qnt"/><s n="m"/></r></p></e>
     <e><p><l>muutama<s n="prn"/></l><r>wenige<s n="prn"/></r></p></e>
     <e><p><l>oma<s n="prn"/></l><r>eigen<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-    <e><p><l>sinne<s n="prn"/></l><r>hin<s n="adv"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
@@ -6548,7 +6553,6 @@
     <e><p><l>ulkona<s n="post"/></l><r>außer<s n="pr"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>außerhalb<s n="pr"/></r></p></e>
     <e><p><l>vastapäätä<s n="post"/></l><r>gegenüber<s n="pr"/></r></p></e>
-    <e><p><l>yli<s n="post"/></l><r>über<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>nach<b/>oben<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
     <e><p><l>yläpuolella<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
@@ -6585,10 +6589,13 @@
     <!-- }}}
           {{{ adpositions with cases (deu) -->
 
+    <e><p><l>aikana<s n="post"/></l><r>anlässlich<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>aikana<s n="post"/></l><r>während<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>alle<s n="post"/></l><r>unter<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>eteen<s n="post"/></l><r>vor<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>nach<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>bezüglich<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>koskien<s n="post"/></l><r>über<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>lailla<s n="post"/></l><r>wie<s n="pr"/><s n="nom"/></r></p></e>
     <e><p><l>luokse<s n="post"/></l><r>zu<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
@@ -6598,20 +6605,18 @@
     <e><p><l>mukaan<s n="post"/></l><r>laut<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>per<s n="post"/></l><r>per<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>per<s n="post"/></l><r>pro<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>perusteella<s n="post"/></l><r>da<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>pitkin<s n="post"/></l><r>entlang<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>päälle<s n="post"/></l><r>an<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>saakka<s n="post"/></l><r>bis<b/>zu<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>sitten<s n="post"/></l><r>seit<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>taakse<s n="post"/></l><r>hinter<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>perusteella<s n="post"/></l><r>da<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>valossa<s n="post"/></l><r>angesichts<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>varten<s n="post"/></l><r>wegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
-    <e><p><l>aikana<s n="post"/></l><r>anlässlich<s n="pr"/><s n="gen"/></r></p></e>
-    <e><p><l>aikana<s n="post"/></l><r>während<s n="pr"/><s n="gen"/></r></p></e>
 
 
     <!-- }}}
