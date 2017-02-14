@@ -1,14 +1,16 @@
 #!/bin/bash
-DAILYMAIL=texts/dw.de-Langsam-gesprochene-Nachrichten-$(date --iso).text
+DAILYMAIL_SOURCE=texts/dw.de-Langsam-gesprochene-Nachrichten-$(date --iso).text
 if ! test -f ${DAILYMAIL} ; then
     echo ${DAILYMAIL} ist nicht da, bitte herunterladen
     exit 1
 fi
+DAILYMAIL=$(mktemp -t apertium-fin-deu-dailies.XXXXXXXXXX )
 make
+egrep -v '^#!' ${DAILYMAIL_SOURCE} > ${DAILYMAIL}
 if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
-    egrep -v '^#' | fgrep --colour=always '@' ; then
+    fgrep --colour=always '@' ; then
     if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
-        egrep -v '^#' | fgrep --colour=always '#' ; then
+        fgrep --colour=always '#' ; then
         apertium -d . deu-fin < ${DAILYMAIL}
     else
         echo bidix miss candidates in apertium-fin:
@@ -21,3 +23,4 @@ if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
             fgrep '<'
     fi
 fi
+rm -v ${DAILYMAIL}
