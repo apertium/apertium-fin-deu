@@ -1451,6 +1451,7 @@
     <e><p><l>kuollut<s n="n"/></l><r>Toter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuolontapaus<s n="n"/></l><r>Todesfall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuolonuhri<s n="n"/></l><r>Todesopfer<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kuopus<s n="n"/></l><r>Benjamin<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuoro<s n="n"/></l><r>Chor<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuppi<s n="n"/></l><r>Cup<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kurdi<s n="n"/></l><r>Kurde<s n="n"/></r></p><par n="anyg"/></e>
@@ -2081,7 +2082,6 @@
     <e><p><l>peliaika<s n="n"/></l><r>Spielzeit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pelikortti<s n="n"/></l><r>Spielkarte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>penis<s n="n"/></l><r>Penis<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>penjamiini<s n="n"/></l><r>Benjamin<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>penni<s n="n"/></l><r>Pence<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/></r></p><par n="anyg"/></e>
@@ -2833,7 +2833,6 @@
     <e><p><l>tutkinta<s n="n"/></l><r>Inspektion<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>tuulennopeus<s n="n"/></l><r>Windgeschwindigkeit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>tuuli<s n="n"/></l><r>Wind<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>tv<s n="n"/></l><r>Fernsehen<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>TV<s n="n"/></l><r>TV<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>TV<s n="n"/></l><r>TV<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>tyhjiö<s n="n"/></l><r>Null<s n="n"/></r></p><par n="anyg"/></e>
@@ -3295,6 +3294,7 @@
     <e><p><l>mp3<s n="n"/></l><r>Mp3<s n="n"/></r></p></e>
     <e><p><l>OPEC<s n="n"/><s n="abbr"/></l><r>OPEC<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>SPD<s n="np"/></l><r>SPD<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
+    <e><p><l>tv<s n="n"/><s n="acr"/></l><r>Fernsehen<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>YK<s n="n"/></l><r>UN<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
     <e><p><l>ZDF<s n="n"/></l><r>ZDF<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
     <e><p><l>BMW<s n="n"/></l><r>BMW<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
@@ -5374,8 +5374,22 @@
 
     <!-- these dets are personal possessives... -->
 
-    <e><p><l>hän<s n="prn"/></l>
-            <r>sein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>minä<s n="prn"/></l>
+            <r>mein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>minä<s n="prn"/></l>
+            <r>mein<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
+    <e><p><l>minä<s n="prn"/></l>
+            <r>mein<s n="det"/><s n="pos"/><s n="mfn"/></r></p></e>
+    <e><p><l>minä<s n="prn"/></l>
+            <r>mein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>sinä<s n="prn"/></l>
+            <r>dein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>sinä<s n="prn"/></l>
+            <r>dein<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
+    <e><p><l>sinä<s n="prn"/></l>
+            <r>dein<s n="det"/><s n="pos"/><s n="mfn"/></r></p></e>
+    <e><p><l>sinä<s n="prn"/></l>
+            <r>dein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>hän<s n="prn"/></l>
             <r>sein<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
     <e><p><l>he<s n="prn"/></l>
@@ -5384,6 +5398,14 @@
             <r>ihr<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
     <e><p><l>hän<s n="prn"/></l>
             <r>ihr<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
+    <e><p><l>me<s n="prn"/></l>
+            <r>unser<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>me<s n="prn"/></l>
+            <r>unser<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+    <e><p><l>me<s n="prn"/></l>
+            <r>unser<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
+    <e><p><l>me<s n="prn"/></l>
+            <r>unser<s n="det"/><s n="pos"/><s n="mfn"/></r></p></e>
     <e><p><l>te<s n="prn"/></l>
             <r>eure<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>te<s n="prn"/></l>
@@ -6575,7 +6597,6 @@
     <e><p><l>ilman<s n="pr"/></l><r>ohne<s n="pr"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>außerhalb<s n="pr"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>post<s n="pr"/></r></p></e>
-    <e><p><l>kanssa<s n="post"/></l><r>mit<s n="pr"/></r></p></e>
     <e><p><l>kanssa<s n="post"/></l><r>zusammen<b/>mit<s n="pr"/></r></p></e>
     <e><p><l>kautta<s n="post"/></l><r>via<s n="pr"/></r></p></e>
     <e><p><l>keinoin<s n="post"/></l><r>anhand<s n="pr"/></r></p></e>
@@ -6667,6 +6688,7 @@
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>kanssa<s n="post"/></l><r>mit<s n="pr"/><s n="dat"/></r></p></e>
 
 
     <!-- }}}

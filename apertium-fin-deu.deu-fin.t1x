@@ -53,6 +53,9 @@
       <cat-item tags="post"/>
       <cat-item tags="pr"/>
     </def-cat>
+    <def-cat n="poss">
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
@@ -191,11 +194,13 @@
   <!-- }}}
        {{{ vars -->
   <section-def-vars>
+    <def-var n="possess"/>
     <def-var n="pers"/>
     <def-var n="number"/>
     <def-var n="case"/>
     <def-var n="tense"/>
     <def-var n="adpcase"/>
+    <def-var n="prnmaybe"/>
     <def-var n="adpmaybe"/>
     <def-var n="numtype"/>
     <def-var n="comparison"/>
@@ -472,6 +477,74 @@
           </let>
         </when>
         <!-- otherwise, same case -->
+      </choose>
+    </def-macro>
+    <def-macro n="possessive-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="mein"/></equal>
+          </test>
+          <let>
+            <var n="prnmaybe"/><lit v=""/>
+          </let>
+          <let>
+            <var n="poss"/><lit-tag v="pxsg1"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="dein"/></equal>
+          </test>
+          <let>
+            <var n="poss"/><lit-tag v="pxsg2"/>
+          </let>
+          <let>
+            <var n="prnmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="eure"/></equal>
+          </test>
+          <let>
+            <var n="poss"/><lit-tag v="pxsg2"/>
+          </let>
+          <let>
+            <var n="prnmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="unser"/></equal>
+          </test>
+          <let>
+            <var n="poss"/><lit-tag v="pxsg1"/>
+          </let>
+          <let>
+            <var n="prnmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="sein"/></equal>
+          </test>
+          <let>
+            <var n="poss"/><lit-tag v="pxsp3"/>
+          </let>
+          <let>
+            <var n="prnmaybe"/><concat><lit v="hän"/><lit-tag v="prn.pers.sg.gen"/></concat>
+          </let>
+        </when>
+        <!-- otherwise, clip adp and gen -->
+        <otherwise>
+          <let>
+            <var n="poss"/><lit-tag v="pxsp3"/>
+          </let>
+          <let>
+            <var n="prnmaybe"/><clip pos="1" side="tl" part="whole"/>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
     <def-macro n="adp-mangler" npar="1">
@@ -1085,6 +1158,42 @@
         </out>
       </action>
     </rule>
+    <rule comment="possess nominals: possessive suffix">
+      <pattern>
+        <pattern-item n="poss"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="possessive-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+              <tag><lit-tag v="POSS"/></tag>
+            </tags>
+            <lu>
+              <var n="prnmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="case"/>
+              <var n="possess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="numeral nouns: partitive or stuff">
       <pattern>
         <pattern-item n="cardinal"/>
@@ -1285,6 +1394,26 @@
             <lu>
               <lit v="ei"/>
               <lit-tag v="vblex.neg.actv.p3.sg"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="stray possessives: ugly genitives">
+      <pattern>
+        <pattern-item n="poss"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="PossP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Poss"/></tag>
+          </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="gen"/>
             </lu>
           </chunk>
         </out>
