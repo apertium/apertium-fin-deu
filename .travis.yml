@@ -4,7 +4,7 @@ before_install:
     - sudo apt-get install hfst apertium lttoolbox apertium-dev apertium-deu lttoolbox-dev libhfst48-dev cg3
     - wget https://github.com/flammie/apertium-fin-deu/archive/master.zip
     - unzip master.zip
-    - cd apertium-fin-deu-master && ./autoconf.sh && ./configure && make && make install
+    - cd apertium-fin-deu-master && ./autogen.sh && ./configure && make && make install
 script:
     - ./autogen.sh
     - ./configure
