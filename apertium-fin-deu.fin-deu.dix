@@ -3067,8 +3067,8 @@
     <e><p><l>viesti<s n="n"/></l><r>Mitteilung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>viha<s n="n"/></l><r>Grand<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>viha<s n="n"/></l><r>Grant<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>viher<s n="n"/></l><r>Grüne<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>viher<s n="n"/></l><r>Grün<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>vihreä<s n="n"/></l><r>Grüne<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>vihreä<s n="n"/></l><r>Grün<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>viikko<s n="n"/></l><r>Woche<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>viikko<s n="n"/></l><r>Woche<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>viikonloppu<s n="n"/></l><r>Wochenende<s n="n"/></r></p><par n="anyg"/></e>
@@ -6634,8 +6634,6 @@
     <e><p><l>kiitos<s n="post"/></l><r>dank<s n="pr"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>hinsichtlich<s n="pr"/></r></p></e>
     <e><p><l>kuluessa<s n="post"/></l><r>innerhalb<s n="pr"/></r></p></e>
-    <e><p><l>lähellä<s n="post"/></l><r>nahe<s n="pr"/></r></p></e>
-    <e><p><l>lähellä<s n="post"/></l><r>neben<s n="pr"/></r></p></e>
     <e><p><l>miinuksella<s n="post"/></l><r>minus<s n="pr"/></r></p></e>
     <e><p><l>mukaanlukien<s n="post"/></l><r>einschließlich<s n="pr"/></r></p></e>
     <e><p><l>mukaanlukien<s n="post"/></l><r>inklusive<s n="pr"/></r></p></e>
@@ -6703,6 +6701,8 @@
     <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/></r></p></e>
     <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>luona<s n="post"/></l><r>bei<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>lähellä<s n="post"/></l><r>nahe<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>lähellä<s n="post"/></l><r>neben<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>lävitse<s n="post"/></l><r>durch<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>mukaan<s n="post"/></l><r>laut<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>per<s n="post"/></l><r>per<s n="pr"/><s n="acc"/></r></p></e>
