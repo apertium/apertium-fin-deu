@@ -845,7 +845,7 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_nominal"/>
               <clip pos="1" side="tl" part="a_number"/>
               <lit-tag v="ade"/>
           </lu>
