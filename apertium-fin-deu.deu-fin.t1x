@@ -3,6 +3,9 @@
 
   <!-- {{{ cats -->
   <section-def-cats>
+    <def-cat n="deadp2np">
+      <cat-item lemma="de" tags="pr.*"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -664,6 +667,24 @@
        {{{ rules -->
   <section-rules>
 
+    <rule comment="deadp2np: totally broken deu analysis of 'de'">
+      <pattern>
+        <pattern-item n="deadp2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="DEADP2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP.SG.NOM"/></tag>
+            </tags>
+            <lu>
+              <lit v="de"/>
+              <lit-tag v="np.cog.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="dets adjs nouns: share case and pl">
       <pattern>
         <pattern-item n="det"/>
