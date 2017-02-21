@@ -651,6 +651,39 @@
             <var n="adpmaybe"/><lit v=""/>
           </let>
         </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="zu"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="tra"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="an"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="abl"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="nach"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ill"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
         <!-- otherwise, clip adp and gen -->
         <otherwise>
           <let>
