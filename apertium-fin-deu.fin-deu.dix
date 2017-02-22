@@ -5591,7 +5591,8 @@
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>andere<s n="prn"/></r></p></e>
-    <e r="RL"><p><l/><r>man<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>yksi<s n="prn"/></l><r>man<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/></r></p></e>
+    <e><p><l>eräs<s n="prn"/></l><r>man<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/></r></p></e>
 
     <!-- }}}
          {{{ determiners! -->
