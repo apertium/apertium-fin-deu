@@ -6,6 +6,9 @@
     <def-cat n="deadp2np">
       <cat-item lemma="de" tags="pr.*"/>
     </def-cat>
+    <def-cat n="dest2np">
+      <cat-item lemma="st." tags="abbr"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -713,6 +716,24 @@
             <lu>
               <lit v="de"/>
               <lit-tag v="np.cog.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="dest2np: St. mismatched">
+      <pattern>
+        <pattern-item n="dest2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="DEST2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP.SG.NOM"/></tag>
+            </tags>
+            <lu>
+              <lit v="St."/>
+              <lit-tag v="np.sg.nom"/>
             </lu>
           </chunk>
         </out>
