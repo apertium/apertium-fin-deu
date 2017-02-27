@@ -284,6 +284,9 @@
       </program>
 
 
+      <program name="cg-proc -wn">
+        <file name="deu-fin.prep.cg3.bin"/>
+      </program>
       <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>
       </program>
@@ -319,6 +322,9 @@
         <file name="deu-fin.automorf-untrimmed.bin"/>
       </program>
 
+      <program name="cg-proc -wn">
+        <file name="deu-fin.prep.cg3.bin"/>
+      </program>
 
       <program name="cg-proc -w1n">
         <file name="deu-fin.rlx.bin"/>

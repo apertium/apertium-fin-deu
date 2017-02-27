@@ -1,0 +1,53 @@
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" "<:>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+SETS
+
+LIST BOS = (>>>) (sent) ;
+LIST EOS = (<<<) (sent) ;
+
+LIST Det = (det) ;
+LIST DetDef = (det def) ;
+LIST DetInd = (det ind) ;
+LIST N = (n) ;
+LIST Np = (np) ;
+LIST Vblex = (vblex) ;
+LIST Vbser = (vbser) ;
+LIST Vbhaver = (vbhaver) ;
+LIST Vbdo = (vbdo) ;
+LIST Vbmod = (vbmod) ;
+LIST Vaux = (vaux) ;
+LIST PrnDem = (prn dem) ;
+LIST Pr = (pr) ;
+LIST Adj = (adj) ;
+LIST Adv = (adv) ;
+LIST Num = (num) ;
+LIST Prn = (prn) ;
+LIST Rel = (prn rel) ;
+LIST Ij = (ij) ;
+
+LIST Nom = (nom) ;
+LIST P3 = (p3) ;
+
+LIST Sg = (sg) ;
+LIST Pl = (pl) ;
+LIST Sp = (sp) ;
+LIST M = (m) ;
+LIST F = (f) ;
+LIST Nt = (nt) ;
+LIST Mf = (mf) ;
+LIST Mfn = (mfn) ;
+LIST Imp = (imp) ;
+
+SET GENDER = M | F | Nt ;
+SET NUMBER = Sg | Pl ;
+SET CASE = (nom) | (gen) | (dat) | (acc) ;
+SET Verb = (vblex) | (vbmod) | (vaux) | (vbser) | (vbhaver) | (vbdo) ;
+SET Cnj = (cnjcoo) | (cnjsub) | (cnjadv) ;
+
+
+SECTION
+
+REMOVE (compound-only-L) ;
+
+
