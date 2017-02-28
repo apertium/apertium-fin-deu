@@ -1090,6 +1090,9 @@
         <call-macro n="pers-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -1107,6 +1110,7 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
+              <var n="number"/>
               <lit-tag v="conneg"/>
             </lu>
           </chunk>
