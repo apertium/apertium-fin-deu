@@ -140,9 +140,11 @@
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.al"/>
       <attr-item tags="np"/>
       <attr-item tags="np.acr"/>
-      <attr-item tags="np.al"/>
+      <attr-item tags="np.acr.al"/>
+      <attr-item tags="np.al.acr"/>
       <attr-item tags="np.org"/>
       <attr-item tags="np.cog"/>
       <attr-item tags="num.card"/>
@@ -159,6 +161,8 @@
       <attr-item tags="np.al"/>
       <attr-item tags="np"/>
       <attr-item tags="np.acr"/>
+      <attr-item tags="np.acr.al"/>
+      <attr-item tags="np.al.acr"/>
       <attr-item tags="num.card"/>
       <attr-item tags="det"/>
       <attr-item tags="prn"/>
@@ -1126,6 +1130,12 @@
         <call-macro n="tensemood-mangler">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -1134,13 +1144,17 @@
             </tags>
             <lu>
               <lit v="ei"/>
-              <lit-tag v="vblex.neg.actv.p3.sg"/>
+              <lit-tag v="vblex.neg.actv"/>
+              <var n="pers"/>
             </lu>
             <b/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_verb"/>
-              <lit-tag v="actv.pri.conneg"/>
+              <lit-tag v="actv"/>
+              <var n="tense"/>
+              <var n="number"/>
+              <lit-tag v="conneg"/>
             </lu>
           </chunk>
         </out>
