@@ -36,6 +36,15 @@
       <cat-item lemma="als" tags="adv"/>
       <cat-item lemma="als" tags="cnjadv"/> <!-- XXX: also not cnjadv? -->
     </def-cat>
+    <def-cat n="gehen">
+      <cat-item lemma="gehen" tags="vblex.pri.p2.pl"/>
+      <cat-item lemma="gehen" tags="vblex.pri.p3.sg"/>
+      <cat-item lemma="gehen" tags="vblex.prs.p3.sg"/>
+    </def-cat>
+    <def-cat n="es">
+      <cat-item lemma="es" tags="prn.pers.p3.nt.sg.*"/>
+      <cat-item lemma="prpers" tags="prn.*.p3.nt.sg.*"/>
+    </def-cat>
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vblex.ger.*"/>
@@ -738,6 +747,49 @@
             <lu>
               <lit v="St."/>
               <lit-tag v="np.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="NP geht es: adessive goes">
+      <pattern>
+        <pattern-item n="nominal"/>
+        <pattern-item n="gehen"/>
+        <pattern-item n="es"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="infinite-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="ADE"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- hund -> koira -->
+              <clip pos="1" side="tl" part="a_nominal"/> <!-- n -->
+              <var n="number"/>
+              <lit-tag v="ade"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="mennä"/> <!-- gehen -> menee -->
+              <clip pos="2" side="tl" part="a_verb"/> <!-- vblex -->
+              <lit-tag v="actv"/> <!-- 0 -> pasv -->
+              <var n="tense"/> <!-- pri -->
+              <lit-tag v="p3.sg"/> <!-- * -> p3.sg -->
             </lu>
           </chunk>
         </out>
