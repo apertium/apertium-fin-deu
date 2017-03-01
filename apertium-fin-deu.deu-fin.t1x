@@ -36,6 +36,10 @@
       <cat-item lemma="als" tags="adv"/>
       <cat-item lemma="als" tags="cnjadv"/> <!-- XXX: also not cnjadv? -->
     </def-cat>
+    <def-cat n="wie">
+      <cat-item lemma="wie" tags="adv"/>
+      <cat-item lemma="wie" tags="adv.itg"/>
+    </def-cat>
     <def-cat n="gehen">
       <cat-item lemma="gehen" tags="vblex.pri.p2.pl"/>
       <cat-item lemma="gehen" tags="vblex.pri.p3.sg"/>
@@ -140,6 +144,9 @@
     <def-attr n="a_adp">
       <attr-item tags="post"/>
       <attr-item tags="pr"/>
+    </def-attr>
+    <def-attr n="a_adv">
+      <attr-item tags="adv"/>
     </def-attr>
     <def-attr n="a_noun">
       <attr-item tags="n"/>
@@ -747,6 +754,41 @@
             <lu>
               <lit v="St."/>
               <lit-tag v="np.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="wie geht es: how goes">
+      <pattern>
+        <pattern-item n="wie"/>
+        <pattern-item n="gehen"/>
+        <pattern-item n="es"/>
+      </pattern>
+      <action>
+        <call-macro n="infinite-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="ADE"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- hund -> koira -->
+              <clip pos="1" side="tl" part="a_adv"/> <!-- n -->
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="mennä"/> <!-- gehen -> menee -->
+              <clip pos="2" side="tl" part="a_verb"/> <!-- vblex -->
+              <lit-tag v="actv"/> <!-- 0 -> pasv -->
+              <var n="tense"/> <!-- pri -->
+              <lit-tag v="p3.sg"/> <!-- * -> p3.sg -->
             </lu>
           </chunk>
         </out>
