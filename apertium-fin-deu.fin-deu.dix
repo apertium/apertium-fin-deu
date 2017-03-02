@@ -45,6 +45,8 @@
     <sdef n="ito"     c="PART"/>
     <sdef n="pprep"      c="ADP??"/>
 
+    <sdef n="atp"      c="NOUN"/>
+    <sdef n="cmp"      c="--comp"/>
                  <!-- c="Ufeat=value" -->
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
@@ -2584,6 +2586,7 @@
     <e><p><l>sitoutuminen<s n="n"/></l><r>Engagement<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sitrus<s n="n"/></l><r>Zitrusfrucht<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sitruuna<s n="n"/></l><r>Zitrone<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>siviilivaate<s n="n"/></l><r>Zivil<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>siviili<s n="n"/></l><r>Zivilist<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sivilisaatio<s n="n"/></l><r>Zivilisation<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sivujuonne<s n="n"/></l><r>Ausläufer<s n="n"/></r></p><par n="anyg"/></e>
@@ -3332,6 +3335,8 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>aavikko<s n="n"/></l><r>Wüste<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tarjoilija<s n="n"/></l><r>Ober<s n="n"/></r></p><par n="anyg"/></e>
 
 
 
@@ -3362,9 +3367,35 @@
 
 
     <!-- }}}
-         {{{ lower broken stuff
+         {{{ lower-cased, for compound hacks
       -->
 
+    <e><p><l>perintö<s n="n"/></l><r>erbe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>mies<s n="n"/></l><r>mann<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>edustaja<s n="n"/></l><r>vertreter<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>jäsen<s n="n"/></l><r>mitglied<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sampi<s n="n"/></l><r>hausen<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>reformi<s n="n"/></l><r>reform<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maa<s n="n"/></l><r>land<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>saksalainen<s n="n"/></l><r>deutsch<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>toive<s n="n"/></l><r>wunsch<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ministeri<s n="n"/></l><r>minister<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ministeritär<s n="n"/></l><r>ministerin<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>esine<s n="n"/></l><r>gut<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kulttuuri<s n="n"/></l><r>kultur<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ryhmä<s n="n"/></l><r>truppe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>miliisi<s n="n"/></l><r>miliz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kaupunki<s n="n"/></l><r>stadt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>armeija<s n="n"/></l><r>armee<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tahti<s n="n"/></l><r>rate<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>projekti<s n="n"/></l><r>plan<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>osavaltio<s n="n"/></l><r>staat<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>politiikka<s n="n"/></l><r>politik<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>yhteiskunta<s n="n"/></l><r>gesellschaft<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>määrittely<s n="n"/></l><r>angabe<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>kriisi<s n="n"/></l><r>krise<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aikalainen<s n="n"/></l><r>zukünftiger<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>finaali<s n="n"/></l><r>finale<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jana<s n="n"/></l><r>gerade<s n="n"/></r></p><par n="anyg"/></e>
@@ -3398,6 +3429,13 @@
     <e><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/></r></p><par n="anyg"/></e>
 
     <e><p><l>nimi<s n="n"/></l><r>name<s n="n"/><s n="m"/></r></p></e>
+
+
+    <!-- }}}
+        {{{ compound part only -->
+
+    <e><p><l>presidentin-<s n="n"/></l><r>Präsidial<s n="atp"/><s n="cmp"/></r></p></e>
+    <e><p><l>yksityis-<s n="n"/></l><r>Privat<s n="atp"/><s n="cmp"/></r></p></e>
 
 
     <!-- }}}

@@ -279,7 +279,7 @@
 
   <mode name="deu-fin" install="yes">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -318,7 +318,7 @@
 
   <mode name="deu-fin-debug" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf-untrimmed.bin"/>
       </program>
 
