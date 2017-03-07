@@ -208,6 +208,7 @@
     </def-attr>
     <def-attr n="a_num">
       <attr-item tags="num"/>
+      <attr-item tags="num.use_nonstd"/>
     </def-attr>
     <def-attr n="a_inf">
       <attr-item tags="inf"/>
