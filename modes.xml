@@ -353,7 +353,7 @@
 
   <mode name="deu-fin-dgen" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -385,7 +385,7 @@
 
   <mode name="deu-fin-morph" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
     </pipeline>
@@ -393,7 +393,7 @@
 
   <mode name="deu-fin-disam" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
@@ -405,7 +405,7 @@
 
   <mode name="deu-fin-tagger" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -418,7 +418,7 @@
 
   <mode name="deu-fin-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -432,7 +432,7 @@
 
   <mode name="deu-fin-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -449,7 +449,7 @@
 
   <mode name="deu-fin-lex" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -469,7 +469,7 @@
 
   <mode name="deu-fin-transfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -490,7 +490,7 @@
 
   <mode name="deu-fin-interchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
@@ -515,7 +515,7 @@
 
   <mode name="deu-fin-postchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -w -e">
         <file name="deu-fin.automorf.bin"/>
       </program>
 
