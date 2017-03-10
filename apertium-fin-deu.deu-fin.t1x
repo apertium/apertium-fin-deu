@@ -13,6 +13,10 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="cmp">
+      <cat-item tags="n.*.cmp"/>
+      <cat-item tags="n.*.cmp.*"/>
+    </def-cat>
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
@@ -74,6 +78,10 @@
     </def-cat>
     <def-cat n="poss">
       <cat-item tags="det.pos.*"/>
+    </def-cat>
+    <def-cat n="art">
+      <cat-item lemma="der" tags="det.*"/>
+      <cat-item lemma="ein" tags="det.*"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
@@ -1220,7 +1228,6 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
-              <var n="number"/>
               <lit-tag v="conneg"/>
             </lu>
           </chunk>
@@ -1259,8 +1266,51 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
-              <var n="number"/>
               <lit-tag v="conneg"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="dets compnouns: case mangle">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="cmp"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+          </tags>
+          <!-- usually no dets...
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+            <b pos="1"/>
+           -->
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="gen"/>
+            </lu>
+            <!-- no space -->
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
@@ -1457,6 +1507,37 @@
     </rule>
 
     <!-- {{{ single word units last resorts -->
+    <rule comment="noun compounds: recompound">
+      <pattern>
+        <pattern-item n="cmp"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="N" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N.CMP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="gen"/>
+            </lu>
+              <!-- no blank -->
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="2" side="tl" part="a_number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="nouns: case mangle">
       <pattern>
         <pattern-item n="noun"/>
@@ -1618,7 +1699,31 @@
         </out>
       </action>
     </rule>
-    <rule comment="stranded dets: usually go home">
+    <rule comment="stranded articles: don't want">
+      <pattern>
+        <pattern-item n="art"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="ArtP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ART"/></tag>
+            </tags>
+            <!--
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_nominal"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+            <b pos="1"/>
+            -->
+          <b/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="stranded dets: just show them">
       <pattern>
         <pattern-item n="det"/>
       </pattern>
@@ -1628,16 +1733,13 @@
             <tags>
               <tag><lit-tag v="Det"/></tag>
           </tags>
-          <!-- usually no dets...
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_nominal"/>
               <clip pos="1" side="tl" part="a_number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
             <b pos="1"/>
-           -->
-          <b/>
           </chunk>
         </out>
       </action>
