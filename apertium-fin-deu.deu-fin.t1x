@@ -92,6 +92,8 @@
     <def-cat n="cardinal">
       <cat-item tags="num.card"/>
       <cat-item tags="num.card.*"/>
+      <cat-item tags="num.pl.*"/>
+      <cat-item tags="num"/>
     </def-cat>
     <def-cat n="num">
       <cat-item tags="num.*"/>
