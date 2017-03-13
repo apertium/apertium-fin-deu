@@ -9,6 +9,9 @@
     <def-cat n="dest2np">
       <cat-item lemma="st." tags="abbr"/>
     </def-cat>
+    <def-cat n="soviele2np">
+      <cat-item lemma="so viele" tags="det.*"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -172,6 +175,7 @@
       <attr-item tags="np.org"/>
       <attr-item tags="np.cog"/>
       <attr-item tags="num.card"/>
+      <attr-item tags="prn"/>
     </def-attr>
     <def-attr n="a_nominal">
       <attr-item tags="n.acr"/>
@@ -743,6 +747,29 @@
        {{{ rules -->
   <section-rules>
 
+    <rule comment="soviele2np: totally broken deu analysis of 'de'">
+      <pattern>
+        <pattern-item n="soviele2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="soviele2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP.SG.NOM"/></tag>
+            </tags>
+            <lu>
+              <lit v="yhtä"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="paljon"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="deadp2np: totally broken deu analysis of 'de'">
       <pattern>
         <pattern-item n="deadp2np"/>
