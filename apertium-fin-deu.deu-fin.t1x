@@ -95,6 +95,11 @@
       <cat-item tags="num.pl.*"/>
       <cat-item tags="num"/>
     </def-cat>
+    <def-cat n="plural">
+      <cat-item tags="n.*.pl.*"/>
+      <cat-item tags="np.*.pl.*"/>
+      <cat-item tags="prn.*.pl.*"/>
+    </def-cat>
     <def-cat n="num">
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
@@ -728,6 +733,17 @@
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ill"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="ohne"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="abe"/>
           </let>
           <let>
             <var n="adpmaybe"/><lit v=""/>
@@ -1472,10 +1488,10 @@
         </out>
       </action>
     </rule>
-    <rule comment="numeral nouns: partitive or stuff">
+    <rule comment="numeral plural: partitive or stuff">
       <pattern>
         <pattern-item n="cardinal"/>
-        <pattern-item n="nominal"/>
+        <pattern-item n="plural"/>
       </pattern>
       <action>
         <call-macro n="numtype-mangler">
