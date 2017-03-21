@@ -12,6 +12,12 @@
     <def-cat n="soviele2np">
       <cat-item lemma="so viele" tags="det.*"/>
     </def-cat>
+    <def-cat n="ex2np">
+      <cat-item lemma="ex" tags="adv"/>
+    </def-cat>
+    <def-cat n="nochein2np">
+      <cat-item lemma="noch ein" tags="det.*"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -104,6 +110,14 @@
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
     </def-cat>
+    <def-cat n="multiplier">
+      <cat-item tags="num.card"/>
+      <cat-item tags="num.card.*"/>
+      <cat-item tags="num.pl.*"/>
+      <cat-item tags="num"/>
+      <cat-item lemma="Milliarde" tags="n.*"/>
+      <cat-item lemma="Hundert" tags="n.*"/>
+    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbser.*"/>
@@ -178,6 +192,7 @@
       <attr-item tags="np"/>
       <attr-item tags="np.acr"/>
       <attr-item tags="np.acr.al"/>
+      <attr-item tags="np.top.acr"/>
       <attr-item tags="np.al.acr"/>
       <attr-item tags="np.org"/>
       <attr-item tags="np.cog"/>
@@ -197,6 +212,7 @@
       <attr-item tags="np"/>
       <attr-item tags="np.acr"/>
       <attr-item tags="np.acr.al"/>
+      <attr-item tags="np.top.acr"/>
       <attr-item tags="np.al.acr"/>
       <attr-item tags="num.card"/>
       <attr-item tags="det"/>
@@ -641,6 +657,17 @@
         </when>
         <when>
           <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="aus"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="über"/></equal>
           </test>
           <let>
@@ -765,6 +792,44 @@
        {{{ rules -->
   <section-rules>
 
+    <!-- }}}
+         {{{ rules per lexeme for special brokenness -->
+    <rule comment="ex2np: totally broken deu analysis of 'de'">
+      <pattern>
+        <pattern-item n="ex2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="ex2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP.SG.NOM"/></tag>
+            </tags>
+            <lu>
+              <lit v="ex"/>
+              <lit-tag v="n.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="nochein2np: totally broken deu analysis of 'de'">
+      <pattern>
+        <pattern-item n="nochein2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="nochein2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <lit v="yhä"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="soviele2np: totally broken deu analysis of 'de'">
       <pattern>
         <pattern-item n="soviele2np"/>
@@ -824,6 +889,8 @@
         </out>
       </action>
     </rule>
+    <!-- }}}
+         {{{ actual rules for real phrases and chunks -->
     <rule comment="wie geht es: how goes">
       <pattern>
         <pattern-item n="wie"/>
@@ -1483,6 +1550,41 @@
               <var n="number"/>
               <var n="case"/>
               <var n="possess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="numeral multiplier plural: partitive or stuff">
+      <pattern>
+        <pattern-item n="cardinal"/>
+        <pattern-item n="multiplier"/>
+        <pattern-item n="plural"/>
+      </pattern>
+      <action>
+        <call-macro n="numtype-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="MeasureP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="CountXP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_num"/>
+              <lit-tag v="card.sg.nom"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit-tag v="num.card.sg.par"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <lit-tag v="sg.par"/> <!-- either agree or sg.par -->
             </lu>
           </chunk>
         </out>
