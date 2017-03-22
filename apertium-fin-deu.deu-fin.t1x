@@ -1875,6 +1875,9 @@
         <pattern-item n="det"/>
       </pattern>
       <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="DetP" case="caseFirstWord">
             <tags>
