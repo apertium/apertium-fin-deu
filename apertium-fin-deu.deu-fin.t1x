@@ -18,6 +18,15 @@
     <def-cat n="nochein2np">
       <cat-item lemma="noch ein" tags="det.*"/>
     </def-cat>
+    <def-cat n="um">
+      <cat-item lemma="um" tags="cnjsub"/>
+      <cat-item lemma="um" tags="pr.*"/>
+      <cat-item lemma="um" tags="pr.acc"/>
+    </def-cat>
+    <def-cat n="uhr">
+      <cat-item lemma="Uhr" tags="n.*"/>
+      <cat-item lemma="uhr" tags="n.*"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -891,6 +900,44 @@
     </rule>
     <!-- }}}
          {{{ actual rules for real phrases and chunks -->
+    <rule comment="um N.NN uhr: kello N.NN">
+      <pattern>
+        <pattern-item n="um"/>
+        <pattern-item n="num"/>
+        <pattern-item n="uhr"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="UhrP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="UHR"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> <!-- Uhr -> kello -->
+              <clip pos="3" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.nom"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- 12.34 -->
+              <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="wie geht es: how goes">
       <pattern>
         <pattern-item n="wie"/>
