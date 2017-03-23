@@ -1654,7 +1654,8 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_num"/>
-              <lit-tag v="card.sg.nom"/>
+              <var n="numtype"/>
+              <lit-tag v="sg.nom"/>
             </lu>
             <b pos="1"/>
             <lu>
