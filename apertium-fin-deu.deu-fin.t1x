@@ -23,6 +23,10 @@
       <cat-item lemma="um" tags="pr.*"/>
       <cat-item lemma="um" tags="pr.acc"/>
     </def-cat>
+    <def-cat n="gegen">
+      <cat-item lemma="gegen" tags="pr.*"/>
+      <cat-item lemma="gegen" tags="pr.acc"/>
+    </def-cat>
     <def-cat n="uhr">
       <cat-item lemma="Uhr" tags="n.*"/>
       <cat-item lemma="uhr" tags="n.*"/>
@@ -314,7 +318,7 @@
       <choose>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/></equal>
           </test>
           <let>
             <var n="number"/><lit-tag v="sg"/>
@@ -322,7 +326,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="pl"/></equal>
           </test>
           <let>
             <var n="number"/><lit-tag v="pl"/>
@@ -930,6 +934,86 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/> <!-- 12.34 -->
               <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="gegen N.NN uhr: suunnilleen kello N.NN">
+      <pattern>
+        <pattern-item n="gegen"/>
+        <pattern-item n="num"/>
+        <pattern-item n="uhr"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="UhrP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="UHR"/></tag>
+            </tags>
+            <lu>
+              <lit v="suunnilleen"/>
+              <lit-tag v="post"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> <!-- Uhr -> kello -->
+              <clip pos="3" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.nom"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- 12.34 -->
+              <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="N.NN uhr: kello N.NN">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="uhr"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="UhrP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="UHR"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- Uhr -> kello -->
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.nom"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- 12.34 -->
+              <clip pos="1" side="tl" part="a_num"/>
               <var n="numtype"/>
               <var n="number"/>
               <var n="case"/>
