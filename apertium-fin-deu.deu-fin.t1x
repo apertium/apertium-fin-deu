@@ -3,6 +3,9 @@
 
   <!-- {{{ cats -->
   <section-def-cats>
+    <def-cat n="desomalieren2np">
+      <cat-item lemma="somalieren" tags="vblex.*"/>
+    </def-cat>
     <def-cat n="deadp2np">
       <cat-item lemma="de" tags="pr.*"/>
     </def-cat>
@@ -861,6 +864,24 @@
             <lu>
               <lit v="paljon"/>
               <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="desomalieren2np: totally broken deu analysis of 'de'">
+      <pattern>
+        <pattern-item n="desomalieren2np"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="DESOMALIEREN2NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP.SG.NOM"/></tag>
+            </tags>
+            <lu>
+              <lit v="somali"/>
+              <lit-tag v="n.sg.nom"/>
             </lu>
           </chunk>
         </out>
@@ -2010,6 +2031,9 @@
         <call-macro n="case-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="DetP" case="caseFirstWord">
             <tags>
@@ -2018,8 +2042,8 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_nominal"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="number"/>
+              <var n="case"/>
             </lu>
             <b pos="1"/>
           </chunk>
