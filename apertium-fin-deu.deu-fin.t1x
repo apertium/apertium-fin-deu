@@ -48,6 +48,12 @@
     <def-cat n="prnpers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
+    <def-cat n="prndem">
+      <cat-item tags="prn.dem.*"/>
+    </def-cat>
+    <def-cat n="np">
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="nominal">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -880,11 +886,11 @@
         <out>
           <chunk name="DESOMALIEREN2NP" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="NP.SG.NOM"/></tag>
+              <tag><lit-tag v="NP.PL.NOM"/></tag>
             </tags>
             <lu>
               <lit v="somali"/>
-              <lit-tag v="n.sg.nom"/>
+              <lit-tag v="n.pl.gen"/>
             </lu>
           </chunk>
         </out>
@@ -1578,6 +1584,42 @@
               <clip pos="3" side="tl" part="a_noun"/>
               <clip pos="1" side="tl" part="a_number"/>
               <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="prndem propn: deu fail~prndem is actually det">
+      <pattern>
+        <pattern-item n="prndem"/>
+        <pattern-item n="np"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+          </tags>
+          <!-- usually no dets...
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
+            </lu>
+            <b pos="1"/>
+           -->
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
         </out>
