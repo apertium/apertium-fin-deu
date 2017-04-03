@@ -248,6 +248,7 @@
     </def-attr>
     <def-attr n="a_number">
       <attr-item tags="sg"/>
+      <attr-item tags="sp"/>
       <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_perf">
@@ -342,6 +343,14 @@
           </test>
           <let>
             <var n="number"/><lit-tag v="pl"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sp"/>
           </let>
         </when>
         <otherwise>
@@ -1601,11 +1610,16 @@
         <call-macro n="case-mangler">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="N"/></tag>
-          </tags>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
           <!-- usually no dets...
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -1618,7 +1632,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
+              <var n="number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -1637,10 +1651,15 @@
         <call-macro n="case-mangler">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="N"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
           </tags>
           <!-- usually no dets...
             <lu>
@@ -1654,7 +1673,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
-              <clip pos="1" side="tl" part="a_number"/>
+              <var n="number"/>
               <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
@@ -1896,7 +1915,8 @@
       </action>
     </rule>
 
-    <!-- {{{ single word units last resorts -->
+    <!--}}}
+         {{{ single word units last resorts -->
     <rule comment="noun compounds: recompound">
       <pattern>
         <pattern-item n="cmp"/>
