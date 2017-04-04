@@ -95,11 +95,19 @@
       <cat-item tags="vblex.*.pp"/>
       <cat-item tags="vblex.pp"/>
     </def-cat>
+    <def-cat n="participle">
+      <cat-item tags="vblex.*.pp"/>
+      <cat-item tags="vblex.pp"/>
+    </def-cat>
     <def-cat n="haver">
       <cat-item tags="vbhaver.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="adjvl">
+      <cat-item tags="adj.*"/>
+      <cat-item tags="vblex.*.pp"/>
     </def-cat>
     <def-cat n="adp">
       <cat-item tags="post.*"/>
@@ -1251,6 +1259,43 @@
               <clip pos="3" side="tl" part="a_noun"/> <!-- n -->
               <var n="number"/> <!-- pl/sg -->
               <lit-tag v="ess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="pps nouns: share case and pl">
+      <pattern>
+        <pattern-item n="participle"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pasv.pp.pos"/>
+              <var n="case"/>
+              <var n="number"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
