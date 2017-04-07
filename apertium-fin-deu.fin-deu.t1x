@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
+  <!-- {{{ cats -->
   <section-def-cats>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
@@ -18,7 +19,8 @@
       <cat-item tags="sent"/>
     </def-cat>
   </section-def-cats>
-
+  <!-- }}}
+       {{{ attrs -->
   <section-def-attrs>
     <def-attr n="a_case">
       <attr-item tags="nom"/>
@@ -80,11 +82,12 @@
         <attr-item tags="p3.pl"/>
     </def-attr>
   </section-def-attrs>
-
+  <!-- }}}
+       {{{ vars -->
   <section-def-vars>
     <def-var n="number"/>
   </section-def-vars>
-
+  <!-- {{{ macros -->
   <section-def-macros>
     <def-macro n="test" npar="1">
           <let>
@@ -152,8 +155,11 @@
       </choose>
     </def-macro>
   </section-def-macros>
-
+  <!-- }}}
+       {{{ rules -->
   <section-rules>
+    <!-- }}}
+         {{{ single word fall-backs -->
     <rule comment="Drop voice from verbs, mangle tense mood">
       <pattern>
         <pattern-item n="verb"/>
@@ -219,13 +225,12 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="sint.attr"/>
+              <lit-tag v="sint.attr"/> <!-- don't know m/f...-->
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
-
     <rule comment="Default rule">
       <pattern>
         <pattern-item n="sent"/>
@@ -253,5 +258,6 @@ Resources:
     http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
     http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
     http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
--->
 
+vim: set foldmethod=marker:
+-->
