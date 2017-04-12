@@ -137,7 +137,8 @@
 
   <section id="main" type="standard">
 
-    <!--     {{{ nouns -->
+    <!-- nouns
+         {{{ nouns with genders -->
 
     <e c="language"><p><l>mari<s n="n"/></l><r>Mari<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aikalainen<s n="n"/></l><r>Zeitgenosse<s n="n"/><s n="m"/></r></p></e>
@@ -564,6 +565,7 @@
     <e><p><l>agenttuuri<s n="n"/></l><r>Agentur<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aggressio<s n="n"/></l><r>Aggression<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ahdistelu<s n="n"/></l><r>Belästigung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>aihe<s n="n"/></l><r>Thema<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aikakausi<s n="n"/></l><r>Ära<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aikakauslehti<s n="n"/></l><r>Zeitschrift<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aikataulu<s n="n"/></l><r>Zeitplan<s n="n"/></r></p><par n="anyg"/></e>
@@ -617,6 +619,7 @@
     <e><p><l>aluevesistö<s n="n"/></l><r>Hoheitsgewässer<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>alumiini<s n="n"/></l><r>Alu<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>alumni<s n="n"/></l><r>Absolvent<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>alus<s n="n"/></l><r>Schiff<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>alusta<s n="n"/></l><r>Plattform<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>alusta<s n="n"/></l><r>Unterlage<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ambulanssi<s n="n"/></l><r>Krankenwagen<s n="n"/></r></p><par n="anyg"/></e>
@@ -832,6 +835,7 @@
     <e><p><l>elinvuosi<s n="n"/></l><r>Lebensjahr<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>elokuvamusiikki<s n="n"/></l><r>Filmmusik<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>elokuvapalkinto<s n="n"/></l><r>Filmpreis<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>elokuva<s n="n"/></l><r>Film<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>elokuvateatterifilmi<s n="n"/></l><r>Kinofilm<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>eläkeläinen<s n="n"/></l><r>Rentner<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>eläkerahasto<s n="n"/></l><r>Pensionsfonds<s n="n"/></r></p><par n="anyg"/></e>
@@ -1010,6 +1014,7 @@
     <e><p><l>hippi<s n="n"/></l><r>Hippie<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hirvenvasa<s n="n"/></l><r>Rick<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hissi<s n="n"/></l><r>Fahrstuhl<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>historia<s n="n"/></l><r>Geschichte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>historioitsija<s n="n"/></l><r>Herstellung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>historioitsija<s n="n"/></l><r>Historiker<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hitti<s n="n"/></l><r>Hit<s n="n"/></r></p><par n="anyg"/></e>
@@ -1067,6 +1072,7 @@
     <e><p><l>häiriö<s n="n"/></l><r>Störung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>häiriötila<s n="n"/></l><r>Missstand<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hämmennys<s n="n"/></l><r>Verwirrung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>häntä<s n="n"/></l><r>Schwanz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hätä<s n="n"/></l><r>Notfall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hätä<s n="n"/></l><r>Not<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hävittäjä<s n="n"/></l><r>Kampfflugzeug<s n="n"/></r></p><par n="anyg"/></e>
@@ -1187,6 +1193,7 @@
     <e><p><l>jokivartelainen<s n="n"/></l><r>Anrainer<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jonglööri<s n="n"/></l><r>Jongleur<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jordanialainen<s n="n"/></l><r>Jordanier<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>joukko<s n="n"/></l><r>Gruppe<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>joukkue<s n="n"/></l><r>Mannschaft<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>joukkue<s n="n"/></l><r>Partie<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>joulu<s n="n"/></l><r>Weihnachten<s n="n"/></r></p><par n="anyg"/></e>
@@ -1240,6 +1247,7 @@
     <e><p><l>järjestäjä<s n="n"/></l><r>Veranstalter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>järjettömyys<s n="n"/></l><r>Unsinn<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>järkytys<s n="n"/></l><r>Betroffenheit<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>järvi<s n="n"/></l><r>See<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jäsenyys<s n="n"/></l><r>Mitgliedschaft<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jäähy<s n="n"/></l><r>Auszeit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jäähyväinen<s n="n"/></l><r>Abschied<s n="n"/></r></p><par n="anyg"/></e>
@@ -1936,6 +1944,7 @@
     <e><p><l>maalari<s n="n"/></l><r>Malerei<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maalari<s n="n"/></l><r>Maler<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maalaus<s n="n"/></l><r>Gemälde<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maali<s n="n"/></l><r>Ziel<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maamies<s n="n"/></l><r>Mitbürger<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maamyyrä<s n="n"/></l><r>Maulwurf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maanantaiaamu<s n="n"/></l><r>Montagmorgen<s n="n"/></r></p><par n="anyg"/></e>
@@ -2032,6 +2041,7 @@
     <e><p><l>merkki<s n="n"/></l><r>Zeichen<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>messu<s n="n"/></l><r>Messe<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mestaruus<s n="n"/></l><r>Meisterschaft<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>metal<s n="n"/></l><r>Metall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>metamorfoosi<s n="n"/></l><r>Metamorphose<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>metodi<s n="n"/></l><r>Methode<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>metri<s n="n"/></l><r>Meter<s n="n"/></r></p><par n="anyg"/></e>
@@ -2049,6 +2059,7 @@
     <e><p><l>mielenosoittaja<s n="n"/></l><r>Demonstrant<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mielenosoitus<s n="n"/></l><r>Kundgebung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mielentila<s n="n"/></l><r>Mut<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>mieli<s n="n"/></l><r>Bewusstsein<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mielivaltaisuus<s n="n"/></l><r>Willkür<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mies<s n="n"/></l><r>Mann<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>miliisi<s n="n"/></l><r>Miliz<s n="n"/></r></p><par n="anyg"/></e>
@@ -2122,6 +2133,7 @@
     <e><p><l>naapurimaa<s n="n"/></l><r>Nachbarland<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>naapuri<s n="n"/></l><r>Nachbar<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>naapurusto<s n="n"/></l><r>Stadtviertel<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>nainen<s n="n"/></l><r>Frau<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>naiskokki<s n="n"/></l><r>Köchin<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>naispoliitikko<s n="n"/></l><r>Politikerin<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>naispresidentti<s n="n"/></l><r>Präsidentin<s n="n"/></r></p><par n="anyg"/></e>
@@ -2559,6 +2571,7 @@
     <e><p><l>päiväys<s n="n"/></l><r>Datum<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pääasia<s n="n"/></l><r>Hauptgrund<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pääkaupunki<s n="n"/></l><r>Hauptstadt<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>päällikkö<s n="n"/></l><r>Chef<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>päämaja<s n="n"/></l><r>Firmensitz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>päämaja<s n="n"/></l><r>Hauptquartier<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pääministeri<s n="n"/></l><r>Ministerpräsidentin<s n="n"/></r></p><par n="anyg"/></e>
@@ -2906,6 +2919,7 @@
     <e><p><l>suojelualue<s n="n"/></l><r>Schutzzone<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suolaliemi<s n="n"/></l><r>Lake<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suola<s n="n"/></l><r>Salz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>suomi<s n="n"/></l><r>Finnisch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suoralento<s n="n"/></l><r>Direktverbindung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suorasanaisuus<s n="n"/></l><r>Direktheit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suorituskyky<s n="n"/></l><r>Leistung<s n="n"/></r></p><par n="anyg"/></e>
@@ -3609,6 +3623,7 @@
     <e><p><l>yhtenäisyys<s n="n"/></l><r>Zusammenhalt<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>yhteys<s n="n"/></l><r>Verbindung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>yhteys<s n="n"/></l><r>Zusammenhang<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>yhtye<s n="n"/></l><r>Band<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>yhtäläisyys<s n="n"/></l><r>Gleichung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ykkösehdokas<s n="n"/></l><r>Spitzenkandidat<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>yksikkö<s n="n"/></l><r>Einheit<s n="n"/></r></p><par n="anyg"/></e>
@@ -3627,6 +3642,7 @@
     <e><p><l>ylijäämä<s n="n"/></l><r>Überschuss<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ylikulku<s n="n"/></l><r>Übergang<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>yliopisto<s n="n"/></l><r>Uni<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>ylioppilas<s n="n"/></l><r>Abiturient<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ylipäällikkö<s n="n"/></l><r>Oberbefehlshaber<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ylityö<s n="n"/></l><r>Überarbeitung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ylivaltiosihteeri<s n="n"/></l><r>Staatsoberhaupt<s n="n"/></r></p><par n="anyg"/></e>
@@ -4225,7 +4241,8 @@
     <e><p><l>DM<s n="n"/><s n="abbr"/></l><r>DM<s n="abbr"/></r></p></e>
 
     <!-- }}}
-         {{{ adverbs -->
+         adverbs
+    {{{ adverbs -->
 
 
     <e c="colloquial kun.adv" r="LR"><p><l>kun<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
@@ -4279,6 +4296,7 @@
     <e><p><l>edessä<s n="adv"/></l><r>vorne<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>vorn<s n="adv"/></r></p></e>
     <e><p><l>ehjästi<s n="adv"/></l><r>unbeschadet<s n="adv"/></r></p></e>
+    <e><p><l>ehkä<s n="adv"/></l><r>vielleicht<s n="adv"/></r></p></e>
     <e><p><l>eilen<s n="adv"/></l><r>gestern<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>mehr<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>weiter<s n="adv"/></r></p></e>
@@ -4288,7 +4306,9 @@
     <e><p><l>enimmäkseen<s n="adv"/></l><r>zumeist<s n="adv"/></r></p></e>
     <e><p><l>enimmäkseen<s n="adv"/></l><r>zumeist<s n="adv"/></r></p></e>
     <e><p><l>enintään<s n="adv"/></l><r>maximal<s n="adv"/></r></p></e>
+    <e><p><l>eniten<s n="adv"/></l><r>meistens<s n="adv"/></r></p></e>
     <e><p><l>eniveis<s n="adv"/></l><r>jedenfalls<s n="adv"/></r></p></e>
+    <e><p><l>ennen<b/>kuin<s n="adv"/></l><r>bevor<s n="adv"/></r></p></e>
     <e><p><l>ennen<s n="adv"/></l><r>voran<s n="adv"/></r></p></e>
     <e><p><l>ennen<s n="adv"/></l><r>voran<s n="adv"/></r></p></e>
     <e><p><l>ennen<s n="adv"/></l><r>vorher<s n="adv"/></r></p></e>
@@ -4334,10 +4354,13 @@
     <e><p><l>häiritsevästi<s n="adv"/></l><r>eingreifen<s n="adv"/></r></p></e>
     <e><p><l>ikinä<s n="adv"/></l><r>je<s n="adv"/></r></p></e>
     <e><p><l>illalla<s n="adv"/></l><r>abends<s n="adv"/></r></p></e>
+    <e><p><l>ilman<s n="adv"/></l><r>ohne<s n="adv"/></r></p></e>
     <e><p><l>ilmeisesti<s n="adv"/></l><r>anscheinend<s n="adv"/></r></p></e>
     <e><p><l>innokkaasti<s n="adv"/></l><r>begeistert<s n="adv"/></r></p></e>
     <e><p><l>isällisesti<s n="adv"/></l><r>väterlicherseits<s n="adv"/></r></p></e>
     <e><p><l>itsenäisesti<s n="adv"/></l><r>unabhängig<s n="adv"/></r></p></e>
+    <e><p><l>itse<s n="adv"/></l><r>selbst<s n="adv"/></r></p></e>
+    <e><p><l>joko<s n="adv"/></l><r>weder<s n="adv"/></r></p></e>
     <e><p><l>jolloin<s n="adv"/></l><r>wobei<s n="adv"/></r></p></e>
     <e><p><l>jolloin<s n="adv"/></l><r>worauf<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>sogar<s n="adv"/></r></p></e>
@@ -4355,6 +4378,7 @@
     <e><p><l>jälkeen<s n="adv"/></l><r>darauf<s n="adv"/></r></p></e>
     <e><p><l>jälkeen<s n="adv"/></l><r>seitdem<s n="adv"/></r></p></e>
     <e><p><l>jälkeen<s n="adv"/></l><r>seither<s n="adv"/></r></p></e>
+    <e><p><l>jälleen<s n="adv"/></l><r>nochmal<s n="adv"/></r></p></e>
     <e><p><l>järjestelmällisesti<s n="adv"/></l><r>systematisch<s n="adv"/></r></p></e>
     <e><p><l>kahden<s n="adv"/></l><r>zusammen<s n="adv"/></r></p></e>
     <e><p><l>kahdesti<s n="adv"/></l><r>zweimal<s n="adv"/></r></p></e>
@@ -4389,6 +4413,7 @@
     <e><p><l>keskuudessa<s n="adv"/></l><r>aneinander<s n="adv"/></r></p></e>
     <e><p><l>kevyesti<s n="adv"/></l><r>leicht<s n="adv"/></r></p></e>
     <e><p><l>kirjaimellisesti<s n="adv"/></l><r>wörtlich<s n="adv"/></r></p></e>
+    <e><p><l>kokonaan<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
     <e><p><l>koko<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
     <e><p><l>kolmesti<s n="adv"/></l><r>dreimal<s n="adv"/></r></p></e>
     <e><p><l>korkeasti<s n="adv"/></l><r>hoch<s n="adv"/></r></p></e>
@@ -4410,6 +4435,7 @@
     <e><p><l>kuitenkin<s n="adv"/></l><r>trotzdem<s n="adv"/></r></p></e>
     <e><p><l>kunhan<s n="adv"/></l><r>soweit<s n="adv"/></r></p></e>
     <e><p><l>kuolettavasti<s n="adv"/></l><r>tödlich<s n="adv"/></r></p></e>
+    <e><p><l>kuten<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
     <e><p><l>kuten<s n="adv"/></l><r>wie<s n="adv"/></r></p></e>
     <e><p><l>kuukausittain<s n="adv"/></l><r>monatlich<s n="adv"/></r></p></e>
     <e><p><l>kyllä<s n="adv"/></l><r>ja<s n="adv"/></r></p></e>
@@ -4428,6 +4454,7 @@
     <e><p><l>laisinkaan<s n="adv"/></l><r>keinerlei<s n="adv"/></r></p></e>
     <e><p><l>laittomasti<s n="adv"/></l><r>illegal<s n="adv"/></r></p></e>
     <e><p><l>laittomasti<s n="adv"/></l><r>schwarz<s n="adv"/></r></p></e>
+    <e><p><l>liian<s n="adv"/></l><r>zu<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>außerdem<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>darauf<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>dazu<s n="adv"/></r></p></e>
@@ -4462,6 +4489,7 @@
     <e><p><l>mahdollisesti<s n="adv"/></l><r>möglichst<s n="adv"/></r></p></e>
     <e><p><l>massiivisesti<s n="adv"/></l><r>massiv<s n="adv"/></r></p></e>
     <e><p><l>melko<s n="adv"/></l><r>ziemlich<s n="adv"/></r></p></e>
+    <e><p><l>mennessä<s n="adv"/></l><r>bis<s n="adv"/></r></p></e>
     <e><p><l>menossa<s n="adv"/></l><r>unterwegs<s n="adv"/></r></p></e>
     <e><p><l>mielivaltaisesti<s n="adv"/></l><r>wahllos<s n="adv"/></r></p></e>
     <e><p><l>mihin<s n="adv"/></l><r>woran<s n="adv"/></r></p></e>
@@ -4481,6 +4509,7 @@
     <e><p><l>muuten<s n="adv"/></l><r>sonst<s n="adv"/></r></p></e>
     <e><p><l>muutoin<s n="adv"/></l><r>anders<s n="adv"/></r></p></e>
     <e><p><l>muuttuvasti<s n="adv"/></l><r>wenden<s n="adv"/></r></p></e>
+    <e><p><l>myöhemmin<s n="adv"/></l><r>später<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>später<s n="adv"/></r></p></e>
     <e><p><l>myöhässä<s n="adv"/></l><r>spät<s n="adv"/></r></p></e>
     <e><p><l>myöhään<s n="adv"/></l><r>spät<s n="adv"/></r></p></e>
@@ -4647,6 +4676,7 @@
     <e><p><l>tuloksetta<s n="adv"/></l><r>ergebnislos<s n="adv"/></r></p></e>
     <e><p><l>tunnetusti<s n="adv"/></l><r>ausgewählt<s n="adv"/></r></p></e>
     <e><p><l>tunninkestoisesti<s n="adv"/></l><r>stundenlang<s n="adv"/></r></p></e>
+    <e><p><l>tuolloin<s n="adv"/></l><r>dann<s n="adv"/></r></p></e>
     <e><p><l>tuoreesti<s n="adv"/></l><r>frisch<s n="adv"/></r></p></e>
     <e><p><l>tuplasti<s n="adv"/></l><r>doppelt<s n="adv"/></r></p></e>
     <e><p><l>turhaan<s n="adv"/></l><r>unnötig<s n="adv"/></r></p></e>
@@ -4676,6 +4706,7 @@
     <e><p><l>usein<s n="adv"/></l><r>häufig<s n="adv"/></r></p></e>
     <e><p><l>usein<s n="adv"/></l><r>mehrmals<s n="adv"/></r></p></e>
     <e><p><l>usein<s n="adv"/></l><r>oftmals<s n="adv"/></r></p></e>
+    <e><p><l>uudelleen<s n="adv"/></l><r>wieder<s n="adv"/></r></p></e>
     <e><p><l>uudestaan<s n="adv"/></l><r>erneut<s n="adv"/></r></p></e>
     <e><p><l>uudestaan<s n="adv"/></l><r>nochmals<s n="adv"/></r></p></e>
     <e><p><l>vaarallisesti<s n="adv"/></l><r>gefährlich<s n="adv"/></r></p></e>
@@ -4702,6 +4733,7 @@
     <e><p><l>varmasti<s n="adv"/></l><r>zweifellos<s n="adv"/></r></p></e>
     <e><p><l>varoiksi<s n="adv"/></l><r>vorsichtshalber<s n="adv"/></r></p></e>
     <e><p><l>varsinaisesti<s n="adv"/></l><r>vielmehr<s n="adv"/></r></p></e>
+    <e><p><l>varsinkin<s n="adv"/></l><r>speziell<s n="adv"/></r></p></e>
     <e><p><l>varsin<s n="adv"/></l><r>eher<s n="adv"/></r></p></e>
     <e><p><l>vasemmalle<s n="adv"/></l><r>links<s n="adv"/></r></p></e>
     <e><p><l>vastaan<s n="adv"/></l><r>anti<s n="adv"/></r></p></e>
@@ -4714,8 +4746,9 @@
     <e><p><l>vieressä<s n="adv"/></l><r>daneben<s n="adv"/></r></p></e>
     <e><p><l>vihjailevasti<s n="adv"/></l><r>anzüglich<s n="adv"/></r></p></e>
     <e><p><l>viikoittain<s n="adv"/></l><r>wöchentlich<s n="adv"/></r></p></e>
+    <e><p><l>viime<s n="adv"/></l><r>zuletzt<s n="adv"/></r></p></e>
     <e><p><l>viimein<s n="adv"/></l><r>letztendlich<s n="adv"/></r></p></e>
-    <e><p><l>viimeistään<s n="adv"/></l><r>mindestens<s n="adv"/></r></p></e>
+    <e><p><l>vähintään<s n="adv"/></l><r>mindestens<s n="adv"/></r></p></e>
     <e><p><l>viimeistään<s n="adv"/></l><r>spätestens<s n="adv"/></r></p></e>
     <e><p><l>viisi<s n="adv"/></l><r>nicths<s n="adv"/></r></p></e>
     <e><p><l>virallisesti<s n="adv"/></l><r>offiziell<s n="adv"/></r></p></e>
@@ -4768,12 +4801,22 @@
     <e><p><l>yllä<s n="adv"/></l><r>über<s n="adv"/></r></p></e>
     <e><p><l>ymmärrettävästi<s n="adv"/></l><r>vernünftig<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>herum<s n="adv"/></r></p></e>
+    <e><p><l>ympäri<s n="adv"/></l><r>rund<s n="adv"/></r></p></e>
     <e><p><l>ynnä<s n="adv"/></l><r>plus<s n="adv"/></r></p></e>
     <e><p><l>ystävällisesti<s n="adv"/></l><r>freundlich<s n="adv"/></r></p></e>
     <e><p><l>äsken<s n="adv"/></l><r>kürzlich<s n="adv"/></r></p></e>
     <e><p><l>äänekkäästi<s n="adv"/></l><r>laut<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
+    <e><p><l>tavallisesti<s n="adv"/></l><r>typischerweise<s n="adv"/></r></p></e>
+    <e><p><l>tavallisesti<s n="adv"/></l><r>normalerweise<s n="adv"/></r></p></e>
+    <e><p><l>välillä<s n="adv"/></l><r>irgendwann<s n="adv"/></r></p></e>
+    <e><p><l>kiinni<s n="adv"/></l><r>abhängig<s n="adv"/></r></p></e>
+    <e c="no good adv pairing" r="LR"><p><l>vuonna<s n="adv"/></l><r>dieses<b/>Jahr</r></p></e>
+
+
+
+    <e c="fin sti deriv is 0-conversion deu" r="LR"><p><l>sti<s n="adv"/></l><r/></p></e>
 
     <!-- }}}
          {{{ light adverbs -->
@@ -4831,8 +4874,8 @@
     <e r="LR"><p><l>tai<s n="adv"/></l><r>oder<s n="cnjcoo"/></r></p></e>
 
     <!-- }}}
-         {{{ verbs -->
-    <!-- regular -->
+         verbs
+        {{{ regular verbs -->
 
 
 
@@ -5802,6 +5845,7 @@
     <e><p><l>sanoa<s n="vblex"/></l><r>angeben<s n="vblex"/></r></p></e>
     <e><p><l>sanoa<s n="vblex"/></l><r>sagen<s n="vblex"/></r></p></e>
     <e><p><l>sanoa<s n="vblex"/></l><r>äußern<s n="vblex"/></r></p></e>
+    <e><p><l>sataa<s n="vblex"/></l><r>regen<s n="vblex"/></r></p></e>
     <e><p><l>sattua<s n="vblex"/></l><r>vorfallen<s n="vblex"/></r></p></e>
     <e><p><l>seisoa<s n="vblex"/></l><r>stehen<s n="vblex"/></r></p></e>
     <e><p><l>sekaantua<s n="vblex"/></l><r>einmischen<s n="vblex"/></r></p></e>
@@ -5905,6 +5949,7 @@
     <e><p><l>suureta<s n="vblex"/></l><r>vergrößern<s n="vblex"/></r></p></e>
     <e><p><l>sykkiä<s n="vblex"/></l><r>pochen<s n="vblex"/></r></p></e>
     <e><p><l>synnyttää<s n="vblex"/></l><r>gebären<s n="vblex"/></r></p></e>
+    <e><p><l>syntyä<s n="vblex"/></l><r>geboren<s n="vblex"/></r></p></e>
     <e><p><l>syrjiä<s n="vblex"/></l><r>benachteiligen<s n="vblex"/></r></p></e>
     <e><p><l>syrjäyttää<s n="vblex"/></l><r>verdrängen<s n="vblex"/></r></p></e>
     <e><p><l>syttyä<s n="vblex"/></l><r>entzünden<s n="vblex"/></r></p></e>
@@ -6380,7 +6425,8 @@
 
 
     <!-- }}}
-         {{{ conjunctions -->
+        conjunctions
+    {{{ conjunctions -->
 
     <e><p><l>eli<s n="cnjcoo"/></l><r>oder<s n="cnjcoo"/></r></p></e>
     <e><p><l>että<s n="cnjsub"/></l><r>dass<s n="cnjsub"/></r></p></e>
@@ -6432,13 +6478,13 @@
     <e><p><l>jollei<s n="cnjsub"/></l><r>es<b/>sei<b/>denn<s n="cnjsub"/></r></p></e>
 
     <e r="RL" c="old orth."><p><l>että<s n="cnjsub"/></l><r>daß<s n="cnjsub"/></r></p></e>
+    <e r="LR" c="split compound"><p><l>ett<s n="cnjsub"/></l><r>das<s n="cnjsub"/></r></p></e>
 
     <e c="mitä - sitä"><p><l>sitä<s n="cnjsub"/></l><r>desto<s n="cnjsub"/></r></p></e>
 
     <!-- }}}
-         {{{ pronouns -->
-
-    <!-- personal pronouns -->
+         pronouns -->
+    <!-- {{{ personal pronouns -->
 
     <!-- this is broken on deu side...? -->
     <e r="RL"><p><l>hän<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
@@ -6484,7 +6530,8 @@
             <r>prpers<s n="prn"/><s n="det"/><s n="pos"/><s n="p3"/><s n="f"/></r></p></e>
 
 
-    <!-- these dets are personal possessives... -->
+        <!-- }}}
+             {{{ these dets are personal possessives... -->
 
     <e><p><l>minä<s n="prn"/></l>
             <r>mein<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
@@ -6543,7 +6590,8 @@
     <e><p><l>nämä<s n="prn"/></l>
             <r>diese<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/></r></p></e>
 
-    <!-- + interrogatives -->
+        <!-- }}}
+             {{{ + interrogatives -->
 
     <e><p><l>mikä<s n="prn"/><s n="itg"/></l><r>was<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
     <e><p><l>missä<s n="prn"/></l><r>wo<s n="adv"/><s n="itg"/></r></p></e>
@@ -6552,7 +6600,8 @@
     <e><p><l>miksi<s n="prn"/></l><r>warum<s n="adv"/></r></p></e>
     <e><p><l>minne<s n="prn"/><s n="itg"/></l><r>wohin<s n="adv"/></r></p></e>
 
-    <!-- + relatives -->
+    <!-- }}}
+         {{{ + relatives -->
 
     <e><p><l>mikä<s n="prn"/></l><r>was<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>joka<s n="prn"/></l><r>der<s n="prn"/><s n="rel"/><s n="mfn"/></r></p></e>
@@ -6565,7 +6614,8 @@
     <e><p><l>joka<s n="prn"/></l><r>der<s n="rel"/><s n="m"/></r></p></e>
     <e><p><l>jokin<s n="prn"/></l><r>irgendwelche<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
 
-    <!-- demons -->
+    <!-- }}}
+         {{{ demons -->
 
     <e><p><l>tämä<s n="prn"/></l><r>dieser<s n="det"/></r></p></e>
     <e><p><l>tuo<s n="prn"/></l><r>dieser<s n="det"/></r></p></e>
@@ -6581,7 +6631,8 @@
     <e><p><l>ne<s n="prn"/></l><r>jener<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
     <e><p><l>nämä<s n="prn"/></l><r>der<s n="prn"/><s n="dem"/><s n="mfn"/></r></p></e>
 
-    <!-- restmull -->
+    <!-- }}}
+         {{{ restmull -->
 
     <e><p><l>itse<s n="prn"/></l><r>sich<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>jokainen<s n="prn"/></l><r>jede<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
@@ -6590,6 +6641,7 @@
     <e><p><l>jokin<s n="prn"/></l><r>etwas<s n="prn"/></r></p></e>
     <e><p><l>joku<s n="prn"/></l><r>jemand<s n="prn"/></r></p></e>
     <e><p><l>joku<s n="prn"/></l><r>wer<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>koko<s n="prn"/></l><r>alle<s n="det"/></r></p></e>
     <e><p><l>kaikki<s n="prn"/></l><r>alle<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
     <e><p><l>kaikki<s n="prn"/></l><r>alle<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
     <e><p><l>kaikki<s n="prn"/></l><r>alle<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
@@ -6620,6 +6672,7 @@
     <e><p><l>muutama<s n="prn"/></l><r>einige<s n="det"/><s n="qnt"/><s n="m"/></r></p></e>
     <e><p><l>muutama<s n="prn"/></l><r>wenige<s n="prn"/></r></p></e>
     <e><p><l>oma<s n="prn"/></l><r>eigen<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e><p><l>sama<s n="prn"/></l><r>derselbe<s n="prn"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>toinen<s n="prn"/></l><r>ander<s n="det"/><s n="pos"/><s n="nt"/></r></p></e>
@@ -6628,7 +6681,8 @@
     <e><p><l>eräs<s n="prn"/></l><r>man<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/></r></p></e>
 
     <!-- }}}
-         {{{ determiners! -->
+    determiners
+    {{{ determiners! -->
 
     <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="nt"/></r></p></e>
     <e><p><l>yksi<s n="det"/></l><r>ein<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
@@ -6646,7 +6700,8 @@
 
 
     <!-- }}}
-         {{{ adjectives -->
+    adjectives
+    {{{ regular adjectives -->
 
 
 
@@ -6660,6 +6715,7 @@
     <e><p><l>afroamerikkalainen<s n="adj"/></l><r>afroamerikanisch<s n="adj"/></r></p></e>
     <e><p><l>ahdistunut<s n="adj"/></l><r>angst<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>bisherig<s n="adj"/></r></p></e>
+    <e><p><l>aiempi<s n="adj"/></l><r>ehemalig<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>ehemalig<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>frühere<s n="adj"/></r></p></e>
     <e><p><l>aikaavievä<s n="adj"/></l><r>aufwendig<s n="adj"/></r></p></e>
@@ -6726,6 +6782,7 @@
     <e><p><l>bolivialainen<s n="adj"/></l><r>bolivianisch<s n="adj"/></r></p></e>
     <e><p><l>brasilialainen<s n="adj"/></l><r>brasilianisch<s n="adj"/></r></p></e>
     <e><p><l>britannialainen<s n="adj"/></l><r>britisch<s n="adj"/></r></p></e>
+    <e><p><l>brittiläinen<s n="adj"/></l><r>britisch<s n="adj"/></r></p></e>
     <e><p><l>brutaali<s n="adj"/></l><r>brutal<s n="adj"/></r></p></e>
     <e><p><l>dementoitunut<s n="adj"/></l><r>dementsprechend<s n="adj"/></r></p></e>
     <e><p><l>demokraattinen<s n="adj"/></l><r>demokratisch<s n="adj"/></r></p></e>
@@ -6753,6 +6810,8 @@
     <e><p><l>ensimmäinen<s n="adj"/></l><r>erste<s n="adj"/></r></p></e>
     <e><p><l>ensisijainen<s n="adj"/></l><r>primär<s n="adj"/></r></p></e>
     <e><p><l>ensisijainen<s n="adj"/></l><r>vorrangig<s n="adj"/></r></p></e>
+    <e><p><l>entinen<s n="adj"/></l><r>ehemalig<s n="adj"/></r></p></e>
+    <e><p><l>entinen<s n="adj"/></l><r>vormalig<s n="adj"/></r></p></e>
     <e><p><l>epäilyttävä<s n="adj"/></l><r>auffällig<s n="adj"/></r></p></e>
     <e><p><l>epäilyttävä<s n="adj"/></l><r>verdächtig<s n="adj"/></r></p></e>
     <e><p><l>epäinhimillinen<s n="adj"/></l><r>unmenschlich<s n="adj"/></r></p></e>
@@ -6823,6 +6882,7 @@
     <e><p><l>haudanvakava<s n="adj"/></l><r>schwerwiegend<s n="adj"/></r></p></e>
     <e><p><l>hauska<s n="adj"/></l><r>spaßig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>heikentynyt<s n="adj"/></l><r>abgeschwächt<s n="adj"/></r></p></e>
+    <e><p><l>heikko<s n="adj"/></l><r>schwach<s n="adj"/></r></p></e>
     <e><p><l>hengellinen<s n="adj"/></l><r>geistig<s n="adj"/></r></p></e>
     <e><p><l>hengellinen<s n="adj"/></l><r>geistlich<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>persönlich<s n="adj"/></r></p></e>
@@ -6906,6 +6966,7 @@
     <e><p><l>jemenläinen<s n="adj"/></l><r>jemenitisch<s n="adj"/></r></p></e>
     <e><p><l>jordanialainen<s n="adj"/></l><r>jordanisch<s n="adj"/></r></p></e>
     <e><p><l>juhlallinen<s n="adj"/></l><r>feierlich<s n="adj"/></r></p></e>
+    <e><p><l>julkaistu<s n="adj"/></l><r>veröffentlicht<s n="adj"/></r></p></e>
     <e><p><l>julkinen<s n="adj"/></l><r>öffentlich<s n="adj"/></r></p></e>
     <e><p><l>juridinen<s n="adj"/></l><r>juristisch<s n="adj"/></r></p></e>
     <e><p><l>juutalainen<s n="adj"/></l><r>jüdisch<s n="adj"/></r></p></e>
@@ -7050,6 +7111,7 @@
     <e><p><l>kuudes<s n="adj"/></l><r>sechste<s n="adj"/></r></p></e>
     <e><p><l>kuukaudenmittainen<s n="adj"/></l><r>monatelang<s n="adj"/></r></p></e>
     <e><p><l>kuukausittainen<s n="adj"/></l><r>monatlich<s n="adj"/></r></p></e>
+    <e><p><l>kuuluisa<s n="adj"/></l><r>berühmt<s n="adj"/></r></p></e>
     <e><p><l>kuvitteellinen<s n="adj"/></l><r>fiktiv<s n="adj"/></r></p></e>
     <e><p><l>kylmä<s n="adj"/></l><r>kalt<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>kylmäverinen<s n="adj"/></l><r>kaltblütig<s n="adj"/></r></p></e>
@@ -7860,7 +7922,8 @@
     <e r="LR"><p><l>tava<s n="adj"/></l><r/></p></e>
 
     <!-- }}}
-         {{{ adpositions -->
+         adpositions
+      {{{ adps without casestuff -->
 
     <e><p><l>alapuolella<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>alla<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
@@ -7991,12 +8054,14 @@
     <e r="RL"><p><l/><r>von<s n="pr"/><s n="dat"/></r></p></e>
 
     <!-- }}}
-         {{{ clits -->
+      Clitics
+    {{{ clits -->
 
     <e r="LR"><p><l>ko<s n="qst"/></l><r/></p></e>
 
     <!-- }}}
-         {{{ numerals -->
+         numerals
+    {{{ wordy numerals -->
 
     <e><p><l>yksi<s n="num"/></l><r>ein<s n="num"/></r></p></e>
     <e><p><l>yksi<s n="num"/></l><r>eins<s n="num"/></r></p></e>
@@ -8066,7 +8131,8 @@
     <e><p><l>16:9<s n="n"/></l><r>16:9<s n="num"/></r></p></e>
 
     <!-- }}}
-         {{{ props 1:1 -->
+    Proper nouns
+    {{{ props 1:1 -->
 
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
@@ -8765,7 +8831,8 @@
     <e><p><l>Siena<s n="np"/></l><r>Siena<s n="n"/></r></p></e>
 
     <!-- }}}
-         {{{ interjections -->
+    Interjections
+    {{{ interjections -->
 
     <e><p><l>he<s n="ij"/></l><r>heh<s n="ij"/></r></p></e>
     <e><p><l>ha<s n="ij"/></l><r>ha<s n="ij"/></r></p></e>
@@ -8778,12 +8845,8 @@
     <e><p><l>jees<s n="ij"/></l><r>super<s n="ij"/></r></p></e>
 
     <!-- }}}
-         {{{ ito -->
-
-    <e r="RL"><p><l/><r>zu<s n="ito"/></r></p></e>
-
-    <!-- }}}
-         {{{ puncts -->
+    Punctuatkion and stuff
+    {{{ puncts -->
 
     <e><p><l>.<s n="punct"/></l><r>.<s n="sent"/></r></p></e>
     <e><p><l>?<s n="punct"/></l><r>?<s n="sent"/></r></p></e>
@@ -8810,8 +8873,9 @@
 
     <!--
          }}}
-    -->
+    ito -->
 
+    <e r="RL"><p><l/><r>zu<s n="ito"/></r></p></e>
 
 
   </section>
