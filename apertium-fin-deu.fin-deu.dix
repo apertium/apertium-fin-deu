@@ -2757,6 +2757,7 @@
     <e><p><l>saattue<s n="n"/></l><r>Konvoi<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sadonkorjuu<s n="n"/></l><r>Ernte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sairaala<s n="n"/></l><r>Krankenhaus<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sairaus<s n="n"/></l><r>Krankheit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sairausvakuutus<s n="n"/></l><r>Krankenversicherung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>saksi<s n="n"/></l><r>Sachse<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>salaisuus<s n="n"/></l><r>Geheimnis<s n="n"/></r></p><par n="anyg"/></e>
@@ -3111,8 +3112,6 @@
     <e><p><l>terveysministeri<s n="n"/></l><r>Gesundheitsminister<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>terveysministeriö<s n="n"/></l><r>Gesundheitsministerium<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>terveys<s n="n"/></l><r>Gesundheit<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>terveys<s n="n"/></l><r>Krankheit<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>terveys<s n="n"/></l><r>Krankheit<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>terästehdas<s n="n"/></l><r>Stahlwerk<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>testamentti<s n="n"/></l><r>Testament<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>testamentti<s n="n"/></l><r>Testament<s n="n"/></r></p><par n="anyg"/></e>
