@@ -2057,6 +2057,45 @@
     <rule comment="noun compounds: recompound">
       <pattern>
         <pattern-item n="cmp"/>
+        <pattern-item n="cmp"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="N" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N.CMP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="gen"/>
+            </lu>
+              <!-- no blank -->
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="2" side="tl" part="a_number"/>
+              <lit-tag v="gen"/>
+            </lu>
+              <!-- no blank -->
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <clip pos="3" side="tl" part="a_number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="noun compounds: recompound">
+      <pattern>
+        <pattern-item n="cmp"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
