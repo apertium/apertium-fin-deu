@@ -527,7 +527,7 @@
     <e><p><l>ääni<s n="n"/></l><r>Stimme<s n="n"/><s n="f"/></r></p></e>
 
     <!-- }}}
-                {{{    no u  n      s:   u   n  ca t  eg  o rise d gende rs
+                {{{    no u  n       s:   u   n  ca t  eg  o rise d gende rs
       -->
 
 
@@ -998,6 +998,7 @@
     <e><p><l>heikkous<s n="n"/></l><r>Schwachstelle<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>heimo<s n="n"/></l><r>Stamm<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>helikopteri<s n="n"/></l><r>Hubschrauber<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>helpotus<s n="n"/></l><r>Erleichterung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>henkilökunta<s n="n"/></l><r>Belegschaft<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>henkilöstö<s n="n"/></l><r>Mitarbeiterstab<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>henkilöstö<s n="n"/></l><r>Personalie<s n="n"/></r></p><par n="anyg"/></e>
@@ -1061,6 +1062,7 @@
     <e><p><l>huutokauppa<s n="n"/></l><r>Auktionshaus<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hylkäys<s n="n"/></l><r>Ablehnung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hylkäys<s n="n"/></l><r>Verzicht<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>hylkääminen<s n="n"/></l><r>Abkehr<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hypoteekki<s n="n"/></l><r>Hypothek<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hypotermia<s n="n"/></l><r>Unterkühlung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hyppy<s n="n"/></l><r>Absprung<s n="n"/></r></p><par n="anyg"/></e>
@@ -1975,8 +1977,8 @@
     <e><p><l>maanosa<s n="n"/></l><r>Kontinent<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maanosa<s n="n"/></l><r>Landesteil<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maantie<s n="n"/></l><r>Landstraße<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>maanvyörymä<s n="n"/></l><r>Erdrutsch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maanvyörymä<s n="n"/></l><r>Erdrutsche<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>maanvyörymä<s n="n"/></l><r>Erdrutsch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maaottelu<s n="n"/></l><r>Länderspiel<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maaperä<s n="n"/></l><r>Grundlage<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>maa<s n="n"/></l><r>Boden<s n="n"/></r></p><par n="anyg"/></e>
@@ -2255,11 +2257,13 @@
     <e><p><l>omistus<s n="n"/></l><r>Besitz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>omistus<s n="n"/></l><r>Eigen<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>omistus<s n="n"/></l><r>Eigentum<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>onnentoivotus<s n="n"/></l><r>Glückwunsch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Absturz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Umfall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Unfall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Unglück<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Vorfall<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>onnittelu<s n="n"/></l><r>Glückwunsch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>oomega<s n="n"/></l><r>Omega<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ooppera<s n="n"/></l><r>Oper<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>operaatio<s n="n"/></l><r>Operation<s n="n"/></r></p><par n="anyg"/></e>
@@ -3735,6 +3739,7 @@
     <e><p><l>öljynhinta<s n="n"/></l><r>Ölpreis<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljyputki<s n="n"/></l><r>Ölpipeline<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy<s n="n"/></l><r>Öl<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/></r></p><par n="anyg"/></e>
@@ -3790,7 +3795,9 @@
     <e c="probably always wrong"><p><l>aari<s n="n"/></l><r>ar<s n="n"/></r></p><par n="anyg"/></e>
     <e c="usually wrong de-compound"><p><l>keihäs<s n="n"/></l><r>ger<s n="n"/></r></p><par n="anyg"/></e>
     <e c="usually wrong segmentation"><p><l>assi<s n="n"/></l><r>as<s n="n"/></r></p><par n="anyg"/></e>
+    <e c="usually wrong segment i.e. suffix -los"><p><l>lotto<s n="n"/></l><r>los<s n="n"/></r></p><par n="anyg"/></e>
     <e c="usually wrong segment"><p><l>potaska<s n="n"/></l><r>kali<s n="n"/></r></p><par n="anyg"/></e>
+    <e c="usually wrong segment"><p><l>tau<s n="n"/></l><r>tau<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aalto<s n="n"/></l><r>welle<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aikalainen<s n="n"/></l><r>zukünftiger<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>aika<s n="n"/></l><r>zeit<s n="n"/></r></p><par n="anyg"/></e>
@@ -3980,6 +3987,7 @@
     <e><p><l>muodostus<s n="n"/></l><r>bildung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>murhaaja<s n="n"/></l><r>mörder<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>murha<s n="n"/></l><r>mord<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>myynti<s n="n"/></l><r>verkauf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>määrittely<s n="n"/></l><r>angabe<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>mökki<s n="n"/></l><r>hütte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>napa<s n="n"/></l><r>pol<s n="n"/></r></p><par n="anyg"/></e>
@@ -4067,6 +4075,7 @@
     <e><p><l>ravinto<s n="n"/></l><r>ernährung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ravinto<s n="n"/></l><r>ernährung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>reformi<s n="n"/></l><r>reform<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>reitti<s n="n"/></l><r>gang<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>resurssi<s n="n"/></l><r>ressource<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>rikkomus<s n="n"/></l><r>verstoß<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>rikollisuus<s n="n"/></l><r>kriminalität<s n="n"/></r></p><par n="anyg"/></e>
@@ -4087,6 +4096,7 @@
     <e><p><l>sattuma<s n="n"/></l><r>chance<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>selvitys<s n="n"/></l><r>erklärung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seuraaja<s n="n"/></l><r>nachfolge<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>sija<s n="n"/></l><r>platz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sisä<s n="n"/></l><r>innere<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sitoja<s n="n"/></l><r>binder<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>skandaali<s n="n"/></l><r>skandal<s n="n"/></r></p><par n="anyg"/></e>
@@ -4142,7 +4152,9 @@
     <e><p><l>tuote<s n="n"/></l><r>produkt<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>tuottaja<s n="n"/></l><r>hersteller<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>turva<s n="n"/></l><r>schutz<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tutkimusinstituutti<s n="n"/></l><r>forschungsinstitut<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>tutkimus<s n="n"/></l><r>ermittlung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tutkimus<s n="n"/></l><r>forschung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>työ<s n="n"/></l><r>geschäft<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>täyttäjä<s n="n"/></l><r>füller<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>uhka<s n="n"/></l><r>bedrohung<s n="n"/></r></p><par n="anyg"/></e>
@@ -4996,6 +5008,7 @@
     <e><p><l>ajaa<s n="vblex"/></l><r>durchführen<s n="vblex"/></r></p></e>
     <e><p><l>ajaa<s n="vblex"/></l><r>treiben<s n="vblex"/></r></p></e>
     <e><p><l>ajatella<s n="vblex"/></l><r>denken<s n="vblex"/></r></p></e>
+    <e><p><l>ajautua<s n="vblex"/></l><r>abdriften<s n="vblex"/></r></p></e>
     <e><p><l>ajoittaa<s n="vblex"/></l><r>datieren<s n="vblex"/></r></p></e>
     <e><p><l>alaskirjata<s n="vblex"/></l><r>abschreiben<s n="vblex"/></r></p></e>
     <e><p><l>aliarvioida<s n="vblex"/></l><r>unterschätzen<s n="vblex"/></r></p></e>
@@ -5512,6 +5525,7 @@
     <e><p><l>lisätä<s n="vblex"/></l><r>ergänzen<s n="vblex"/></r></p></e>
     <e><p><l>lisätä<s n="vblex"/></l><r>fügen<s n="vblex"/></r></p></e>
     <e><p><l>lisäytyä<s n="vblex"/></l><r>mehren<s n="vblex"/></r></p></e>
+    <e><p><l>liukua<s n="vblex"/></l><r>rutschen<s n="vblex"/></r></p></e>
     <e><p><l>lohduttaa<s n="vblex"/></l><r>trösten<s n="vblex"/></r></p></e>
     <e><p><l>loistaa<s n="vblex"/></l><r>scheinen<s n="vblex"/></r></p></e>
     <e><p><l>loistaa<s n="vblex"/></l><r>schillern<s n="vblex"/></r></p></e>
@@ -6509,6 +6523,7 @@
     <e><p><l>matkustaa<s n="vblex"/></l><r>reisen<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>myöntyä<s n="vblex"/></l><r>stimmen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>noudattaa<s n="vblex"/></l><r>kommen<g><b/>nach</g><s n="vblex"/></r></p></e>
+    <e><p><l>noutaa<s n="vblex"/></l><r>nehmen<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>nousta<s n="vblex"/></l><r>stehen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>näyttää<s n="vblex"/></l><r>weisen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>odottaa<s n="vblex"/></l><r>gehen<g><b/>davon</g><s n="vblex"/></r></p></e>
@@ -7280,6 +7295,7 @@
     <e><p><l>luoteinen<s n="adj"/></l><r>nordwestlich<s n="adj"/></r></p></e>
     <e><p><l>luotettava<s n="adj"/></l><r>verlässlich<s n="adj"/></r></p></e>
     <e><p><l>luottamuksellinen<s n="adj"/></l><r>vertraulich<s n="adj"/></r></p></e>
+    <e><p><l>lupaava<s n="adj"/></l><r>vielversprechend<s n="adj"/></r></p></e>
     <e><p><l>luterilainen<s n="adj"/></l><r>lutherisch<s n="adj"/></r></p></e>
     <e><p><l>luvaton<s n="adj"/></l><r>eigenmächtig<s n="adj"/></r></p></e>
     <e><p><l>luvaton<s n="adj"/></l><r>unerlaubt<s n="adj"/></r></p></e>
@@ -7505,6 +7521,7 @@
     <e><p><l>progressiivinen<s n="adj"/></l><r>progressiv<s n="adj"/></r></p></e>
     <e><p><l>prominentti<s n="adj"/></l><r>prominent<s n="adj"/></r></p></e>
     <e><p><l>provosoitu<s n="adj"/></l><r>provoziert<s n="adj"/></r></p></e>
+    <e><p><l>provosoiva<s n="adj"/></l><r>provokant<s n="adj"/></r></p></e>
     <e><p><l>psyykkinen<s n="adj"/></l><r>psychisch<s n="adj"/></r></p></e>
     <e><p><l>puhdas<s n="adj"/></l><r>rein<s n="adj"/></r></p></e>
     <e><p><l>puhdas<s n="adj"/></l><r>sauber<s n="adj"/></r></p></e>
@@ -8218,6 +8235,7 @@
 
     <e><p><l>miljoona<s n="num"/><s n="card"/></l><r>Million<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>miljardi<s n="num"/><s n="card"/></l><r>Milliarde<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>biljoona<s n="num"/><s n="card"/></l><r>Billion<s n="n"/></r></p><par n="anyg"/></e>
 
     <!-- }}}
          {{{ digit loops -->
@@ -8964,15 +8982,16 @@
     Interjections
     {{{ interjections -->
 
-    <e><p><l>he<s n="ij"/></l><r>heh<s n="ij"/></r></p></e>
+    <e><p><l>anteeksi<s n="ij"/></l><r>entschuldigung<s n="ij"/></r></p></e>
     <e><p><l>ha<s n="ij"/></l><r>ha<s n="ij"/></r></p></e>
-    <e><p><l>no<s n="ij"/></l><r>na<s n="ij"/></r></p></e>
     <e><p><l>hei<s n="ij"/></l><r>hallo<s n="ij"/></r></p></e>
+    <e><p><l>he<s n="ij"/></l><r>heh<s n="ij"/></r></p></e>
+    <e><p><l>jees<s n="ij"/></l><r>super<s n="ij"/></r></p></e>
     <e><p><l>kiitos<s n="ij"/></l><r>danke<s n="ij"/></r></p></e>
     <e><p><l>kiitos<s n="ij"/></l><r>vielen<b/>dank<s n="ij"/></r></p></e>
-    <e><p><l>anteeksi<s n="ij"/></l><r>entschuldigung<s n="ij"/></r></p></e>
+    <e><p><l>no<s n="ij"/></l><r>na<s n="ij"/></r></p></e>
+    <e><p><l>onnea<s n="ij"/></l><r>gratulation<s n="ij"/></r></p></e>
     <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="ij"/></r></p></e>
-    <e><p><l>jees<s n="ij"/></l><r>super<s n="ij"/></r></p></e>
 
     <!-- }}}
     Punctuatkion and stuff
