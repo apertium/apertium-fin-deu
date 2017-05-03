@@ -355,7 +355,10 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+            <and>
+              <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+              <equal><clip pos="1" side="tl" part="lem"/><lit v="kaikki"/></equal>
+            </and>
           </test>
           <let>
             <var n="number"/><lit-tag v="sp"/>
@@ -1231,8 +1234,8 @@
               <tag><lit-tag v="ADE"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/> <!-- hund -> koira -->
-              <clip pos="1" side="tl" part="a_adv"/> <!-- n -->
+              <clip pos="1" side="tl" part="lem"/> <!-- wie -> miten -->
+              <clip pos="1" side="tl" part="a_adv"/> <!-- adv -->
             </lu>
             <b pos="1"/>
             <lu>
