@@ -22,5 +22,16 @@ if ! apertium -d . deu-fin-debug < ${DAILYMAIL} |\
             hfst-lookup -q fin-deu.automorf.hfst |\
             fgrep '<'
     fi
+else
+    apertium -d . deu-fin-debug < ${DAILYMAIL} |\
+        egrep -o '@[^<]*' |\
+        tr -d '@<' |\
+        sort |\
+        uniq |\
+        lt-proc -a deu-fin.automorf-untrimmed.bin |\
+        tr -d '^$' |\
+        tr '/' '	' |\
+        sed -e 's/></./g' |\
+        fgrep '<' --colour=always
 fi
 rm -v ${DAILYMAIL}
