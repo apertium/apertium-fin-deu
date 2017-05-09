@@ -34,6 +34,24 @@
       <cat-item lemma="Uhr" tags="n.*"/>
       <cat-item lemma="uhr" tags="n.*"/>
     </def-cat>
+    <def-cat n="monat">
+      <cat-item lemma="Januar" tags="n.*"/>
+      <cat-item lemma="Februar" tags="n.*"/>
+      <cat-item lemma="März" tags="n.*"/>
+      <cat-item lemma="April" tags="n.*"/>
+      <cat-item lemma="Mai" tags="np.*"/>
+      <cat-item lemma="mai" tags="n.*"/>
+      <cat-item lemma="Juni" tags="n.*"/>
+      <cat-item lemma="Juli" tags="n.*"/>
+      <cat-item lemma="August" tags="n.*"/>
+      <cat-item lemma="September" tags="n.*"/>
+      <cat-item lemma="Oktober" tags="n.*"/>
+      <cat-item lemma="November" tags="n.*"/>
+      <cat-item lemma="Dezember" tags="n.*"/>
+    </def-cat>
+    <def-cat n="daynumber">
+      <cat-item tags="num.ord"/>
+    </def-cat>
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -953,7 +971,7 @@
       </action>
     </rule>
     <!-- }}}
-         {{{ actual rules for real phrases and chunks -->
+         {{{ act ual rules for real phrases and chunks -->
     <rule comment="adp det nouns nouns: drop case, det, move case to last N of
       compound(?) NP">
       <pattern>
@@ -988,14 +1006,14 @@
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <clip pos="3" side="tl" part="a_number"/>
               <lit-tag v="nom"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="4" side="tl" part="lem"/>
               <clip pos="4" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <clip pos="4" side="tl" part="a_number"/>
               <var n="adpcase"/>
             </lu>
           </chunk>
@@ -1039,14 +1057,14 @@
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_adj"/>
               <var n="comparison"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <clip pos="4" side="tl" part="a_number"/>
               <var n="adpcase"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="4" side="tl" part="lem"/>
               <clip pos="4" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <clip pos="4" side="tl" part="a_number"/>
               <var n="adpcase"/>
             </lu>
           </chunk>
@@ -1172,6 +1190,43 @@
               <var n="numtype"/>
               <var n="number"/>
               <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="NN. Monat: NN. kuuta">
+      <pattern>
+        <pattern-item n="daynumber"/>
+        <pattern-item n="monat"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="MonatP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="MONAT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/> <!-- 21. -> 21. -->
+              <clip pos="1" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- März -> tammikuuta-->
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.nom"/>
             </lu>
           </chunk>
         </out>
@@ -1349,6 +1404,9 @@
         <call-macro n="case-mangler">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
@@ -1362,7 +1420,7 @@
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_nominal"/>
-              <clip pos="2" side="tl" part="a_number"/>
+              <var n="number"/>
               <var n="adpcase"/>
             </lu>
           </chunk>
