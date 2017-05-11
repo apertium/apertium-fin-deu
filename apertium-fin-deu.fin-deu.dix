@@ -529,7 +529,7 @@
     <e><p><l>ääni<s n="n"/></l><r>Stimme<s n="n"/><s n="f"/></r></p></e>
 
     <!-- }}}
-                  {{{     no u  n          s :   u    n  ca t  eg  o rise d gende rs
+                  {{{      no u  n          s :   u    n  ca t  eg  o rise d gende rs
       -->
 
 
@@ -973,6 +973,7 @@
     <e><p><l>haastateltu<s n="n"/></l><r>Befragte<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>haastattelu<s n="n"/></l><r>Interview<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>haaste<s n="n"/></l><r>Herausforderung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>haaste<s n="n"/></l><r>Vorladung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>haava<s n="n"/></l><r>Wunde<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hahmo<s n="n"/></l><r>Figur<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hajoaminen<s n="n"/></l><r>Panne<s n="n"/></r></p><par n="anyg"/></e>
@@ -1163,6 +1164,7 @@
     <e><p><l>ip-osoite<s n="n"/></l><r>IP-Adresse<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>Irakin-sota<s n="n"/></l><r>Irakkrieg<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>irlantilainen<s n="n"/></l><r>Irin<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>irtisanominen<s n="n"/></l><r>Rauswurf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>isku<s n="n"/></l><r>Aufprall<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>isku<s n="n"/></l><r>Schlag<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>islamisti<s n="n"/></l><r>Islamist<s n="n"/></r></p><par n="anyg"/></e>
@@ -1574,6 +1576,7 @@
     <e><p><l>kondiittori<s n="n"/></l><r>Konditor<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>konditoria<s n="n"/></l><r>Konditorei<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kondomi<s n="n"/></l><r>Kondom<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>konekivääri<s n="n"/></l><r>Maschinengewehr<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kone<s n="n"/></l><r>Maschine<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>konferenssi<s n="n"/></l><r>Konferenz<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>konflikti<s n="n"/></l><r>Konflikt<s n="n"/></r></p><par n="anyg"/></e>
@@ -2100,6 +2103,7 @@
     <e><p><l>meri<s n="n"/></l><r>Meer<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>meri<s n="n"/></l><r>Ozean<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>meri<s n="n"/></l><r>See<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>meritukikohta<s n="n"/></l><r>Marinestützpunkt<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>merkitys<s n="n"/></l><r>Bezeichnung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>merkkijono<s n="n"/></l><r>Zeichenkette<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>merkki<s n="n"/></l><r>Label<s n="n"/></r></p><par n="anyg"/></e>
@@ -2435,6 +2439,7 @@
     <e><p><l>parlamentinpresidentti<s n="n"/></l><r>Parlamentspräsident<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>parlamentti<s n="n"/></l><r>Parlament<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>paroni<s n="n"/></l><r>Baron<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>partiointilaiva<s n="n"/></l><r>Patrouillenboot<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>partnerihaku<s n="n"/></l><r>Partnersuche<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>partneri<s n="n"/></l><r>Partner<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>passaulainen<s n="n"/></l><r>Passauer<s n="n"/></r></p><par n="anyg"/></e>
@@ -2895,6 +2900,7 @@
     <e><p><l>seuraaja<s n="n"/></l><r>Gefolgsmann<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seuraaja<s n="n"/></l><r>Nachfolger<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seuraaja<s n="n"/></l><r>Nachfolge<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>seuraajatar<s n="n"/></l><r>Nachfolgerin<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seuraajisto<s n="n"/></l><r>Nachfolge<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seurakuntalainen<s n="n"/></l><r>Gemeindemitglied<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>seurakunta<s n="n"/></l><r>Pfarrkirche<s n="n"/></r></p><par n="anyg"/></e>
@@ -3087,6 +3093,7 @@
     <e><p><l>sääntö<s n="n"/></l><r>Vorschrift<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>säästötoimenpide<s n="n"/></l><r>Sparmaßnahme<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>taakka<s n="n"/></l><r>Belastung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>tahto<s n="n"/></l><r>Lust<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>taidekokoelma<s n="n"/></l><r>Kunstsammlung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>taide<s n="n"/></l><r>Kunst<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>taikina<s n="n"/></l><r>Teig<s n="n"/></r></p><par n="anyg"/></e>
@@ -4131,6 +4138,7 @@
     <e><p><l>pata<s n="n"/></l><r>topf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>peitto<s n="n"/></l><r>decke<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pelaaja<s n="n"/></l><r>spieler<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>pelastaja<s n="n"/></l><r>retter<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>peli<s n="n"/></l><r>spiel<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>pelto<s n="n"/></l><r>feld<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>perfekti<s n="n"/></l><r>perfekt<s n="n"/></r></p><par n="anyg"/></e>
@@ -4180,6 +4188,7 @@
     <e><p><l>päästö<s n="n"/></l><r>emission<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>päätös<s n="n"/></l><r>beschluss<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>päätös<s n="n"/></l><r>entscheidung<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>raha<s n="n"/></l><r>geld<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>rahasto<s n="n"/></l><r>fonds<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>rahoitus<s n="n"/></l><r>finanzierung<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>raita<s n="n"/></l><r>track<s n="n"/></r></p><par n="anyg"/></e>
@@ -4231,6 +4240,7 @@
     <e><p><l>sota<s n="n"/></l><r>krieg<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>sotilas<s n="n"/></l><r>soldat<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>ständi<s n="n"/></l><r>stand<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>suihkukone<s n="n"/></l><r>jet<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>suppa<s n="n"/></l><r>soll<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>syntinen<s n="n"/></l><r>sünder<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>syytös<s n="n"/></l><r>vorwurf<s n="n"/></r></p><par n="anyg"/></e>
@@ -6498,6 +6508,7 @@
     <e><p><l>varoittaa<s n="vblex"/></l><r>alarmieren<s n="vblex"/></r></p></e>
     <e><p><l>varoittaa<s n="vblex"/></l><r>verständigen<s n="vblex"/></r></p></e>
     <e><p><l>varoittaa<s n="vblex"/></l><r>warnen<s n="vblex"/></r></p></e>
+    <e><p><l>varustaa<s n="vblex"/></l><r>ausrüsten<s n="vblex"/></r></p></e>
     <e><p><l>varustaa<s n="vblex"/></l><r>bereitstellen<s n="vblex"/></r></p></e>
     <e><p><l>vastaanottaa<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>antworten<s n="vblex"/></r></p></e>
@@ -7766,6 +7777,7 @@
     <e><p><l>rikollinen<s n="adj"/></l><r>kriminell<s n="adj"/></r></p></e>
     <e><p><l>rikollinen<s n="adj"/></l><r>straffällig<s n="adj"/></r></p></e>
     <e><p><l>rinnakkainen<s n="adj"/></l><r>parallel<s n="adj"/></r></p></e>
+    <e><p><l>riskialtis<s n="adj"/></l><r>riskant<s n="adj"/></r></p></e>
     <e><p><l>rivakka<s n="adj"/></l><r>forsch<s n="adj"/></r></p></e>
     <e><p><l>robusti<s n="adj"/></l><r>robust<s n="adj"/></r></p></e>
     <e><p><l>romaaninen<s n="adj"/></l><r>romanisch<s n="adj"/></r></p></e>
@@ -8277,7 +8289,6 @@
     <e><p><l>yllä<s n="post"/></l><r>nach<b/>oben<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
-    <e><p><l>vastoin<s n="post"/></l><r>dagegen<s n="pr"/></r></p></e>
     <e r="LR"><p><l>sisällä<s n="post"/></l><r>in<s n="pr"/></r></p></e>
 
     <!-- }}}
@@ -8362,6 +8373,7 @@
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastapäätä<s n="post"/></l><r>gegenüber<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>vastoin<s n="post"/></l><r>dagegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>ympärille<s n="post"/></l><r>um<s n="pr"/><s n="acc"/></r></p></e>
 
