@@ -26,6 +26,10 @@
       <cat-item lemma="um" tags="pr.*"/>
       <cat-item lemma="um" tags="pr.acc"/>
     </def-cat>
+    <def-cat n="an">
+      <cat-item lemma="an" tags="pr.*"/>
+      <cat-item lemma="an" tags="pr.dat"/>
+    </def-cat>
     <def-cat n="gegen">
       <cat-item lemma="gegen" tags="pr.*"/>
       <cat-item lemma="gegen" tags="pr.acc"/>
@@ -1195,6 +1199,45 @@
         </out>
       </action>
     </rule>
+    <rule comment="am NN. Monat: NN. kuuta">
+      <pattern>
+        <pattern-item n="an"/>
+        <pattern-item n="art"/>
+        <pattern-item n="daynumber"/>
+        <pattern-item n="monat"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="MonatP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="MONAT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> <!-- 21. -> 21. -->
+              <clip pos="3" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <lit-tag v="ess"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/> <!-- März -> tammikuuta-->
+              <clip pos="4" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.par"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="NN. Monat: NN. kuuta">
       <pattern>
         <pattern-item n="daynumber"/>
@@ -1226,7 +1269,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/> <!-- März -> tammikuuta-->
               <clip pos="2" side="tl" part="a_nominal"/>
-              <lit-tag v="sg.nom"/>
+              <lit-tag v="sg.par"/>
             </lu>
           </chunk>
         </out>
