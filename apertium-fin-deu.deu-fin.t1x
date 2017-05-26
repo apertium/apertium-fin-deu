@@ -184,6 +184,9 @@
     <def-cat n="cnjcoo">
       <cat-item tags="cnjcoo"/>
     </def-cat>
+    <def-cat n="comma">
+      <cat-item lemma="," tags="cm"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -757,6 +760,17 @@
         </when>
         <when>
           <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="Bei"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/><lit-tag v="ade"/>
+          </let>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="von"/></equal>
           </test>
           <let>
@@ -976,6 +990,70 @@
     </rule>
     <!-- }}}
          {{{ act ual rules for real phrases and chunks -->
+    <rule comment="adp nominal, nominal und nominal: drop case move case to last N of NP">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="comma"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="cnjcoo"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="6"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="4"/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+            <b pos="5"/>
+            <lu>
+              <clip pos="6" side="tl" part="lem"/>
+              <clip pos="6" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp det nouns nouns: drop case, det, move case to last N of
       compound(?) NP">
       <pattern>
