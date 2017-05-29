@@ -749,18 +749,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="bei"/></equal>
-          </test>
-          <let>
-            <var n="adpcase"/><lit-tag v="ade"/>
-          </let>
-          <let>
-            <var n="adpmaybe"/><lit v=""/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="Bei"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="bei"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ade"/>
