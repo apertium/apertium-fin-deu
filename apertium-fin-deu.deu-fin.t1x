@@ -694,7 +694,7 @@
       <choose>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
           </test>
           <let>
             <var n="adpmaybe"/><lit v=""/>
@@ -705,7 +705,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="auf"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="auf"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
@@ -716,7 +716,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="um"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="um"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="abl"/>
@@ -727,7 +727,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="aus"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="aus"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ela"/>
@@ -738,7 +738,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="über"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="über"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ela"/>
@@ -760,7 +760,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="von"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="von"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ela"/>
@@ -771,7 +771,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="bis"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="bis"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ill"/>
@@ -782,7 +782,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="als"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="als"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ess"/>
@@ -793,7 +793,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="mit"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="mit"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ade"/>
@@ -804,7 +804,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="zu"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="zu"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="tra"/>
@@ -815,7 +815,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="an"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="an"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="abl"/>
@@ -826,7 +826,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="nach"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="nach"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="ill"/>
@@ -837,7 +837,7 @@
         </when>
         <when>
           <test>
-            <equal><clip pos="1" side="sl" part="lem"/><lit v="ohne"/></equal>
+            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="ohne"/></equal>
           </test>
           <let>
             <var n="adpcase"/><lit-tag v="abe"/>
