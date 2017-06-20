@@ -247,6 +247,7 @@
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.top.use_blacklist"/>
       <attr-item tags="np.al"/>
       <attr-item tags="np"/>
       <attr-item tags="np.acr"/>
@@ -265,6 +266,7 @@
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.top.use_blacklist"/>
       <attr-item tags="np.cog"/>
       <attr-item tags="np.org"/>
       <attr-item tags="np.al"/>
@@ -319,6 +321,7 @@
     <def-var n="possess"/>
     <def-var n="pers"/>
     <def-var n="number"/>
+    <def-var n="voice"/>
     <def-var n="case"/>
     <def-var n="tense"/>
     <def-var n="adpcase"/>
@@ -357,6 +360,31 @@
         <otherwise>
           <let>
             <var n="comparison"/><lit-tag v="pos"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="voice-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="actv"/></equal>
+          </test>
+          <let>
+            <var n="voice"/><lit-tag v="actv"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_voice"/><lit-tag v="pasv"/></equal>
+          </test>
+          <let>
+            <var n="voice"/><lit-tag v="pasv"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="voice"/><lit-tag v="actv"/>
           </let>
         </otherwise>
       </choose>
@@ -1838,6 +1866,57 @@
       </action>
     </rule>
 
+    <rule comment="verb neg pcp: ei oltu tehty">
+      <pattern>
+        <pattern-item n="verb"/>
+        <pattern-item n="verbnegation"/>
+        <pattern-item n="participle"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="voice-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="pers-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="NEG"/></tag>
+            </tags>
+            <lu>
+              <lit v="ei"/>
+              <lit-tag v="vblex.neg.actv"/>
+              <var n="pers"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pasv"/>
+              <var n="tense"/>
+              <lit-tag v="impers.conneg"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit v="+tu"/>
+              <lit-tag v="adj.pos"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="verb negs: to neg conneg">
       <pattern>
         <pattern-item n="verb"/>
