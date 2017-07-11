@@ -391,6 +391,27 @@
     </def-macro>
     <def-macro n="number-mangler" npar="1">
       <choose>
+        <!-- special -->
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+              <equal><clip pos="1" side="tl" part="lem"/><lit v="kaikki"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sp"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="lem"/><lit v="koko"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit v=""/>
+          </let>
+        </when>
+        <!-- regular -->
         <when>
           <test>
             <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/></equal>
@@ -405,17 +426,6 @@
           </test>
           <let>
             <var n="number"/><lit-tag v="pl"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
-              <equal><clip pos="1" side="tl" part="lem"/><lit v="kaikki"/></equal>
-            </and>
-          </test>
-          <let>
-            <var n="number"/><lit-tag v="sp"/>
           </let>
         </when>
         <otherwise>
@@ -567,6 +577,16 @@
     </def-macro>
     <def-macro n="case-mangler" npar="1">
       <choose>
+        <when>
+          <!-- special cases (pun!) -->
+          <test>
+            <equal><clip pos="1" side="tl" part="lem"/><lit v="koko"/></equal>
+          </test>
+          <let>
+            <var n="case"/><lit v=""/>
+          </let>
+        </when>
+        <!-- case mappigngs -->
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="acc"/></equal>
