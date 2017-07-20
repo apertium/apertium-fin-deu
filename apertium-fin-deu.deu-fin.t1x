@@ -53,6 +53,13 @@
       <cat-item lemma="November" tags="n.*"/>
       <cat-item lemma="Dezember" tags="n.*"/>
     </def-cat>
+    <def-cat n="weder_cc">
+      <cat-item lemma="weder" tags="cnjcoo"/>
+    </def-cat>
+    <def-cat n="noch_cc">
+      <cat-item lemma="noch" tags="cnjcoo"/>
+      <cat-item lemma="noch" tags="adv"/> <!-- XXX: bad disam -->
+    </def-cat>
     <def-cat n="daynumber">
       <cat-item tags="num.ord"/>
     </def-cat>
@@ -1096,6 +1103,62 @@
               <clip pos="6" side="tl" part="a_nominal"/>
               <var n="number"/>
               <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="weder adj noch adj: negv adj cnjcoo+negv adj">
+      <pattern>
+        <pattern-item n="weder_cc"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noch_cc"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk name="AP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="CC"/></tag>
+            </tags>
+            <lu>
+              <lit v="ei"/>
+              <lit-tag v="vblex.neg.actv.p3.sg"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <lit v="ei"/>
+              <lit-tag v="vblex.neg.actv.p3.sg"/>
+              <lit v="+ka"/>
+              <lit-tag v="enc"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
