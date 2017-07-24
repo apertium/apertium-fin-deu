@@ -5628,10 +5628,13 @@
 
 
     <e c="cannot find deu"><p><l>somali<s n="n"/></l><r>somalieren<s n="vblex"/></r></p></e>
+    <e c="erikoiskieltä"><p><l>valmistua<s n="vblex"/></l><r>habilitieren<s n="vblex"/></r></p></e>
+    <e c="of liquid"><p><l>kaataa<s n="vblex"/></l><r>gießen<s n="vblex"/></r></p></e>
     <e c="often mistagged PROPN"><p><l>marjastaa<s n="vblex"/></l><r>barnieren<s n="vblex"/></r></p></e>
     <e c="should be a phrase RL"><p><l>lorvailla<s n="vblex"/></l><r>beschäftigen<s n="vblex"/></r></p></e>
     <e c="should be a phrase RL"><p><l>pärjätä<s n="vblex"/></l><r>verzichten<s n="vblex"/></r></p></e>
     <e c="to knit wrongly figurative"><p><l>sotkeutua<s n="vblex"/></l><r>verstricken<s n="vblex"/></r></p></e>
+    <e c="usually Trier"><p><l>soudella<s n="n"/></l><r>trieren<s n="vblex"/></r></p></e>
     <e><p><l>aaltoilla<s n="vblex"/></l><r>wellen<s n="vblex"/></r></p></e>
     <e><p><l>adoptoida<s n="vblex"/></l><r>adoptieren<s n="vblex"/></r></p></e>
     <e><p><l>agitoida<s n="vblex"/></l><r>hetzen<s n="vblex"/></r></p></e>
@@ -5700,6 +5703,7 @@
     <e><p><l>aseistautua<s n="vblex"/></l><r>wappnen<s n="vblex"/></r></p></e>
     <e><p><l>asemoida<s n="vblex"/></l><r>stationieren<s n="vblex"/></r></p></e>
     <e><p><l>asentaa<s n="vblex"/></l><r>installieren<s n="vblex"/></r></p></e>
+    <e><p><l>asetella<s n="vblex"/></l><r>auslegen<s n="vblex"/></r></p></e>
     <e><p><l>asettaa<s n="vblex"/></l><r>aufsetzen<s n="vblex"/></r></p></e>
     <e><p><l>asettaa<s n="vblex"/></l><r>einsetzen<s n="vblex"/></r></p></e>
     <e><p><l>asettaa<s n="vblex"/></l><r>setzen<s n="vblex"/></r></p></e>
@@ -5795,6 +5799,7 @@
     <e><p><l>evakuoida<s n="vblex"/></l><r>evakuieren<s n="vblex"/></r></p></e>
     <e><p><l>filmata<s n="vblex"/></l><r>filmen<s n="vblex"/></r></p></e>
     <e><p><l>formuloida<s n="vblex"/></l><r>formulieren<s n="vblex"/></r></p></e>
+    <e><p><l>fuusioida<s n="vblex"/></l><r>fusionieren<s n="vblex"/></r></p></e>
     <e><p><l>groovata<s n="vblex"/></l><r>grooven<s n="vblex"/></r></p></e>
     <e><p><l>haastaa<s n="vblex"/></l><r>verklagen<s n="vblex"/></r></p></e>
     <e><p><l>hajautua<s n="vblex"/></l><r>spalten<s n="vblex"/></r></p></e>
@@ -5901,9 +5906,11 @@
     <e><p><l>jaella<s n="vblex"/></l><r>kursieren<s n="vblex"/></r></p></e>
     <e><p><l>jaella<s n="vblex"/></l><r>verbreiten<s n="vblex"/></r></p></e>
     <e><p><l>jakaa<s n="vblex"/></l><r>aufteilen<s n="vblex"/></r></p></e>
+    <e><p><l>jakaa<s n="vblex"/></l><r>einteilen<s n="vblex"/></r></p></e>
     <e><p><l>jakaa<s n="vblex"/></l><r>teilen<s n="vblex"/></r></p></e>
     <e><p><l>jakaa<s n="vblex"/></l><r>unterteilen<s n="vblex"/></r></p></e>
     <e><p><l>jakaa<s n="vblex"/></l><r>verteilen<s n="vblex"/></r></p></e>
+    <e><p><l>jakaa<s n="vblex"/></l><r>zuteilen<s n="vblex"/></r></p></e>
     <e><p><l>jaksottaa<s n="vblex"/></l><r>staffeln<s n="vblex"/></r></p></e>
     <e><p><l>jalkauttaa<s n="vblex"/></l><r>stationieren<s n="vblex"/></r></p></e>
     <e><p><l>jarruttaa<s n="vblex"/></l><r>bremsen<s n="vblex"/></r></p></e>
@@ -5974,6 +5981,7 @@
     <e><p><l>kasvaa<s n="vblex"/></l><r>steigern<s n="vblex"/></r></p></e>
     <e><p><l>kasvaa<s n="vblex"/></l><r>vergrößern<s n="vblex"/></r></p></e>
     <e><p><l>kasvaa<s n="vblex"/></l><r>wachsen<s n="vblex"/></r></p></e>
+    <e><p><l>kasvattaa<s n="vblex"/></l><r>anbauen<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>erhöhen<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>zunehmen<s n="vblex"/></r></p></e>
     <e><p><l>katkaista<s n="vblex"/></l><r>abschneiden<s n="vblex"/></r></p></e>
@@ -6157,6 +6165,7 @@
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>bescheren<s n="vblex"/></r></p></e>
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>schenken<s n="vblex"/></r></p></e>
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>überliefern<s n="vblex"/></r></p></e>
+    <e><p><l>lakkauttaa<s n="vblex"/></l><r>stilllegen<s n="vblex"/></r></p></e>
     <e><p><l>lakkauttaa<s n="vblex"/></l><r>suspendieren<s n="vblex"/></r></p></e>
     <e><p><l>lakkoilla<s n="vblex"/></l><r>streiken<s n="vblex"/></r></p></e>
     <e><p><l>lannistua<s n="vblex"/></l><r>verzweifeln<s n="vblex"/></r></p></e>
@@ -6608,6 +6617,7 @@
     <e><p><l>reformoida<s n="vblex"/></l><r>reformieren<s n="vblex"/></r></p></e>
     <e><p><l>rekisteröidä<s n="vblex"/></l><r>registrieren<s n="vblex"/></r></p></e>
     <e><p><l>rekrytoida<s n="vblex"/></l><r>rekrutieren<s n="vblex"/></r></p></e>
+    <e><p><l>remontoida<s n="vblex"/></l><r>renovieren<s n="vblex"/></r></p></e>
     <e><p><l>rentoutua<s n="vblex"/></l><r>erholen<s n="vblex"/></r></p></e>
     <e><p><l>repiä<s n="vblex"/></l><r>reißen<s n="vblex"/></r></p></e>
     <e><p><l>repiä<s n="vblex"/></l><r>zerfetzen<s n="vblex"/></r></p></e>
@@ -6720,6 +6730,7 @@
     <e><p><l>sisäistää<s n="vblex"/></l><r>verkörpern<s n="vblex"/></r></p></e>
     <e><p><l>sisällyttää<s n="vblex"/></l><r>bündeln<s n="vblex"/></r></p></e>
     <e><p><l>sisällyttää<s n="vblex"/></l><r>einbeziehen<s n="vblex"/></r></p></e>
+    <e><p><l>sisällyttää<s n="vblex"/></l><r>eingemeinden<s n="vblex"/></r></p></e>
     <e><p><l>sisällyttää<s n="vblex"/></l><r>eingliedern<s n="vblex"/></r></p></e>
     <e><p><l>sisällyttää<s n="vblex"/></l><r>eingliedern<s n="vblex"/></r></p></e>
     <e><p><l>sisältää<s n="vblex"/></l><r>beinhalten<s n="vblex"/></r></p></e>
@@ -7139,6 +7150,7 @@
     <e><p><l>välttää<s n="vblex"/></l><r>vermeiden<s n="vblex"/></r></p></e>
     <e><p><l>vääntää<s n="vblex"/></l><r>entreißen<s n="vblex"/></r></p></e>
     <e><p><l>väärinpuhua<s n="vblex"/></l><r>versprechen<s n="vblex"/></r></p></e>
+    <e><p><l>wikittää<s n="vblex"/></l><r>wikifizieren<s n="vblex"/></r></p></e>
     <e><p><l>yhdistyä<s n="vblex"/></l><r>vereinen<s n="vblex"/></r></p></e>
     <e><p><l>yhdistyä<s n="vblex"/></l><r>vereinigen<s n="vblex"/></r></p></e>
     <e><p><l>yhdistää<s n="vblex"/></l><r>anschließen<s n="vblex"/></r></p></e>
