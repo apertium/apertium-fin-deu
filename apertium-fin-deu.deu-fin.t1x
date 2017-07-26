@@ -30,6 +30,14 @@
       <cat-item lemma="an" tags="pr.*"/>
       <cat-item lemma="an" tags="pr.dat"/>
     </def-cat>
+    <def-cat n="ab">
+      <cat-item lemma="ab" tags="adv"/> <!-- XXX: bad disam -->
+      <cat-item lemma="ab" tags="pr.*"/>
+    </def-cat>
+    <def-cat n="bis">
+      <cat-item lemma="bis" tags="cnjsub"/> <!-- XXX: bad disam -->
+      <cat-item lemma="bis" tags="pr.*"/>
+    </def-cat>
     <def-cat n="gegen">
       <cat-item lemma="gegen" tags="pr.*"/>
       <cat-item lemma="gegen" tags="pr.acc"/>
@@ -37,6 +45,13 @@
     <def-cat n="uhr">
       <cat-item lemma="Uhr" tags="n.*"/>
       <cat-item lemma="uhr" tags="n.*"/>
+    </def-cat>
+    <def-cat n="über">
+      <cat-item lemma="über" tags="pr.*"/>
+      <cat-item lemma="über" tags="adv"/> <!-- XXX: bad disam -->
+    </def-cat>
+    <def-cat n="hinweg">
+      <cat-item lemma="hinweg" tags="adv"/>
     </def-cat>
     <def-cat n="monat">
       <cat-item lemma="Januar" tags="n.*"/>
@@ -52,6 +67,9 @@
       <cat-item lemma="Oktober" tags="n.*"/>
       <cat-item lemma="November" tags="n.*"/>
       <cat-item lemma="Dezember" tags="n.*"/>
+    </def-cat>
+    <def-cat n="zeitwort">
+      <cat-item lemma="Jahr" tags="n.*"/>
     </def-cat>
     <def-cat n="weder_cc">
       <cat-item lemma="weder" tags="cnjcoo"/>
@@ -1043,71 +1061,7 @@
       </action>
     </rule>
     <!-- }}}
-         {{{ act ual rules for real phrases and chunks -->
-    <rule comment="adp nominal, nominal und nominal: drop case move case to last N of NP">
-      <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="nominal"/>
-        <pattern-item n="comma"/>
-        <pattern-item n="nominal"/>
-        <pattern-item n="cnjcoo"/>
-        <pattern-item n="nominal"/>
-      </pattern>
-      <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="2"/>
-        </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="4"/>
-        </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="6"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="NP"/></tag>
-                <tag><var n="adpcase"/></tag>
-            </tags>
-            <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <var n="adpcase"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="whole"/>
-            </lu>
-            <b pos="3"/>
-            <lu>
-              <clip pos="4" side="tl" part="lem"/>
-              <clip pos="4" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <var n="adpcase"/>
-            </lu>
-            <b pos="4"/>
-            <lu>
-              <clip pos="5" side="tl" part="whole"/>
-            </lu>
-            <b pos="5"/>
-            <lu>
-              <clip pos="6" side="tl" part="lem"/>
-              <clip pos="6" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <var n="adpcase"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+         {{{ rules for idioms and fixed expressions -->
     <rule comment="weder adj noch adj: negv adj cnjcoo+negv adj">
       <pattern>
         <pattern-item n="weder_cc"/>
@@ -1164,143 +1118,31 @@
         </out>
       </action>
     </rule>
-    <rule comment="adp det nouns nouns: drop case, det, move case to last N of
-      compound(?) NP">
+    <rule comment="über ZEIT hinweg: AJAN mittaan">
       <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="det"/>
-        <pattern-item n="nominal"/>
-        <pattern-item n="nominal"/>
+        <pattern-item n="über"/>
+        <pattern-item n="zeitwort"/>
+        <pattern-item n="hinweg"/>
       </pattern>
       <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
         <call-macro n="case-mangler">
           <with-param pos="2"/>
         </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="3"/>
-        </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="4"/>
-        </call-macro>
         <out>
-          <chunk name="NP" case="caseFirstWord">
+          <chunk name="AdvP" case="caseFirstWord">
             <tags>
-                <tag><lit-tag v="NP"/></tag>
-                <tag><var n="adpcase"/></tag>
+                <tag><lit-tag v="ADV"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_nominal"/>
-              <clip pos="3" side="tl" part="a_number"/>
-              <lit-tag v="nom"/>
+              <clip pos="2" side="tl" part="lem"/>    <!-- Jahr ~ vuosi -->
+              <clip pos="2" side="tl" part="a_noun"/> <!-- n -->
+              <var n="number"/>                       <!-- sg / pl -->
+              <lit-tag v="gen"/>                      <!-- gen -->
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="4" side="tl" part="lem"/>
-              <clip pos="4" side="tl" part="a_nominal"/>
-              <clip pos="4" side="tl" part="a_number"/>
-              <var n="adpcase"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="adp det adj nouns: drop case, det, move case">
-      <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="det"/>
-        <pattern-item n="adj"/>
-        <pattern-item n="nominal"/>
-      </pattern>
-      <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="2"/>
-        </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="3"/>
-        </call-macro>
-        <call-macro n="case-mangler">
-          <with-param pos="4"/>
-        </call-macro>
-        <call-macro n="comparison-mangler">
-          <with-param pos="3"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="NP"/></tag>
-                <tag><var n="adpcase"/></tag>
-            </tags>
-            <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-              <var n="comparison"/>
-              <clip pos="4" side="tl" part="a_number"/>
-              <var n="adpcase"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="4" side="tl" part="lem"/>
-              <clip pos="4" side="tl" part="a_nominal"/>
-              <clip pos="4" side="tl" part="a_number"/>
-              <var n="adpcase"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="adp nominal nominal: drop case move case to last N of NP">
-      <pattern>
-        <pattern-item n="adp"/>
-        <pattern-item n="nominal"/>
-        <pattern-item n="nominal"/>
-      </pattern>
-      <action>
-        <call-macro n="adp-mangler">
-          <with-param pos="1"/>
-        </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="2"/>
-        </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="3"/>
-        </call-macro>
-        <out>
-          <chunk name="NP" case="caseFirstWord">
-            <tags>
-                <tag><lit-tag v="NP"/></tag>
-                <tag><var n="adpcase"/></tag>
-            </tags>
-            <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <lit-tag v="nom"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <var n="adpcase"/>
+              <lit v="mittaan"/>
+              <lit-tag v="adv"/>
             </lu>
           </chunk>
         </out>
@@ -1578,42 +1420,284 @@
         </out>
       </action>
     </rule>
-    <rule comment="dets adjs nouns: share case and pl">
+    <rule comment="ab NN: NN:sta alkaen">
       <pattern>
+        <pattern-item n="ab"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NumP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NUM"/></tag>
+              <tag><lit-tag v="ela"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- 12.34 -->
+              <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <lit-tag v="ela"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="alkaen"/>
+              <lit-tag v="post"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="bis NN: NN:ään asti">
+      <pattern>
+        <pattern-item n="bis"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NumP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NUM"/></tag>
+              <tag><lit-tag v="ela"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- 12.34 -->
+              <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <lit-tag v="ill"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="asti"/>
+              <lit-tag v="post"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <!-- }}}
+         {{{ actual rules for real phrases -->
+    <rule comment="adp nominal, nominal und nominal: drop case move case to last N of NP">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="comma"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="cnjcoo"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="6"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b pos="3"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="4"/>
+            <lu>
+              <clip pos="5" side="tl" part="whole"/>
+            </lu>
+            <b pos="5"/>
+            <lu>
+              <clip pos="6" side="tl" part="lem"/>
+              <clip pos="6" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adp det nouns nouns: drop case, det, move case to last N of
+      compound(?) NP">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="det"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nominal"/>
+              <clip pos="3" side="tl" part="a_number"/>
+              <lit-tag v="nom"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nominal"/>
+              <clip pos="4" side="tl" part="a_number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adp det adj nouns: drop case, det, move case">
+      <pattern>
+        <pattern-item n="adp"/>
         <pattern-item n="det"/>
         <pattern-item n="adj"/>
         <pattern-item n="nominal"/>
       </pattern>
       <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="case-mangler">
           <with-param pos="3"/>
         </call-macro>
-        <call-macro n="number-mangler">
-          <with-param pos="3"/>
+        <call-macro n="case-mangler">
+          <with-param pos="4"/>
         </call-macro>
         <call-macro n="comparison-mangler">
-          <with-param pos="2"/>
+          <with-param pos="3"/>
         </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="number"/></tag>
-              <tag><var n="case"/></tag>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_adj"/>
               <var n="comparison"/>
+              <clip pos="4" side="tl" part="a_number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_nominal"/>
+              <clip pos="4" side="tl" part="a_number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adp nominal nominal: drop case move case to last N of NP">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="nominal"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
               <var n="number"/>
-              <var n="case"/>
+              <lit-tag v="nom"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_noun"/>
+              <clip pos="3" side="tl" part="a_nominal"/>
               <var n="number"/>
-              <var n="case"/>
+              <var n="adpcase"/>
             </lu>
           </chunk>
         </out>
@@ -1693,6 +1777,47 @@
               <clip pos="3" side="tl" part="a_noun"/> <!-- n -->
               <var n="number"/> <!-- pl/sg -->
               <lit-tag v="ess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="dets adjs nouns: share case and pl">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
