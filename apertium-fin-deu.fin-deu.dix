@@ -4952,8 +4952,8 @@
     <e><p><l>km<s n="n"/><s n="acr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>km/t<s n="n"/><s n="acr"/></l><r>km/h<s n="abbr"/></r></p></e>
     <e><p><l>MM<s n="n"/><s n="acr"/></l><r>WM<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
-    <e><p><l>mp3<s n="n"/></l><r>Mp3<s n="n"/></r></p></e>
-    <e><p><l>MP3<s n="n"/></l><r>MP3<s n="n"/></r></p></e>
+    <e><p><l>mp3<s n="n"/><s n="acr"/></l><r>mp3<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
+    <e><p><l>MP3<s n="n"/><s n="acr"/></l><r>MP3<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
     <e><p><l>NASA<s n="n"/></l><r>NASA<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
     <e><p><l>OPEC<s n="n"/><s n="abbr"/></l><r>OPEC<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>tv<s n="n"/><s n="acr"/></l><r>Fernsehen<s n="n"/></r></p><par n="anyg"/></e>
