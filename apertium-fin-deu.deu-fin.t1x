@@ -1660,6 +1660,48 @@
         </out>
       </action>
     </rule>
+    <rule comment="adp cmp nominal: drop case move case to last N of NP">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="cmp"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="NP"/></tag>
+                <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <var n="adpmaybe"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <lit-tag v="gen"/>
+            </lu>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_nominal"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp nominal nominal: drop case move case to last N of NP">
       <pattern>
         <pattern-item n="adp"/>
