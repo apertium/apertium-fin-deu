@@ -1526,10 +1526,6 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
               <var n="number"/>
@@ -1556,6 +1552,10 @@
               <clip pos="6" side="tl" part="a_nominal"/>
               <var n="number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
@@ -1589,10 +1589,6 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_nominal"/>
               <clip pos="3" side="tl" part="a_number"/>
@@ -1604,6 +1600,10 @@
               <clip pos="4" side="tl" part="a_nominal"/>
               <clip pos="4" side="tl" part="a_number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
@@ -1639,10 +1639,6 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_adj"/>
               <var n="comparison"/>
@@ -1655,6 +1651,10 @@
               <clip pos="4" side="tl" part="a_nominal"/>
               <clip pos="4" side="tl" part="a_number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
@@ -1683,10 +1683,6 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
               <var n="number"/>
@@ -1697,6 +1693,10 @@
               <clip pos="3" side="tl" part="a_nominal"/>
               <var n="number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
@@ -1725,10 +1725,6 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
               <var n="number"/>
@@ -1740,6 +1736,10 @@
               <clip pos="3" side="tl" part="a_nominal"/>
               <var n="number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
@@ -1771,14 +1771,14 @@
                 <tag><var n="adpcase"/></tag>
             </tags>
             <lu>
-              <var n="adpmaybe"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="a_nominal"/>
               <var n="number"/>
               <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="adpmaybe"/>
             </lu>
           </chunk>
         </out>
