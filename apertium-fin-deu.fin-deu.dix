@@ -5986,6 +5986,7 @@
     <e><p><l>hallita<s n="vblex"/></l><r>meistern<s n="vblex"/></r></p></e>
     <e><p><l>hallita<s n="vblex"/></l><r>regieren<s n="vblex"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>begehren<s n="vblex"/></r></p></e>
+    <e><p><l>haluta<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
     <e><p><l>halvaantua<s n="vblex"/></l><r>lähmen<s n="vblex"/></r></p></e>
     <e><p><l>hankkia<s n="vblex"/></l><r>anschaffen<s n="vblex"/></r></p></e>
     <e><p><l>hankkia<s n="vblex"/></l><r>beschaffen<s n="vblex"/></r></p></e>
@@ -6686,6 +6687,7 @@
     <e><p><l>pitää<s n="vblex"/></l><r>behalten<s n="vblex"/></r></p></e>
     <e><p><l>pitää<s n="vblex"/></l><r>einhalten<s n="vblex"/></r></p></e>
     <e><p><l>pitää<s n="vblex"/></l><r>einhalten<s n="vblex"/></r></p></e>
+    <e><p><l>pitää<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
     <e><p><l>pohjautua<s n="vblex"/></l><r>fußen<s n="vblex"/></r></p></e>
     <e><p><l>pohtia<s n="vblex"/></l><r>nachdenken<s n="vblex"/></r></p></e>
     <e><p><l>poiketa<s n="vblex"/></l><r>abweichen<s n="vblex"/></r></p></e>
@@ -7122,6 +7124,7 @@
     <e><p><l>tulkita<s n="vblex"/></l><r>deuten<s n="vblex"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>eintreten<s n="vblex"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
+    <e><p><l>tulla<s n="vblex"/></l><r>werden<s n="vblex"/></r></p></e>
     <e><p><l>tulvia<s n="vblex"/></l><r>überfluten<s n="vblex"/></r></p></e>
     <e><p><l>tunnistaa<s n="vblex"/></l><r>erkennen<s n="vblex"/></r></p></e>
     <e><p><l>tunnustaa<s n="vblex"/></l><r>anerkennen<s n="vblex"/></r></p></e>
@@ -7433,18 +7436,15 @@
     <!-- }}}
          {{{auxilia ries -->
 
-    <e><p><l>aikoa<s n="vblex"/></l><r>werden<s n="vaux"/></r></p></e>
-    <e><p><l>aikoa<s n="vblex"/></l><r>werden<s n="vblex"/></r></p></e>
+    <e><p><l>aikoa<s n="vaux"/></l><r>werden<s n="vaux"/></r></p></e>
     <e><p><l>alkaa<s n="vaux"/></l><r>werden<s n="vaux"/></r></p></e>
     <e><p><l>alkaa<s n="vaux"/></l><r>werden<s n="vblex"/></r></p></e>
-    <e><p><l>haluta<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>mögen<s n="vbmod"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>wollen<s n="vaux"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>wollen<s n="vbmod"/></r></p></e>
     <e><p><l>joutua<s n="vaux"/></l><r>sollen<s n="vbmod"/></r></p></e>
     <e><p><l>osata<s n="vaux"/></l><r>können<s n="vbmod"/></r></p></e>
     <e><p><l>pitää<s n="vaux"/></l><r>freuen<s n="vblex"/></r></p></e>
-    <e><p><l>pitää<s n="vblex"/></l><r>mögen<s n="vblex"/></r></p></e>
     <e><p><l>täytyä<s n="vaux"/></l><r>müssen<s n="vbmod"/></r></p></e>
     <e><p><l>täytyä<s n="vaux"/></l><r>sollen<s n="vbmod"/></r></p></e>
     <e><p><l>voida<s n="vaux"/></l><r>dürfen<s n="vbmod"/></r></p></e>
