@@ -4124,31 +4124,41 @@
                          {{{             no  u  n          s :   u    n  ca t  eg  o rise d gende rs
       -->
 
+    <!-- problematic genders -->
 
 
-    <e><p><l>altto<s n="n"/></l><r>Alt<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>asiakas<s n="n"/></l><r>Kunde<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>altto<s n="n"/></l><r>Alt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>altbier<s n="n"/></l><r>Alt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>asiakas<s n="n"/></l><r>Kunde<s n="n"/><s n="m"/></r></p></e>
+    <e c="special style"><p><l>uutinen<s n="n"/></l><r>Kunde<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bändi<s n="n"/></l><r>Band<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nide<s n="n"/></l><r>Band<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nauha<s n="n"/></l><r>Band<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>golf<s n="n"/></l><r>Golf<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lahti<s n="n"/></l><r>Golf<s n="n"/><s n="m"/></r></p></e>
+    <e c="armour"><p><l>kilpi<s n="n"/></l><r>Schild<s n="n"/><s n="m"/></r></p></e>
+    <e c="signpost"><p><l>kilpi<s n="n"/></l><r>Schild<s n="n"/><s n="nt"/></r></p></e>
+    <e c="most senses"><p><l>kumi<s n="n"/></l><r>Gummi<s n="n"/><s n="m"/></r></p></e>
+    <e c="most senses"><p><l>kumi<s n="n"/></l><r>Gummi<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kävely<s n="n"/></l><r>Gang<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jengi<s n="n"/></l><r>Gang<s n="n"/><s n="f"/></r></p></e>
+
+
     <e><p><l>australialainen<s n="n"/></l><r>Australien<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>bändi<s n="n"/></l><r>Band<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>crack<s n="n"/></l><r>Crack<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>edustus<s n="n"/></l><r>Vertreten<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>etsintätehtävä<s n="n"/></l><r>Rettungsmission<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>golf<s n="n"/></l><r>Golf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>hiilivoimala<s n="n"/></l><r>Kohlkraftwerk<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>jakki<s n="n"/></l><r>Yak<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kalifornialainen<s n="n"/></l><r>Kalifornien<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kiinnostus<s n="n"/></l><r>Intresse<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>kilpi<s n="n"/></l><r>Schild<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kirkko<s n="n"/></l><r>Kirke<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kitaristi<s n="n"/></l><r>Gitarrost<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>konfrontaatio<s n="n"/></l><r>Konfrontaatio<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>kumi<s n="n"/></l><r>Gummi<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>konfrontaatio<s n="n"/></l><r>Konfrontation<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuningaskunta<s n="n"/></l><r>Königsreich<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>kuningaskunta<s n="n"/></l><r>Königsreich<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>kävely<s n="n"/></l><r>Gang<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>käyttö<s n="n"/></l><r>Gebräuch<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>käytäntö<s n="n"/></l><r>Vorgehen<s n="n"/></r></p><par n="anyg"/></e>
-    <e><p><l>lahti<s n="n"/></l><r>Golf<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>lasi<s n="n"/></l><r>Glass<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>liikemalli<s n="n"/></l><r>Geschäftsmodell<s n="n"/></r></p><par n="anyg"/></e>
     <e><p><l>linkki<s n="n"/></l><r>Link<s n="n"/></r></p><par n="anyg"/></e>
