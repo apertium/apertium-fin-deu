@@ -142,8 +142,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{ NOUNS NOUNS NOUNS
-         {{{ nouns with gender s -->
+    <!-- {{{ NOUNS NOUNS  NOUNS
+         {{{ nouns with g ender s -->
 
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
     <e c="bleh"><p><l>lakiesitys<s n="n"/></l><r>Inkrafttreten<s n="n"/><s n="nt"/></r></p></e>
@@ -389,6 +389,7 @@
     <e><p><l>asunto<s n="n"/></l><r>Wohnsitz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>Wohnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Atlantin-ranta<s n="n"/></l><r>Atlantikküste<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>atlas<s n="n"/></l><r>Atlas<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>atleetti<s n="n"/></l><r>Athlet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>atomipommi<s n="n"/></l><r>Atombombe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atomi<s n="n"/></l><r>Atom<s n="n"/><s n="nt"/></r></p></e>
@@ -412,6 +413,7 @@
     <e><p><l>auttaja<s n="n"/></l><r>Helfer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaaminen<s n="n"/></l><r>Eröffnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>avainasema<s n="n"/></l><r>Schlüsselposition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>avain<s n="n"/></l><r>Schlüssel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avajaiset<s n="n"/></l><r>Eröffnung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaruusalus<s n="n"/></l><r>Raumschiff<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>avaruusasema<s n="n"/></l><r>Raumstation<s n="n"/><s n="f"/></r></p></e>
@@ -2451,6 +2453,7 @@
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrleute<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paluumatka<s n="n"/></l><r>Rückreise<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paluureitti<s n="n"/></l><r>Rückweg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paluu<s n="n"/></l><r>Rückkehr<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palveluala<s n="n"/></l><r>Dienstleistung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palveluntarjoaja<s n="n"/></l><r>Carrier<s n="n"/><s n="m"/></r></p></e>
@@ -2984,6 +2987,7 @@
     <e><p><l>saksalainen<s n="n"/></l><r>Deutsch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>saksi<s n="n"/></l><r>Sachse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>salaisuus<s n="n"/></l><r>Geheimnis<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>salakuljettaja<s n="n"/></l><r>Schmuggler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>salakuuntelu<s n="n"/></l><r>Abhören<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>salaliitto<s n="n"/></l><r>Verschwörung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>salama<s n="n"/></l><r>Blitz<s n="n"/><s n="m"/></r></p></e>
@@ -4031,6 +4035,7 @@
     <e><p><l>wieniläinen<s n="n"/></l><r>Wiener<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ydinasekoe<s n="n"/></l><r>Atomwaffentest<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ydinase<s n="n"/></l><r>Atomwaffe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ydinase<s n="n"/></l><r>Nuklearwaffe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ydin<s n="n"/></l><r>Kern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ydinvoima<s n="n"/></l><r>Kernenergie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yhdistyminen<s n="n"/></l><r>Einigung<s n="n"/><s n="f"/></r></p></e>
@@ -4096,6 +4101,7 @@
     <e><p><l>ylläpito<s n="n"/></l><r>Verwaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylläpitö<s n="n"/></l><r>Verwaltung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yllätys<s n="n"/></l><r>Überraschung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>yläkäsite<s n="n"/></l><r>Oberbegriff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yläliiga<s n="n"/></l><r>Oberliga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylänkö<s n="n"/></l><r>Hochland<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ylävartalo<s n="n"/></l><r>Oberkörper<s n="n"/><s n="m"/></r></p></e>
@@ -4982,18 +4988,23 @@
 
 
     <e c="of e.g. parties (faction)"><p><l>siipi<s n="n"/></l><r>fraktion<s n="n"/><s n="f"/></r></p></e>
+    <e c="XXX"><p><l>peitto<s n="n"/></l><r>bezug<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arsenaali<s n="n"/></l><r>arsenal<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hahmo<s n="n"/></l><r>figur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hätä<s n="n"/></l><r>not<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jalkapalloilija<s n="n"/></l><r>fußballer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>joukkue<s n="n"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kartelli<s n="n"/></l><r>kartell<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>klubi<s n="n"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>name<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pommitus<s n="n"/></l><r>bombenangriff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pudotus<s n="n"/></l><r>abwurf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sali<s n="n"/></l><r>saal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>säännöstely<s n="n"/></l><r>regelung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>turvallisuus<s n="n"/></l><r>sicherheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työ<s n="n"/></l><r>arbeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tähti<s n="n"/></l><r>star<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>verkko<s n="n"/></l><r>netz<s n="n"/><s n="nt"/></r></p></e>
-
 
 
     <!-- }}}
@@ -7232,6 +7243,7 @@
     <e><p><l>upota<s n="vblex"/></l><r>sacken<s n="vblex"/></r></p></e>
     <e><p><l>upota<s n="vblex"/></l><r>sinken<s n="vblex"/></r></p></e>
     <e><p><l>upota<s n="vblex"/></l><r>untergehen<s n="vblex"/></r></p></e>
+    <e><p><l>uudelleenaktivoida<s n="vblex"/></l><r>reaktivieren<s n="vblex"/></r></p></e>
     <e><p><l>uudelleenasuttaa<s n="vblex"/></l><r>umsiedeln<s n="vblex"/></r></p></e>
     <e><p><l>uudelleenrakentaa<s n="vblex"/></l><r>umbauen<s n="vblex"/></r></p></e>
     <e><p><l>uudistaa<s n="vblex"/></l><r>erneuern<s n="vblex"/></r></p></e>
@@ -7323,6 +7335,7 @@
     <e><p><l>vastaanottaa<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>antworten<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>eingehen<s n="vblex"/></r></p></e>
+    <e><p><l>vastata<s n="vblex"/></l><r>entgegnen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>entsprechen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>kontern<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>übereinstimmen<s n="vblex"/></r></p></e>
@@ -8742,7 +8755,7 @@
     <e><p><l>seksistinen<s n="adj"/></l><r>sexistisch<s n="adj"/></r></p></e>
     <e><p><l>seksuaalinen<s n="adj"/></l><r>sexuell<s n="adj"/></r></p></e>
     <e><p><l>sellainen<s n="adj"/></l><r>derartig<s n="adj"/></r></p></e>
-    <e><p><l>sellainen<s n="adj"/></l><r>solche<s n="det"/></r></p></e>
+    <e><p><l>sellainen<s n="adj"/><s n="pos"/></l><r>solche<s n="det"/></r></p></e>
     <e><p><l>selvä<s n="adj"/></l><r>abgeklärt<s n="adj"/></r></p></e>
     <e><p><l>selvä<s n="adj"/></l><r>deutlich<s n="adj"/></r></p></e>
     <e><p><l>selvä<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
@@ -8964,6 +8977,7 @@
     <e><p><l>ulkomaalaisvastainen<s n="adj"/></l><r>ausländerfeindlich<s n="adj"/></r></p></e>
     <e><p><l>ulkomainen<s n="adj"/></l><r>ausländisch<s n="adj"/></r></p></e>
     <e><p><l>ulkomainen<s n="adj"/></l><r>auswärtig<s n="adj"/></r></p></e>
+    <e><p><l>uniformuasuinen<s n="adj"/></l><r>uniformiert<s n="adj"/></r></p></e>
     <e><p><l>universaali<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
     <e><p><l>unkarilainen<s n="adj"/></l><r>ungarisch<s n="adj"/></r></p></e>
     <e><p><l>unohdettu<s n="adj"/></l><r>vernachlässigt<s n="adj"/></r></p></e>
@@ -9026,6 +9040,7 @@
     <e><p><l>vapaa<s n="adj"/></l><r>frei<s n="adj"/></r></p></e>
     <e><p><l>vapaa<s n="adj"/></l><r>frei<s n="adj"/></r></p></e>
     <e><p><l>vapaudellinen<s n="adj"/></l><r>freiheitlich<s n="adj"/></r></p></e>
+    <e><p><l>varakas<s n="adj"/></l><r>wohlhabend<s n="adj"/></r></p></e>
     <e><p><l>varattu<s n="adj"/></l><r>besetzt<s n="adj"/></r></p></e>
     <e><p><l>varhainen<s n="adj"/></l><r>früh<s n="adj"/></r></p></e>
     <e><p><l>varma<s n="adj"/></l><r>bestimmt<s n="adj"/></r></p></e>
