@@ -1,0 +1,35 @@
+<dictionary type="separable">
+  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüß-</alphabet>
+    <sdefs>
+        <sdef n="adj"/>
+        <sdef n="adv"/>
+        <sdef n="n"/>
+        <sdef n="np"/>
+        <sdef n="vblex"/>
+        <sdef n="pr"/>
+    </sdefs>
+    <pardefs>
+        <pardef n="adj">
+            <e><i><w/><s n="adj"/><j/></i></e>
+            <e><i><w/><s n="adj"/><t/><j/></i></e>
+        </pardef>
+        <pardef n="n">
+            <e><i><w/><s n="n"/><t/><j/></i></e>
+            <e><i><w/><s n="np"/><t/><j/></i></e>
+        </pardef>
+        <pardef n="adp">
+            <e><i><w/><s n="pr"/><t/><j/></i></e>
+        </pardef>
+        <pardef n="SN">
+            <e><par n="n"/></e>
+            <e><par n="adj"/><par n="n"/></e>
+            <e><par n="adj"/><par n="adj"/><par n="n"/></e>
+        </pardef>
+    </pardefs>
+    <section id="main" type="standard">
+        <e lm="kündigen an" c="announce (not: fire over)">
+            <p><l>kündigen<s n="vblex"/></l><r>ankündigen<s n="vblex"/></r></p><i><t/><j/></i>
+            <par n="adp"/><par n="n"/><p><l>an<t/></l><r></r></p>
+        </e>
+    </section>
+</dictionary>
