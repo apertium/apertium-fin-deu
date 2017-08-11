@@ -29,64 +29,36 @@ AS_IF([test x$ac_cv_path_LTPRINT = xno,],
       [AC_MSG_ERROR([You do not have lt-print installed.])])
 
 AC_PATH_PROG(HFSTLEXC, hfst-lexc, no)
-if test x$ac_cv_path_HFSTLEXC = x
-then
-  AC_MSG_ERROR([You don't have hfst-lexc installed.])
-fi
-if test x$ac_cv_path_HFSTLEXC = xno
-then
-  AC_MSG_ERROR([You don't have hfst-lexc installed.])
-fi
-
+AS_IF([test x$ac_cv_path_HFSTLEXC = x],
+      [AC_MSG_ERROR([You don't have hfst-lexc installed.])])
+AS_IF([test x$ac_cv_path_HFSTLEXC = xno],
+      [AC_MSG_ERROR([You don't have hfst-lexc installed.])])
 AC_PATH_PROG(HFSTTWOLC, hfst-twolc, no)
-if test x$ac_cv_path_HFSTTWOLC = x
-then
-  AC_MSG_ERROR([You don't have hfst-twolc installed.])
-fi
-if test x$ac_cv_path_HFSTTWOLC = xno
-then
-  AC_MSG_ERROR([You don't have hfst-twolc installed.])
-fi
-
+AS_IF([test x$ac_cv_path_HFSTTWOLC = x],
+      [AC_MSG_ERROR([You don't have hfst-twolc installed.])])
+AS_IF([test x$ac_cv_path_HFSTTWOLC = xno],
+      [AC_MSG_ERROR([You don't have hfst-twolc installed.])])
 AC_PATH_PROG(CGCOMP, cg-comp, no)
-if test x$ac_cv_path_CGCOMP = x
-then
-  AC_MSG_ERROR([You don't have cg-comp installed.])
-fi
-if test x$ac_cv_path_CGCOMP = xno
-then
-  AC_MSG_ERROR([You don't have cg-comp installed.])
-fi
-
+AS_IF([test x$ac_cv_path_CGCOMP = x],
+      [AC_MSG_ERROR([You don't have cg-comp installed.])])
+AS_IF([test x$ac_cv_path_CGCOMP = xno],
+      [AC_MSG_ERROR([You don't have cg-comp installed.])])
 AC_PATH_PROG(CGPROC, cg-proc, no)
-if test x$ac_cv_path_CGPROC = x
-then
-  AC_MSG_ERROR([You don't have cg-proc installed.])
-fi
-if test x$ac_cv_path_CGPROC = xno
-then
-  AC_MSG_ERROR([You don't have cg-proc installed.])
-fi
-
+AS_IF([test x$ac_cv_path_CGPROC = x],
+      [AC_MSG_ERROR([You don't have cg-proc installed.])])
+AS_IF([test x$ac_cv_path_CGPROC = xno],
+      [AC_MSG_ERROR([You don't have cg-proc installed.])])
 AC_PATH_PROG(LRXCOMP, lrx-comp, no)
-if test x$ac_cv_path_LRXCOMP = x
-then
-  AC_MSG_ERROR([You don't have lrx-comp installed.])
-fi
-if test x$ac_cv_path_LRXCOMP = xno
-then
-  AC_MSG_ERROR([You don't have lrx-comp installed.])
-fi
+AS_IF([test x$ac_cv_path_LRXCOMP = x],
+      [AC_MSG_ERROR([You don't have lrx-comp installed.])])
+AS_IF([test x$ac_cv_path_LRXCOMP = xno],
+      [AC_MSG_ERROR([You don't have lrx-comp installed.])])
 
 AC_PATH_PROG(LRXPROC, lrx-proc, no)
-if test x$ac_cv_path_LRXPROC = x
-then
-  AC_MSG_ERROR([You don't have lrx-proc installed.])
-fi
-if test x$ac_cv_path_LRXPROC = xno
-then
-  AC_MSG_ERROR([You don't have lrx-proc installed.])
-fi
+AS_IF([test x$ac_cv_path_LRXPROC = x],
+      [AC_MSG_ERROR([You don't have lrx-proc installed.])])
+AS_IF([test x$ac_cv_path_LRXPROC = xno],
+      [AC_MSG_ERROR([You don't have lrx-proc installed.])])
 AC_PATH_PROG(LSXCOMP, lsx-comp, false)
 AC_PATH_PROG(LSXPROC, lsx-proc, no)
 AM_CONDITIONAL([CAN_LSX], [test x$LSXPROC != xno])
