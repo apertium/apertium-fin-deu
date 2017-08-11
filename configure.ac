@@ -87,6 +87,9 @@ if test x$ac_cv_path_LRXPROC = xno
 then
   AC_MSG_ERROR([You don't have lrx-proc installed.])
 fi
+AC_PATH_PROG(LSXCOMP, lsx-comp, false)
+AC_PATH_PROG(LSXPROC, lsx-proc, no)
+AM_CONDITIONAL([CAN_LSX], [test x$LSXPROC != xno])
 
 AC_PATH_PROG(PKG_CONFIG, pkg-config, no)
 AS_IF([test x$ac_cv_path_PKG_CONFIG = x],

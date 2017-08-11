@@ -27,8 +27,10 @@ TARGETS_COMMON = \
 	$(PREFIX2).autogen.hfst \
     $(PREFIX2).t1x.bin \
 	$(PREFIX2).t2x.bin \
-	$(PREFIX2).t3x.bin \
-	$(PREFIX2).autosep.bin
+	$(PREFIX2).t3x.bin
+if CAN_LSX
+TARGETS_COMMON+=$(PREFIX2).autosep.bin
+endif
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
@@ -121,7 +123,7 @@ $(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
 ###
 
 $(PREFIX2).autosep.bin: $(BASENAME).$(PREFIX2).lsx
-	lsx-comp $< $@
+	$(LSXPROC) $< $@
 
 ###############################################################################
 ## Structural transfer rules
