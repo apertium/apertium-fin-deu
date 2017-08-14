@@ -304,6 +304,14 @@
       <attr-item tags="det"/>
       <attr-item tags="prn"/>
     </def-attr>
+    <def-attr n="a_det">
+      <attr-item tags="n"/>
+      <attr-item tags="num.card"/>
+      <attr-item tags="det"/>
+      <attr-item tags="prn"/>
+      <attr-item tags="adj.pos"/>
+      <attr-item tags="adv"/>
+    </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
     </def-attr>
@@ -421,6 +429,7 @@
           <test>
             <and>
               <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/></equal>
               <equal><clip pos="1" side="tl" part="lem"/><lit v="kaikki"/></equal>
             </and>
           </test>
@@ -2942,9 +2951,9 @@
           </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <var n="case"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
             </lu>
             <b pos="1"/>
           </chunk>
