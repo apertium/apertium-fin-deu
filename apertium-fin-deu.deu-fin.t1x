@@ -3,6 +3,7 @@
 
   <!-- {{{ cats -->
   <section-def-cats>
+    <!-- {{{ hacks -->
     <def-cat n="desomalieren2np">
       <cat-item lemma="somalieren" tags="vblex.*"/>
     </def-cat>
@@ -21,6 +22,8 @@
     <def-cat n="nochein2np">
       <cat-item lemma="noch ein" tags="det.*"/>
     </def-cat>
+    <!-- }}}
+         {{{ words -->
     <def-cat n="um">
       <cat-item lemma="um" tags="cnjsub"/>
       <cat-item lemma="um" tags="pr.*"/>
@@ -53,6 +56,12 @@
     <def-cat n="hinweg">
       <cat-item lemma="hinweg" tags="adv"/>
     </def-cat>
+    <def-cat n="leben">
+      <cat-item lemma="Leben" tags="n.nt.*"/>
+    </def-cat>
+    <def-cat n="gekommen">
+      <cat-item lemma="kommen" tags="vblex.pp"/>
+    </def-cat>
     <def-cat n="monat">
       <cat-item lemma="Januar" tags="n.*"/>
       <cat-item lemma="Februar" tags="n.*"/>
@@ -78,6 +87,29 @@
       <cat-item lemma="noch" tags="cnjcoo"/>
       <cat-item lemma="noch" tags="adv"/> <!-- XXX: bad disam -->
     </def-cat>
+    <def-cat n="werden">
+      <cat-item lemma="werden" tags="vaux.*"/>
+      <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: also not aux? -->
+    </def-cat>
+    <def-cat n="als">
+      <cat-item lemma="als" tags="adv"/>
+      <cat-item lemma="als" tags="cnjadv"/> <!-- XXX: also not cnjadv? -->
+    </def-cat>
+    <def-cat n="wie">
+      <cat-item lemma="wie" tags="adv"/>
+      <cat-item lemma="wie" tags="adv.itg"/>
+    </def-cat>
+    <def-cat n="gehen">
+      <cat-item lemma="gehen" tags="vblex.pri.p2.pl"/>
+      <cat-item lemma="gehen" tags="vblex.pri.p3.sg"/>
+      <cat-item lemma="gehen" tags="vblex.prs.p3.sg"/>
+    </def-cat>
+    <def-cat n="es">
+      <cat-item lemma="es" tags="prn.pers.p3.nt.sg.*"/>
+      <cat-item lemma="prpers" tags="prn.*.p3.nt.sg.*"/>
+    </def-cat>
+    <!-- }}}
+         {{{ poses, groups etc. -->
     <def-cat n="daynumber">
       <cat-item tags="num.ord"/>
     </def-cat>
@@ -109,27 +141,6 @@
     <def-cat n="verbnegation">
       <cat-item lemma="nicht" tags="adv"/>
       <cat-item lemma="kein" tags="adv"/>
-    </def-cat>
-    <def-cat n="werden">
-      <cat-item lemma="werden" tags="vaux.*"/>
-      <cat-item lemma="werden" tags="vblex.*"/> <!-- XXX: also not aux? -->
-    </def-cat>
-    <def-cat n="als">
-      <cat-item lemma="als" tags="adv"/>
-      <cat-item lemma="als" tags="cnjadv"/> <!-- XXX: also not cnjadv? -->
-    </def-cat>
-    <def-cat n="wie">
-      <cat-item lemma="wie" tags="adv"/>
-      <cat-item lemma="wie" tags="adv.itg"/>
-    </def-cat>
-    <def-cat n="gehen">
-      <cat-item lemma="gehen" tags="vblex.pri.p2.pl"/>
-      <cat-item lemma="gehen" tags="vblex.pri.p3.sg"/>
-      <cat-item lemma="gehen" tags="vblex.prs.p3.sg"/>
-    </def-cat>
-    <def-cat n="es">
-      <cat-item lemma="es" tags="prn.pers.p3.nt.sg.*"/>
-      <cat-item lemma="prpers" tags="prn.*.p3.nt.sg.*"/>
     </def-cat>
     <def-cat n="infinite">
       <cat-item tags="vblex.inf"/>
@@ -215,6 +226,7 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <!-- }}} -->
   </section-def-cats>
   <!-- }}}
   {{{ attrs -->
@@ -505,6 +517,15 @@
     <def-macro n="tensemood-mangler" npar="1">
       <choose>
         <when>
+          <!-- negation verb is underspecified time -->
+          <test>
+            <equal><clip pos="1" side="tl" part="lem"/><lit v="ei"/></equal>
+          </test>
+          <let>
+            <var n="tense"/><lit v=""/>
+          </let>
+        </when>
+        <when>
           <test>
               <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
           </test>
@@ -534,15 +555,6 @@
           </test>
           <let>
             <var n="tense"/><lit-tag v="past"/>
-          </let>
-        </when>
-        <when>
-          <!-- negation verb is underspecified time -->
-          <test>
-            <equal><clip pos="1" side="tl" part="lem"/><lit v="ei"/></equal>
-          </test>
-          <let>
-            <var n="tense"/><lit v=""/>
           </let>
         </when>
         <otherwise>
@@ -1190,6 +1202,27 @@
               <var n="numtype"/>
               <var n="number"/>
               <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="um leben gekommen: kuolla">
+      <pattern>
+        <pattern-item n="um"/>
+        <pattern-item n="det"/>
+        <pattern-item n="leben"/>
+        <pattern-item n="gekommen"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="VP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="dead.becoming"/></tag>
+            </tags>
+            <lu>
+              <lit v="kuolla"/>
+              <lit-tag v="vblex.actv.pp.pos.nom.sg"/>
             </lu>
           </chunk>
         </out>
