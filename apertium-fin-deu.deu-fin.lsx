@@ -3,12 +3,16 @@
     <sdefs>
         <sdef n="adj"/>
         <sdef n="adv"/>
+        <sdef n="det"/>
         <sdef n="n"/>
         <sdef n="np"/>
         <sdef n="vblex"/>
         <sdef n="pr"/>
     </sdefs>
     <pardefs>
+        <pardef n="det">
+          <e><i><w/><s n="det"/><t/><j/></i></e>
+        </pardef>
         <pardef n="adj">
             <e><i><w/><s n="adj"/><j/></i></e>
             <e><i><w/><s n="adj"/><t/><j/></i></e>
@@ -20,10 +24,11 @@
         <pardef n="adp">
             <e><i><w/><s n="pr"/><t/><j/></i></e>
         </pardef>
-        <pardef n="SN">
-            <e><par n="n"/></e>
-            <e><par n="adj"/><par n="n"/></e>
-            <e><par n="adj"/><par n="adj"/><par n="n"/></e>
+        <pardef n="NP">
+          <e><par n="n"/></e>
+          <e><par n="det"/><par n="n"/></e>
+          <e><par n="adj"/><par n="n"/></e>
+          <e><par n="adj"/><par n="adj"/><par n="n"/></e>
         </pardef>
     </pardefs>
     <section id="main" type="standard">
@@ -31,5 +36,10 @@
             <p><l>kündigen<s n="vblex"/></l><r>ankündigen<s n="vblex"/></r></p><i><t/><j/></i>
             <par n="adp"/><par n="n"/><p><l>an<t/></l><r></r></p>
         </e>
+        <e lm="teilen mit" c="tell (not: share with)">
+            <p><l>teilen<s n="vblex"/></l><r>mitteilen<s n="vblex"/></r></p><i><t/><j/></i>
+            <par n="NP"/><p><l>mit<t/></l><r></r></p>
+        </e>
     </section>
 </dictionary>
+<!-- vim: set ft=xml foldmethod=marker: -->
