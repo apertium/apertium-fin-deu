@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NOU NS N O  UNS   NO UN S
-         {{{ no u ns wi  t h g    ende r s -->
+    <!-- {{{  NOU NS N O  UNS    NO UN S
+         {{{ no u ns wi  t h g     ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -650,7 +650,8 @@
     <e><p><l>este<s n="n"/></l><r>Sperre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>estetiikka<s n="n"/></l><r>Ästhetik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etappi<s n="n"/></l><r>Etappe<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>etelä<s n="n"/></l><r>Sud<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eteläosavaltio<s n="n"/></l><r>Südstaat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>liemi<s n="n"/></l><r>Sud<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etelä<s n="n"/></l><r>Süden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etelä<s n="n"/></l><r>Süd<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eteneminen<s n="n"/></l><r>Fortgang<s n="n"/><s n="m"/></r></p></e>
@@ -804,6 +805,7 @@
     <e><p><l>herätys<s n="n"/></l><r>Weckruf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hesseläinen<s n="n"/></l><r>Hesse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hetki<s n="n"/></l><r>Augenblick<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hetki<s n="n"/></l><r>Moment<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hetki<s n="n"/></l><r>Weile<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hetki<s n="n"/></l><r>Zeitpunkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hevonen<s n="n"/></l><r>Pferd<s n="n"/><s n="nt"/></r></p></e>
@@ -1294,6 +1296,7 @@
     <e><p><l>kauppala<s n="n"/></l><r>Weiler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppamies<s n="n"/></l><r>Kaufmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppaministeriö<s n="n"/></l><r>Handelsministerium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kauppasaarto<s n="n"/></l><r>Embargo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppa<s n="n"/></l><r>Geschäft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppa<s n="n"/></l><r>Handel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunginjohtaja<s n="n"/></l><r>Bürgermeister<s n="n"/><s n="m"/></r></p></e>
@@ -2064,6 +2067,7 @@
     <e><p><l>maininta<s n="n"/></l><r>Erwähnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mainoskampanja<s n="n"/></l><r>Werbekampagne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mainoskyltti<s n="n"/></l><r>Werbeplakat<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>mainos<s n="n"/></l><r>Anzeige<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maisema<s n="n"/></l><r>Landschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maissi<s n="n"/></l><r>Korn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maito<s n="n"/></l><r>Milch<s n="n"/><s n="f"/></r></p></e>
@@ -3034,6 +3038,7 @@
     <e><p><l>roolipeli<s n="n"/></l><r>Rollenspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>Besetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>Rolle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rotu<s n="n"/></l><r>Rasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rouva<s n="n"/></l><r>Dame<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rouva<s n="n"/></l><r>Frau<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rubiini<s n="n"/></l><r>Rubin<s n="n"/><s n="m"/></r></p></e>
@@ -3481,6 +3486,7 @@
     <e><p><l>tarvike<s n="n"/></l><r>Ausrüstung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarvike<s n="n"/></l><r>Versorgung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tarvike<s n="n"/></l><r>Zubehör<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichstellung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasaus<s n="n"/></l><r>Ausrichtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasavalta<s n="n"/></l><r>Republik<s n="n"/><s n="f"/></r></p></e>
@@ -4292,7 +4298,6 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
     <!-- }}}
@@ -4532,6 +4537,7 @@
     <e><p><l>hallinta<s n="n"/></l><r>management<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hallinto<s n="n"/></l><r>verwaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hallitus<s n="n"/></l><r>regierung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hallussapito<s n="n"/></l><r>besitz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hallussapito<s n="n"/></l><r>haft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>halukas<s n="n"/></l><r>aspirant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>harjoitus<s n="n"/></l><r>übung<s n="n"/><s n="f"/></r></p></e>
@@ -4588,6 +4594,7 @@
     <e><p><l>joukkue<s n="n"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>journalisti<s n="n"/></l><r>journalist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juna<s n="n"/></l><r>zug<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jännite<s n="n"/></l><r>spannung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jäsen<s n="n"/></l><r>mitglied<s n="n"/><s n="nt"/></r></p></e>
@@ -6604,6 +6611,7 @@
     <e><p><l>kysyä<s n="vblex"/></l><r>fragen<s n="vblex"/></r></p></e>
     <e><p><l>kyteä<s n="vblex"/></l><r>schwelen<s n="vblex"/></r></p></e>
     <e><p><l>kytkeä<s n="vblex"/></l><r>einschalten<s n="vblex"/></r></p></e>
+    <e><p><l>kytkeä<s n="vblex"/></l><r>schalten<s n="vblex"/></r></p></e>
     <e><p><l>kärsiä<s n="vblex"/></l><r>erleiden<s n="vblex"/></r></p></e>
     <e><p><l>käsitellä<s n="vblex"/></l><r>auseinandersetzen<s n="vblex"/></r></p></e>
     <e><p><l>käsitellä<s n="vblex"/></l><r>behandeln<s n="vblex"/></r></p></e>
@@ -7320,6 +7328,7 @@
     <e><p><l>sytyttää<s n="vblex"/></l><r>aufflammen<s n="vblex"/></r></p></e>
     <e><p><l>sytyttää<s n="vblex"/></l><r>entfachen<s n="vblex"/></r></p></e>
     <e><p><l>sytyttää<s n="vblex"/></l><r>zünden<s n="vblex"/></r></p></e>
+    <e><p><l>syventää<s n="vblex"/></l><r>vertiefen<s n="vblex"/></r></p></e>
     <e><p><l>syyllistyä<s n="vblex"/></l><r>begehen<s n="vblex"/></r></p></e>
     <e><p><l>syyttää<s n="vblex"/></l><r>beschuldigen<s n="vblex"/></r></p></e>
     <e><p><l>syyttää<s n="vblex"/></l><r>bezichtigen<s n="vblex"/></r></p></e>
@@ -7853,6 +7862,7 @@
     <e><p><l>ostaa<s n="vblex"/></l><r>kaufen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>palaa<s n="vblex"/></l><r>flammen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>palauttaa<s n="vblex"/></l><r>gehen<g><b/>zurück</g><s n="vblex"/></r></p></e>
+    <e><p><l>pakottaa<s n="vblex"/></l><r>drängen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>pudottaa<s n="vblex"/></l><r>werfen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>puhutella<s n="vblex"/></l><r>schreiben<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>päivittää<s n="vblex"/></l><r>werten<g><b/>auf</g><s n="vblex"/></r></p></e>
@@ -8820,7 +8830,7 @@
     <e><p><l>naitu<s n="adj"/></l><r>verlobt<s n="adj"/></r></p></e>
     <e><p><l>natiivi<s n="adj"/></l><r>indigen<s n="adj"/></r></p></e>
     <e><p><l>naurettava<s n="adj"/></l><r>lächerlich<s n="adj"/></r></p></e>
-    <e><p><l>naurettava<s n="adj"/></l><r>schrecklich<s n="adj"/></r></p></e>
+    <e><p><l>kamala<s n="adj"/></l><r>schrecklich<s n="adj"/></r></p></e>
     <e><p><l>negatiivinen<s n="adj"/></l><r>negativ<s n="adj"/></r></p></e>
     <e><p><l>nelivuotinen<s n="adj"/></l><r>vierjährig<s n="adj"/></r></p></e>
     <e><p><l>neliöllinen<s n="adj"/></l><r>quadratisch<s n="adj"/></r></p></e>
