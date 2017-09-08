@@ -798,13 +798,30 @@
       <choose>
         <when>
           <test>
-            <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
+            <and>
+              <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="dat"/></equal>
+            </and>
           </test>
           <let>
             <var n="adpmaybe"/><lit v=""/>
           </let>
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="in"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="acc"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+          <let>
+            <var n="adpcase"/><lit-tag v="ill"/>
           </let>
         </when>
         <when>
@@ -2073,7 +2090,7 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
-              <var n="pers"/>
+              <lit-tag v="p3.sg"/> <!-- p3.sg -->
           </lu>
           </chunk>
         </out>
