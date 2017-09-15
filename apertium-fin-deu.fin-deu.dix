@@ -1306,6 +1306,7 @@
     <e><p><l>kauppa<s n="n"/></l><r>Geschäft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppa<s n="n"/></l><r>Handel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunginjohtaja<s n="n"/></l><r>Bürgermeister<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kaupunginjohtajatar<s n="n"/></l><r>Bürgermeisterin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaupunginosa<s n="n"/></l><r>Arrondissement<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kaupunginosa<s n="n"/></l><r>Bezirk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunginosa<s n="n"/></l><r>Ortsteil<s n="n"/><s n="m"/></r></p></e>
@@ -4274,6 +4275,7 @@
     <e><p><l>yläliiga<s n="n"/></l><r>Oberliga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylänkö<s n="n"/></l><r>Hochland<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ylävartalo<s n="n"/></l><r>Oberkörper<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ymmärrys<s n="n"/></l><r>Verständnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ympyrä<s n="n"/></l><r>Kreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ympyrä<s n="n"/></l><r>Ring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ympäristöministeri<s n="n"/></l><r>Umweltminister<s n="n"/><s n="m"/></r></p></e>
@@ -4320,6 +4322,7 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+
 
 
     <!--  }}}
@@ -4550,6 +4553,7 @@
     <e r="RL"><p><l>esimerkki<s n="n"/></l><r>beispiel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>esine<s n="n"/></l><r>gut<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>esitelmä<s n="n"/></l><r>vorlage<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>espanjalainen<s n="n"/></l><r>spanisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>este<s n="n"/></l><r>sperre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>etelä<s n="n"/></l><r>süd<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>filippiiniläinen<s n="n"/></l><r>philippinisch<s n="n"/><s n="nt"/></r></p></e>
@@ -4722,6 +4726,7 @@
     <e r="RL"><p><l>kuulustelu<s n="n"/></l><r>befragung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kuva<s n="n"/></l><r>bild<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kyky<s n="n"/></l><r>fähigkeit<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kylki<s n="n"/></l><r>flanke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kylä<s n="n"/></l><r>dorf<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kypärä<s n="n"/></l><r>helm<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kypärä<s n="n"/></l><r>helm<s n="n"/><s n="m"/></r></p></e>
@@ -4954,6 +4959,7 @@
     <e r="RL"><p><l>putki<s n="n"/></l><r>leitung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pykälä<s n="n"/></l><r>gesetz<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>pyrkimys<s n="n"/></l><r>bemühung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>pyrkimys<s n="n"/></l><r>bestrebung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pysyvä<s n="n"/></l><r>feste<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>päivä<s n="n"/></l><r>tag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pääkaupunki<s n="n"/></l><r>hauptstadt<s n="n"/><s n="f"/></r></p></e>
@@ -5262,6 +5268,10 @@
     <e r="RL"><p><l>ääritoiminta<s n="n"/></l><r>extremismus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+
+
+
 
 
     <e r="RL" c="old orth"><p><l>luoti<s n="n"/></l><r>geschoß<s n="n"/><s n="nt"/></r></p></e>
@@ -6202,6 +6212,7 @@
     <e><p><l>asettaa<s n="vblex"/></l><r>stellen<s n="vblex"/></r></p></e>
     <e><p><l>asettaa<s n="vblex"/></l><r>versetzen<s n="vblex"/></r></p></e>
     <e><p><l>asettua<s n="vblex"/></l><r>ansiedeln<s n="vblex"/></r></p></e>
+    <e><p><l>asettua<s n="vblex"/></l><r>positionieren<s n="vblex"/></r></p></e>
     <e><p><l>asettua<s n="vblex"/></l><r>zufügen<s n="vblex"/></r></p></e>
     <e><p><l>astella<s n="vblex"/></l><r>einrichten<s n="vblex"/></r></p></e>
     <e><p><l>astua<s n="vblex"/></l><r>schreiten<s n="vblex"/></r></p></e>
@@ -6835,6 +6846,7 @@
     <e><p><l>moderoida<s n="vblex"/></l><r>moderieren<s n="vblex"/></r></p></e>
     <e><p><l>moittia<s n="vblex"/></l><r>rügen<s n="vblex"/></r></p></e>
     <e><p><l>motivoida<s n="vblex"/></l><r>motivieren<s n="vblex"/></r></p></e>
+    <e><p><l>muistaa<s n="vblex"/></l><r>besinnen<s n="vblex"/></r></p></e>
     <e><p><l>muistella<s n="vblex"/></l><r>gedenken<s n="vblex"/></r></p></e>
     <e><p><l>muistuttaa<s n="vblex"/></l><r>erinnern<s n="vblex"/></r></p></e>
     <e><p><l>muistuttaa<s n="vblex"/></l><r>ähneln<s n="vblex"/></r></p></e>
@@ -7523,6 +7535,7 @@
     <e><p><l>tuoda<s n="vblex"/></l><r>bringen<s n="vblex"/></r></p></e>
     <e><p><l>tuoda<s n="vblex"/></l><r>importieren<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>anklagen<s n="vblex"/></r></p></e>
+    <e><p><l>tuomita<s n="vblex"/></l><r>missbilligen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>urteilen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
@@ -7677,6 +7690,7 @@
     <e><p><l>vastata<s n="vblex"/></l><r>übereinstimmen<s n="vblex"/></r></p></e>
     <e><p><l>vastustaa<s n="vblex"/></l><r>appellieren<s n="vblex"/></r></p></e>
     <e><p><l>vastustaa<s n="vblex"/></l><r>brüskieren<s n="vblex"/></r></p></e>
+    <e><p><l>vastustaa<s n="vblex"/></l><r>widersetzen<s n="vblex"/></r></p></e>
     <e><p><l>vastustaa<s n="vblex"/></l><r>widersprechen<s n="vblex"/></r></p></e>
     <e><p><l>vastustaa<s n="vblex"/></l><r>widerstehen<s n="vblex"/></r></p></e>
     <e><p><l>vedota<s n="vblex"/></l><r>ansprechen<s n="vblex"/></r></p></e>
@@ -7786,7 +7800,6 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
-    <e><p><l>vastustaa<s n="vblex"/></l><r>widersetzen<s n="vblex"/></r></p></e>
 
 
 
@@ -8513,6 +8526,7 @@
     <e><p><l>itsevarma<s n="adj"/></l><r>selbstbewusst<s n="adj"/></r></p></e>
     <e><p><l>itsevarma<s n="adj"/></l><r>zuversichtlich<s n="adj"/></r></p></e>
     <e><p><l>itäafrikkalainen<s n="adj"/></l><r>ostafrikanisch<s n="adj"/></r></p></e>
+    <e><p><l>itäeurooppalainen<s n="adj"/></l><r>osteuropäisch<s n="adj"/></r></p></e>
     <e><p><l>itäinen<s n="adj"/></l><r>östlich<s n="adj"/></r></p></e>
     <e><p><l>itäsaksalainen<s n="adj"/></l><r>ostdeutsch<s n="adj"/></r></p></e>
     <e><p><l>itävaltalainen<s n="adj"/></l><r>österreichisch<s n="adj"/></r></p></e>
@@ -9482,6 +9496,7 @@
     <e><p><l>viides<s n="adj"/></l><r>fünfte<s n="adj"/></r></p></e>
     <e><p><l>viikonmittainen<s n="adj"/></l><r>wochenlang<s n="adj"/></r></p></e>
     <e><p><l>viikottainen<s n="adj"/></l><r>wöchentlich<s n="adj"/></r></p></e>
+    <e><p><l>viileä<s n="adj"/></l><r>kühl<s n="adj"/></r></p></e>
     <e><p><l>viimeinen<s n="adj"/></l><r>letzte<s n="adj"/></r></p></e>
     <e><p><l>viimeinen<s n="adj"/></l><r>letzt<s n="adj"/></r></p></e>
     <e><p><l>viimeisin<s n="adj"/></l><r>letztlich<s n="adj"/></r></p></e>
@@ -9955,6 +9970,7 @@
     <e><i>Campbell<s n="np"/></i></e>
     <e><i>Caracas<s n="np"/></i></e>
     <e><i>Carla<s n="np"/></i></e>
+    <e><i>Carles<s n="np"/></i></e>
     <e><i>Carlo<s n="np"/></i></e>
     <e><i>Carlo<s n="np"/></i></e>
     <e><i>Carl<s n="np"/></i></e>
