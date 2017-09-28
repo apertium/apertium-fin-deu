@@ -633,6 +633,7 @@
     <e><p><l>ero<s n="n"/></l><r>Scheidung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ero<s n="n"/></l><r>Trennung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ero<s n="n"/></l><r>Unterschied<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>erotiikka<s n="n"/></l><r>Erotik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erottelu<s n="n"/></l><r>Unterscheidung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erotuomari<s n="n"/></l><r>Schiedsrichter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>erotus<s n="n"/></l><r>Abgrenzung<s n="n"/><s n="f"/></r></p></e>
@@ -690,6 +691,7 @@
     <e><p><l>farssi<s n="n"/></l><r>Farce<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>federaatio<s n="n"/></l><r>Föderation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>festivaali<s n="n"/></l><r>Festival<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>fiasko<s n="n"/></l><r>Debakel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>fiktio<s n="n"/></l><r>Fiction<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fiktio<s n="n"/></l><r>Fiktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filippiiniläinen<s n="n"/></l><r>Philippinisch<s n="n"/><s n="nt"/></r></p></e>
@@ -1651,6 +1653,7 @@
     <e><p><l>kurssi<s n="n"/></l><r>Verlauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kutoja<s n="n"/></l><r>Weber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kutsu<s n="n"/></l><r>Aufruf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kutsu<s n="n"/></l><r>Einladung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuukausi<s n="n"/></l><r>Monat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuuleminen<s n="n"/></l><r>Anhörung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuulija<s n="n"/></l><r>Zuhörer<s n="n"/><s n="m"/></r></p></e>
@@ -2005,6 +2008,7 @@
     <e><p><l>lääke<s n="n"/></l><r>Arzneimittel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lääke<s n="n"/></l><r>Arznei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lääke<s n="n"/></l><r>Medizin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lääkitys<s n="n"/></l><r>Medikament<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lääkärintakki<s n="n"/></l><r>Arztkittel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääkäri<s n="n"/></l><r>Arzt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääkäri<s n="n"/></l><r>Ärzte<s n="n"/><s n="m"/></r></p></e>
@@ -2694,6 +2698,7 @@
     <e><p><l>pizzeria<s n="n"/></l><r>Pizzeria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>planeetta<s n="n"/></l><r>Planet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>platina<s n="n"/></l><r>Platin<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>playboy<s n="n"/></l><r>Playboy<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pohjoinen<s n="n"/></l><r>Norden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pohjoinen<s n="n"/></l><r>Nord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pohjoiskorealainen<s n="n"/></l><r>Nordkoreaner<s n="n"/><s n="m"/></r></p></e>
@@ -3151,6 +3156,7 @@
     <e><p><l>šeikki<s n="n"/></l><r>Scheich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sekaantuminen<s n="n"/></l><r>Beeinflussung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sekoitus<s n="n"/></l><r>Gemisch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>sekoitus<s n="n"/></l><r>Mischung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>seksi<s n="n"/></l><r>Sex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>seksuaalisuus<s n="n"/></l><r>Sexualität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sektori<s n="n"/></l><r>Branche<s n="n"/><s n="f"/></r></p></e>
@@ -3705,6 +3711,7 @@
     <e><p><l>tulos<s n="n"/></l><r>Resultat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tulostaulukko<s n="n"/></l><r>Ranking<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tuloste<s n="n"/></l><r>Druck<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tulovero<s n="n"/></l><r>Einkommensteuer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulppa<s n="n"/></l><r>Zapfen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tulva<s n="n"/></l><r>Hochwasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tulviminen<s n="n"/></l><r>Überschwemmung<s n="n"/><s n="f"/></r></p></e>
@@ -4120,6 +4127,7 @@
     <e><p><l>viivästys<s n="n"/></l><r>Verzögerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vika<s n="n"/></l><r>Defekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vika<s n="n"/></l><r>Fehler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vika<s n="n"/></l><r>Fehlfunktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vilkaisu<s n="n"/></l><r>Blick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vilkaus<s n="n"/></l><r>Blick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>villa<s n="n"/></l><r>Villa<s n="n"/><s n="f"/></r></p></e>
@@ -4162,6 +4170,7 @@
     <e><p><l>voittonäkymä<s n="n"/></l><r>Erfolgsaussicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voittoputki<s n="n"/></l><r>Erfolgsserie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Gewinn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voitto<s n="n"/></l><r>Profit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Sieg<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Sieg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuodenaika<s n="n"/></l><r>Jahreszeit<s n="n"/><s n="f"/></r></p></e>
@@ -4288,6 +4297,7 @@
     <e><p><l>yläkäsite<s n="n"/></l><r>Oberbegriff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yläliiga<s n="n"/></l><r>Oberliga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylänkö<s n="n"/></l><r>Hochland<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>yläraja<s n="n"/></l><r>Maximum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ylävartalo<s n="n"/></l><r>Oberkörper<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ymmärrys<s n="n"/></l><r>Verständnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ympyrä<s n="n"/></l><r>Kreis<s n="n"/><s n="m"/></r></p></e>
@@ -4301,6 +4311,7 @@
     <e><p><l>yrittäjä<s n="n"/></l><r>Unternehmer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>Anlauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>Betrieb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yritys<s n="n"/></l><r>Körperschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>Unternehmen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>Versuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yrityssuhde<s n="n"/></l><r>Geschäftsbeziehung<s n="n"/><s n="f"/></r></p></e>
@@ -4336,6 +4347,8 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+
+
 
 
 
@@ -4961,6 +4974,7 @@
     <e r="RL"><p><l>puhkeaminen<s n="n"/></l><r>ausbruch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puhtaus<s n="n"/></l><r>reinheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puhuja<s n="n"/></l><r>sprecher<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>puisto<s n="n"/></l><r>park<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puku<s n="n"/></l><r>anzug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pula<s n="n"/></l><r>knappheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pullonkaula<s n="n"/></l><r>engpass<s n="n"/><s n="m"/></r></p></e>
@@ -5233,6 +5247,7 @@
     <e r="RL"><p><l>venäläinen<s n="n"/></l><r>russisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>verkko<s n="n"/></l><r>netz<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>verkko<s n="n"/></l><r>netzwerk<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>vero<s n="n"/></l><r>steuer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vertailu<s n="n"/></l><r>vergleich<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vesi<s n="n"/></l><r>wasser<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>vetäytyminen<s n="n"/></l><r>abzug<s n="n"/><s n="m"/></r></p></e>
@@ -5257,6 +5272,7 @@
     <e r="RL"><p><l>voittaja<s n="n"/></l><r>sieger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>voitto<s n="n"/></l><r>sieg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vuori<s n="n"/></l><r>berg<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>vuosi<s n="n"/></l><r>jahr<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>vyöry<s n="n"/></l><r>lawine<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vyö<s n="n"/></l><r>gürtel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>väliintulo<s n="n"/></l><r>intervention<s n="n"/><s n="f"/></r></p></e>
@@ -6462,6 +6478,7 @@
     <e><p><l>jatkaa<s n="vblex"/></l><r>weitergehen<s n="vblex"/></r></p></e>
     <e><p><l>jatkaa<s n="vblex"/></l><r>weitermachen<s n="vblex"/></r></p></e>
     <e><p><l>johdattaa<s n="vblex"/></l><r>einführen<s n="vblex"/></r></p></e>
+    <e><p><l>johtaa<s n="vblex"/></l><r>anführen<s n="vblex"/></r></p></e>
     <e><p><l>johtaa<s n="vblex"/></l><r>bedingen<s n="vblex"/></r></p></e>
     <e><p><l>johtaa<s n="vblex"/></l><r>führen<s n="vblex"/></r></p></e>
     <e><p><l>johtaa<s n="vblex"/></l><r>leiten<s n="vblex"/></r></p></e>
@@ -6934,6 +6951,8 @@
     <e><p><l>nousta<s n="vblex"/></l><r>ragen<s n="vblex"/></r></p></e>
     <e><p><l>nousta<s n="vblex"/></l><r>steigen<s n="vblex"/></r></p></e>
     <e><p><l>noutaa<s n="vblex"/></l><r>holen<s n="vblex"/></r></p></e>
+    <e><p><l>nukahtaa<s n="vblex"/></l><r>einschlafen<s n="vblex"/></r></p></e>
+    <e><p><l>nukahtaa<s n="vblex"/></l><r>einschlafen<s n="vblex"/></r></p></e>
     <e><p><l>nukkua<s n="vblex"/></l><r>schlafen<s n="vblex"/></r></p></e>
     <e><p><l>nähdä<s n="vblex"/></l><r>sehen<s n="vblex"/></r></p></e>
     <e><p><l>nälkiintyä<s n="vblex"/></l><r>hungern<s n="vblex"/></r></p></e>
@@ -7707,6 +7726,7 @@
     <e><p><l>vastata<s n="vblex"/></l><r>eingehen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>entgegnen<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>entsprechen<s n="vblex"/></r></p></e>
+    <e><p><l>vastata<s n="vblex"/></l><r>erwidern<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>kontern<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>verantworten<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>übereinstimmen<s n="vblex"/></r></p></e>
@@ -7725,6 +7745,7 @@
     <e><p><l>venyttää<s n="vblex"/></l><r>spannen<s n="vblex"/></r></p></e>
     <e><p><l>vereentyä<s n="vblex"/></l><r>blutverschmieren<s n="vblex"/></r></p></e>
     <e><p><l>verkottua<s n="vblex"/></l><r>vernetzen<s n="vblex"/></r></p></e>
+    <e><p><l>verottaa<s n="vblex"/></l><r>besteuern<s n="vblex"/></r></p></e>
     <e><p><l>verottaa<s n="vblex"/></l><r>steuerfinanzieren<s n="vblex"/></r></p></e>
     <e><p><l>verrata<s n="vblex"/></l><r>vergleichen<s n="vblex"/></r></p></e>
     <e><p><l>vetäistä<s n="vblex"/></l><r>ausziehen<s n="vblex"/></r></p></e>
@@ -7746,6 +7767,7 @@
     <e><p><l>viihdyttää<s n="vblex"/></l><r>erfreuen<s n="vblex"/></r></p></e>
     <e><p><l>viiletä<s n="vblex"/></l><r>abkühlen<s n="vblex"/></r></p></e>
     <e><p><l>viimeistellä<s n="vblex"/></l><r>erledigen<s n="vblex"/></r></p></e>
+    <e><p><l>viimeistellä<s n="vblex"/></l><r>komplettieren<s n="vblex"/></r></p></e>
     <e><p><l>viimeistellä<s n="vblex"/></l><r>vollenden<s n="vblex"/></r></p></e>
     <e><p><l>viimeistellä<s n="vblex"/></l><r>zementieren<s n="vblex"/></r></p></e>
     <e><p><l>viitata<s n="vblex"/></l><r>hindeuten<s n="vblex"/></r></p></e>
@@ -7798,6 +7820,7 @@
     <e><p><l>yhteistyöskennellä<s n="vblex"/></l><r>zusammenarbeiten<s n="vblex"/></r></p></e>
     <e><p><l>yhteisöllistää<s n="vblex"/></l><r>gemeinden<s n="vblex"/></r></p></e>
     <e><p><l>yhtenäistää<s n="vblex"/></l><r>abgleichen<s n="vblex"/></r></p></e>
+    <e><p><l>yksinkertaistaa<s n="vblex"/></l><r>vereinfachen<s n="vblex"/></r></p></e>
     <e><p><l>ylenantaa<s n="vblex"/></l><r>übergeben<s n="vblex"/></r></p></e>
     <e><p><l>ylenkatsoa<s n="vblex"/></l><r>übersehen<s n="vblex"/></r></p></e>
     <e><p><l>yliajaa<s n="vblex"/></l><r>überfahren<s n="vblex"/></r></p></e>
@@ -10068,6 +10091,7 @@
     <e><i>Emil<s n="np"/></i></e>
     <e><i>Emma<s n="np"/></i></e>
     <e><i>Emmy<s n="np"/></i></e>
+    <e><i>Enterprise<s n="np"/></i></e>
     <e><i>Erich<s n="np"/></i></e>
     <e><i>Eric<s n="np"/></i></e>
     <e><i>Eugene<s n="np"/></i></e>
@@ -10126,6 +10150,7 @@
     <e><i>Havanna<s n="np"/></i></e>
     <e><i>Hayes<s n="np"/></i></e>
     <e><i>Heather<s n="np"/></i></e>
+    <e><i>Hefner<s n="np"/></i></e>
     <e><i>Heidi<s n="np"/></i></e>
     <e><i>Heinrich<s n="np"/></i></e>
     <e><i>Heinz<s n="np"/></i></e>
@@ -10146,6 +10171,7 @@
     <e><i>Houston<s n="np"/></i></e>
     <e><i>Howard<s n="np"/></i></e>
     <e><i>Hudson<s n="np"/></i></e>
+    <e><i>Hugh<s n="np"/></i></e>
     <e><i>Hugo<s n="np"/></i></e>
     <e><i>Ian<s n="np"/></i></e>
     <e><i>Ibrahim<s n="np"/></i></e>
@@ -10637,7 +10663,7 @@
     <e><p><l>Romania<s n="np"/></l><r>Rumänien<s n="np"/></r></p></e>
     <e><p><l>Rooma<s n="np"/></l><r>Rom<s n="np"/></r></p></e>
     <e><p><l>Ruotsi<s n="np"/></l><r>Schweden<s n="np"/></r></p></e>
-    <e><p><l>Ryan<s n="n"/></l><r>Ryan<s n="np"/></r></p></e>
+    <e><p><l>Ryan<s n="np"/></l><r>Ryan<s n="np"/></r></p></e>
     <e><p><l>Saksa<s n="np"/></l><r>Deutschland<s n="np"/></r></p></e>
     <e><p><l>Saksi-Anhalt<s n="np"/></l><r>Sachsen-Anhalt<s n="np"/></r></p></e>
     <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi<b/>Arabien<s n="np"/></r></p></e>
