@@ -29,6 +29,14 @@
       <cat-item lemma="um" tags="pr.*"/>
       <cat-item lemma="um" tags="pr.acc"/>
     </def-cat>
+    <def-cat n="seit">
+      <cat-item lemma="seit" tags="pr.*"/>
+      <cat-item lemma="seit" tags="pr.dat"/>
+      <cat-item lemma="seit" tags="cnjsub"/> <!-- XXX: bad disam -->
+    </def-cat>
+    <def-cat n="bevor">
+      <cat-item lemma="bevor" tags="preadv"/>
+    </def-cat>
     <def-cat n="an">
       <cat-item lemma="an" tags="pr.*"/>
       <cat-item lemma="an" tags="pr.dat"/>
@@ -58,6 +66,8 @@
     </def-cat>
     <def-cat n="leben">
       <cat-item lemma="Leben" tags="n.nt.*"/>
+      <!-- lower-case strings waiting for bug fix -->
+      <cat-item lemma="leben" tags="n.nt.*"/>
     </def-cat>
     <def-cat n="gekommen">
       <cat-item lemma="kommen" tags="vblex.pp"/>
@@ -76,9 +86,26 @@
       <cat-item lemma="Oktober" tags="n.*"/>
       <cat-item lemma="November" tags="n.*"/>
       <cat-item lemma="Dezember" tags="n.*"/>
+      <!-- lower-case strings waiting for bug fix -->
+      <cat-item lemma="januar" tags="n.*"/>
+      <cat-item lemma="februar" tags="n.*"/>
+      <cat-item lemma="märz" tags="n.*"/>
+      <cat-item lemma="april" tags="n.*"/>
+      <cat-item lemma="mai" tags="np.*"/>
+      <cat-item lemma="juni" tags="n.*"/>
+      <cat-item lemma="juli" tags="n.*"/>
+      <cat-item lemma="august" tags="n.*"/>
+      <cat-item lemma="september" tags="n.*"/>
+      <cat-item lemma="oktober" tags="n.*"/>
+      <cat-item lemma="november" tags="n.*"/>
+      <cat-item lemma="dezember" tags="n.*"/>
     </def-cat>
     <def-cat n="zeitwort">
       <cat-item lemma="Jahr" tags="n.*"/>
+      <cat-item lemma="Jahrzehnt" tags="n.*"/>
+      <!-- lower-case strings waiting for bug fix -->
+      <cat-item lemma="jahr" tags="n.*"/>
+      <cat-item lemma="jahrzehnt" tags="n.*"/>
     </def-cat>
     <def-cat n="weder_cc">
       <cat-item lemma="weder" tags="cnjcoo"/>
@@ -1156,6 +1183,34 @@
         </out>
       </action>
     </rule>
+    <rule comment="seit ZEIT bevor: AIKOIHIN">
+      <pattern>
+        <pattern-item n="seit"/>
+        <pattern-item n="zeitwort"/>
+        <pattern-item n="bevor"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="AdvP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>    <!-- Jahr ~ vuosi -->
+              <clip pos="2" side="tl" part="a_noun"/> <!-- n -->
+              <var n="number"/>                       <!-- sg / pl -->
+              <lit-tag v="ill"/>                      <!-- ill -->
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="über ZEIT hinweg: AJAN mittaan">
       <pattern>
         <pattern-item n="über"/>
@@ -2016,6 +2071,54 @@
         </out>
       </action>
     </rule>
+    <rule comment="adjs comp nouns: share case and pl">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="cmp"/>
+        <pattern-item n="nominal"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="comparison-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="number"/></tag>
+              <tag><var n="case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <lit-tag v="gen"/> <!-- non-lexic comp is gen -->
+            </lu>
+            <!-- recomp -->
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adjs nouns: share case and pl">
       <pattern>
         <pattern-item n="adj"/>
@@ -2086,11 +2189,11 @@
           </lu>
           <b/>
           <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_verb"/>
-              <lit-tag v="actv"/>
-              <var n="tense"/>
-              <lit-tag v="p3.sg"/> <!-- p3.sg -->
+            <clip pos="2" side="tl" part="lem"/> <!-- olla -->
+            <clip pos="2" side="tl" part="a_verb"/> <!-- vaux -->
+            <lit-tag v="actv"/> <!-- actv -->
+            <var n="tense"/> <!-- pri, past -->
+            <lit-tag v="p3.sg"/> <!-- p3.sg -->
           </lu>
           </chunk>
         </out>
