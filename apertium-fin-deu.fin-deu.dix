@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NO U NS N O    UN S    NO UN  S
-         {{{ no u   ns wi   t   h g      ende r s -->
+    <!-- {{{  NO U NS N O    UN  S    NO UN  S
+         {{{ no u   ns wi   t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -1315,6 +1315,7 @@
     <e><p><l>katutappelu<s n="n"/></l><r>Straßenschlacht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kauaskatseisuus<s n="n"/></l><r>Voraussicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kauhu<s n="n"/></l><r>Entsetzen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kauhu<s n="n"/></l><r>Horror<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauneus<s n="n"/></l><r>Schönheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaupankäyntikumppani<s n="n"/></l><r>Handelspartner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppahinta<s n="n"/></l><r>Kaufsumme<s n="n"/><s n="f"/></r></p></e>
@@ -1488,6 +1489,7 @@
     <e><p><l>koillinen<s n="n"/></l><r>Nordosten<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>koira<s n="n"/></l><r>Hund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kokaiini<s n="n"/></l><r>Kokain<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>koka<s n="n"/></l><r>Koka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kokemus<s n="n"/></l><r>Erfahrung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kokemus<s n="n"/></l><r>Erlebnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kokki<s n="n"/></l><r>Koch<s n="n"/><s n="m"/></r></p></e>
@@ -3114,6 +3116,7 @@
     <e><p><l>ruoka<s n="n"/></l><r>Essen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ruotsalainen<s n="n"/></l><r>Schwede<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ruska<s n="n"/></l><r>Laub<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>rutiini<s n="n"/></l><r>Routine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ruuhka-aika<s n="n"/></l><r>Berufsverkehr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ruuma<s n="n"/></l><r>Einfahrt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ruumiinavaus<s n="n"/></l><r>Autopsie<s n="n"/><s n="f"/></r></p></e>
@@ -3708,6 +3711,7 @@
     <e><p><l>t-paita<s n="n"/></l><r>T-Shirt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tragedia<s n="n"/></l><r>Tragödie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tragikomedia<s n="n"/></l><r>Tragikomödie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>treeni<s n="n"/></l><r>Training<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>treffi<s n="n"/></l><r>Verabredung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trendi<s n="n"/></l><r>Trend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tribunaali<s n="n"/></l><r>Tribunal<s n="n"/><s n="nt"/></r></p></e>
@@ -4834,6 +4838,7 @@
     <e r="RL"><p><l>leiri<s n="n"/></l><r>camp<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lentokenttä<s n="n"/></l><r>flughafen<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lento<s n="n"/></l><r>flug<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>lentäjä<s n="n"/></l><r>flieger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>leveä<s n="n"/></l><r>breite<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>liikenne<s n="n"/></l><r>verkehr<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>liikenneväline<s n="n"/></l><r>fahrzeug<s n="n"/><s n="nt"/></r></p></e>
@@ -5311,6 +5316,7 @@
     <e r="RL"><p><l>viikko<s n="n"/></l><r>woche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>viisumi<s n="n"/></l><r>visum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>viivytys<s n="n"/></l><r>verschiebung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>viljelijä<s n="n"/></l><r>bauer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vilppi<s n="n"/></l><r>betrug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>virasto<s n="n"/></l><r>agentur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>virasto<s n="n"/></l><r>amt<s n="n"/><s n="nt"/></r></p></e>
@@ -7626,6 +7632,7 @@
     <e><p><l>tulla<s n="vblex"/></l><r>werden<s n="vblex"/></r></p></e>
     <e><p><l>tulvia<s n="vblex"/></l><r>überfluten<s n="vblex"/></r></p></e>
     <e><p><l>tunnistaa<s n="vblex"/></l><r>erkennen<s n="vblex"/></r></p></e>
+    <e><p><l>tunnistaa<s n="vblex"/></l><r>wiedererkennen<s n="vblex"/></r></p></e>
     <e><p><l>tunnustaa<s n="vblex"/></l><r>anerkennen<s n="vblex"/></r></p></e>
     <e><p><l>tunnustaa<s n="vblex"/></l><r>bekennen<s n="vblex"/></r></p></e>
     <e><p><l>tunnustaa<s n="vblex"/></l><r>gestehen<s n="vblex"/></r></p></e>
@@ -7893,6 +7900,7 @@
     <e><p><l>ylistää<s n="vblex"/></l><r>verherrlichen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>durchkreuzen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überbieten<s n="vblex"/></r></p></e>
+    <e><p><l>ylittää<s n="vblex"/></l><r>überqueren<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überschreiten<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>übersteigen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überziehen<s n="vblex"/></r></p></e>
@@ -8832,6 +8840,7 @@
     <e><p><l>kylmäverinen<s n="adj"/></l><r>kaltblütig<s n="adj"/></r></p></e>
     <e><p><l>kymmenes<s n="adj"/></l><r>zehnte<s n="adj"/></r></p></e>
     <e><p><l>kyseenalainen<s n="adj"/></l><r>dubios<s n="adj"/></r></p></e>
+    <e><p><l>käsittämätön<s n="adj"/></l><r>unvorstellbar<s n="adj"/></r></p></e>
     <e><p><l>kätevä<s n="adj"/></l><r>geschickt<s n="adj"/></r></p></e>
     <e><p><l>kätevä<s n="adj"/></l><r>gewandt<s n="adj"/></r></p></e>
     <e><p><l>käypä<s n="adj"/></l><r>berechtigt<s n="adj"/></r></p></e>
@@ -9304,6 +9313,7 @@
     <e><p><l>skottilainen<s n="adj"/></l><r>schottisch<s n="adj"/></r></p></e>
     <e><p><l>slovakialainen<s n="adj"/></l><r>slowakisch<s n="adj"/></r></p></e>
     <e><p><l>solidaarinen<s n="adj"/></l><r>solidarisch<s n="adj"/></r></p></e>
+    <e><p><l>somalialainen<s n="adj"/></l><r>somalisch<s n="adj"/></r></p></e>
     <e><p><l>sopiva<s n="adj"/></l><r>angebracht<s n="adj"/></r></p></e>
     <e><p><l>sopiva<s n="adj"/></l><r>angemessen<s n="adj"/></r></p></e>
     <e><p><l>sopiva<s n="adj"/></l><r>geeignet<s n="adj"/></r></p></e>
@@ -9371,6 +9381,7 @@
     <e><p><l>taiteellinen<s n="adj"/></l><r>künstlerisch<s n="adj"/></r></p></e>
     <e><p><l>taiteellinen<s n="adj"/></l><r>künstlich<s n="adj"/></r></p></e>
     <e><p><l>takautuva<s n="adj"/></l><r>rückgängig<s n="adj"/></r></p></e>
+    <e><p><l>taktinen<s n="adj"/></l><r>taktisch<s n="adj"/></r></p></e>
     <e><p><l>taloudellinen<s n="adj"/></l><r>finanziell<s n="adj"/></r></p></e>
     <e><p><l>taloudellinen<s n="adj"/></l><r>wirtschaftlich<s n="adj"/></r></p></e>
     <e><p><l>talvinen<s n="adj"/></l><r>winterlich<s n="adj"/></r></p></e>
@@ -10054,6 +10065,7 @@
     <e><i>Basel<s n="np"/></i></e>
     <e><i>Becker<s n="np"/></i></e>
     <e><i>Belfast<s n="np"/></i></e>
+    <e><i>Belgrad<s n="np"/></i></e>
     <e><i>Benjamin<s n="np"/></i></e>
     <e><i>Bennett<s n="np"/></i></e>
     <e><i>Ben<s n="np"/></i></e>
@@ -10363,7 +10375,6 @@
     <e><i>Luxemburg<s n="np"/></i></e>
     <e><i>Lübeck<s n="np"/></i></e>
     <e><i>Madrid<s n="np"/></i></e>
-    <e><i>Mailand<s n="np"/></i></e>
     <e><i>Mainz<s n="np"/></i></e>
     <e><i>Malta<s n="np"/></i></e>
     <e><i>Manchester<s n="np"/></i></e>
@@ -10621,6 +10632,7 @@
          {{{ mismatching secondaries -->
 
     <e><p><l>Kurdistan<s n="np"/><s n="top"/></l><r>Kurdistan<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Santa<s n="np"/><s n="top"/><s n="use_blacklist"/></l><r>Santa<s n="np"/><s n="ant"/></r></p></e>
 
 
     <!--}}}
@@ -10719,6 +10731,7 @@
     <e><p><l>Marilla<s n="np"/><s n="ant"/><s n="f"/></l><r>Marilla<s n="np"/></r></p></e>
     <e><p><l>Marin<s n="np"/><s n="ant"/></l><r>Marin<s n="np"/></r></p></e>
     <e><p><l>Meksiko<s n="np"/></l><r>Mexiko<s n="np"/></r></p></e>
+    <e><p><l>Milano<s n="np"/></l><r>Mailand<s n="np"/></r></p></e>
     <e><p><l>Mongolia<s n="np"/></l><r>Mongolei<s n="np"/></r></p></e>
     <e><p><l>Moskova<s n="np"/></l><r>Moskau<s n="np"/></r></p></e>
     <e><p><l>Napoli<s n="np"/></l><r>Neapel<s n="np"/></r></p></e>
@@ -10743,8 +10756,8 @@
     <e><p><l>Ryan<s n="np"/></l><r>Ryan<s n="np"/></r></p></e>
     <e><p><l>Saksa<s n="np"/></l><r>Deutschland<s n="np"/></r></p></e>
     <e><p><l>Saksi-Anhalt<s n="np"/></l><r>Sachsen-Anhalt<s n="np"/></r></p></e>
-    <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi<b/>Arabien<s n="np"/></r></p></e>
     <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi-Arabien<s n="np"/></r></p></e>
+    <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi<b/>Arabien<s n="np"/></r></p></e>
     <e><p><l>Serbia<s n="np"/></l><r>Serbien<s n="np"/></r></p></e>
     <e><p><l>Singapore<s n="np"/></l><r>Singapur<s n="np"/></r></p></e>
     <e><p><l>Sisilia<s n="np"/></l><r>Sizilien<s n="np"/></r></p></e>
