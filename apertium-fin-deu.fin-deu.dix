@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NO U NS N O      UN  S    NO UN  S
-         {{{ no u   ns wi     t    h g      ende r s -->
+    <!-- {{{  NO U NS N O      UN   S    NO UN  S
+         {{{ no u   ns wi      t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -1099,6 +1099,7 @@
     <e><p><l>juhlapäivä<s n="n"/></l><r>Feiertag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>Fest<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>Jubiläum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>julistus<s n="n"/></l><r>Proklamation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>julkaisija<s n="n"/></l><r>Herausgeber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>julkaisija<s n="n"/></l><r>Verlag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>julkaisu<s n="n"/></l><r>Publikation<s n="n"/><s n="f"/></r></p></e>
@@ -3089,6 +3090,8 @@
     <e><p><l>rinta<s n="n"/></l><r>Brust<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ripuli<s n="n"/></l><r>Durchfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>riski<s n="n"/></l><r>Risiko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>risteys<s n="n"/></l><r>Kreuzung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>risteytys<s n="n"/></l><r>Kreuzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ristiretkeläinen<s n="n"/></l><r>Kreuzfahrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>risti<s n="n"/></l><r>Kreuz<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ristituli<s n="n"/></l><r>Kreuzfeuer<s n="n"/><s n="nt"/></r></p></e>
@@ -3245,6 +3248,7 @@
     <e><p><l>siemenneste<s n="n"/></l><r>Same<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>siemen<s n="n"/></l><r>Saatgut<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>siemen<s n="n"/></l><r>Same<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sieni<s n="n"/></l><r>Pilz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sieppaus<s n="n"/></l><r>Entführung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>signaali<s n="n"/></l><r>Signal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sihteeri<s n="n"/></l><r>Sekretär<s n="n"/><s n="m"/></r></p></e>
@@ -5024,6 +5028,7 @@
     <e r="RL"><p><l>pommi<s n="n"/></l><r>bombe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pommittaja<s n="n"/></l><r>bomber<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pommitus<s n="n"/></l><r>bombenangriff<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>populisti<s n="n"/></l><r>populist<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>porno<s n="n"/></l><r>porno<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>portti<s n="n"/></l><r>tor<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>positiivi<s n="n"/></l><r>positiv<s n="n"/><s n="m"/></r></p></e>
@@ -6201,6 +6206,7 @@
     <e><p><l>ulkomailla<s n="adv"/></l><r>im<b/>Ausland<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>im<b/>Zusammenhang<b/>mit<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>in<b/>Zusammenhang<b/>mit<s n="adv"/></r></p></e>
+    <e><p><l>yksin<b/>tein<s n="adv"/></l><r>auf<b/>Anhieb<s n="adv"/></r></p></e>
 
     <!-- mismatches -->
 
@@ -6797,6 +6803,7 @@
     <e><p><l>käsitellä<s n="vblex"/></l><r>behandeln<s n="vblex"/></r></p></e>
     <e><p><l>käsitellä<s n="vblex"/></l><r>bewältigen<s n="vblex"/></r></p></e>
     <e><p><l>käsitellä<s n="vblex"/></l><r>handeln<s n="vblex"/></r></p></e>
+    <e><p><l>käsittää<s n="vblex"/></l><r>auffassen<s n="vblex"/></r></p></e>
     <e><p><l>kätkeä<s n="vblex"/></l><r>verstecken<s n="vblex"/></r></p></e>
     <e><p><l>kävellä<s n="vblex"/></l><r>gehen<s n="vblex"/></r></p></e>
     <e><p><l>kävellä<s n="vblex"/></l><r>laufen<s n="vblex"/></r></p></e>
@@ -9049,6 +9056,7 @@
     <e><p><l>naisellinen<s n="adj"/></l><r>weiblich<s n="adj"/></r></p></e>
     <e><p><l>naitu<s n="adj"/></l><r>verlobt<s n="adj"/></r></p></e>
     <e><p><l>natiivi<s n="adj"/></l><r>indigen<s n="adj"/></r></p></e>
+    <e><p><l>nationalistinen<s n="adj"/></l><r>nationalistisch<s n="adj"/></r></p></e>
     <e><p><l>naurettava<s n="adj"/></l><r>lächerlich<s n="adj"/></r></p></e>
     <e><p><l>negatiivinen<s n="adj"/></l><r>negativ<s n="adj"/></r></p></e>
     <e><p><l>nelivuotinen<s n="adj"/></l><r>vierjährig<s n="adj"/></r></p></e>
