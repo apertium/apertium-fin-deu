@@ -61,6 +61,11 @@
       <cat-item lemma="über" tags="pr.*"/>
       <cat-item lemma="über" tags="adv"/> <!-- XXX: bad disam -->
     </def-cat>
+    <def-cat n="nach">
+      <cat-item lemma="nach" tags="pr.*"/>
+      <cat-item lemma="nach" tags="adv"/> <!-- XXX: bad disam -->
+      <cat-item lemma="nach" tags="pprep.*"/> <!-- XXX: bad disam -->
+    </def-cat>
     <def-cat n="hinweg">
       <cat-item lemma="hinweg" tags="adv"/>
     </def-cat>
@@ -106,6 +111,11 @@
       <!-- lower-case strings waiting for bug fix -->
       <cat-item lemma="jahr" tags="n.*"/>
       <cat-item lemma="jahrzehnt" tags="n.*"/>
+    </def-cat>
+    <def-cat n="informationwort">
+      <cat-item lemma="Angabe" tags="n.*"/>
+      <!-- lower-case strings waiting for bug fix -->
+      <cat-item lemma="angabe" tags="n.*"/>
     </def-cat>
     <def-cat n="weder_cc">
       <cat-item lemma="weder" tags="cnjcoo"/>
@@ -1236,6 +1246,38 @@
             <lu>
               <lit v="mittaan"/>
               <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="nach INFORMATION: TIETOLÄHTEEN mukaan">
+      <pattern>
+        <pattern-item n="nach"/>
+        <pattern-item n="informationwort"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="AdvP" case="caseFirstWord">
+            <tags>
+                <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>    <!-- Angabe ~ tieto -->
+              <clip pos="2" side="tl" part="a_noun"/> <!-- n -->
+              <var n="number"/>                       <!-- sg / pl -->
+              <lit-tag v="gen"/>                      <!-- gen -->
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="mukaan"/>
+              <lit-tag v="post"/>
             </lu>
           </chunk>
         </out>
