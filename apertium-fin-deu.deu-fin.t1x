@@ -157,6 +157,7 @@
     <def-cat n="cmp">
       <cat-item tags="n.*.cmp"/>
       <cat-item tags="n.*.cmp.*"/>
+      <cat-item tags="atp.cmp"/>
     </def-cat>
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
@@ -845,6 +846,20 @@
           </let>
           <let>
             <var n="adpcase"/><lit-tag v="ine"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="ab"/></equal>
+              <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="dat"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="adpmaybe"/><lit v=""/>
+          </let>
+          <let>
+            <var n="adpcase"/><lit-tag v="abl"/>
           </let>
         </when>
         <when>
