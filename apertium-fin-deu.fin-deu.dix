@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NO  U NS N O       UN   S    NO UN  S
-         {{{  no u   ns wi       t    h g      ende r s -->
+    <!-- {{{  NO   U NS N O       UN   S    NO UN  S
+         {{{  no u   ns  wi       t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -196,6 +196,7 @@
     <e c="XXX"><p><l>palautus<s n="n"/></l><r>Rückruf<s n="n"/><s n="m"/></r></p></e>
     <e c="XXX"><p><l>polku<s n="n"/></l><r>Schneise<s n="n"/><s n="f"/></r></p></e>
     <e c="XXX"><p><l>varaus<s n="n"/></l><r>Kontingent<s n="n"/><s n="nt"/></r></p></e>
+    <e c="XXX should deu be adj?"><p><l>julkkis<s n="n"/></l><r>Prominente<s n="n"/><s n="f"/></r></p></e>
     <e c="XXX style"><p><l>roskalehti<s n="n"/></l><r>Boulevardzeitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>1960-lukulainen<s n="n"/></l><r>1960er<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aalto<s n="n"/></l><r>Welle<s n="n"/><s n="f"/></r></p></e>
@@ -265,6 +266,7 @@
     <e><p><l>algerialainen<s n="n"/></l><r>Algerier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alibi<s n="n"/></l><r>Alibi<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alijäämä<s n="n"/></l><r>Defizit<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>aliravitsemus<s n="n"/></l><r>Unterernährung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alistus<s n="n"/></l><r>Unterdrückung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alkoholi<s n="n"/></l><r>Alkohol<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperäisasukas<s n="n"/></l><r>Ureinwohner<s n="n"/><s n="m"/></r></p></e>
@@ -383,6 +385,7 @@
     <e><p><l>asenne<s n="n"/></l><r>Haltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asepalvelus<s n="n"/></l><r>Militärdienst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ase<s n="n"/></l><r>Waffe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asetelma<s n="n"/></l><r>Konstellation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asettelu<s n="n"/></l><r>Platzierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asetus<s n="n"/></l><r>Dekret<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asetus<s n="n"/></l><r>Einsetzung<s n="n"/><s n="f"/></r></p></e>
@@ -1436,6 +1439,7 @@
     <e><p><l>kieltäytyminen<s n="n"/></l><r>Absage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kieltäytyminen<s n="n"/></l><r>Verweigerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kieltäytyminen<s n="n"/></l><r>Weigerung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kieltäytyminen<s n="n"/></l><r>Zurückweisung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kierrätys<s n="n"/></l><r>Recycling<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kierrätys<s n="n"/></l><r>Rotation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiertue<s n="n"/></l><r>Tour<s n="n"/><s n="f"/></r></p></e>
@@ -2353,6 +2357,7 @@
     <e><p><l>naispoliitikko<s n="n"/></l><r>Politikerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naispresidentti<s n="n"/></l><r>Präsidentin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nakki<s n="n"/></l><r>Wiener<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>naksahdus<s n="n"/></l><r>Knack<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>napapiiri<s n="n"/></l><r>Polarkreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>napa<s n="n"/></l><r>Pole<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>napa<s n="n"/></l><r>Pol<s n="n"/><s n="m"/></r></p></e>
@@ -2693,6 +2698,7 @@
     <e><p><l>perusta<s n="n"/></l><r>Gründung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>peruste<s n="n"/></l><r>Begründung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perustuslakimuutos<s n="n"/></l><r>Verfassungsänderung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perustuslakirikkomus<s n="n"/></l><r>Verfassungsbruch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perustuslaki<s n="n"/></l><r>Grundgesetz<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>peruutus<s n="n"/></l><r>Abbruch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruutus<s n="n"/></l><r>Rücknahme<s n="n"/><s n="f"/></r></p></e>
@@ -3117,6 +3123,7 @@
     <e><p><l>rock-konsertti<s n="n"/></l><r>Rockkonzert<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rock<s n="n"/></l><r>Rock<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rokkari<s n="n"/></l><r>Rocker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rokotus<s n="n"/></l><r>Impfung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>romaani<s n="n"/></l><r>Roman<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>romahdus<s n="n"/></l><r>Crash<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>romahdus<s n="n"/></l><r>Kollaps<s n="n"/><s n="m"/></r></p></e>
@@ -4417,7 +4424,6 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
     <e r="RL" c="deu spez-"><p><l>kirkko<s n="n"/></l><r>Christuskirche<s n="n"/><s n="f"/></r></p></e>
@@ -4690,6 +4696,7 @@
     <e r="RL"><p><l>helikopteri<s n="n"/></l><r>hubschrauber<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>helpotus<s n="n"/></l><r>erleichterung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>henkilökunta<s n="n"/></l><r>personal<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>henki<s n="n"/></l><r>leben<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hidastaminen<s n="n"/></l><r>behinderung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hiilikopio<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hovi<s n="n"/></l><r>hof<s n="n"/><s n="m"/></r></p></e>
@@ -4843,6 +4850,7 @@
     <e r="RL"><p><l>kulku<s n="n"/></l><r>zugang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kulttuuri<s n="n"/></l><r>kultur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kulu<s n="n"/></l><r>kosten<s n="n"/><s n="mfn"/></r></p></e>
+    <e r="RL"><p><l>kuolleisuus<s n="n"/></l><r>sterblichkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kurssi<s n="n"/></l><r>kurs<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kurssi<s n="n"/></l><r>kursus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kutsu<s n="n"/></l><r>aufruf<s n="n"/><s n="m"/></r></p></e>
@@ -4993,6 +5001,7 @@
     <e r="RL"><p><l>oikeisto<s n="n"/></l><r>recht<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>oikeisto<s n="n"/></l><r>recht<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>oikeusrikkomus<s n="n"/></l><r>rechtsverletzung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>oikeus<s n="n"/></l><r>rechte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>oire<s n="n"/></l><r>symptom<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>olo<s n="n"/></l><r>wesen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>omaisuus<s n="n"/></l><r>vermögen<s n="n"/><s n="nt"/></r></p></e>
@@ -5333,6 +5342,7 @@
     <e r="RL"><p><l>vahti<s n="n"/></l><r>wart<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vahvuus<s n="n"/></l><r>stärke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihe<s n="n"/></l><r>phase<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>vaihto<s n="n"/></l><r>austausch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>wechsel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vakoilu<s n="n"/></l><r>spionage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vakuutus<s n="n"/></l><r>versicherung<s n="n"/><s n="f"/></r></p></e>
@@ -7993,6 +8003,11 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>levittää<s n="vblex"/></l><r>verstreichen<s n="vblex"/></r></p></e>
+    <e><p><l>kulua<s n="vblex"/></l><r>verstreichen<s n="vblex"/></r></p></e>
+    <e><p><l>nopeuttaa<s n="vblex"/></l><r>schnellen<s n="vblex"/></r></p></e>
+    <e><p><l>analysoida<s n="vblex"/></l><r>analysieren<s n="vblex"/></r></p></e>
+    <e><p><l>päihittää<s n="vblex"/></l><r>überwinden<s n="vblex"/></r></p></e>
 
 
 
@@ -8918,6 +8933,7 @@
     <e><p><l>kuukaudenmittainen<s n="adj"/></l><r>monatelang<s n="adj"/></r></p></e>
     <e><p><l>kuukausittainen<s n="adj"/></l><r>monatlich<s n="adj"/></r></p></e>
     <e><p><l>kuuluisa<s n="adj"/></l><r>berühmt<s n="adj"/></r></p></e>
+    <e><p><l>kuuro<s n="adj"/></l><r>taub<s n="adj"/></r></p></e>
     <e><p><l>kuvitteellinen<s n="adj"/></l><r>fiktiv<s n="adj"/></r></p></e>
     <e><p><l>kylläinen<s n="adj"/></l><r>satt<s n="adj"/></r></p></e>
     <e><p><l>kylmä<s n="adj"/></l><r>kalt<s n="adj"/><s n="sint"/></r></p></e>
@@ -9141,6 +9157,7 @@
     <e><p><l>oikeistolainen<s n="adj"/></l><r>rechtsgerichtet<s n="adj"/></r></p></e>
     <e><p><l>oikeudellinen<s n="adj"/></l><r>richterlich<s n="adj"/></r></p></e>
     <e><p><l>oikeudenmukainen<s n="adj"/></l><r>fair<s n="adj"/></r></p></e>
+    <e><p><l>oikeutettu<s n="adj"/></l><r>rechtmäßig<s n="adj"/></r></p></e>
     <e><p><l>oikeutettu<s n="adj"/></l><r>vertretbar<s n="adj"/></r></p></e>
     <e><p><l>olemassaoleva<s n="adj"/></l><r>bestehend<s n="adj"/></r></p></e>
     <e><p><l>olemassaoleva<s n="adj"/></l><r>vorhanden<s n="adj"/></r></p></e>
@@ -9189,6 +9206,7 @@
     <e><p><l>palestiinalainen<s n="adj"/></l><r>palästinensisch<s n="adj"/></r></p></e>
     <e><p><l>paljas<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
     <e><p><l>panssaroitu<s n="adj"/></l><r>gepanzert<s n="adj"/></r></p></e>
+    <e><p><l>parannettava<s n="adj"/></l><r>heilbar<s n="adj"/></r></p></e>
     <e><p><l>paras<s n="adj"/></l><r>gut<s n="adj"/><s n="sup"/></r></p></e>
     <e><p><l>pariton<s n="adj"/></l><r>einzeln<s n="adj"/></r></p></e>
     <e><p><l>parlamentaarinen<s n="adj"/></l><r>parlamentarisch<s n="adj"/></r></p></e>
@@ -9507,6 +9525,7 @@
     <e><p><l>terveellinen<s n="adj"/></l><r>gesund<s n="adj"/></r></p></e>
     <e><p><l>tervetullut<s n="adj"/></l><r>willkommen<s n="adj"/></r></p></e>
     <e><p><l>terveydellinen<s n="adj"/></l><r>gesundheitlich<s n="adj"/></r></p></e>
+    <e><p><l>terveydellinen<s n="adj"/></l><r>sanitär<s n="adj"/></r></p></e>
     <e><p><l>terveyshaitallinen<s n="adj"/></l><r>gesundheitsschädlich<s n="adj"/></r></p></e>
     <e><p><l>terävä<s n="adj"/></l><r>spitz<s n="adj"/></r></p></e>
     <e><p><l>thaimaalainen<s n="adj"/></l><r>thailändisch<s n="adj"/></r></p></e>
@@ -9690,6 +9709,7 @@
     <e><p><l>vastakkainen<s n="adj"/></l><r>widersprüchlich<s n="adj"/></r></p></e>
     <e><p><l>vastapuolinen<s n="adj"/></l><r>oppositionell<s n="adj"/></r></p></e>
     <e><p><l>vastarintainen<s n="adj"/></l><r>aufständisch<s n="adj"/></r></p></e>
+    <e><p><l>vastasyntynyt<s n="adj"/></l><r>neugeboren<s n="adj"/></r></p></e>
     <e><p><l>vastavuoroinen<s n="adj"/></l><r>gegenseitig<s n="adj"/></r></p></e>
     <e><p><l>vastavuoroinen<s n="adj"/></l><r>wechselseitig<s n="adj"/></r></p></e>
     <e><p><l>vastikkeeton<s n="adj"/></l><r>bedingungslos<s n="adj"/></r></p></e>
