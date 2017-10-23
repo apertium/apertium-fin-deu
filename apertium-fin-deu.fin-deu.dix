@@ -336,6 +336,7 @@
     <e><p><l>arabialainen<s n="n"/></l><r>Arabisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>areena<s n="n"/></l><r>Arena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aresti<s n="n"/></l><r>Arrest<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>argentiinalainen<s n="n"/></l><r>Argentinier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>argumentaatio<s n="n"/></l><r>Argumentation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arkisto<s n="n"/></l><r>Archiv<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arkkipiispa<s n="n"/></l><r>Erzbischof<s n="n"/><s n="m"/></r></p></e>
@@ -1581,6 +1582,7 @@
     <e><p><l>koodi<s n="n"/></l><r>Kodex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kooma<s n="n"/></l><r>Koma<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>koomikko<s n="n"/></l><r>Comedian<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>koordinaatio<s n="n"/></l><r>Koordination<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>koordinaattori<s n="n"/></l><r>Koordinator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kopio<s n="n"/></l><r>Kopie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>koraani<s n="n"/></l><r>Koran<s n="n"/><s n="m"/></r></p></e>
@@ -1814,6 +1816,7 @@
     <e><p><l>lakitoimisto<s n="n"/></l><r>Kanzlei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lama<s n="n"/></l><r>Rezession<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>langastavetäjä<s n="n"/></l><r>Drahtzieher<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>langobardi<s n="n"/></l><r>Lombard<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lapio<s n="n"/></l><r>Schaufel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lapsenlapsi<s n="n"/></l><r>Enkel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lapsi<s n="n"/></l><r>Kind<s n="n"/><s n="nt"/></r></p></e>
@@ -2646,6 +2649,7 @@
     <e><p><l>partio<s n="n"/></l><r>Patrouille<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>partnerihaku<s n="n"/></l><r>Partnersuche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>partneri<s n="n"/></l><r>Partner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pasifismi<s n="n"/></l><r>Pazifismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passaulainen<s n="n"/></l><r>Passauer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>passintarkastus<s n="n"/></l><r>Passkontrolle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>passi<s n="n"/></l><r>Pass<s n="n"/><s n="m"/></r></p></e>
@@ -4275,6 +4279,7 @@
     <e><p><l>vähemmistö<s n="n"/></l><r>Minderheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vähennys<s n="n"/></l><r>Abzug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vähennys<s n="n"/></l><r>Reduzierung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vähennys<s n="n"/></l><r>Verminderung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väittely<s n="n"/></l><r>Debatte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väkivallanteko<s n="n"/></l><r>Gewalttat<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väkivalta<s n="n"/></l><r>Gewalt<s n="n"/><s n="f"/></r></p></e>
@@ -4570,6 +4575,7 @@
     <e r="RL" c="old orth"><p><l>sola<s n="n"/></l><r>Paß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>syy<s n="n"/></l><r>Anlaß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>tuki<s n="n"/></l><r>Zuschuß<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL" c="old orth"><p><l>vaikutus<s n="n"/></l><r>Einfluß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>viemäri<s n="n"/></l><r>Abfluß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>viha<s n="n"/></l><r>Haß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>vuo<s n="n"/></l><r>Fluß<s n="n"/><s n="m"/></r></p></e>
@@ -4790,6 +4796,7 @@
     <e r="RL"><p><l>kaupankäynti<s n="n"/></l><r>handel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kauppasaarto<s n="n"/></l><r>embargo<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kauppa<s n="n"/></l><r>affäre<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kaupunginosa<s n="n"/></l><r>stadtbezirk<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaupunkilainen<s n="n"/></l><r>burger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaupunkilainen<s n="n"/></l><r>burger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaupunki<s n="n"/></l><r>burg<s n="n"/><s n="f"/></r></p></e>
@@ -6519,6 +6526,7 @@
     <e><p><l>hankkia<s n="vblex"/></l><r>verschaffen<s n="vblex"/></r></p></e>
     <e><p><l>hankkia<s n="vblex"/></l><r>verschaffen<s n="vblex"/></r></p></e>
     <e><p><l>haravoida<s n="vblex"/></l><r>durchkämmen<s n="vblex"/></r></p></e>
+    <e><p><l>harhauttaa<s n="vblex"/></l><r>ablenken<s n="vblex"/></r></p></e>
     <e><p><l>harjoitella<s n="vblex"/></l><r>üben<s n="vblex"/></r></p></e>
     <e><p><l>harjoittaa<s n="vblex"/></l><r>ausüben<s n="vblex"/></r></p></e>
     <e><p><l>harjoittaa<s n="vblex"/></l><r>praktizieren<s n="vblex"/></r></p></e>
@@ -6531,6 +6539,7 @@
     <e><p><l>haudata<s n="vblex"/></l><r>vergraben<s n="vblex"/></r></p></e>
     <e><p><l>haukkua<s n="vblex"/></l><r>bellen<s n="vblex"/></r></p></e>
     <e><p><l>hautautua<s n="vblex"/></l><r>verschütten<s n="vblex"/></r></p></e>
+    <e><p><l>havaita<s n="vblex"/></l><r>sichten<s n="vblex"/></r></p></e>
     <e><p><l>hedelmöittää<s n="vblex"/></l><r>befruchten<s n="vblex"/></r></p></e>
     <e><p><l>hehkua<s n="vblex"/></l><r>ausstrahlen<s n="vblex"/></r></p></e>
     <e><p><l>heijastaa<s n="vblex"/></l><r>reflektieren<s n="vblex"/></r></p></e>
@@ -7748,6 +7757,7 @@
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verurteilen<s n="vblex"/></r></p></e>
+    <e><p><l>tuottaa<s n="vblex"/></l><r>erbringen<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>ergeben<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>erwirtschaften<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>erzeugen<s n="vblex"/></r></p></e>
@@ -10132,6 +10142,7 @@
 
 
     <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
     <e><i>Abdullah<s n="np"/></i></e>
@@ -10230,6 +10241,7 @@
     <e><i>Bryan<s n="np"/></i></e>
     <e><i>Buckingham<s n="np"/></i></e>
     <e><i>Budapest<s n="np"/></i></e>
+    <e><i>Buenos<b/>Aires<s n="np"/></i></e>
     <e><i>Bukarest<s n="np"/></i></e>
     <e><i>Bush<s n="np"/></i></e>
     <e><i>Campbell<s n="np"/></i></e>
@@ -10266,6 +10278,7 @@
     <e><i>Conway<s n="np"/></i></e>
     <e><i>Cook<s n="np"/></i></e>
     <e><i>Craig<s n="np"/></i></e>
+    <e><i>Cristina<s n="np"/></i></e>
     <e><i>Daimler<s n="np"/></i></e>
     <e><i>Daisy<s n="np"/></i></e>
     <e><i>Daniel<s n="np"/></i></e>
