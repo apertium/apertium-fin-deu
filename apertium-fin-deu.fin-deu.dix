@@ -323,6 +323,7 @@
     <e><p><l>anis<s n="n"/></l><r>Anis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>annos<s n="n"/></l><r>Portion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>annostus<s n="n"/></l><r>Dosis<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ansio<s n="n"/></l><r>Lohn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antaja<s n="n"/></l><r>Geber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anteeksianto<s n="n"/></l><r>Vergebung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antisemitismi<s n="n"/></l><r>Antisemitismus<s n="n"/><s n="m"/></r></p></e>
@@ -695,6 +696,7 @@
     <e><p><l>etäisyys<s n="n"/></l><r>Entfernung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etäisyys<s n="n"/></l><r>Weite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etätyö<s n="n"/></l><r>Außenstelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>EU-laki<s n="n"/></l><r>EU-Richtlinie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Euroopan-mestaruus<s n="n"/></l><r>Europameisterschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eurooppalainen<s n="n"/></l><r>Europäer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>europarlamentti<s n="n"/></l><r>Europaparlament<s n="n"/><s n="nt"/></r></p></e>
@@ -4051,6 +4053,7 @@
     <e><p><l>valtakunnansyyttäjä<s n="n"/></l><r>Staatsanwaltschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valtakunnansyyttäjä<s n="n"/></l><r>Staatsanwalt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valtakunta<s n="n"/></l><r>Reich<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>valtameri<s n="n"/></l><r>Weltmeer<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>valtaosa<s n="n"/></l><r>Großteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valtaosa<s n="n"/></l><r>Mehrzahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valtatie<s n="n"/></l><r>Bundesstraße<s n="n"/><s n="f"/></r></p></e>
@@ -4436,6 +4439,7 @@
 
 
 
+
     <e r="RL" c="deu spez-"><p><l>kirkko<s n="n"/></l><r>Christuskirche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" c="old, often compound part"><p><l>tarjoilija<s n="n"/></l><r>Ober<s n="n"/><s n="m"/></r></p></e>
 
@@ -4636,6 +4640,7 @@
     <e r="RL"><p><l>apu<s n="n"/></l><r>hilfe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>apu<s n="n"/></l><r>mithilfe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>aresti<s n="n"/></l><r>arrest<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>arkkitehti<s n="n"/></l><r>architekt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>armeija<s n="n"/></l><r>armee<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>arsenaali<s n="n"/></l><r>arsenal<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>artikkeli<s n="n"/></l><r>artikel<s n="n"/><s n="m"/></r></p></e>
@@ -4885,6 +4890,7 @@
     <e r="RL"><p><l>käytäntö<s n="n"/></l><r>praktik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>käytös<s n="n"/></l><r>verhalten<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>käänne<s n="n"/></l><r>wende<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>laajennus<s n="n"/></l><r>erweiterung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>laatu<s n="n"/></l><r>qualität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lahja<s n="n"/></l><r>geschenk<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lahjoitus<s n="n"/></l><r>gabe<s n="n"/><s n="f"/></r></p></e>
@@ -5065,6 +5071,7 @@
     <e r="RL"><p><l>perintö<s n="n"/></l><r>erbe<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>peruste<s n="n"/></l><r>grund<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>perustus<s n="n"/></l><r>gründung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>perustus<s n="n"/></l><r>verfassung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pesu<s n="n"/></l><r>wäsche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pidätys<s n="n"/></l><r>verhaftung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>piikki<s n="n"/></l><r>spitz<s n="n"/><s n="m"/></r></p></e>
@@ -5704,6 +5711,7 @@
     <e><p><l>esimerkillisesti<s n="adv"/></l><r>beispielsweise<s n="adv"/></r></p></e>
     <e><p><l>eteenpäin<s n="adv"/></l><r>vorwärts<s n="adv"/></r></p></e>
     <e><p><l>eteläisesti<s n="adv"/></l><r>südlich<s n="adv"/></r></p></e>
+    <e><p><l>euroopanlaajuisesti<s n="adv"/></l><r>europaweit<s n="adv"/></r></p></e>
     <e><p><l>euroopanlaajuisesti<s n="adv"/></l><r>Europaweit<s n="adv"/></r></p></e>
     <e><p><l>harvoin<s n="adv"/></l><r>selten<s n="adv"/></r></p></e>
     <e><p><l>heikosti<s n="adv"/></l><r>schwach<s n="adv"/></r></p></e>
@@ -6225,6 +6233,7 @@
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
 
+
     <e c="de facto"><p><l>käytännöllisesti<s n="adv"/></l><r>facto<s n="adv"/></r></p></e>
     <e r="LR" c="über _"><p><l>kuluessa<s n="adv"/></l><r>hinweg<s n="adv"/></r></p></e>
     <e r="RL" c="old orth"><p><l>vähintään<s n="adv"/></l><r>ebensowenig<s n="adv"/></r></p></e>
@@ -6605,6 +6614,7 @@
     <e><p><l>identifioida<s n="vblex"/></l><r>identifizieren<s n="vblex"/></r></p></e>
     <e><p><l>ihailla<s n="vblex"/></l><r>schwärmen<s n="vblex"/></r></p></e>
     <e><p><l>ihastella<s n="vblex"/></l><r>bewundern<s n="vblex"/></r></p></e>
+    <e><p><l>ikuistaa<s n="vblex"/></l><r>verewigen<s n="vblex"/></r></p></e>
     <e><p><l>ilmaantua<s n="vblex"/></l><r>entstammen<s n="vblex"/></r></p></e>
     <e><p><l>ilmaantua<s n="vblex"/></l><r>entstehen<s n="vblex"/></r></p></e>
     <e><p><l>ilmestyä<s n="vblex"/></l><r>erscheinen<s n="vblex"/></r></p></e>
@@ -6940,6 +6950,7 @@
     <e><p><l>levittää<s n="vblex"/></l><r>verstreichen<s n="vblex"/></r></p></e>
     <e><p><l>levätä<s n="vblex"/></l><r>ruhen<s n="vblex"/></r></p></e>
     <e><p><l>lietsoa<s n="vblex"/></l><r>schüren<s n="vblex"/></r></p></e>
+    <e><p><l>lievittää<s n="vblex"/></l><r>mildern<s n="vblex"/></r></p></e>
     <e><p><l>liikennöidä<s n="vblex"/></l><r>befahren<s n="vblex"/></r></p></e>
     <e><p><l>liikkua<s n="vblex"/></l><r>rühren<s n="vblex"/></r></p></e>
     <e><p><l>liittoutua<s n="vblex"/></l><r>verbünden<s n="vblex"/></r></p></e>
@@ -10486,6 +10497,7 @@
     <e><i>Lars<s n="np"/></i></e>
     <e><i>Lauder<s n="np"/></i></e>
     <e><i>Lawrence<s n="np"/></i></e>
+    <e><i>Law<s n="np"/></i></e>
     <e><i>Lee<s n="np"/></i></e>
     <e><i>Leipzig<s n="np"/></i></e>
     <e><i>Lennon<s n="np"/></i></e>
@@ -10577,6 +10589,7 @@
     <e><i>München<s n="np"/></i></e>
     <e><i>Nadia<s n="np"/></i></e>
     <e><i>Napoleon<s n="np"/></i></e>
+    <e><i>Nathan<s n="np"/></i></e>
     <e><i>Neil<s n="np"/></i></e>
     <e><i>New<b/>Orleans<s n="np"/></i></e>
     <e><i>New<b/>York<s n="np"/></i></e>
