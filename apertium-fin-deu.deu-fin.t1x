@@ -114,8 +114,10 @@
     </def-cat>
     <def-cat n="informationwort">
       <cat-item lemma="Angabe" tags="n.*"/>
+      <cat-item lemma="Ansicht" tags="n.*"/>
       <!-- lower-case strings waiting for bug fix -->
       <cat-item lemma="angabe" tags="n.*"/>
+      <cat-item lemma="ansicht" tags="n.*"/>
     </def-cat>
     <def-cat n="weder_cc">
       <cat-item lemma="weder" tags="cnjcoo"/>
@@ -301,6 +303,7 @@
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
+      <attr-item tags="num.ord"/>
     </def-attr>
     <def-attr n="a_comp">
       <attr-item tags="pos"/>
@@ -424,6 +427,14 @@
     </def-macro>
     <def-macro n="comparison-mangler" npar="1">
       <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_adj"/><lit-tag v="num.ord"/></equal>
+          </test>
+          <let>
+            <var n="comparison"/><lit v=""/>
+          </let>
+        </when>
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="a_comp"/><lit-tag v="comp"/></equal>
