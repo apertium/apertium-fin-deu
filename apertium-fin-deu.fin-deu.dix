@@ -1216,6 +1216,7 @@
     <e><p><l>kaiverrus<s n="n"/></l><r>Inschrift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kakkosliigalainen<s n="n"/></l><r>Zweitligist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaksikko<s n="n"/></l><r>Doppel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kaksinkertaistuminen<s n="n"/></l><r>Verdopplung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaksintaistelu<s n="n"/></l><r>Duell<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kaksoisolento<s n="n"/></l><r>Doppelgänger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kalastaja<s n="n"/></l><r>Fischer<s n="n"/><s n="m"/></r></p></e>
@@ -1546,6 +1547,7 @@
     <e><p><l>kommentti<s n="n"/></l><r>Kommentar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kommentti<s n="n"/></l><r>Stellungnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kommunikaatio<s n="n"/></l><r>Kommunikation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kommunistipuolue<s n="n"/></l><r>Kommunistische<b/>Partei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kommunisti<s n="n"/></l><r>Kommunist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kompassi<s n="n"/></l><r>Kompass<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kompensaatio<s n="n"/></l><r>Abfindung<s n="n"/><s n="f"/></r></p></e>
@@ -2911,9 +2913,11 @@
     <e><p><l>puolue<s n="n"/></l><r>Partie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puolue<s n="n"/></l><r>Party<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puolustaja<s n="n"/></l><r>Befürworter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>puolustaja<s n="n"/></l><r>Verteidiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puolustusministeri<s n="n"/></l><r>Verteidigungsminister<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puolustusministeriö<s n="n"/></l><r>Verteidigungsministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>puolustus<s n="n"/></l><r>Abwehr<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puolustus<s n="n"/></l><r>Verteidiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puolustus<s n="n"/></l><r>Verteidigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>purje<s n="n"/></l><r>Segel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>purkaus<s n="n"/></l><r>Ausbruch<s n="n"/><s n="m"/></r></p></e>
@@ -3973,6 +3977,7 @@
     <e><p><l>uutistoimisto<s n="n"/></l><r>Nachrichtenagentur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uutistoimisto<s n="n"/></l><r>Nachrichtendienst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaakuna<s n="n"/></l><r>Wappen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>vaaliboikotti<s n="n"/></l><r>Wahlboykott<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaalijärjestelmä<s n="n"/></l><r>Wahlsystem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vaalikampanja<s n="n"/></l><r>Wahlkampf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaalilupaus<s n="n"/></l><r>Wahlversprechen<s n="n"/><s n="nt"/></r></p></e>
@@ -4282,6 +4287,7 @@
     <e><p><l>vuo<s n="n"/></l><r>Fluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuota<s n="n"/></l><r>Pelz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>väenpaljous<s n="n"/></l><r>Menschenmenge<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>väestönkasvu<s n="n"/></l><r>Bevölkerungswachstum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>väestönlaskenta<s n="n"/></l><r>Volkszählung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väestönosa<s n="n"/></l><r>Bevölkerungsgruppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väestö<s n="n"/></l><r>Bevölkerung<s n="n"/><s n="f"/></r></p></e>
@@ -4603,6 +4609,7 @@
 
 
 
+    <e c="doctor's etc." r="RL"><p><l>aika<s n="n"/></l><r>termin<s n="n"/><s n="m"/></r></p></e>
     <e c="XXX: Versicherungs" r="RL"><p><l>maksu<s n="n"/></l><r>prämie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" c="b sharp"><p><l>his<s n="n"/></l><r>his<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL" c="deu commonly mistaken from Eng."><p><l>myy<s n="n"/></l><r>my<s n="n"/><s n="nt"/></r></p></e>
@@ -4696,6 +4703,7 @@
     <e r="RL"><p><l>epäonni<s n="n"/></l><r>unglück<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>esimerkki<s n="n"/></l><r>beispiel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>esine<s n="n"/></l><r>gut<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>esitahti<s n="n"/></l><r>auftakt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>esitelmä<s n="n"/></l><r>vorlage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>este<s n="n"/></l><r>sperre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>etelä<s n="n"/></l><r>süd<s n="n"/><s n="m"/></r></p></e>
@@ -5246,6 +5254,8 @@
     <e r="RL"><p><l>syntinen<s n="n"/></l><r>sünder<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>syvyys<s n="n"/></l><r>tief<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>syy<s n="n"/></l><r>ursache<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>syytetty<s n="n"/></l><r>angeklagte<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>syytetty<s n="n"/></l><r>angeklagte<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>syyttäjä<s n="n"/></l><r>ankläger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>syyttäjätär<s n="n"/></l><r>anklägerin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>syytös<s n="n"/></l><r>vorwurf<s n="n"/><s n="m"/></r></p></e>
@@ -5363,6 +5373,7 @@
     <e r="RL"><p><l>ulko<s n="n"/></l><r>aus<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>uloskäynti<s n="n"/></l><r>ausstieg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>uskollisuus<s n="n"/></l><r>treue<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>uusinta<s n="n"/></l><r>wiederholung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaali<s n="n"/></l><r>wahl<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaara<s n="n"/></l><r>gefahr<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaatimus<s n="n"/></l><r>anspruch<s n="n"/><s n="m"/></r></p></e>
@@ -6823,6 +6834,7 @@
     <e><p><l>kommentoida<s n="vblex"/></l><r>kommentieren<s n="vblex"/></r></p></e>
     <e><p><l>kompuroida<s n="vblex"/></l><r>stolpern<s n="vblex"/></r></p></e>
     <e><p><l>konseptualisoida<s n="vblex"/></l><r>konzipieren<s n="vblex"/></r></p></e>
+    <e><p><l>konstruoida<s n="vblex"/></l><r>konstruieren<s n="vblex"/></r></p></e>
     <e><p><l>konsultoida<s n="vblex"/></l><r>konsultieren<s n="vblex"/></r></p></e>
     <e><p><l>kontaktoida<s n="vblex"/></l><r>kontaktieren<s n="vblex"/></r></p></e>
     <e><p><l>kontaminoida<s n="vblex"/></l><r>verseuchen<s n="vblex"/></r></p></e>
@@ -7760,6 +7772,7 @@
     <e><p><l>tukehduttaa<s n="vblex"/></l><r>ersticken<s n="vblex"/></r></p></e>
     <e><p><l>tulittaa<s n="vblex"/></l><r>feuern<s n="vblex"/></r></p></e>
     <e><p><l>tulkita<s n="vblex"/></l><r>deuten<s n="vblex"/></r></p></e>
+    <e><p><l>tulkita<s n="vblex"/></l><r>interpretieren<s n="vblex"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>eintreten<s n="vblex"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>werden<s n="vblex"/></r></p></e>
@@ -9595,6 +9608,7 @@
     <e><p><l>todellinen<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>tatsächlich<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>wahr<s n="adj"/></r></p></e>
+    <e><p><l>todellinen<s n="adj"/></l><r>wirklich<s n="adj"/></r></p></e>
     <e><p><l>toimiva<s n="adj"/></l><r>wirksam<s n="adj"/></r></p></e>
     <e><p><l>toinen<s n="adj"/></l><r>zweite<s n="adj"/></r></p></e>
     <e><p><l>toiseksi<b/>viimeinen<s n="adj"/></l><r>vorletzt<s n="adj"/></r></p></e>
@@ -9853,7 +9867,7 @@
     <e><p><l>ydinvoimallinen<s n="adj"/></l><r>atomar<s n="adj"/></r></p></e>
     <e><p><l>ydinvoimallinen<s n="adj"/></l><r>nuklear<s n="adj"/></r></p></e>
     <e><p><l>yhdeksäs<s n="adj"/></l><r>neunte<s n="adj"/></r></p></e>
-    <e><p><l>yhdestoista<s n="adj"/></l><r>elfte<s n="adj"/></r></p></e>
+    <e><p><l>yhdestoista<s n="num"/><s n="ord"/></l><r>elfte<s n="adj"/></r></p></e>
     <e><p><l>yhdistynyt<s n="adj"/></l><r>verbündet<s n="adj"/></r></p></e>
     <e><p><l>yhdistynyt<s n="adj"/></l><r>vereinigt<s n="adj"/></r></p></e>
     <e><p><l>yhteensopiva<s n="adj"/></l><r>vereinbar<s n="adj"/></r></p></e>
