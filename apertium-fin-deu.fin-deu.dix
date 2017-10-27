@@ -832,7 +832,6 @@
     <e><p><l>henki<s n="n"/></l><r>Genie<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>henki<s n="n"/></l><r>Person<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>henkivartija<s n="n"/></l><r>Leibwächter<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>sankaritar<s n="n"/></l><r>Heroin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heroiini<s n="n"/></l><r>Heroin<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>herra<s n="n"/></l><r>Herr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>herttuakunta<s n="n"/></l><r>Herzogtum<s n="n"/><s n="nt"/></r></p></e>
@@ -1278,6 +1277,7 @@
     <e><p><l>kansa<s n="n"/></l><r>Volk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kansio<s n="n"/></l><r>Akte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansio<s n="n"/></l><r>Ordner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kansi<s n="n"/></l><r>Deckel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansleriehdokas<s n="n"/></l><r>Kanzlerkandidat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Bundeskanzleramt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Kanzleramt<s n="n"/><s n="nt"/></r></p></e>
@@ -2045,6 +2045,7 @@
     <e><p><l>lähetys<s n="n"/></l><r>Sendung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähetystö<s n="n"/></l><r>Entsendung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähihistoria<s n="n"/></l><r>Kurzgeschichte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lähijuna-asema<s n="n"/></l><r>S-Bahnhof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähikuva<s n="n"/></l><r>Nahaufnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähiliikenne<s n="n"/></l><r>Nahverkehr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähiympäristö<s n="n"/></l><r>Nähe<s n="n"/><s n="f"/></r></p></e>
@@ -2986,6 +2987,7 @@
     <e><p><l>pääongelma<s n="n"/></l><r>Hauptproblem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pääosanesittäjä<s n="n"/></l><r>Hauptdarsteller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pääosuma<s n="n"/></l><r>Kopfschuss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>päärautatieasema<s n="n"/></l><r>Hauptbahnhof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päärooli<s n="n"/></l><r>Hauptrolle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päärynä<s n="n"/></l><r>Birne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pää<s n="n"/></l><r>Kopf<s n="n"/><s n="m"/></r></p></e>
@@ -3021,6 +3023,7 @@
     <e><p><l>rahasto<s n="n"/></l><r>Fond<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rahoittaja<s n="n"/></l><r>Geldgeber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rahoitus<s n="n"/></l><r>Finanzierung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>raide<s n="n"/></l><r>Gleis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>raiskaaja<s n="n"/></l><r>Vergewaltiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raiskaus<s n="n"/></l><r>Vergewaltigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>raita<s n="n"/></l><r>Streif<s n="n"/><s n="m"/></r></p></e>
@@ -3162,6 +3165,7 @@
     <e><p><l>roolipeli<s n="n"/></l><r>Rollenspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>Besetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>Rolle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>roskis<s n="n"/></l><r>Mülleimer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rotu<s n="n"/></l><r>Rasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rouva<s n="n"/></l><r>Dame<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rouva<s n="n"/></l><r>Frau<s n="n"/><s n="f"/></r></p></e>
@@ -3236,6 +3240,7 @@
     <e><p><l>sananvapaus<s n="n"/></l><r>Mitspracherecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sana<s n="n"/></l><r>Wort<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sankari<s n="n"/></l><r>Held<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sankaritar<s n="n"/></l><r>Heroin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sanktio<s n="n"/></l><r>Sanktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sarja<s n="n"/></l><r>Serie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>satamakaupunki<s n="n"/></l><r>Hafenstadt<s n="n"/><s n="f"/></r></p></e>
@@ -8762,6 +8767,7 @@
     <e><p><l>huippuluokkainen<s n="adj"/></l><r>hochkarätig<s n="adj"/></r></p></e>
     <e><p><l>hullu<s n="adj"/></l><r>fetzig<s n="adj"/></r></p></e>
     <e><p><l>hullu<s n="adj"/></l><r>wahnsinnig<s n="adj"/></r></p></e>
+    <e><p><l>humalainen<s n="adj"/></l><r>angetrunken<s n="adj"/></r></p></e>
     <e><p><l>humanistinen<s n="adj"/></l><r>humanistisch<s n="adj"/></r></p></e>
     <e><p><l>humanitäärinen<s n="adj"/></l><r>humanitär<s n="adj"/></r></p></e>
     <e><p><l>huolestunut<s n="adj"/></l><r>besorgt<s n="adj"/></r></p></e>
