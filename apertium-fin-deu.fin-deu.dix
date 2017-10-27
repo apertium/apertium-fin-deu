@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NO   U  N S N O       UN   S    NO UN  S
-         {{{  no u   n s   wi       t    h g      ende r s -->
+    <!-- {{{  NO   U  N S N O        UN   S    NO UN  S
+         {{{  no u   n s   wi        t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -335,6 +335,7 @@
     <e><p><l>apu<s n="n"/></l><r>Beihilfe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apu<s n="n"/></l><r>Hilfe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arabialainen<s n="n"/></l><r>Arabisch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>arabi<s n="n"/></l><r>Araber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>areena<s n="n"/></l><r>Arena<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aresti<s n="n"/></l><r>Arrest<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>argentiinalainen<s n="n"/></l><r>Argentinier<s n="n"/><s n="m"/></r></p></e>
@@ -576,6 +577,7 @@
     <e><p><l>ehto<s n="n"/></l><r>Auflage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ehto<s n="n"/></l><r>Bedingung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ehto<s n="n"/></l><r>Befinden<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ei-juutalainen<s n="n"/></l><r>Nichtjude<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eilinen<s n="n"/></l><r>Vortag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ekosysteemi<s n="n"/></l><r>Ökosystem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ekskursio<s n="n"/></l><r>Ausflug<s n="n"/><s n="m"/></r></p></e>
@@ -809,6 +811,7 @@
     <e><p><l>hautakivi<s n="n"/></l><r>Grabstein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hauta<s n="n"/></l><r>Grab<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hautausmaa<s n="n"/></l><r>Friedhof<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>havainto<s n="n"/></l><r>Sichtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hedelmämehu<s n="n"/></l><r>Fruchtsaft<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hedelmä<s n="n"/></l><r>Frucht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hehtaari<s n="n"/></l><r>Hektar<s n="n"/><s n="nt"/></r></p></e>
@@ -829,6 +832,8 @@
     <e><p><l>henki<s n="n"/></l><r>Genie<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>henki<s n="n"/></l><r>Person<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>henkivartija<s n="n"/></l><r>Leibwächter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sankaritar<s n="n"/></l><r>Heroin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>heroiini<s n="n"/></l><r>Heroin<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>herra<s n="n"/></l><r>Herr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>herttuakunta<s n="n"/></l><r>Herzogtum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>herttua<s n="n"/></l><r>Herzog<s n="n"/><s n="m"/></r></p></e>
@@ -1109,6 +1114,7 @@
     <e><p><l>joutenolo<s n="n"/></l><r>Untätigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>judo<s n="n"/></l><r>Judo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juhlapäivä<s n="n"/></l><r>Feiertag<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>juhla<s n="n"/></l><r>Feier<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>Fest<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>Jubiläum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>julistus<s n="n"/></l><r>Proklamation<s n="n"/><s n="f"/></r></p></e>
@@ -1270,6 +1276,7 @@
     <e><p><l>kansanäänestys<s n="n"/></l><r>Volksentscheid<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansa<s n="n"/></l><r>Nationale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansa<s n="n"/></l><r>Volk<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kansio<s n="n"/></l><r>Akte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansio<s n="n"/></l><r>Ordner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansleriehdokas<s n="n"/></l><r>Kanzlerkandidat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Bundeskanzleramt<s n="n"/><s n="nt"/></r></p></e>
@@ -1468,6 +1475,7 @@
     <e><p><l>kilpailusääntö<s n="n"/></l><r>Wettbewerbsregel<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kino<s n="n"/></l><r>Kino<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kipinä<s n="n"/></l><r>Funke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kipulääke<s n="n"/></l><r>Schmerzmittel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kirjallisuuspalkinto<s n="n"/></l><r>Literaturpreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirjallisuus<s n="n"/></l><r>Literatur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kirja<s n="n"/></l><r>Buch<s n="n"/><s n="nt"/></r></p></e>
@@ -1671,6 +1679,7 @@
     <e><p><l>kunniamerki<s n="n"/></l><r>Orden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunnianloukkaus<s n="n"/></l><r>Verleumdung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnianosoitus<s n="n"/></l><r>Beifall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kunnia<s n="n"/></l><r>Ehrung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnioitus<s n="n"/></l><r>Respekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunta<s n="n"/></l><r>Landkreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuntoilu<s n="n"/></l><r>Fitness<s n="n"/><s n="f"/></r></p></e>
@@ -1911,6 +1920,7 @@
     <e><p><l>liftaaja<s n="n"/></l><r>Anhalter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liha<s n="n"/></l><r>Fleisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>liiga<s n="n"/></l><r>Liga<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>liikenneonnettomuus<s n="n"/></l><r>Verkehrsunfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liikenne<s n="n"/></l><r>Transport<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liikenne<s n="n"/></l><r>Verkehr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liike<s n="n"/></l><r>Bewegung<s n="n"/><s n="f"/></r></p></e>
@@ -2137,6 +2147,7 @@
     <e><p><l>mahti<s n="n"/></l><r>Macht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maila<s n="n"/></l><r>Schläger<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maili<s n="n"/></l><r>Meile<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maine<s n="n"/></l><r>Ehrung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maine<s n="n"/></l><r>Reputation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maininta<s n="n"/></l><r>Erwähnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mainoskampanja<s n="n"/></l><r>Werbekampagne<s n="n"/><s n="f"/></r></p></e>
@@ -2746,6 +2757,7 @@
     <e><p><l>pika<s n="n"/></l><r>Express<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pikkuinen<s n="n"/></l><r>Klein<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pikkulapsi<s n="n"/></l><r>Kleinkind<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pikkuserkku<s n="n"/></l><r>Großneffe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilapiirtäjä<s n="n"/></l><r>Karikaturist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilari<s n="n"/></l><r>Pfeiler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilotti<s n="n"/></l><r>Pilote<s n="n"/><s n="f"/></r></p></e>
@@ -3213,6 +3225,7 @@
     <e><p><l>salakuljettaja<s n="n"/></l><r>Schmuggler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>salakuuntelu<s n="n"/></l><r>Abhören<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>salaliitto<s n="n"/></l><r>Verschwörung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salaliittoteoria<s n="n"/></l><r>Verschwörungstheorie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>salama<s n="n"/></l><r>Blitz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>salapoliisi<s n="n"/></l><r>Geheimdienst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>salassapito<s n="n"/></l><r>Geheimhaltung<s n="n"/><s n="f"/></r></p></e>
@@ -4259,6 +4272,7 @@
     <e><p><l>visio<s n="n"/></l><r>Vision<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viski<s n="n"/></l><r>Whisky<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vohveli<s n="n"/></l><r>Waffel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>voimakeino<s n="n"/></l><r>Zwangsmaßnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voimala<s n="n"/></l><r>Kraftwerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>voima<s n="n"/></l><r>Force<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voima<s n="n"/></l><r>Kraft<s n="n"/><s n="f"/></r></p></e>
@@ -4734,6 +4748,7 @@
     <e r="RL"><p><l>hiilikopio<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hovi<s n="n"/></l><r>hof<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>huhu<s n="n"/></l><r>gerücht<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>huoli<s n="n"/></l><r>bedenken<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hylky<s n="n"/></l><r>wrack<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hyökkäys<s n="n"/></l><r>angriff<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hyökkäys<s n="n"/></l><r>attacke<s n="n"/><s n="f"/></r></p></e>
@@ -4979,6 +4994,7 @@
     <e r="RL"><p><l>maksu<s n="n"/></l><r>zahlung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>maku<s n="n"/></l><r>geschmack<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>malli<s n="n"/></l><r>modell<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>mandaatti<s n="n"/></l><r>mandat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>manipulaatio<s n="n"/></l><r>manipulation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>manööveri<s n="n"/></l><r>manöver<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>markkina<s n="n"/></l><r>markt<s n="n"/><s n="m"/></r></p></e>
@@ -5287,6 +5303,7 @@
     <e r="RL"><p><l>tapahtuma<s n="n"/></l><r>veranstaltung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tapa<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapaus<s n="n"/></l><r>fall<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>tappaja<s n="n"/></l><r>toter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tappio<s n="n"/></l><r>niederlage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tappio<s n="n"/></l><r>schlappe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tappio<s n="n"/></l><r>verlust<s n="n"/><s n="m"/></r></p></e>
@@ -5339,6 +5356,7 @@
     <e r="RL"><p><l>tulo<s n="n"/></l><r>einzug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulos<s n="n"/></l><r>ergebnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tunnustus<s n="n"/></l><r>bekenntnis<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>tunti<s n="n"/></l><r>stunde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tuomari<s n="n"/></l><r>richter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tuomioistuin<s n="n"/></l><r>gericht<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tuomio<s n="n"/></l><r>spruch<s n="n"/><s n="m"/></r></p></e>
@@ -5597,7 +5615,7 @@
     <e><p><l>so.<s n="n"/><s n="abbr"/></l><r>d.h.<s n="abbr"/></r></p></e>
     <e><p><l>so.<s n="n"/><s n="abbr"/></l><r>d.<b/>h.<s n="abbr"/></r></p></e>
     <e><p><l>n.<s n="n"/><s n="abbr"/></l><r>ca.<s n="abbr"/></r></p></e>
-    <e><p><l>ransk.<s n="n"/><s n="abbr"/></l><r>F.<s n="abbr"/></r></p></e>
+    <e><p><l>ransk.<s n="adv"/></l><r>F.<s n="abbr"/></r></p></e>
     <e><p><l>tri<s n="n"/><s n="abbr"/></l><r>Dr.<s n="abbr"/></r></p></e>
     <e><p><l>prof.<s n="n"/><s n="abbr"/></l><r>Prof.<s n="abbr"/></r></p></e>
     <e><p><l>nro<s n="n"/><s n="abbr"/></l><r>Nr.<s n="abbr"/></r></p></e>
@@ -6466,6 +6484,7 @@
     <e><p><l>edetä<s n="vblex"/></l><r>vorgehen<s n="vblex"/></r></p></e>
     <e><p><l>edistyä<s n="vblex"/></l><r>weiterkommen<s n="vblex"/></r></p></e>
     <e><p><l>edistää<s n="vblex"/></l><r>fördern<s n="vblex"/></r></p></e>
+    <e><p><l>editoida<s n="vblex"/></l><r>editieren<s n="vblex"/></r></p></e>
     <e><p><l>edustaa<s n="vblex"/></l><r>vertreten<s n="vblex"/></r></p></e>
     <e><p><l>ehdottaa<s n="vblex"/></l><r>beantragen<s n="vblex"/></r></p></e>
     <e><p><l>ehdottaa<s n="vblex"/></l><r>vorschlagen<s n="vblex"/></r></p></e>
@@ -8924,6 +8943,7 @@
     <e><p><l>kiivas<s n="adj"/></l><r>vehement<s n="adj"/></r></p></e>
     <e><p><l>kireä<s n="adj"/></l><r>angespannt<s n="adj"/></r></p></e>
     <e><p><l>kirgisialainen<s n="adj"/></l><r>kirgisisch<s n="adj"/></r></p></e>
+    <e><p><l>kirjaimellinen<s n="adj"/></l><r>buchstäblich<s n="adj"/></r></p></e>
     <e><p><l>kirjaimellinen<s n="adj"/></l><r>wörtlich<s n="adj"/></r></p></e>
     <e><p><l>kirjallinen<s n="adj"/></l><r>literarisch<s n="adj"/></r></p></e>
     <e><p><l>kirjallinen<s n="adj"/></l><r>schriftlich<s n="adj"/></r></p></e>
@@ -9018,6 +9038,7 @@
     <e><p><l>laaja<s n="adj"/></l><r>weitgehend<s n="adj"/></r></p></e>
     <e><p><l>laaja<s n="adj"/></l><r>weit<s n="adj"/></r></p></e>
     <e><p><l>laiha<s n="adj"/></l><r>dünn<s n="adj"/></r></p></e>
+    <e><p><l>laillinen<s n="adj"/></l><r>gerecht<s n="adj"/></r></p></e>
     <e><p><l>laillinen<s n="adj"/></l><r>gerichtlich<s n="adj"/></r></p></e>
     <e><p><l>laillinen<s n="adj"/></l><r>gesetzlich<s n="adj"/></r></p></e>
     <e><p><l>laillinen<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
@@ -10186,7 +10207,6 @@
 
 
     <e><i>Aachen<s n="np"/></i></e>
-    <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
     <e><i>Abdullah<s n="np"/></i></e>
@@ -10247,6 +10267,7 @@
     <e><i>Barbara<s n="np"/></i></e>
     <e><i>Barcelona<s n="np"/></i></e>
     <e><i>Barker<s n="np"/></i></e>
+    <e><i>Barnaby<s n="np"/></i></e>
     <e><i>Barry<s n="np"/></i></e>
     <e><i>Basel<s n="np"/></i></e>
     <e><i>Becker<s n="np"/></i></e>
@@ -10325,6 +10346,7 @@
     <e><i>Cristina<s n="np"/></i></e>
     <e><i>Daimler<s n="np"/></i></e>
     <e><i>Daisy<s n="np"/></i></e>
+    <e><i>Dallas<s n="np"/></i></e>
     <e><i>Daniel<s n="np"/></i></e>
     <e><i>Dan<s n="np"/></i></e>
     <e><i>Dave<s n="np"/></i></e>
@@ -10494,6 +10516,7 @@
     <e><i>Josep<s n="np"/></i></e>
     <e><i>Josh<s n="np"/></i></e>
     <e><i>Joshua<s n="np"/></i></e>
+    <e><i>Joyce<s n="np"/></i></e>
     <e><i>Judy<s n="np"/></i></e>
     <e><i>Julian<s n="np"/></i></e>
     <e><i>Julius<s n="np"/></i></e>
@@ -10513,6 +10536,7 @@
     <e><i>Keith<s n="np"/></i></e>
     <e><i>Kelly<s n="np"/></i></e>
     <e><i>Kenia<s n="np"/></i></e>
+    <e><i>Kennedy<s n="np"/></i></e>
     <e><i>Kevin<s n="np"/></i></e>
     <e><i>Kim<s n="np"/></i></e>
     <e><i>King<s n="np"/></i></e>
@@ -10566,6 +10590,7 @@
     <e><i>Lübeck<s n="np"/></i></e>
     <e><i>Madrid<s n="np"/></i></e>
     <e><i>Mainz<s n="np"/></i></e>
+    <e><i>Malcolm<s n="np"/></i></e>
     <e><i>Malta<s n="np"/></i></e>
     <e><i>Manchester<s n="np"/></i></e>
     <e><i>Mandy<s n="np"/></i></e>
