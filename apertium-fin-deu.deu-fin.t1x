@@ -356,6 +356,7 @@
       <attr-item tags="num.card"/>
       <attr-item tags="det"/>
       <attr-item tags="prn"/>
+      <attr-item tags="adj.pos"/>
     </def-attr>
     <def-attr n="a_det">
       <attr-item tags="n"/>
@@ -2172,7 +2173,7 @@
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
               <var n="number"/>
               <lit-tag v="gen"/> <!-- non-lexic comp is gen -->
             </lu>
@@ -2565,7 +2566,7 @@
            -->
             <lu>
               <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
               <clip pos="1" side="tl" part="a_number"/>
               <lit-tag v="gen"/>
             </lu>
@@ -2916,14 +2917,14 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_nominal"/>
               <clip pos="1" side="tl" part="a_number"/>
               <lit-tag v="gen"/>
             </lu>
               <!-- no blank -->
             <lu>
               <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_noun"/>
+              <clip pos="2" side="tl" part="a_nominal"/>
               <clip pos="2" side="tl" part="a_number"/>
               <lit-tag v="gen"/>
             </lu>
@@ -2954,7 +2955,7 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_nominal"/>
               <clip pos="1" side="tl" part="a_number"/>
               <lit-tag v="gen"/>
             </lu>
