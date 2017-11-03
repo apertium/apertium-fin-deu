@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  NO   U  N S  N O        UN   S    NO UN  S
-         {{{  no u   n s    wi        t    h g      ende r s -->
+    <!-- {{{  N O   U  N S  N O        UN   S    NO UN  S
+         {{{  no u    n s    wi        t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -182,6 +182,7 @@
     <e c="sauna"><p><l>vasta<s n="n"/></l><r>Zweig<s n="n"/><s n="m"/></r></p></e>
     <e c="SI unit"><p><l>newton<s n="n"/></l><r>Newton<s n="n"/><s n="nt"/></r></p></e>
     <e c="sports dunno"><p><l>puolustaja<s n="n"/></l><r>Innenverteidiger<s n="n"/><s n="m"/></r></p></e>
+    <e c="telkien taakse"><p><l>telki<s n="n"/></l><r>Gitter<s n="n"/><s n="nt"/></r></p></e>
     <e c="typically compound-miss"><p><l>sooli<s n="n"/></l><r>Sol<s n="n"/><s n="nt"/></r></p></e>
     <e c="typisch eng. deu"><p><l>harja<s n="n"/></l><r>First<s n="n"/><s n="m"/></r></p></e>
     <e c="typisch eng. deu"><p><l>leidi<s n="n"/></l><r>Lady<s n="n"/><s n="f"/></r></p></e>
@@ -1055,6 +1056,7 @@
     <e><p><l>jako<s n="n"/></l><r>Vergabe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jakso<s n="n"/></l><r>Abschnitt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jakso<s n="n"/></l><r>Folge<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jalankulkija<s n="n"/></l><r>Fußgänger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapallofani<s n="n"/></l><r>Fußballfan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapalloilija<s n="n"/></l><r>Fußballspieler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapallomaajoukkue<s n="n"/></l><r>Fußballnationalmannschaft<s n="n"/><s n="f"/></r></p></e>
@@ -2055,6 +2057,7 @@
     <e><p><l>lähikuva<s n="n"/></l><r>Nahaufnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähiliikenne<s n="n"/></l><r>Nahverkehr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähiympäristö<s n="n"/></l><r>Nähe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lähiympäristö<s n="n"/></l><r>Umland<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lähiö<s n="n"/></l><r>Stadtrand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähiö<s n="n"/></l><r>Vorort<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähtöaula<s n="n"/></l><r>Abflughalle<s n="n"/><s n="f"/></r></p></e>
@@ -2967,6 +2970,7 @@
     <e><p><l>pyyntö<s n="n"/></l><r>Antrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyörremyrsky<s n="n"/></l><r>Wirbelsturm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyörre<s n="n"/></l><r>Wirbel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pyöräilijä<s n="n"/></l><r>Radfahrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyörä<s n="n"/></l><r>Fahrrad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyörä<s n="n"/></l><r>Rad<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pyörätuoli<s n="n"/></l><r>Rollstuhl<s n="n"/><s n="m"/></r></p></e>
@@ -3328,6 +3332,7 @@
     <e><p><l>sijainti<s n="n"/></l><r>Fundort<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sijainti<s n="n"/></l><r>Lage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sijainti<s n="n"/></l><r>Ortsangabe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sijainti<s n="n"/></l><r>Site<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sijoittaja<s n="n"/></l><r>Anleger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sijoittaja<s n="n"/></l><r>Investor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sijoitus<s n="n"/></l><r>Investition<s n="n"/><s n="f"/></r></p></e>
@@ -4477,6 +4482,7 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
 
@@ -4995,6 +5001,7 @@
     <e r="RL"><p><l>lähettäjä<s n="n"/></l><r>sender<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>läpikäynti<s n="n"/></l><r>durchsuchung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>läpäisy<s n="n"/></l><r>bestehen<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>läsnäolo<s n="n"/></l><r>präsenz<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lävikkö<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lääkeaine<s n="n"/></l><r>arzneimittel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>maahanmuuttaja<s n="n"/></l><r>migrant<s n="n"/><s n="m"/></r></p></e>
@@ -5115,6 +5122,7 @@
     <e r="RL"><p><l>perhe<s n="n"/></l><r>familie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>periaate<s n="n"/></l><r>grundsatz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>perintö<s n="n"/></l><r>erbe<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>persoonallisuus<s n="n"/></l><r>persönlichkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>peruste<s n="n"/></l><r>grund<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>perustus<s n="n"/></l><r>gründung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>perustus<s n="n"/></l><r>verfassung<s n="n"/><s n="f"/></r></p></e>
@@ -5254,6 +5262,7 @@
     <e r="RL"><p><l>sijainti<s n="n"/></l><r>standort<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sijainti<s n="n"/></l><r>stellung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sija<s n="n"/></l><r>platz<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>sijoittaja<s n="n"/></l><r>investor<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sisus<s n="n"/></l><r>innere<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sitoja<s n="n"/></l><r>binder<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skandaali<s n="n"/></l><r>skandal<s n="n"/><s n="m"/></r></p></e>
@@ -6499,6 +6508,7 @@
     <e><p><l>edeltää<s n="vblex"/></l><r>vorangehen<s n="vblex"/></r></p></e>
     <e><p><l>edeltää<s n="vblex"/></l><r>vorausgehen<s n="vblex"/></r></p></e>
     <e><p><l>edetä<s n="vblex"/></l><r>distanzieren<s n="vblex"/></r></p></e>
+    <e><p><l>edetä<s n="vblex"/></l><r>fortfahren<s n="vblex"/></r></p></e>
     <e><p><l>edetä<s n="vblex"/></l><r>vorgehen<s n="vblex"/></r></p></e>
     <e><p><l>edistyä<s n="vblex"/></l><r>weiterkommen<s n="vblex"/></r></p></e>
     <e><p><l>edistää<s n="vblex"/></l><r>fördern<s n="vblex"/></r></p></e>
@@ -9490,7 +9500,6 @@
     <e><p><l>seikkaperäinen<s n="adj"/></l><r>ausführlich<s n="adj"/></r></p></e>
     <e><p><l>seikkaperäinen<s n="adj"/></l><r>ausfürhlich<s n="adj"/></r></p></e>
     <e><p><l>seisova<s n="adj"/></l><r>stehend<s n="adj"/></r></p></e>
-    <e><p><l>seissyt<s n="adj"/></l><r>stehend<s n="adj"/></r></p></e>
     <e><p><l>seitsemäs<s n="adj"/></l><r>siebte<s n="adj"/></r></p></e>
     <e><p><l>sekava<s n="adj"/></l><r>wirr<s n="adj"/></r></p></e>
     <e><p><l>sekoitettu<s n="adj"/></l><r>gemischt<s n="adj"/></r></p></e>
@@ -9683,6 +9692,7 @@
     <e><p><l>tunninmittainen<s n="adj"/></l><r>einstündig<s n="adj"/></r></p></e>
     <e><p><l>tunninmittainen<s n="adj"/></l><r>stundenlang<s n="adj"/></r></p></e>
     <e><p><l>tunnistettu<s n="adj"/></l><r>erkennbar<s n="adj"/></r></p></e>
+    <e><p><l>tunnustanut<s n="adj"/></l><r>geständig<s n="adj"/></r></p></e>
     <e><p><l>tunnustettu<s n="adj"/></l><r>anerkanntlich<s n="adj"/></r></p></e>
     <e><p><l>tunnustettu<s n="adj"/></l><r>anerkannt<s n="adj"/></r></p></e>
     <e><p><l>tunteellinen<s n="adj"/></l><r>emotional<s n="adj"/></r></p></e>
@@ -9963,6 +9973,7 @@
     <e><p><l>äkkinäinen<s n="adj"/></l><r>abrupt<s n="adj"/></r></p></e>
     <e><p><l>äkkinäinen<s n="adj"/></l><r>plötzlich<s n="adj"/></r></p></e>
     <e><p><l>älykäs<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
+    <e><p><l>älykäs<s n="adj"/></l><r>schlau<s n="adj"/></r></p></e>
     <e><p><l>älykäs<s n="adj"/></l><r>smart<s n="adj"/></r></p></e>
     <e><p><l>äänekäs<s n="adj"/></l><r>laut<s n="adj"/></r></p></e>
     <e><p><l>äänioikeutettu<s n="adj"/></l><r>stimmberechtigt<s n="adj"/></r></p></e>
@@ -10506,6 +10517,7 @@
     <e><i>Jamaika<s n="np"/></i></e>
     <e><i>James<s n="np"/></i></e>
     <e><i>Jane<s n="np"/></i></e>
+    <e><i>Janet<s n="np"/></i></e>
     <e><i>Jason<s n="np"/></i></e>
     <e><i>Jean-Luc<s n="np"/></i></e>
     <e><i>Jean-Luc<s n="np"/></i></e>
@@ -10618,6 +10630,7 @@
     <e><i>Manchester<s n="np"/></i></e>
     <e><i>Mandy<s n="np"/></i></e>
     <e><i>Manfred<s n="np"/></i></e>
+    <e><i>Manhattan<s n="np"/></i></e>
     <e><i>Manning<s n="np"/></i></e>
     <e><i>Manuela<s n="np"/></i></e>
     <e><i>Marcel<s n="np"/></i></e>
@@ -10728,6 +10741,7 @@
     <e><i>Pierre<s n="np"/></i></e>
     <e><i>Porsche<s n="np"/></i></e>
     <e><i>Potsdam<s n="np"/></i></e>
+    <e><i>Powell<s n="np"/></i></e>
     <e><i>Puerto<b/>Rico<s n="np"/></i></e>
     <e><i>Putin<s n="np"/></i></e>
     <e><i>Rachel<s n="np"/></i></e>
@@ -11026,6 +11040,7 @@
     <e><p><l>Unkari<s n="np"/></l><r>Ungarn<s n="np"/></r></p></e>
     <e><p><l>USA<s n="np"/></l><r>USA<s n="abbr"/></r></p></e>
     <e><p><l>Uusi-Seelanti<s n="np"/></l><r>Neuseeland<s n="np"/></r></p></e>
+    <e><p><l>Uzbekistan<s n="np"/></l><r>Usbekistan<s n="np"/></r></p></e>
     <e><p><l>Varsova<s n="np"/></l><r>Warschau<s n="np"/></r></p></e>
     <e><p><l>Vatikaani<s n="np"/></l><r>Vatikan<s n="np"/></r></p></e>
     <e><p><l>Venetsia<s n="np"/></l><r>Venedig<s n="np"/></r></p></e>
