@@ -320,6 +320,7 @@
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="n.acr"/>
+      <attr-item tags="n.compound-only-L"/>
       <attr-item tags="det"/>
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
@@ -339,6 +340,7 @@
     </def-attr>
     <def-attr n="a_nominal">
       <attr-item tags="n.acr"/>
+      <attr-item tags="n.compound-only-L"/>
       <attr-item tags="n"/>
       <attr-item tags="np.ant.m"/>
       <attr-item tags="np.ant.f"/>
@@ -416,6 +418,7 @@
     <def-var n="adpmaybe"/>
     <def-var n="numtype"/>
     <def-var n="comparison"/>
+    <def-var n="compstuff"/>
   </section-def-vars>
   <!-- }}}
         {{{ macros -->
@@ -502,6 +505,14 @@
         <when>
           <test>
             <equal><clip pos="1" side="tl" part="lem"/><lit v="koko"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.compound-only-L"/></equal>
           </test>
           <let>
             <var n="number"/><lit v=""/>
@@ -677,6 +688,14 @@
           <!-- special cases (pun!) -->
           <test>
             <equal><clip pos="1" side="tl" part="lem"/><lit v="koko"/></equal>
+          </test>
+          <let>
+            <var n="case"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.compound-only-L"/></equal>
           </test>
           <let>
             <var n="case"/><lit v=""/>
@@ -1038,6 +1057,25 @@
           </let>
           <let>
             <var n="adpmaybe"/><clip pos="1" side="tl" part="whole"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="compstuff-mangler" npar="1">
+      <choose>
+        <!-- special -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.compound-only-L"/></equal>
+          </test>
+          <let>
+            <var n="compstuff"/><lit v=""/>
+          </let>
+        </when>
+        <!-- regular -->
+        <otherwise>
+          <let>
+            <var n="compstuff"/><lit-tag v="sg.gen"/>
           </let>
         </otherwise>
       </choose>
@@ -2147,6 +2185,9 @@
         <pattern-item n="nominal"/>
       </pattern>
       <action>
+        <call-macro n="compstuff-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="case-mangler">
           <with-param pos="3"/>
         </call-macro>
@@ -2174,8 +2215,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
-              <var n="number"/>
-              <lit-tag v="gen"/> <!-- non-lexic comp is gen -->
+              <var n="compstuff"/>
             </lu>
             <!-- recomp -->
             <lu>
@@ -2546,6 +2586,9 @@
       <action>
         <call-macro n="case-mangler">
           <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="case-mangler">
           <with-param pos="3"/>
