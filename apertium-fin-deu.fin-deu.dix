@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  N O   U  N S    O        UN   S    NO UN  S
-         {{{  no u    n s    wi        t    h g      ende r s -->
+    <!-- {{{  N O   U  N S    O         UN   S    NO UN  S
+         {{{  no u    n s    wi         t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -329,6 +329,7 @@
     <e><p><l>anis<s n="n"/></l><r>Anis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>annos<s n="n"/></l><r>Portion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>annostus<s n="n"/></l><r>Dosis<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anoppi<s n="n"/></l><r>Schwiegermutter<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ansio<s n="n"/></l><r>Lohn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antaja<s n="n"/></l><r>Geber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anteeksianto<s n="n"/></l><r>Vergebung<s n="n"/><s n="f"/></r></p></e>
@@ -493,6 +494,7 @@
     <e><p><l>bensiini<s n="n"/></l><r>Benzin<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>berliiniläinen<s n="n"/></l><r>Berliner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bestman<s n="n"/></l><r>Trauzeuge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bisnesmies<s n="n"/></l><r>Geschäftsleute<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>bisnesmies<s n="n"/></l><r>Geschäftsleute<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>bisnesmies<s n="n"/></l><r>Geschäftsmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bisnes<s n="n"/></l><r>Business<s n="n"/><s n="nt"/></r></p></e>
@@ -1658,6 +1660,7 @@
     <e><p><l>kristitty<s n="n"/></l><r>Christ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kriteeri<s n="n"/></l><r>Kriterium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kritiikki<s n="n"/></l><r>Kritik<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kruununperillinen<s n="n"/></l><r>Thronfolger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kruununprinssi<s n="n"/></l><r>Kronprinz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kruunu<s n="n"/></l><r>Krone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuhina<s n="n"/></l><r>Gerangel<s n="n"/><s n="nt"/></r></p></e>
@@ -2313,6 +2316,7 @@
     <e><p><l>mitta<s n="n"/></l><r>Maß<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mitta<s n="n"/></l><r>Pegel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>moderaattori<s n="n"/></l><r>Moderator<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>modernisointi<s n="n"/></l><r>Modernisierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>moguli<s n="n"/></l><r>Mogul<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>moka<s n="n"/></l><r>Fehlentwicklung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>momentti<s n="n"/></l><r>Schwung<s n="n"/><s n="m"/></r></p></e>
@@ -2776,6 +2780,7 @@
     <e><p><l>piispa<s n="n"/></l><r>Papst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pikajuoksu<s n="n"/></l><r>Sprint<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pika<s n="n"/></l><r>Express<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pikavisiitti<s n="n"/></l><r>Kurzbesuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pikkuinen<s n="n"/></l><r>Klein<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pikkulapsi<s n="n"/></l><r>Kleinkind<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pikkuserkku<s n="n"/></l><r>Großneffe<s n="n"/><s n="m"/></r></p></e>
@@ -4861,6 +4866,7 @@
     <e r="RL"><p><l>kasvatus<s n="n"/></l><r>anbau<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kasvu<s n="n"/></l><r>erhöhung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>katastrofi<s n="n"/></l><r>katastrophe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>katkos<s n="n"/></l><r>panne<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>katu<s n="n"/></l><r>straße<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kaupankäynti<s n="n"/></l><r>handel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kauppasaarto<s n="n"/></l><r>embargo<s n="n"/><s n="nt"/></r></p></e>
@@ -5229,6 +5235,7 @@
     <e r="RL"><p><l>reformi<s n="n"/></l><r>reform<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>reitti<s n="n"/></l><r>gang<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>reitti<s n="n"/></l><r>route<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>rekisteri<s n="n"/></l><r>register<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>rekisteröinti<s n="n"/></l><r>registrierung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rekka<s n="n"/></l><r>laster<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rengas<s n="n"/></l><r>reif<s n="n"/><s n="m"/></r></p></e>
@@ -7043,6 +7050,7 @@
     <e><p><l>lievittää<s n="vblex"/></l><r>mildern<s n="vblex"/></r></p></e>
     <e><p><l>liikennöidä<s n="vblex"/></l><r>befahren<s n="vblex"/></r></p></e>
     <e><p><l>liikkua<s n="vblex"/></l><r>rühren<s n="vblex"/></r></p></e>
+    <e><p><l>liioitella<s n="vblex"/></l><r>übertreiben<s n="vblex"/></r></p></e>
     <e><p><l>liittoutua<s n="vblex"/></l><r>verbünden<s n="vblex"/></r></p></e>
     <e><p><l>liittyä<s n="vblex"/></l><r>beitreten<s n="vblex"/></r></p></e>
     <e><p><l>liittää<s n="vblex"/></l><r>aufhängen<s n="vblex"/></r></p></e>
@@ -7091,6 +7099,7 @@
     <e><p><l>luvata<s n="vblex"/></l><r>versprechen<s n="vblex"/></r></p></e>
     <e><p><l>lyhentää<s n="vblex"/></l><r>kürzen<s n="vblex"/></r></p></e>
     <e><p><l>lyödä<s n="vblex"/></l><r>betreffen<s n="vblex"/></r></p></e>
+    <e><p><l>lyödä<s n="vblex"/></l><r>hauen<s n="vblex"/></r></p></e>
     <e><p><l>lähentyä<s n="vblex"/></l><r>beilegen<s n="vblex"/></r></p></e>
     <e><p><l>lähestyä<s n="vblex"/></l><r>herankommen<s n="vblex"/></r></p></e>
     <e><p><l>lähestyä<s n="vblex"/></l><r>zugehen<s n="vblex"/></r></p></e>
@@ -7933,6 +7942,7 @@
     <e><p><l>vahingoittaa<s n="vblex"/></l><r>schädigen<s n="vblex"/></r></p></e>
     <e><p><l>vahingoittaa<s n="vblex"/></l><r>verletzen<s n="vblex"/></r></p></e>
     <e><p><l>vahingoittua<s n="vblex"/></l><r>zuziehen<s n="vblex"/></r></p></e>
+    <e><p><l>vahventaa<s n="vblex"/></l><r>festigen<s n="vblex"/></r></p></e>
     <e><p><l>vahventaa<s n="vblex"/></l><r>verhärten<s n="vblex"/></r></p></e>
     <e><p><l>vahvistaa<s n="vblex"/></l><r>bekräftigen<s n="vblex"/></r></p></e>
     <e><p><l>vahvistaa<s n="vblex"/></l><r>bestätigen<s n="vblex"/></r></p></e>
@@ -10003,6 +10013,8 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>extremistisch<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>extrem<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+    <e><p><l>kotitaloudellinen<s n="adj"/></l><r>häuslich<s n="adj"/></r></p></e>
+    <e><p><l>automatisoitu<s n="adj"/></l><r>automatisiert<s n="adj"/></r></p></e>
 
 
 
