@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-    <!-- {{{  N O   U  N S     O         UN   S    NO UN  S
-         {{{  no u    n s    wi         t    h g      ende r s -->
+    <!-- {{{  N O   U  N S     O          UN   S    NO UN  S
+         {{{  no u    n s    wi          t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -216,9 +216,9 @@
     <e><p><l>abortti<s n="n"/></l><r>Abtreibung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adaptaatio<s n="n"/></l><r>Adaption<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adaptaatio<s n="n"/></l><r>Anpassung<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>adressi<s n="n"/></l><r>Adresse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>administraattori<s n="n"/></l><r>Administrator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>adoptio<s n="n"/></l><r>Adoption<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adressi<s n="n"/></l><r>Adresse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>affekti<s n="n"/></l><r>Affekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>afgaani<s n="n"/></l><r>Afghane<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>afrikkalainen<s n="n"/></l><r>Afrikaner<s n="n"/><s n="m"/></r></p></e>
@@ -273,6 +273,7 @@
     <e><p><l>alibi<s n="n"/></l><r>Alibi<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alijäämä<s n="n"/></l><r>Defizit<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aliravitsemus<s n="n"/></l><r>Unterernährung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alistus<s n="n"/></l><r>Repression<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alistus<s n="n"/></l><r>Unterdrückung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alkoholi<s n="n"/></l><r>Alkohol<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperäisasukas<s n="n"/></l><r>Ureinwohner<s n="n"/><s n="m"/></r></p></e>
@@ -593,6 +594,7 @@
     <e><p><l>ekskursio<s n="n"/></l><r>Ausflug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ekspertti<s n="n"/></l><r>Experte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ekstra<s n="n"/></l><r>Extras<s n="n"/><s n="mfn"/></r></p></e>
+    <e><p><l>elektroniikka<s n="n"/></l><r>Elektronik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>elementti<s n="n"/></l><r>Element<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ele<s n="n"/></l><r>Geste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eliitti<s n="n"/></l><r>Elite<s n="n"/><s n="f"/></r></p></e>
@@ -3271,6 +3273,7 @@
     <e><p><l>sarja<s n="n"/></l><r>Serie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>satamakaupunki<s n="n"/></l><r>Hafenstadt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>satama<s n="n"/></l><r>Hafen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satama<s n="n"/></l><r>Seehafen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>satanen<s n="n"/></l><r>Hundert<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sateenvarjo<s n="n"/></l><r>Regenschirm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>satelliitti<s n="n"/></l><r>Satellit<s n="n"/><s n="m"/></r></p></e>
@@ -4177,6 +4180,7 @@
     <e><p><l>vastaaja<s n="n"/></l><r>Korrespondent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaanotto<s n="n"/></l><r>Annahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vastaanotto<s n="n"/></l><r>Aufnahme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vastaantulo<s n="n"/></l><r>Entgegenkommen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vastaavuus<s n="n"/></l><r>Parallele<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vastaehdokas<s n="n"/></l><r>Gegenkandidat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaisku<s n="n"/></l><r>Gegenzug<s n="n"/><s n="m"/></r></p></e>
@@ -4629,9 +4633,10 @@
 
 
      <!-- }}}
-        {{{ with old orthography
+        {{{ with old orthograp hy
       -->
 
+    <e r="RL" c="old orth"><p><l>kompromissi<s n="n"/></l><r>Kompromiß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>lautakunta<s n="n"/></l><r>Ausschuß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="old orth"><p><l>linna<s n="n"/></l><r>Schloß<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL" c="old orth"><p><l>loppu<s n="n"/></l><r>Abschluß<s n="n"/><s n="m"/></r></p></e>
@@ -4665,6 +4670,7 @@
 
     <e c="common missegments" r="RL"><p><l>harus<s n="n"/></l><r>stag<s n="n"/><s n="nt"/></r></p></e>
     <e c="doctor's etc." r="RL"><p><l>aika<s n="n"/></l><r>termin<s n="n"/><s n="m"/></r></p></e>
+    <e c="rare, was falsch PROPN" r="RL"><p><l>krääsä<s n="n"/></l><r>bettel<s n="n"/><s n="m"/></r></p></e>
     <e c="XXX: Versicherungs" r="RL"><p><l>maksu<s n="n"/></l><r>prämie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" c="b sharp"><p><l>his<s n="n"/></l><r>his<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL" c="deu commonly mistaken from Eng."><p><l>myy<s n="n"/></l><r>my<s n="n"/><s n="nt"/></r></p></e>
@@ -4966,6 +4972,7 @@
     <e r="RL"><p><l>käytös<s n="n"/></l><r>verhalten<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>käänne<s n="n"/></l><r>wende<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>laajennus<s n="n"/></l><r>erweiterung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>laajuus<s n="n"/></l><r>umfang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laatu<s n="n"/></l><r>qualität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lahja<s n="n"/></l><r>geschenk<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lahjoitus<s n="n"/></l><r>gabe<s n="n"/><s n="f"/></r></p></e>
@@ -5369,6 +5376,7 @@
     <e r="RL"><p><l>taso<s n="n"/></l><r>niveau<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>taso<s n="n"/></l><r>pegel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>taso<s n="n"/></l><r>stufe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>tavoite<s n="n"/></l><r>ziel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>teema<s n="n"/></l><r>thema<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tehdas<s n="n"/></l><r>fabrik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tehtävä<s n="n"/></l><r>mission<s n="n"/><s n="f"/></r></p></e>
@@ -9296,6 +9304,7 @@
     <e><p><l>sisäinen<s n="adj"/></l><r>intern<s n="adj"/></r></p></e>
     <e><p><l>sisällöllinen<s n="adj"/></l><r>inhaltlich<s n="adj"/></r></p></e>
     <e><p><l>sisäpoliittinen<s n="adj"/></l><r>innenpolitisch<s n="adj"/></r></p></e>
+    <e><p><l>sitova<s n="adj"/></l><r>verbindlich<s n="adj"/></r></p></e>
     <e><p><l>siviili<s n="adj"/></l><r>zivil<s n="adj"/></r></p></e>
     <e><p><l>sivistynyt<s n="adj"/></l><r>gebildet<s n="adj"/></r></p></e>
     <e><p><l>sivuttainen<s n="adj"/></l><r>seitlich<s n="adj"/></r></p></e>
@@ -9479,6 +9488,7 @@
     <e><p><l>tuttu<s n="adj"/></l><r>bekannt<s n="adj"/></r></p></e>
     <e><p><l>tuttu<s n="adj"/></l><r>familiär<s n="adj"/></r></p></e>
     <e><p><l>tuttu<s n="adj"/></l><r>vertraut<s n="adj"/></r></p></e>
+    <e><p><l>tyhjä<s n="adj"/></l><r>leer<s n="adj"/></r></p></e>
     <e><p><l>tyly<s n="adj"/></l><r>frech<s n="adj"/></r></p></e>
     <e><p><l>tyyni<s n="adj"/></l><r>pazifisch<s n="adj"/></r></p></e>
     <e><p><l>tyypillinen<s n="adj"/></l><r>charakteristisch<s n="adj"/></r></p></e>
@@ -10771,6 +10781,8 @@
     <e><i>Panama<s n="np"/></i></e>
     <e><i>Paolo<s n="np"/></i></e>
     <e><i>Parks<s n="np"/></i></e>
+    <e><i>Patel<s n="np"/></i></e>
+    <e><i>Patel<s n="np"/></i></e>
     <e><i>Patricia<s n="np"/></i></e>
     <e><i>Patrick<s n="np"/></i></e>
     <e><i>Paul<s n="np"/></i></e>
