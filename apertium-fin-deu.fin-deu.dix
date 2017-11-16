@@ -2573,6 +2573,7 @@
     <e><p><l>opas<s n="n"/></l><r>Leitfaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>operaatio<s n="n"/></l><r>Operation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>opettaja<s n="n"/></l><r>Lehrer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>opetusohjelma<s n="n"/></l><r>Ausbildungsprogramm<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opetus<s n="n"/></l><r>Unterricht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>opinnot<s n="n"/></l><r>Studium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opinto<s n="n"/></l><r>Studie<s n="n"/><s n="f"/></r></p></e>
@@ -3386,9 +3387,9 @@
     <e><p><l>sijoitus<s n="n"/></l><r>Investition<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sijoitus<s n="n"/></l><r>Investment<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sikiö<s n="n"/></l><r>Fötus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silminnäkijälausunto<s n="n"/></l><r>Zeugenaussage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>silminnäkijä<s n="n"/></l><r>Augenzeuge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>silminnäkijätodistus<s n="n"/></l><r>Zeugenaussage<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>silminnäkijälausunto<s n="n"/></l><r>Zeugenaussage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>silmä<s n="n"/></l><r>Auge<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>silta<s n="n"/></l><r>Brücke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>siltaus<s n="n"/></l><r>Überbrückung<s n="n"/><s n="f"/></r></p></e>
@@ -3826,6 +3827,7 @@
     <e><p><l>toimittaja<s n="n"/></l><r>Reporter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>toimittajatar<s n="n"/></l><r>Reporterin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toimitusjohtaja<s n="n"/></l><r>Vorstandschef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>toimitusjohtajatar<s n="n"/></l><r>Geschäftsführerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toimitus<s n="n"/></l><r>Redaktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>toisinajattelija<s n="n"/></l><r>Dissident<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>toisto<s n="n"/></l><r>Wiederholung<s n="n"/><s n="f"/></r></p></e>
@@ -4154,6 +4156,7 @@
     <e><p><l>valtameri<s n="n"/></l><r>Weltmeer<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>valtaosa<s n="n"/></l><r>Großteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valtaosa<s n="n"/></l><r>Mehrzahl<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>valta<s n="n"/></l><r>Macht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valtatie<s n="n"/></l><r>Bundesstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valtatie<s n="n"/></l><r>Highway<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valtaus<s n="n"/></l><r>Einmarsch<s n="n"/><s n="m"/></r></p></e>
@@ -4855,6 +4858,7 @@
     <e r="RL"><p><l>intressi<s n="n"/></l><r>interesse<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>irkku<s n="n"/></l><r>ire<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>irlantilainen<s n="n"/></l><r>irisch<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>iskulause<s n="n"/></l><r>losung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>isku<s n="n"/></l><r>anschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>isku<s n="n"/></l><r>einschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>isku<s n="n"/></l><r>schlag<s n="n"/><s n="m"/></r></p></e>
@@ -5084,6 +5088,7 @@
     <e r="RL"><p><l>lävikkö<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lääkeaine<s n="n"/></l><r>arzneimittel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>maahanmuuttaja<s n="n"/></l><r>migrant<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>maailmanmestaruus<s n="n"/></l><r>weltmeisterschaft<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>maalivahti<s n="n"/></l><r>torhüter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>maa<s n="n"/></l><r>land<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>maa<s n="n"/></l><r>nation<s n="n"/><s n="f"/></r></p></e>
@@ -5308,6 +5313,7 @@
     <e r="RL"><p><l>rikollisuus<s n="n"/></l><r>kriminalität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rikos<s n="n"/></l><r>delikt<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>riutta<s n="n"/></l><r>riff<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ruiske<s n="n"/></l><r>spritze<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rukous<s n="n"/></l><r>gebet<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ruumis<s n="n"/></l><r>leich<s n="n"/><s n="m"/></r></p></e>
@@ -5518,6 +5524,7 @@
     <e r="RL"><p><l>vaihe<s n="n"/></l><r>phase<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>austausch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>wechsel<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>vaihto<s n="n"/></l><r>übernahme<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vakoilu<s n="n"/></l><r>spionage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vakuutus<s n="n"/></l><r>versicherung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>valitus<s n="n"/></l><r>beschwerde<s n="n"/><s n="f"/></r></p></e>
@@ -6758,6 +6765,7 @@
     <e><p><l>hyväksyä<s n="vblex"/></l><r>bewilligen<s n="vblex"/></r></p></e>
     <e><p><l>hyväksyä<s n="vblex"/></l><r>billigen<s n="vblex"/></r></p></e>
     <e><p><l>hyväksyä<s n="vblex"/></l><r>einsehen<s n="vblex"/></r></p></e>
+    <e><p><l>hyväksyä<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>hyväksyä<s n="vblex"/></l><r>zustimmen<s n="vblex"/></r></p></e>
     <e><p><l>hyvästellä<s n="vblex"/></l><r>verabschieden<s n="vblex"/></r></p></e>
     <e><p><l>hyödyntää<s n="vblex"/></l><r>erschließen<s n="vblex"/></r></p></e>
@@ -7539,6 +7547,7 @@
     <e><p><l>päteä<s n="vblex"/></l><r>gelten<s n="vblex"/></r></p></e>
     <e><p><l>päteä<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>päästä<s n="vblex"/></l><r>erreichen<s n="vblex"/></r></p></e>
+    <e><p><l>päästää<s n="vblex"/></l><r>ausstoßen<s n="vblex"/></r></p></e>
     <e><p><l>päättyä<s n="vblex"/></l><r>beenden<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>beschließen<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>entscheiden<s n="vblex"/></r></p></e>
@@ -7623,6 +7632,7 @@
     <e><p><l>saada<s n="vblex"/></l><r>besorgen<s n="vblex"/></r></p></e>
     <e><p><l>saada<s n="vblex"/></l><r>erhalten<s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>ankommen<s n="vblex"/></r></p></e>
+    <e><p><l>saapua<s n="vblex"/></l><r>anreisen<s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>antreffen<s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>betreten<s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>einfahren<s n="vblex"/></r></p></e>
@@ -7852,6 +7862,7 @@
     <e><p><l>tarttua<s n="vblex"/></l><r>fassen<s n="vblex"/></r></p></e>
     <e><p><l>tarttua<s n="vblex"/></l><r>greifen<s n="vblex"/></r></p></e>
     <e><p><l>tartuttaa<s n="vblex"/></l><r>infizieren<s n="vblex"/></r></p></e>
+    <e><p><l>tarvita<s n="vblex"/></l><r>bedürfen<s n="vblex"/></r></p></e>
     <e><p><l>tarvita<s n="vblex"/></l><r>benötigen<s n="vblex"/></r></p></e>
     <e><p><l>tarvita<s n="vblex"/></l><r>brauchen<s n="vblex"/></r></p></e>
     <e><p><l>tasata<s n="vblex"/></l><r>ausrichten<s n="vblex"/></r></p></e>
@@ -7954,6 +7965,7 @@
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verdammen<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>verurteilen<s n="vblex"/></r></p></e>
+    <e><p><l>tuottaa<s n="vblex"/></l><r>ausstoßen<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>erbringen<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>ergeben<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>erwirtschaften<s n="vblex"/></r></p></e>
@@ -11205,9 +11217,10 @@
 
     <!-- }}}
     }}}
-    {{{ INTERJECTIONS !!!¡¡¡ INTERJCETIONS
+    {{{ INTERJECTIONS !!!¡¡¡ INTER JCETIONS
     {{{ interjections -->
 
+    <e><p><l>au<s n="ij"/></l><r>au<s n="ij"/></r></p></e>
     <e><p><l>anteeksi<s n="ij"/></l><r>entschuldigung<s n="ij"/></r></p></e>
     <e><p><l>harmi<s n="ij"/></l><r>schade<s n="ij"/></r></p></e>
     <e><p><l>ha<s n="ij"/></l><r>ha<s n="ij"/></r></p></e>
