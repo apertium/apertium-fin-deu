@@ -403,6 +403,9 @@
       <attr-item tags="infma"/>
       <attr-item tags="ger"/>
     </def-attr>
+    <def-attr n="a_conneg">
+      <attr-item tags="conneg"/>
+    </def-attr>
   </section-def-attrs>
   <!-- }}}
         {{{ vars -->
@@ -508,6 +511,17 @@
           </test>
           <let>
             <var n="number"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
+              <equal><clip pos="1" side="tl" part="a_conneg"/><lit-tag v="conneg"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sp"/>
           </let>
         </when>
         <when>
@@ -1076,6 +1090,41 @@
         <otherwise>
           <let>
             <var n="compstuff"/><lit-tag v="sg.gen"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="conneg-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
+          </test>
+          <let>
+            <!-- XXX: sp-->
+            <var n="number"/><lit-tag v="fofofof"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="pl"/></equal>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="pl"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <!-- XXX: sp -->
+            <var n="number"/><lit v=""/>
           </let>
         </otherwise>
       </choose>
@@ -2513,7 +2562,7 @@
         <call-macro n="pers-mangler">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="number-mangler">
+        <call-macro n="conneg-mangler">
           <with-param pos="1"/>
         </call-macro>
         <out>
@@ -2533,6 +2582,7 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
+              <var n="number"/>
               <lit-tag v="conneg"/>
             </lu>
           </chunk>
@@ -2551,7 +2601,7 @@
         <call-macro n="pers-mangler">
           <with-param pos="2"/>
         </call-macro>
-        <call-macro n="number-mangler">
+        <call-macro n="conneg-mangler">
           <with-param pos="2"/>
         </call-macro>
         <out>
@@ -2571,6 +2621,7 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="actv"/>
               <var n="tense"/>
+              <var n="number"/>
               <lit-tag v="conneg"/>
             </lu>
           </chunk>
