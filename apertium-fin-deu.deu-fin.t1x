@@ -516,12 +516,12 @@
         <when>
           <test>
             <and>
-              <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
+              <equal><var n="tense"/><lit-tag v="pri"/></equal>
               <equal><clip pos="1" side="tl" part="a_conneg"/><lit-tag v="conneg"/></equal>
             </and>
           </test>
           <let>
-            <var n="number"/><lit-tag v="sp"/>
+            <var n="number"/><lit v=""/>
           </let>
         </when>
         <when>
@@ -1098,11 +1098,11 @@
       <choose>
         <when>
           <test>
-            <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
+            <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="prs"/></equal>
           </test>
           <let>
             <!-- XXX: sp-->
-            <var n="number"/><lit-tag v="fofofof"/>
+            <var n="number"/><lit v=""/>
           </let>
         </when>
         <when>
