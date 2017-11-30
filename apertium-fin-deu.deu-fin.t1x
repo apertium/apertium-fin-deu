@@ -507,6 +507,18 @@
         </when>
         <when>
           <test>
+            <and>
+              <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sp"/></equal>
+              <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/></equal>
+              <equal><clip pos="1" side="tl" part="lem"/><lit v="mikä"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="number"/><lit-tag v="sp"/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="tl" part="lem"/><lit v="koko"/></equal>
           </test>
           <let>
