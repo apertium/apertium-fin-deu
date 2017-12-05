@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-     <!-- {{{   N O   U  N S      O            UN   S     NO UN  S
-          {{{   no u    n s    w  i            t    h g      ende r s -->
+     <!-- {{{   N O   U   N S      O            UN   S     NO UN  S
+          {{{   no u     n s    w  i            t    h g      ende r s -->
 
     <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -386,6 +386,7 @@
     <e><p><l>arviointi<s n="n"/></l><r>Einschätzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvio<s n="n"/></l><r>Schätzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvohenkilö<s n="n"/></l><r>Würdenträger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arvonlisävero<s n="n"/></l><r>Mehrwertsteuer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvopaperi<s n="n"/></l><r>Wertpapier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arvo<s n="n"/></l><r>Ehre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvo<s n="n"/></l><r>Geltung<s n="n"/><s n="f"/></r></p></e>
@@ -5195,6 +5196,7 @@
     <e r="RL"><p><l>matka<s n="n"/></l><r>fahrt<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matka<s n="n"/></l><r>reise<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matkustaja<s n="n"/></l><r>reisende<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>menestys<s n="n"/></l><r>erfolg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menetelmä<s n="n"/></l><r>methode<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>merilevä<s n="n"/></l><r>tang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>meri<s n="n"/></l><r>meer<s n="n"/><s n="nt"/></r></p></e>
@@ -5373,6 +5375,7 @@
     <e r="RL"><p><l>raita<s n="n"/></l><r>track<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>raja<s n="n"/></l><r>grenze<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rajoitus<s n="n"/></l><r>beschränkung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>rajoitus<s n="n"/></l><r>restriktion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rakenne<s n="n"/></l><r>struktur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rakennusaine<s n="n"/></l><r>bestandteil<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rakennusmalli<s n="n"/></l><r>baureihe<s n="n"/><s n="f"/></r></p></e>
@@ -5942,6 +5945,7 @@
     <e><p><l>enemmän<s n="adv"/></l><r>mehr<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>weiter<s n="adv"/></r></p></e>
     <e><p><l>energisesti<s n="adv"/></l><r>energisch<s n="adv"/></r></p></e>
+    <e><p><l>enimmäkseen<s n="adv"/></l><r>großenteils<s n="adv"/></r></p></e>
     <e><p><l>enimmäkseen<s n="adv"/></l><r>größtenteils<s n="adv"/></r></p></e>
     <e><p><l>enimmäkseen<s n="adv"/></l><r>meistens<s n="adv"/></r></p></e>
     <e><p><l>enimmäkseen<s n="adv"/></l><r>meist<s n="adv"/></r></p></e>
@@ -7946,6 +7950,7 @@
     <e><p><l>säännöstellä<s n="vblex"/></l><r>regeln<s n="vblex"/></r></p></e>
     <e><p><l>säästää<s n="vblex"/></l><r>sparen<s n="vblex"/></r></p></e>
     <e><p><l>säätää<s n="vblex"/></l><r>erlassen<s n="vblex"/></r></p></e>
+    <e><p><l>säätää<s n="vblex"/></l><r>justieren<s n="vblex"/></r></p></e>
     <e><p><l>taata<s n="vblex"/></l><r>garantieren<s n="vblex"/></r></p></e>
     <e><p><l>tainnuttaa<s n="vblex"/></l><r>betäuben<s n="vblex"/></r></p></e>
     <e><p><l>taipua<s n="vblex"/></l><r>neigen<s n="vblex"/></r></p></e>
@@ -8460,6 +8465,7 @@
     <e><p><l>alkaa<s n="vaux"/></l><r>brechen<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>aloittaa<s n="vblex"/></l><r>treten<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>antautua<s n="vblex"/></l><r>geben<g><b/>nach</g><s n="vblex"/></r></p></e>
+    <e><p><l>asettaa<s n="vblex"/></l><r>setzen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>elää<s n="vblex"/></l><r>leben<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>erota<s n="vblex"/></l><r>treten<g><b/>zurück</g><s n="vblex"/></r></p></e>
     <e><p><l>erota<s n="vblex"/></l><r>treten<g><b/>aus</g><s n="vblex"/></r></p></e>
@@ -10827,6 +10833,7 @@
     <e><i>Jean-Luc<s n="np"/></i></e>
     <e><i>Jean-Luc<s n="np"/></i></e>
     <e><i>Jean<s n="np"/></i></e>
+    <e><i>Jeffrey<s n="np"/></i></e>
     <e><i>Jeff<s n="np"/></i></e>
     <e><i>Jemen<s n="np"/></i></e>
     <e><i>Jenkins<s n="np"/></i></e>
