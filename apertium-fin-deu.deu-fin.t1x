@@ -1095,7 +1095,18 @@
             <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.compound-only-L"/></equal>
           </test>
           <let>
-            <var n="compstuff"/><lit v=""/>
+            <var n="compstuff"/><lit-tag v="cmp"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <or>
+             <equal><clip pos="1" side="tl" part="lem"/><lit v="yhteis"/></equal>
+             <equal><clip pos="1" side="tl" part="lem"/><lit v="lähi"/></equal>
+           </or>
+          </test>
+          <let>
+            <var n="compstuff"/><lit-tag v="compound-only-L"/>
           </let>
         </when>
         <!-- regular -->
@@ -2656,6 +2667,9 @@
         <call-macro n="case-mangler">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="compstuff-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <out>
           <chunk name="NP" case="caseFirstWord">
             <tags>
@@ -2673,8 +2687,7 @@
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_nominal"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <lit-tag v="gen"/>
+              <var n="compstuff"/>
             </lu>
             <!-- no space -->
             <lu>
@@ -3051,6 +3064,9 @@
         <pattern-item n="noun"/>
       </pattern>
       <action>
+        <call-macro n="compstuff-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="case-mangler">
           <with-param pos="2"/>
         </call-macro>
@@ -3062,8 +3078,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_nominal"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <lit-tag v="gen"/>
+              <var n="compstuff"/>
             </lu>
               <!-- no blank -->
             <lu>
