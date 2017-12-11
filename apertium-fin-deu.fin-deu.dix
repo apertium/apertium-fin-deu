@@ -147,7 +147,6 @@
      <!-- {{{   N O    U   N S      O             UN   S     NO UN  S
           {{{   no  u     n s    w  i             t    h g      ende r s -->
 
-    <e c="~2017 often Mike Pence"><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
     <e c="Bankwesen"><p><l>seteli<s n="n"/></l><r>Note<s n="n"/><s n="f"/></r></p></e>
     <e c="beer"><p><l>ale<s n="n"/></l><r>Ale<s n="n"/><s n="nt"/></r></p></e>
@@ -468,6 +467,7 @@
     <e><p><l>automaatti<s n="n"/></l><r>Automat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automobiili<s n="n"/></l><r>Automobil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>autonomia<s n="n"/></l><r>Autonomie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>auto-onnettomuus<s n="n"/></l><r>Autounfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto<s n="n"/></l><r>Auto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto<s n="n"/></l><r>Auto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>autotie<s n="n"/></l><r>Autobahn<s n="n"/><s n="f"/></r></p></e>
@@ -1198,6 +1198,7 @@
     <e><p><l>jälkeläinen<s n="n"/></l><r>Nachfahre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jälkeläinen<s n="n"/></l><r>Nachkomme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jälkikasvu<s n="n"/></l><r>Nachwuchs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jälkipeli<s n="n"/></l><r>Nachspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jälkipyykki<s n="n"/></l><r>Folgezeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jälki<s n="n"/></l><r>Spur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jälkivaali<s n="n"/></l><r>Nachwahl<s n="n"/><s n="f"/></r></p></e>
@@ -2726,6 +2727,7 @@
     <e><p><l>palolaitos<s n="n"/></l><r>Wehr<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrleute<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrmann<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palo<s n="n"/></l><r>Verbrennung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paluumatka<s n="n"/></l><r>Rückreise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paluureitti<s n="n"/></l><r>Rückweg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paluu<s n="n"/></l><r>Rückkehr<s n="n"/><s n="f"/></r></p></e>
@@ -2797,6 +2799,7 @@
     <e><p><l>pelko<s n="n"/></l><r>Furcht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pelottelu<s n="n"/></l><r>Einschüchterung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>penis<s n="n"/></l><r>Penis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>penni<s n="n"/></l><r c="~2017 often Mike Pence">Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pensaikko<s n="n"/></l><r>Hecke<s n="n"/><s n="f"/></r></p></e>
@@ -4617,7 +4620,6 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
 
@@ -5556,6 +5558,7 @@
     <e r="RL"><p><l>tila<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tila<s n="n"/></l><r>zustand<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tilasto<s n="n"/></l><r>statistik<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>tilavuus<s n="n"/></l><r>volumen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>todistus<s n="n"/></l><r>ausweis<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>toimeksianto<s n="n"/></l><r>auftrag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>toimeksianto<s n="n"/></l><r>vergabe<s n="n"/><s n="f"/></r></p></e>
@@ -6285,6 +6288,7 @@
     <e><p><l>sattumalta<s n="adv"/></l><r>zufällig<s n="adv"/></r></p></e>
     <e><p><l>sekaisin<s n="adv"/></l><r>durcheinander<s n="adv"/></r></p></e>
     <e><p><l>selvästi<s n="adv"/></l><r>offenbar<s n="adv"/></r></p></e>
+    <e><p><l>selvästi<s n="adv"/></l><r>weitaus<s n="adv"/></r></p></e>
     <e><p><l>sen<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
     <e><p><l>seuraavaksi<s n="adv"/></l><r>hintereinander<s n="adv"/></r></p></e>
     <e><p><l>siellä<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
@@ -6509,6 +6513,7 @@
     <e><p><l>ylipäätään<s n="adv"/></l><r>überhaupt<s n="adv"/></r></p></e>
     <e><p><l>yli<s n="adv"/></l><r>ob<s n="adv"/></r></p></e>
     <e><p><l>yli<s n="adv"/></l><r>über<s n="adv"/></r></p></e>
+    <e><p><l>ylivoimaisesti<s n="adv"/></l><r>weitaus<s n="adv"/></r></p></e>
     <e><p><l>yllä<s n="adv"/></l><r>darüber<s n="adv"/></r></p></e>
     <e><p><l>yllä<s n="adv"/></l><r>worüber<s n="adv"/></r></p></e>
     <e><p><l>yllä<s n="adv"/></l><r>über<s n="adv"/></r></p></e>
@@ -6616,6 +6621,7 @@
     <e c="red carpet"><p><l>levittää<s n="vblex"/></l><r>ausrollen<s n="vblex"/></r></p></e>
     <e c="should be a phrase RL"><p><l>lorvailla<s n="vblex"/></l><r>beschäftigen<s n="vblex"/></r></p></e>
     <e c="should be a phrase RL"><p><l>pärjätä<s n="vblex"/></l><r>verzichten<s n="vblex"/></r></p></e>
+    <e c="sports"><p><l>pudottaa<s n="vblex"/></l><r>abschlagen<s n="vblex"/></r></p></e>
     <e c="suspects etc."><p><l>vangita<s n="vblex"/></l><r>kappen<s n="vblex"/></r></p></e>
     <e c="switchblade "><p><l>vetäistä<s n="vblex"/></l><r>zücken<s n="vblex"/></r></p></e>
     <e c="to knit wrongly figurative"><p><l>sotkeutua<s n="vblex"/></l><r>verstricken<s n="vblex"/></r></p></e>
@@ -7302,6 +7308,7 @@
     <e><p><l>luokitella<s n="vblex"/></l><r>stufen<s n="vblex"/></r></p></e>
     <e><p><l>luonnostella<s n="vblex"/></l><r>skizzieren<s n="vblex"/></r></p></e>
     <e><p><l>luottaa<s n="vblex"/></l><r>betrauen<s n="vblex"/></r></p></e>
+    <e><p><l>luottaa<s n="vblex"/></l><r>trauen<s n="vblex"/></r></p></e>
     <e><p><l>luottaa<s n="vblex"/></l><r>vertrauen<s n="vblex"/></r></p></e>
     <e><p><l>luovuttaa<s n="vblex"/></l><r>aufgeben<s n="vblex"/></r></p></e>
     <e><p><l>luovuttaa<s n="vblex"/></l><r>herausgeben<s n="vblex"/></r></p></e>
@@ -8539,6 +8546,7 @@
     <e><p><l>teeskennellä<s n="vblex"/></l><r>geben<g><b/>vor</g><s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>führen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>varoittaa<s n="vblex"/></l><r>warnen<g><b/>vor</g><s n="vblex"/></r></p></e>
+    <e><p><l>vaihtaa<s n="vblex"/></l><r>steigen<g><b/>um</g><s n="vblex"/></r></p></e>
     <e><p><l>vastaanottaa<s n="vblex"/></l><r>ziehen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>yhteenvetää<s n="vblex"/></l><r>ziehen<g><b/>zusammen</g><s n="vblex"/></r></p></e>
 
@@ -11072,6 +11080,7 @@
     <e><i>Phoenix<s n="np"/></i></e>
     <e><i>Piemont<s n="np"/></i></e>
     <e><i>Pierre<s n="np"/></i></e>
+    <e><i>Pieter<s n="np"/></i></e>
     <e><i>Porsche<s n="np"/></i></e>
     <e><i>Potsdam<s n="np"/></i></e>
     <e><i>Powell<s n="np"/></i></e>
@@ -11182,6 +11191,7 @@
     <e><i>Utah<s n="np"/></i></e>
     <e><i>Vandenberg<s n="np"/></i></e>
     <e><i>Venezuela<s n="np"/></i></e>
+    <e><i>Ventura<s n="np"/></i></e>
     <e><i>Vera<s n="np"/></i></e>
     <e><i>Victoria<s n="np"/></i></e>
     <e><i>Victor<s n="np"/></i></e>
