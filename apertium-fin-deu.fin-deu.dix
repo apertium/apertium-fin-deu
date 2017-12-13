@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-     <!-- {{{   N O    U   N S      O             UN   S     NO UN  S
-          {{{   no  u     n s    w  i             t    h g      ende r s -->
+     <!-- {{{    N O    U   N S      O             UN   S     NO UN  S
+          {{{    no  u     n s    w  i             t    h g      ende r s -->
 
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
     <e c="beer"><p><l>ale<s n="n"/></l><r>Ale<s n="n"/><s n="nt"/></r></p></e>
@@ -662,6 +662,7 @@
     <e><p><l>erotus<s n="n"/></l><r>Abgrenzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erotus<s n="n"/></l><r>Differenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erotus<s n="n"/></l><r>Kündigung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>esiehto<s n="n"/></l><r>Vorbedingung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>esiintyjänimi<s n="n"/></l><r>Deckname<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esiintyminen<s n="n"/></l><r>Auftritt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esiintyminen<s n="n"/></l><r>Erscheinung<s n="n"/><s n="f"/></r></p></e>
@@ -1796,6 +1797,7 @@
     <e><p><l>kärki<s n="n"/></l><r>Spitze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärpänen<s n="n"/></l><r>Fliege<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärpänen<s n="n"/></l><r>Fliege<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kärsimys<s n="n"/></l><r>Elend<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kärsivällisyys<s n="n"/></l><r>Duldung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärsivällisyys<s n="n"/></l><r>Geduld<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>käräjäoikeus<s n="n"/></l><r>Amtsgericht<s n="n"/><s n="nt"/></r></p></e>
@@ -4437,6 +4439,7 @@
     <e><p><l>voittonäkymä<s n="n"/></l><r>Erfolgsaussicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voittoputki<s n="n"/></l><r>Erfolgsserie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Gewinn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voitto<s n="n"/></l><r>Gewinnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Profit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Sieg<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>voitto<s n="n"/></l><r>Sieg<s n="n"/><s n="m"/></r></p></e>
@@ -4622,13 +4625,10 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+
+
     <e r="RL"><p><l>harmi<s n="n"/></l><r c="old orth?">Schade<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>poika<s n="n"/></l><r c="often English">Boy<s n="n"/><s n="m"/></r></p></e>
-
-
-
-
-
     <e r="RL" c="deu spez-"><p><l>kirkko<s n="n"/></l><r>Christuskirche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tarjoilija<s n="n"/></l><r c="old, often compound part">Ober<s n="n"/><s n="m"/></r></p></e>
 
@@ -4832,6 +4832,7 @@
     <e r="RL"><p><l>arvo<s n="n"/></l><r>rang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>arvo<s n="n"/></l><r>wert<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ase<s n="n"/></l><r>waffe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>asetelma<s n="n"/></l><r>einrichtung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>asetelma<s n="n"/></l><r>schema<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>asetus<s n="n"/></l><r>gesetz<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>asevarasto<s n="n"/></l><r>waffenlager<s n="n"/><s n="nt"/></r></p></e>
@@ -5229,6 +5230,7 @@
     <e r="RL"><p><l>muodostus<s n="n"/></l><r>bildung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>murhaaja<s n="n"/></l><r>mörder<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>murha<s n="n"/></l><r>mord<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>murto<s n="n"/></l><r>einbruch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>muuri<s n="n"/></l><r>mauer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>myrkky<s n="n"/></l><r>gift<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>myrsky<s n="n"/></l><r>sturm<s n="n"/><s n="m"/></r></p></e>
@@ -8554,6 +8556,7 @@
     <e><p><l>tavata<s n="vblex"/></l><r>treffen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>teeskennellä<s n="vblex"/></l><r>geben<g><b/>vor</g><s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>führen<g><b/>zu</g><s n="vblex"/></r></p></e>
+    <e><p><l>vaatia<s n="vblex"/></l><r>fordern<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>varoittaa<s n="vblex"/></l><r>warnen<g><b/>vor</g><s n="vblex"/></r></p></e>
     <e><p><l>vaihtaa<s n="vblex"/></l><r>steigen<g><b/>um</g><s n="vblex"/></r></p></e>
     <e><p><l>vastaanottaa<s n="vblex"/></l><r>ziehen<g><b/>zu</g><s n="vblex"/></r></p></e>
@@ -8895,6 +8898,7 @@
     <e><p><l>jatkuva<s n="adj"/></l><r>durchgehend<s n="adj"/></r></p></e>
     <e><p><l>jatkuva<s n="adj"/></l><r>kontinuierlich<s n="adj"/></r></p></e>
     <e><p><l>jemenläinen<s n="adj"/></l><r>jemenitisch<s n="adj"/></r></p></e>
+    <e><p><l>jonkinlainen<s n="adj"/></l><r>etwaig<s n="adj"/></r></p></e>
     <e><p><l>jordanialainen<s n="adj"/></l><r>jordanisch<s n="adj"/></r></p></e>
     <e><p><l>joutava<s n="adj"/></l><r>tatenlos<s n="adj"/></r></p></e>
     <e><p><l>juhlallinen<s n="adj"/></l><r>feierlich<s n="adj"/></r></p></e>
@@ -9056,6 +9060,7 @@
     <e><p><l>kristillinen<s n="adj"/></l><r>christlich<s n="adj"/></r></p></e>
     <e><p><l>kristillinen<s n="adj"/></l><r>kristlich<s n="adj"/></r></p></e>
     <e><p><l>kroatialainen<s n="adj"/></l><r>kroatisch<s n="adj"/></r></p></e>
+    <e><p><l>krooninen<s n="adj"/></l><r>chronisch<s n="adj"/></r></p></e>
     <e><p><l>kuiva<s n="adj"/></l><r>trocken<s n="adj"/></r></p></e>
     <e><p><l>kultainen<s n="adj"/></l><r>gelt<s n="adj"/></r></p></e>
     <e><p><l>kultainen<s n="adj"/></l><r>golden<s n="adj"/></r></p></e>
@@ -10020,6 +10025,7 @@
     <e><p><l>ylihintainen<s n="adj"/></l><r>überteuert<s n="adj"/></r></p></e>
     <e><p><l>ylilastattu<s n="adj"/></l><r>überlastet<s n="adj"/></r></p></e>
     <e><p><l>ylimääräinen<s n="adj"/></l><r>zusätzlich<s n="adj"/></r></p></e>
+    <e><p><l>täyteenahdettu<s n="adj"/></l><r>überfüllt<s n="adj"/></r></p></e>
     <e><p><l>yllättynyt<s n="adj"/></l><r>überrascht<s n="adj"/></r></p></e>
     <e><p><l>ylpeä<s n="adj"/></l><r>stolz<s n="adj"/></r></p></e>
     <e><p><l>ylpeä<s n="adj"/></l><r>stolz<s n="adj"/></r></p></e>
@@ -10043,6 +10049,7 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+
     <e r="RL"><p><l c="fiwikt, bad trans">vaarallinen<s n="adj"/></l><r>prekär<s n="adj"/></r></p></e>
     <e r="RL"><p><l>mahtava<s n="adj"/></l><r c="some sports news word">fulminant<s n="adj"/></r></p></e>
 
