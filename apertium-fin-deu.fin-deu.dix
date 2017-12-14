@@ -228,6 +228,7 @@
     <e><p><l>aivo<s n="n"/></l><r>Hirn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aivovaurio<s n="n"/></l><r>Hirnschaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ajaja<s n="n"/></l><r>Chauffeur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ajanhukka<s n="n"/></l><r>Zeitverschwendung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ajanjakso<s n="n"/></l><r>Frist<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ajanjakso<s n="n"/></l><r>Zeitraum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ajatollah<s n="n"/></l><r>Ajatollah<s n="n"/><s n="m"/></r></p></e>
@@ -3159,6 +3160,7 @@
     <e><p><l>ramadan<s n="n"/></l><r>Ramadan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ramppi<s n="n"/></l><r>Rampe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rangaistus<s n="n"/></l><r>Bestrafung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rangaistus<s n="n"/></l><r>Denkzettel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rangaistus<s n="n"/></l><r>Strafe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rangaistus<s n="n"/></l><r>Strafmaßnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rankkasade<s n="n"/></l><r>Wolkenbruch<s n="n"/><s n="m"/></r></p></e>
@@ -5096,6 +5098,7 @@
     <e r="RL"><p><l>kypärä<s n="n"/></l><r>helm<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kysymys<s n="n"/></l><r>frage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kärjistyminen<s n="n"/></l><r>eskalation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kärki<s n="n"/></l><r>spitze<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>käsikirjoitus<s n="n"/></l><r>manuskript<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>käsivarsi<s n="n"/></l><r>arm<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>käynti<s n="n"/></l><r>verfahren<s n="n"/><s n="nt"/></r></p></e>
@@ -5347,6 +5350,7 @@
     <e r="RL"><p><l>puhdistus<s n="n"/></l><r>klärung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puhdistus<s n="n"/></l><r>räumung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puhemies<s n="n"/></l><r>vorsitzende<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>puhenainen<s n="n"/></l><r>sprecherin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puhe<s n="n"/></l><r>rede<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puhkeaminen<s n="n"/></l><r>ausbruch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puhtaus<s n="n"/></l><r>reinheit<s n="n"/><s n="f"/></r></p></e>
@@ -6618,34 +6622,14 @@
 
 
 
-    <e><p><l>turvautua<s n="vblex"/></l><r c="als fallback">zurückgreifen<s n="vblex"/></r></p></e>
-    <e><p><l>somali<s n="n"/></l><r c="cannot find verb from dicts">somalieren<s n="vblex"/></r></p></e>
-    <e><p><l>toivoa<s n="vblex"/></l><r c="rare">erwünschen<s n="vblex"/></r></p></e>
-    <e><p><l>valmistua<s n="vblex"/></l><r c="from schools">habilitieren<s n="vblex"/></r></p></e>
-    <e><p><l>vanheta<s n="vblex"/></l><r c="legal">verjähren<s n="vblex"/></r></p></e>
-    <e><p><l>sijoittaa<s n="vblex"/></l><r c="military">aufmarschieren<s n="vblex"/></r></p></e>
-    <e><p><l>istua<s n="vblex"/></l><r c="of a sentence, punishment">verbüßen<s n="vblex"/></r></p></e>
-    <e><p><l>kaataa<s n="vblex"/></l><r c="of liquid">gießen<s n="vblex"/></r></p></e>
-    <e><p><l>marjastaa<s n="vblex"/></l><r c="often mistagged PROPN">barnieren<s n="vblex"/></r></p></e>
-    <e><p><l>päästötöntää<s n="vblex"/></l><r c="probably should be adj">abgasfreieren<s n="vblex"/></r></p></e>
-    <e><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
-    <e><p><l>levittää<s n="vblex"/></l><r c="red carpet">ausrollen<s n="vblex"/></r></p></e>
-    <e><p><l>lorvailla<s n="vblex"/></l><r c="should translate to a phrase">beschäftigen<s n="vblex"/></r></p></e>
-    <e><p><l>pärjätä<s n="vblex"/></l><r c="should translate to a phrase">verzichten<s n="vblex"/></r></p></e>
-    <e><p><l>pudottaa<s n="vblex"/></l><r c="sports">abschlagen<s n="vblex"/></r></p></e>
-    <e><p><l>vangita<s n="vblex"/></l><r c="suspects etc.">kappen<s n="vblex"/></r></p></e>
-    <e><p><l>vetäistä<s n="vblex"/></l><r c="switchblade ">zücken<s n="vblex"/></r></p></e>
-    <e><p><l>sotkeutua<s n="vblex"/></l><r c="to knit wrongly figurative">verstricken<s n="vblex"/></r></p></e>
-    <e><p><l>kaataa<s n="vblex"/></l><r c="trees etc.">kappen<s n="vblex"/></r></p></e>
-    <e><p><l>soudella<s n="n"/></l><r c="usually Trier">trieren<s n="vblex"/></r></p></e>
     <e c="vaipua epätoivoon?"><p><l>murehtia<s n="vblex"/></l><r>verzweifeln<s n="vblex"/></r></p></e>
-    <e><p><l>puntaroida<s n="vblex"/></l><r c="with spirit level / plummet to measure (c.f. ausloten)">loten<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>ruoskia<s n="vblex"/></l><r>geißeln<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>selvittää<s n="vblex"/></l><r>einholen<s n="vblex"/></r></p></e>
     <e><p><l>aaltoilla<s n="vblex"/></l><r>wellen<s n="vblex"/></r></p></e>
     <e><p><l>adoptoida<s n="vblex"/></l><r>adoptieren<s n="vblex"/></r></p></e>
     <e><p><l>agitoida<s n="vblex"/></l><r>hetzen<s n="vblex"/></r></p></e>
     <e><p><l>ahdistella<s n="vblex"/></l><r>belästigen<s n="vblex"/></r></p></e>
+    <e><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>anrichten<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>auslösen<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>bedingen<s n="vblex"/></r></p></e>
@@ -6942,6 +6926,7 @@
     <e><p><l>imeä<s n="vblex"/></l><r>saugen<s n="vblex"/></r></p></e>
     <e><p><l>investoida<s n="vblex"/></l><r>investieren<s n="vblex"/></r></p></e>
     <e><p><l>iskeä<s n="vblex"/></l><r>aufreißen<s n="vblex"/></r></p></e>
+    <e><p><l>istua<s n="vblex"/></l><r c="of a sentence, punishment">verbüßen<s n="vblex"/></r></p></e>
     <e><p><l>istua<s n="vblex"/></l><r>sitzen<s n="vblex"/></r></p></e>
     <e><p><l>istuskella<s n="vblex"/></l><r>herumsitzen<s n="vblex"/></r></p></e>
     <e><p><l>istuttaa<s n="vblex"/></l><r>pflanzen<s n="vblex"/></r></p></e>
@@ -7013,6 +6998,8 @@
     <e><p><l>kaahata<s n="vblex"/></l><r>rasen<s n="vblex"/></r></p></e>
     <e><p><l>kaapata<s n="vblex"/></l><r>entführen<s n="vblex"/></r></p></e>
     <e><p><l>kaataa<s n="vblex"/></l><r>ausleeren<s n="vblex"/></r></p></e>
+    <e><p><l>kaataa<s n="vblex"/></l><r c="of liquid">gießen<s n="vblex"/></r></p></e>
+    <e><p><l>kaataa<s n="vblex"/></l><r c="trees etc.">kappen<s n="vblex"/></r></p></e>
     <e><p><l>kaataa<s n="vblex"/></l><r>fällen<s n="vblex"/></r></p></e>
     <e><p><l>kadota<s n="vblex"/></l><r>verlaufen<s n="vblex"/></r></p></e>
     <e><p><l>kadota<s n="vblex"/></l><r>vermissen<s n="vblex"/></r></p></e>
@@ -7027,6 +7014,7 @@
     <e><p><l>kanssamatkustaa<s n="vblex"/></l><r>mitfahren<s n="vblex"/></r></p></e>
     <e><p><l>kantaa<s n="vblex"/></l><r>austragen<s n="vblex"/></r></p></e>
     <e><p><l>kantaa<s n="vblex"/></l><r>tragen<s n="vblex"/></r></p></e>
+    <e><p><l>kapinoida<s n="vblex"/></l><r>rebellieren<s n="vblex"/></r></p></e>
     <e><p><l>karkottaa<s n="vblex"/></l><r>abstoßen<s n="vblex"/></r></p></e>
     <e><p><l>karkottaa<s n="vblex"/></l><r>verbannen<s n="vblex"/></r></p></e>
     <e><p><l>kasautua<s n="vblex"/></l><r>häufen<s n="vblex"/></r></p></e>
@@ -7270,6 +7258,7 @@
     <e><p><l>lentomatkustaa<s n="vblex"/></l><r>flugpassagieren<s n="vblex"/></r></p></e>
     <e><p><l>lentää<s n="vblex"/></l><r>fliegen<s n="vblex"/></r></p></e>
     <e><p><l>levittää<s n="vblex"/></l><r>ausbreiten<s n="vblex"/></r></p></e>
+    <e><p><l>levittää<s n="vblex"/></l><r c="red carpet">ausrollen<s n="vblex"/></r></p></e>
     <e><p><l>levittää<s n="vblex"/></l><r>nachsagen<s n="vblex"/></r></p></e>
     <e><p><l>levittää<s n="vblex"/></l><r>streuen<s n="vblex"/></r></p></e>
     <e><p><l>levittää<s n="vblex"/></l><r>verstreichen<s n="vblex"/></r></p></e>
@@ -7306,6 +7295,7 @@
     <e><p><l>lopettaa<s n="vblex"/></l><r>streichen<s n="vblex"/></r></p></e>
     <e><p><l>loppua<s n="vblex"/></l><r>enden<s n="vblex"/></r></p></e>
     <e><p><l>loppuunmyydä<s n="vblex"/></l><r>ausverkaufen<s n="vblex"/></r></p></e>
+    <e><p><l>lorvailla<s n="vblex"/></l><r c="should translate to a phrase">beschäftigen<s n="vblex"/></r></p></e>
     <e><p><l>loukata<s n="vblex"/></l><r>beleidigen<s n="vblex"/></r></p></e>
     <e><p><l>loukata<s n="vblex"/></l><r>beschimpfen<s n="vblex"/></r></p></e>
     <e><p><l>luetteloida<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
@@ -7372,6 +7362,7 @@
     <e><p><l>maksaa<s n="vblex"/></l><r>zahlen<s n="vblex"/></r></p></e>
     <e><p><l>maksaa<s n="vblex"/></l><r>zollen<s n="vblex"/></r></p></e>
     <e><p><l>manipuloida<s n="vblex"/></l><r>manipulieren<s n="vblex"/></r></p></e>
+    <e><p><l>marjastaa<s n="vblex"/></l><r c="often mistagged PROPN">barnieren<s n="vblex"/></r></p></e>
     <e><p><l>marssia<s n="vblex"/></l><r>marschieren<s n="vblex"/></r></p></e>
     <e><p><l>maskeerata<s n="vblex"/></l><r>maskieren<s n="vblex"/></r></p></e>
     <e><p><l>matkata<s n="vblex"/></l><r>wagen<s n="vblex"/></r></p></e>
@@ -7660,6 +7651,7 @@
     <e><p><l>pudota<s n="vblex"/></l><r>senken<s n="vblex"/></r></p></e>
     <e><p><l>pudota<s n="vblex"/></l><r>stürzen<s n="vblex"/></r></p></e>
     <e><p><l>pudottaa<s n="vblex"/></l><r>abwerfen<s n="vblex"/></r></p></e>
+    <e><p><l>pudottaa<s n="vblex"/></l><r c="sports">abschlagen<s n="vblex"/></r></p></e>
     <e><p><l>pudottaa<s n="vblex"/></l><r>entfallen<s n="vblex"/></r></p></e>
     <e><p><l>pudottaa<s n="vblex"/></l><r>entfallen<s n="vblex"/></r></p></e>
     <e><p><l>puhaltaa<s n="vblex"/></l><r>wehen<s n="vblex"/></r></p></e>
@@ -7669,6 +7661,7 @@
     <e><p><l>pukeutua<s n="vblex"/></l><r>anziehen<s n="vblex"/></r></p></e>
     <e><p><l>pukeutua<s n="vblex"/></l><r>kleiden<s n="vblex"/></r></p></e>
     <e><p><l>pukeutua<s n="vblex"/></l><r>verkleiden<s n="vblex"/></r></p></e>
+    <e><p><l>puntaroida<s n="vblex"/></l><r c="with spirit level / plummet to measure (c.f. ausloten)">loten<s n="vblex"/></r></p></e>
     <e><p><l>puolittaa<s n="vblex"/></l><r>halbieren<s n="vblex"/></r></p></e>
     <e><p><l>puolustaa<s n="vblex"/></l><r>beklagen<s n="vblex"/></r></p></e>
     <e><p><l>puolustaa<s n="vblex"/></l><r>verteidigen<s n="vblex"/></r></p></e>
@@ -7700,12 +7693,14 @@
     <e><p><l>pähkäillä<s n="vblex"/></l><r>rätseln<s n="vblex"/></r></p></e>
     <e><p><l>päihittää<s n="vblex"/></l><r>überwinden<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>bewältigen<s n="vblex"/></r></p></e>
+    <e><p><l>pärjätä<s n="vblex"/></l><r c="should translate to a phrase">verzichten<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>geraten<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>verkraften<s n="vblex"/></r></p></e>
     <e><p><l>päteä<s n="vblex"/></l><r>gelten<s n="vblex"/></r></p></e>
     <e><p><l>päteä<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>päästä<s n="vblex"/></l><r>erreichen<s n="vblex"/></r></p></e>
     <e><p><l>päästää<s n="vblex"/></l><r>ausstoßen<s n="vblex"/></r></p></e>
+    <e><p><l>päästötöntää<s n="vblex"/></l><r c="probably should be adj">abgasfreieren<s n="vblex"/></r></p></e>
     <e><p><l>päättyä<s n="vblex"/></l><r>beenden<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>beschließen<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>entscheiden<s n="vblex"/></r></p></e>
@@ -7878,6 +7873,7 @@
     <e><p><l>sijaita<s n="vblex"/></l><r>befinden<s n="vblex"/></r></p></e>
     <e><p><l>sijaita<s n="vblex"/></l><r>liegen<s n="vblex"/></r></p></e>
     <e><p><l>sijaita<s n="vblex"/></l><r>orten<s n="vblex"/></r></p></e>
+    <e><p><l>sijoittaa<s n="vblex"/></l><r c="military">aufmarschieren<s n="vblex"/></r></p></e>
     <e><p><l>sijoittaa<s n="vblex"/></l><r>platzieren<s n="vblex"/></r></p></e>
     <e><p><l>sijoittaa<s n="vblex"/></l><r>verlegen<s n="vblex"/></r></p></e>
     <e><p><l>sijoittaa<s n="vblex"/></l><r>zuweisen<s n="vblex"/></r></p></e>
@@ -7905,6 +7901,7 @@
     <e><p><l>soittaa<s n="vblex"/></l><r>telefonieren<s n="vblex"/></r></p></e>
     <e><p><l>solmia<s n="vblex"/></l><r>besiegeln<s n="vblex"/></r></p></e>
     <e><p><l>solmia<s n="vblex"/></l><r>binden<s n="vblex"/></r></p></e>
+    <e><p><l>somali<s n="n"/></l><r c="cannot find verb from dicts">somalieren<s n="vblex"/></r></p></e>
     <e><p><l>sopia<s n="vblex"/></l><r>anstehen<s n="vblex"/></r></p></e>
     <e><p><l>sopia<s n="vblex"/></l><r>eignen<s n="vblex"/></r></p></e>
     <e><p><l>sopia<s n="vblex"/></l><r>eingehen<s n="vblex"/></r></p></e>
@@ -7915,6 +7912,8 @@
     <e><p><l>sopia<s n="vblex"/></l><r>versöhnen<s n="vblex"/></r></p></e>
     <e><p><l>sortua<s n="vblex"/></l><r>einstürzen<s n="vblex"/></r></p></e>
     <e><p><l>sortua<s n="vblex"/></l><r>zusammenbrechen<s n="vblex"/></r></p></e>
+    <e><p><l>sotkeutua<s n="vblex"/></l><r c="to knit wrongly figurative">verstricken<s n="vblex"/></r></p></e>
+    <e><p><l>soudella<s n="n"/></l><r c="usually Trier">trieren<s n="vblex"/></r></p></e>
     <e><p><l>soutaa<s n="vblex"/></l><r>rudern<s n="vblex"/></r></p></e>
     <e><p><l>soveltua<s n="vblex"/></l><r>verfügen<s n="vblex"/></r></p></e>
     <e><p><l>sovitella<s n="vblex"/></l><r>kompromittieren<s n="vblex"/></r></p></e>
@@ -8080,6 +8079,7 @@
     <e><p><l>toimittaa<s n="vblex"/></l><r>überbringen<s n="vblex"/></r></p></e>
     <e><p><l>toisintaa<s n="vblex"/></l><r>wiedergeben<s n="vblex"/></r></p></e>
     <e><p><l>toistaa<s n="vblex"/></l><r>wiederholen<s n="vblex"/></r></p></e>
+    <e><p><l>toivoa<s n="vblex"/></l><r c="rare">erwünschen<s n="vblex"/></r></p></e>
     <e><p><l>toivoa<s n="vblex"/></l><r>erhoffen<s n="vblex"/></r></p></e>
     <e><p><l>toivoa<s n="vblex"/></l><r>hoffen<s n="vblex"/></r></p></e>
     <e><p><l>toivoa<s n="vblex"/></l><r>wünschen<s n="vblex"/></r></p></e>
@@ -8144,6 +8144,7 @@
     <e><p><l>tuplata<s n="vblex"/></l><r>verdoppeln<s n="vblex"/></r></p></e>
     <e><p><l>turhauttaa<s n="vblex"/></l><r>frustrieren<s n="vblex"/></r></p></e>
     <e><p><l>turvata<s n="vblex"/></l><r>verwahren<s n="vblex"/></r></p></e>
+    <e><p><l>turvautua<s n="vblex"/></l><r c="als fallback">zurückgreifen<s n="vblex"/></r></p></e>
     <e><p><l>tutkia<s n="vblex"/></l><r>abtasten<s n="vblex"/></r></p></e>
     <e><p><l>tutkia<s n="vblex"/></l><r>erforschen<s n="vblex"/></r></p></e>
     <e><p><l>tutkia<s n="vblex"/></l><r>erkunden<s n="vblex"/></r></p></e>
@@ -8250,11 +8251,14 @@
     <e><p><l>valmistella<s n="vblex"/></l><r>ausarbeiten<s n="vblex"/></r></p></e>
     <e><p><l>valmistella<s n="vblex"/></l><r>vorbereiten<s n="vblex"/></r></p></e>
     <e><p><l>valmistua<s n="vblex"/></l><r>absolvieren<s n="vblex"/></r></p></e>
+    <e><p><l>valmistua<s n="vblex"/></l><r c="from schools">habilitieren<s n="vblex"/></r></p></e>
     <e><p><l>vandalisoida<s n="vblex"/></l><r>vandalieren<s n="vblex"/></r></p></e>
+    <e><p><l>vangita<s n="vblex"/></l><r c="suspects etc.">kappen<s n="vblex"/></r></p></e>
     <e><p><l>vangita<s n="vblex"/></l><r>fangen<s n="vblex"/></r></p></e>
     <e><p><l>vanhanaikaistaa<s n="vblex"/></l><r>altmaieren<s n="vblex"/></r></p></e>
     <e><p><l>vanheta<s n="vblex"/></l><r>ablaufen<s n="vblex"/></r></p></e>
     <e><p><l>vanheta<s n="vblex"/></l><r>auslaufen<s n="vblex"/></r></p></e>
+    <e><p><l>vanheta<s n="vblex"/></l><r c="legal">verjähren<s n="vblex"/></r></p></e>
     <e><p><l>vanheta<s n="vblex"/></l><r>jähren<s n="vblex"/></r></p></e>
     <e><p><l>vannoa<s n="vblex"/></l><r>vereidigen<s n="vblex"/></r></p></e>
     <e><p><l>vapauttaa<s n="vblex"/></l><r>befreien<s n="vblex"/></r></p></e>
@@ -8310,6 +8314,7 @@
     <e><p><l>verottaa<s n="vblex"/></l><r>steuerfinanzieren<s n="vblex"/></r></p></e>
     <e><p><l>verrata<s n="vblex"/></l><r>vergleichen<s n="vblex"/></r></p></e>
     <e><p><l>vetäistä<s n="vblex"/></l><r>ausziehen<s n="vblex"/></r></p></e>
+    <e><p><l>vetäistä<s n="vblex"/></l><r c="switchblade ">zücken<s n="vblex"/></r></p></e>
     <e><p><l>vetäytyä<s n="vblex"/></l><r>einziehen<s n="vblex"/></r></p></e>
     <e><p><l>vetäytyä<s n="vblex"/></l><r>zurückziehen<s n="vblex"/></r></p></e>
     <e><p><l>vetää<s n="vblex"/></l><r>anziehen<s n="vblex"/></r></p></e>
@@ -9157,6 +9162,7 @@
     <e><p><l>luoteinen<s n="adj"/></l><r>nordwestlich<s n="adj"/></r></p></e>
     <e><p><l>luotettava<s n="adj"/></l><r>verlässlich<s n="adj"/></r></p></e>
     <e><p><l>luotettava<s n="adj"/></l><r>zuverlässig<s n="adj"/></r></p></e>
+    <e><p><l>luottamuksellinen<s n="adj"/></l><r>vertrauensvoll<s n="adj"/></r></p></e>
     <e><p><l>luottamuksellinen<s n="adj"/></l><r>vertraulich<s n="adj"/></r></p></e>
     <e><p><l>lupaava<s n="adj"/></l><r>vielversprechend<s n="adj"/></r></p></e>
     <e><p><l>luterilainen<s n="adj"/></l><r>lutherisch<s n="adj"/></r></p></e>
@@ -9793,6 +9799,7 @@
     <e><p><l>täysi<s n="adj"/></l><r>völlig<s n="adj"/></r></p></e>
     <e><p><l>täysivaltainen<s n="adj"/></l><r>vollständig<s n="adj"/></r></p></e>
     <e><p><l>täyteenahdettu<s n="adj"/></l><r>vollgestopft<s n="adj"/></r></p></e>
+    <e><p><l>täyteenahdettu<s n="adj"/></l><r>überfüllt<s n="adj"/></r></p></e>
     <e><p><l>täytetty<s n="adj"/></l><r>gefüllt<s n="adj"/></r></p></e>
     <e><p><l>törkeä<s n="adj"/></l><r>offenkundig<s n="adj"/></r></p></e>
     <e><p><l>uhanalainen<s n="adj"/></l><r>gefährdet<s n="adj"/></r></p></e>
@@ -10025,7 +10032,6 @@
     <e><p><l>ylihintainen<s n="adj"/></l><r>überteuert<s n="adj"/></r></p></e>
     <e><p><l>ylilastattu<s n="adj"/></l><r>überlastet<s n="adj"/></r></p></e>
     <e><p><l>ylimääräinen<s n="adj"/></l><r>zusätzlich<s n="adj"/></r></p></e>
-    <e><p><l>täyteenahdettu<s n="adj"/></l><r>überfüllt<s n="adj"/></r></p></e>
     <e><p><l>yllättynyt<s n="adj"/></l><r>überrascht<s n="adj"/></r></p></e>
     <e><p><l>ylpeä<s n="adj"/></l><r>stolz<s n="adj"/></r></p></e>
     <e><p><l>ylpeä<s n="adj"/></l><r>stolz<s n="adj"/></r></p></e>
