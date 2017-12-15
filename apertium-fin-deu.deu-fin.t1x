@@ -1130,6 +1130,15 @@
         </when>
         <when>
           <test>
+            <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
+          </test>
+          <let>
+            <!-- XXX: sp-->
+            <var n="number"/><lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/></equal>
           </test>
           <let>
