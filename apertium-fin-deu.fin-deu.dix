@@ -2192,6 +2192,7 @@
     <e><p><l>maanmies<s n="n"/></l><r>Landsmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Kontinent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Landesteil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maanraja<s n="n"/></l><r>Landesgrenze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maantie<s n="n"/></l><r>Landstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maanviljelijä<s n="n"/></l><r>Farmer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanvyörymä<s n="n"/></l><r>Erdrutsche<s n="n"/><s n="f"/></r></p></e>
@@ -2899,6 +2900,7 @@
     <e><p><l>poikkeus<s n="n"/></l><r>Ausnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poikkeustila<s n="n"/></l><r>Ausnahmezustand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poissaolo<s n="n"/></l><r>Abwesenheit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poissulkeminen<s n="n"/></l><r>Ausschluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poistomyynti<s n="n"/></l><r>Absatzmarkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poisto<s n="n"/></l><r>Löschung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poistovesi<s n="n"/></l><r>Abwasser<s n="n"/><s n="nt"/></r></p></e>
@@ -3802,7 +3804,7 @@
     <e><p><l>tekstiili<s n="n"/></l><r>Textil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tekstiilityöläinen<s n="n"/></l><r>Fabrikarbeiter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teksti<s n="n"/></l><r>Text<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>telefooni<s n="n"/></l><r>Telefon<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>puhelin<s n="n"/></l><r>Telefon<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>telegrafi<s n="n"/></l><r>Telegraph<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>telekommunikaatio<s n="n"/></l><r>Telekommunikation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>televisio<s n="n"/></l><r>Television<s n="n"/><s n="f"/></r></p></e>
@@ -4918,6 +4920,7 @@
     <e r="RL"><p><l>hallussapito<s n="n"/></l><r>haft<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>haltija<s n="n"/></l><r>inhaber<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>halukas<s n="n"/></l><r>aspirant<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>harja<s n="n"/></l><r c="mainly english">first<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>harjoitus<s n="n"/></l><r>übung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>harus<s n="n"/></l><r c="common missegments">stag<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hauta<s n="n"/></l><r>grab<s n="n"/><s n="nt"/></r></p></e>
@@ -5228,6 +5231,7 @@
     <e r="RL"><p><l>matkustaja<s n="n"/></l><r>reisende<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menestys<s n="n"/></l><r>erfolg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menetelmä<s n="n"/></l><r>methode<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>menomatka<s n="n"/></l><r>ausreise<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>merilevä<s n="n"/></l><r>tang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>meri<s n="n"/></l><r>meer<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>merkintä<s n="n"/></l><r>eintrag<s n="n"/><s n="m"/></r></p></e>
@@ -5504,6 +5508,7 @@
     <e r="RL"><p><l>spiraali<s n="n"/></l><r>spirale<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>standardi<s n="n"/></l><r>standard<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>strategia<s n="n"/></l><r>stratege<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>strategia<s n="n"/></l><r>strategie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ständi<s n="n"/></l><r>stand<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>suhde<s n="n"/></l><r>beziehung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>suhde<s n="n"/></l><r>verhältnis<s n="n"/><s n="nt"/></r></p></e>
@@ -7184,6 +7189,7 @@
     <e><p><l>kuluttaa<s n="vblex"/></l><r>höhlen<s n="vblex"/></r></p></e>
     <e><p><l>kuluttaa<s n="vblex"/></l><r>konsumieren<s n="vblex"/></r></p></e>
     <e><p><l>kuluttaa<s n="vblex"/></l><r>verbrauchen<s n="vblex"/></r></p></e>
+    <e><p><l>kumajaa<s n="vblex"/></l><r>läuten<s n="vblex"/></r></p></e>
     <e><p><l>kumartaa<s n="vblex"/></l><r>beugen<s n="vblex"/></r></p></e>
     <e><p><l>kunnioittaa<s n="vblex"/></l><r>auszeichnen<s n="vblex"/></r></p></e>
     <e><p><l>kunnioittaa<s n="vblex"/></l><r>ehren<s n="vblex"/></r></p></e>
@@ -7661,6 +7667,7 @@
     <e><p><l>poltella<s n="vblex"/></l><r>rauchen<s n="vblex"/></r></p></e>
     <e><p><l>polttaa<s n="vblex"/></l><r>niederbrennen<s n="vblex"/></r></p></e>
     <e><p><l>polttaa<s n="vblex"/></l><r>verbrennen<s n="vblex"/></r></p></e>
+    <e><p><l>polttomerkitä<s n="vblex"/></l><r>brandmarken<s n="vblex"/></r></p></e>
     <e><p><l>polveutua<s n="vblex"/></l><r>stammen<s n="vblex"/></r></p></e>
     <e><p><l>pommittaa<s n="vblex"/></l><r>beschießen<s n="vblex"/></r></p></e>
     <e><p><l>pommittaa<s n="vblex"/></l><r>bombardieren<s n="vblex"/></r></p></e>
@@ -7920,6 +7927,7 @@
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>auslassen<s n="vblex"/></r></p></e>
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>ignorieren<s n="vblex"/></r></p></e>
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>wegfallen<s n="vblex"/></r></p></e>
+    <e><p><l>soida<s n="vblex"/></l><r>läuten<s n="vblex"/></r></p></e>
     <e><p><l>soittaa<s n="vblex"/></l><r>anrufen<s n="vblex"/></r></p></e>
     <e><p><l>soittaa<s n="vblex"/></l><r>telefonieren<s n="vblex"/></r></p></e>
     <e><p><l>solmia<s n="vblex"/></l><r>besiegeln<s n="vblex"/></r></p></e>
@@ -9531,6 +9539,7 @@
     <e><p><l>riittävä<s n="adj"/></l><r>genügend<s n="adj"/></r></p></e>
     <e><p><l>riivattu<s n="adj"/></l><r>besessen<s n="adj"/></r></p></e>
     <e><p><l>rikas<s n="adj"/></l><r>reich<s n="adj"/></r></p></e>
+    <e><p><l>rikkinäinen<s n="adj"/></l><r>lahm<s n="adj"/></r></p></e>
     <e><p><l>rikkinäinen<s n="adj"/></l><r>pleite<s n="adj"/></r></p></e>
     <e><p><l>rikollinen<s n="adj"/></l><r>kriminell<s n="adj"/></r></p></e>
     <e><p><l>rikollinen<s n="adj"/></l><r>straffällig<s n="adj"/></r></p></e>
@@ -9872,6 +9881,7 @@
     <e><p><l>vaikutukseton<s n="adj"/></l><r>wirkungslos<s n="adj"/></r></p></e>
     <e><p><l>vainoharhainen<s n="adj"/></l><r>paranoid<s n="adj"/></r></p></e>
     <e><p><l>vaivalloinen<s n="adj"/></l><r>mühsam<s n="adj"/></r></p></e>
+    <e><p><l>vajaa<s n="adj"/></l><r>lahm<s n="adj"/></r></p></e>
     <e><p><l>vajaa<s n="adj"/></l><r>verlegen<s n="adj"/></r></p></e>
     <e><p><l>vajavainen<s n="adj"/></l><r>unvollständig<s n="adj"/></r></p></e>
     <e><p><l>vakaa<s n="adj"/></l><r>stetig<s n="adj"/></r></p></e>
@@ -9980,6 +9990,7 @@
     <e><p><l>virheellinen<s n="adj"/></l><r>versehentlich<s n="adj"/></r></p></e>
     <e><p><l>virkaatekevä<s n="adj"/></l><r>stellvertretend<s n="adj"/></r></p></e>
     <e><p><l>virolainen<s n="adj"/></l><r>estnisch<s n="adj"/></r></p></e>
+    <e><p><l>virtuaalinen<s n="adj"/></l><r>virtuell<s n="adj"/></r></p></e>
     <e><p><l>visuaalinen<s n="adj"/></l><r>visuell<s n="adj"/></r></p></e>
     <e><p><l>voimassaoleva<s n="adj"/></l><r>tätig<s n="adj"/></r></p></e>
     <e><p><l>voitokas<s n="adj"/></l><r>siegreich<s n="adj"/></r></p></e>
