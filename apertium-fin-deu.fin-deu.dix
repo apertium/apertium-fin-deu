@@ -1930,6 +1930,7 @@
     <e><p><l>lautakunta<s n="n"/></l><r>Ausschuss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lautakunta<s n="n"/></l><r>Geschworene<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lautapeli<s n="n"/></l><r>Brettspiel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lautta<s n="n"/></l><r>Fähre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lava<s n="n"/></l><r>Bühne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehdistökatsaus<s n="n"/></l><r>Pressebericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lehdistökokous<s n="n"/></l><r>Pressekonferenz<s n="n"/><s n="f"/></r></p></e>
@@ -2658,6 +2659,7 @@
     <e><p><l>osinko<s n="n"/></l><r>Dividende<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osoite<s n="n"/></l><r>Adresse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ostaja<s n="n"/></l><r>Käufer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ostoskatu<s n="n"/></l><r>Einkaufsstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ostoskeskus<s n="n"/></l><r>Mall<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osto<s n="n"/></l><r>Ankauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ostos<s n="n"/></l><r>Einkauf<s n="n"/><s n="m"/></r></p></e>
@@ -4809,6 +4811,7 @@
 
     <e c="doctor's etc." r="RL"><p><l>aika<s n="n"/></l><r>termin<s n="n"/><s n="m"/></r></p></e>
     <e c="plaintiff" r="RL"><p><l>kantaja<s n="n"/></l><r>kläger<s n="n"/><s n="m"/></r></p></e>
+    <e c="XXX" r="RL"><p><l>käyttö<s n="n"/></l><r>anstrengung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL" c="b sharp"><p><l>his<s n="n"/></l><r>his<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL" c="nonSI unit"><p><l>beli<s n="n"/></l><r c="usually compound fail">bel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL" c="of e.g. parties (faction)"><p><l>siipi<s n="n"/></l><r>fraktion<s n="n"/><s n="f"/></r></p></e>
@@ -5149,6 +5152,7 @@
     <e r="RL"><p><l>laukaus<s n="n"/></l><r>schuss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laulu<s n="n"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lautakunta<s n="n"/></l><r>ausschuss<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>lautta<s n="n"/></l><r>fähre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>legenda<s n="n"/></l><r>legende<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lehdistötilaisuus<s n="n"/></l><r>pressekonferenz<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lehti<s n="n"/></l><r>blatt<s n="n"/><s n="nt"/></r></p></e>
