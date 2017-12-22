@@ -360,6 +360,7 @@
     <e><p><l>arvio<s n="n"/></l><r>Schätzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvohenkilö<s n="n"/></l><r>Würdenträger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arvonlisävero<s n="n"/></l><r>Mehrwertsteuer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arvonta<s n="n"/></l><r>Ziehung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvopaperi<s n="n"/></l><r>Wertpapier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arvo<s n="n"/></l><r>Ehre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvo<s n="n"/></l><r>Geltung<s n="n"/><s n="f"/></r></p></e>
@@ -1129,6 +1130,7 @@
     <e><p><l>joukkuepeli<s n="n"/></l><r>Gruppenspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>joukkue<s n="n"/></l><r>Mannschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>joukkue<s n="n"/></l><r>Partie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jouluaatto<s n="n"/></l><r>Heiligabend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>joulukuu<s n="n"/></l><r>Dezember<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>joululahja<s n="n"/></l><r>Weihnachtsgeschenk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>joulupukki<s n="n"/></l><r>Weihnachtsmann<s n="n"/><s n="m"/></r></p></e>
@@ -2046,6 +2048,7 @@
     <e><p><l>loppuvuosi<s n="n"/></l><r>Jahresende<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lordi<s n="n"/></l><r>Lord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lossi<s n="n"/></l><r c="Rhenish, more likely italian or PROPN">Ponte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lotto<s n="n"/></l><r>Lotterie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>louhinta<s n="n"/></l><r>Bergbau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>louhos<s n="n"/></l><r>Bergwerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>loukkaantuminen<s n="n"/></l><r>Verletzung<s n="n"/><s n="f"/></r></p></e>
@@ -2611,6 +2614,7 @@
     <e><p><l>onnittelu<s n="n"/></l><r>Glückwunsch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oomega<s n="n"/></l><r>Omega<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ooppera<s n="n"/></l><r>Oper<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oopperatalo<s n="n"/></l><r>Opernhaus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opas<s n="n"/></l><r>Guide<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>opas<s n="n"/></l><r>Leitfaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>operaatio<s n="n"/></l><r>Operation<s n="n"/><s n="f"/></r></p></e>
@@ -2705,6 +2709,7 @@
     <e><p><l>pako<s n="n"/></l><r>Flucht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pakote<s n="n"/></l><r c="news text">Zwang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pakote<s n="n"/></l><r>Vollzug<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>paksukainen<s n="n"/></l><r>Dicke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palanen<s n="n"/></l><r>Brocken<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palapeli<s n="n"/></l><r>Rätsel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palatsi<s n="n"/></l><r>Palast<s n="n"/><s n="m"/></r></p></e>
@@ -3126,6 +3131,7 @@
     <e><p><l>päätös<s n="n"/></l><r>Beschluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päätös<s n="n"/></l><r>Entscheidung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päätös<s n="n"/></l><r>Verschluss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>päävoitto<s n="n"/></l><r>Hauptgewinn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pörssi<s n="n"/></l><r>Börse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pöyristys<s n="n"/></l><r>Bestürzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pöytä<s n="n"/></l><r>Tisch<s n="n"/><s n="m"/></r></p></e>
@@ -5282,6 +5288,7 @@
     <e r="RL"><p><l>nihti<s n="n"/></l><r>knecht<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>nimi<s n="n"/></l><r>name<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>nousu<s n="n"/></l><r>steigerung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>numero<s n="n"/></l><r>nummer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>odotus<s n="n"/></l><r>warte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ohjaaja<s n="n"/></l><r>regisseur<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ohjaajatar<s n="n"/></l><r>regisseurin<s n="n"/><s n="f"/></r></p></e>
@@ -5362,6 +5369,7 @@
     <e r="RL"><p><l>pommitus<s n="n"/></l><r>bombenangriff<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>populisti<s n="n"/></l><r>populist<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>porno<s n="n"/></l><r>porno<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>portaali<s n="n"/></l><r>portal<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>portti<s n="n"/></l><r>tor<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>positiivi<s n="n"/></l><r>positiv<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>posti<s n="n"/></l><r>posten<s n="n"/><s n="m"/></r></p></e>
@@ -5638,6 +5646,7 @@
     <e r="RL"><p><l>tuottaja<s n="n"/></l><r>produzent<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tuottaja<s n="n"/></l><r>zulieferer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>turisti<s n="n"/></l><r>tourist<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>turkkilainen<s n="n"/></l><r>türkisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>turma<s n="n"/></l><r>absturz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>turvallisuuspalvelu<s n="n"/></l><r>geheimdienst<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>turvallisuus<s n="n"/></l><r>sicherheit<s n="n"/><s n="f"/></r></p></e>
@@ -5769,6 +5778,7 @@
     <e r="RL"><p><l>yhtenäisyys<s n="n"/></l><r>einheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>yhteys<s n="n"/></l><r>verbindung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>yhtiö<s n="n"/></l><r>betrieb<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>yleisö<s n="n"/></l><r>publikum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ylijäämä<s n="n"/></l><r>überschuss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ylimmäisyys<s n="n"/></l><r>gegenüber<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ylimäärä<s n="n"/></l><r>exzess<s n="n"/><s n="m"/></r></p></e>
@@ -6657,6 +6667,7 @@
 
 
 
+    <e c="liquid or so"><p><l>kaataa<s n="vblex"/></l><r>schütten<s n="vblex"/></r></p></e>
     <e c="vaipua epätoivoon?"><p><l>murehtia<s n="vblex"/></l><r>verzweifeln<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>ruoskia<s n="vblex"/></l><r>geißeln<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>selvittää<s n="vblex"/></l><r>einholen<s n="vblex"/></r></p></e>
@@ -7712,6 +7723,7 @@
     <e><p><l>puuttua<s n="vblex"/></l><r>fehlen<s n="vblex"/></r></p></e>
     <e><p><l>puuttua<s n="vblex"/></l><r>intervenieren<s n="vblex"/></r></p></e>
     <e><p><l>puuttua<s n="vblex"/></l><r>mangeln<s n="vblex"/></r></p></e>
+    <e><p><l>pyhiinvaeltaa<s n="vblex"/></l><r>pilgern<s n="vblex"/></r></p></e>
     <e><p><l>pyhittää<s n="vblex"/></l><r>weihen<s n="vblex"/></r></p></e>
     <e><p><l>pystyttää<s n="vblex"/></l><r>aufschlagen<s n="vblex"/></r></p></e>
     <e><p><l>pystyttää<s n="vblex"/></l><r>errichten<s n="vblex"/></r></p></e>
@@ -10656,7 +10668,7 @@
 
 
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
-    <e><i>Aachen<s n="np"/></i></e>
+    <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
@@ -11103,6 +11115,7 @@
     <e><i>Missouri<s n="np"/></i></e>
     <e><i>Mohammed<s n="np"/></i></e>
     <e><i>Monaco<s n="np"/></i></e>
+    <e><i>Monica<s n="np"/></i></e>
     <e><i>Monika<s n="np"/></i></e>
     <e><i>Montreal<s n="np"/></i></e>
     <e><i>Moreno<s n="np"/></i></e>
@@ -11193,6 +11206,7 @@
     <e><i>Roberto<s n="np"/></i></e>
     <e><i>Robert<s n="np"/></i></e>
     <e><i>Robin<s n="np"/></i></e>
+    <e><i>Rocky<s n="np"/></i></e>
     <e><i>Rodriguez<s n="np"/></i></e>
     <e><i>Roger<s n="np"/></i></e>
     <e><i>Roland<s n="np"/></i></e>
