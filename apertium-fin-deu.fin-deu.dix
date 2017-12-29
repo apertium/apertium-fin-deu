@@ -285,6 +285,7 @@
     <e><p><l>alue<s n="n"/></l><r>Regie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alue<s n="n"/></l><r>Region<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aluevesistö<s n="n"/></l><r>Hoheitsgewässer<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>alullepanija<s n="n"/></l><r>Initiator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alumiini<s n="n"/></l><r>Alu<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alumni<s n="n"/></l><r>Absolvent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alus<s n="n"/></l><r>Schiff<s n="n"/><s n="nt"/></r></p></e>
@@ -2649,6 +2650,7 @@
     <e><p><l>orkesteri<s n="n"/></l><r>Orchester<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>orkesteri<s n="n"/></l><r>Orchestra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orvokki<s n="n"/></l><r>Viola<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>osakas<s n="n"/></l><r>Aktionär<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osakeindeksi<s n="n"/></l><r>Aktienindex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osake<s n="n"/></l><r>Aktie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osallistuja<s n="n"/></l><r>Teilnehmer<s n="n"/><s n="m"/></r></p></e>
@@ -3162,6 +3164,7 @@
     <e><p><l>rahasto<s n="n"/></l><r>Fond<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rahoittaja<s n="n"/></l><r>Geldgeber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rahoitus<s n="n"/></l><r>Finanzierung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rahtilaiva<s n="n"/></l><r>Frachter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raide<s n="n"/></l><r>Gleis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>raiskaaja<s n="n"/></l><r>Vergewaltiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raiskaus<s n="n"/></l><r>Vergewaltigung<s n="n"/><s n="f"/></r></p></e>
@@ -4649,6 +4652,7 @@
     <e><p><l>yökerho<s n="n"/></l><r>Nachtclub<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yö<s n="n"/></l><r>Nacht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>äiti<s n="n"/></l><r>Mutter<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>älykkö<s n="n"/></l><r>Intellektuelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>älynväläys<s n="n"/></l><r>Einfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ässä<s n="n"/></l><r>As<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>äänensävy<s n="n"/></l><r>Ton<s n="n"/><s n="m"/></r></p></e>
@@ -4677,6 +4681,7 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
     <e r="RL"><p><l>harmi<s n="n"/></l><r c="old orth?">Schade<s n="n"/><s n="m"/></r></p></e>
@@ -4685,6 +4690,7 @@
     <e r="RL"><p><l>tarjoilija<s n="n"/></l><r c="old, often compound part">Ober<s n="n"/><s n="m"/></r></p></e>
 
 
+    <e r="RL" c="aprrox.  equivalents"><p><l>KKO<s n="n"/></l><r>Oberlandesgericht<s n="n"/><s n="nt"/></r></p></e>
 
 
 
@@ -5032,6 +5038,7 @@
     <e r="RL"><p><l>juntta<s n="n"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>juoksu<s n="n"/></l><r>lauf<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>juoni<s n="n"/></l><r>komplott<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>jälkivaali<s n="n"/></l><r>nachwahl<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>jännite<s n="n"/></l><r>spannung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>järjestelmä<s n="n"/></l><r>system<s n="n"/><s n="nt"/></r></p></e>
@@ -6279,7 +6286,7 @@
     <e><p><l>muuten<s n="adv"/></l><r>sonst<s n="adv"/></r></p></e>
     <e><p><l>muutoin<s n="adv"/></l><r>andernfalls<s n="adv"/></r></p></e>
     <e><p><l>muutoin<s n="adv"/></l><r>anders<s n="adv"/></r></p></e>
-    <e><p><l>muuttuvasti<s n="adv"/></l><r>wenden<s n="adv"/></r></p></e>
+    <e><p><l>vaihtelevasti<s n="adv"/></l><r>wenden<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>später<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>später<s n="adv"/></r></p></e>
     <e><p><l>myöhässä<s n="adv"/></l><r>spät<s n="adv"/></r></p></e>
@@ -9988,7 +9995,7 @@
     <e><p><l>vapaaehtoinen<s n="adj"/></l><r>kandidiert<s n="adj"/></r></p></e>
     <e><p><l>vapaa<s n="adj"/></l><r>frei<s n="adj"/></r></p></e>
     <e><p><l>vapaa<s n="adj"/></l><r>frei<s n="adj"/></r></p></e>
-    <e><p><l>vapaudellinen<s n="adj"/></l><r>freiheitlich<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>vapaa<s n="adj"/></l><r c="FPÖ">freiheitlich<s n="adj"/></r></p></e>
     <e><p><l>varakas<s n="adj"/></l><r>wohlhabend<s n="adj"/></r></p></e>
     <e><p><l>varattu<s n="adj"/></l><r>besetzt<s n="adj"/></r></p></e>
     <e><p><l>varhainen<s n="adj"/></l><r>früh<s n="adj"/></r></p></e>
@@ -10822,6 +10829,8 @@
     <e><i>Brian<s n="np"/></i></e>
     <e><i>Brigitte<s n="np"/></i></e>
     <e><i>Britney<s n="np"/></i></e>
+    <e><i>Bronx<s n="np"/></i></e>
+    <e><i>Brooklyn<s n="np"/></i></e>
     <e><i>Brown<s n="np"/></i></e>
     <e><i>Bruno<s n="np"/></i></e>
     <e><i>Bryan<s n="np"/></i></e>
