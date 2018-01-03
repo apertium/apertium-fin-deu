@@ -236,6 +236,8 @@
     <e><p><l>ajanjakso<s n="n"/></l><r>Zeitraum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ajatollah<s n="n"/></l><r>Ajatollah<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ajatus<s n="n"/></l><r>Gedanke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ajokaista<s n="n"/></l><r>Fahrbahn<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ajokaista<s n="n"/></l><r>Fahrbahn<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ajo-opettaja<s n="n"/></l><r>Fahrlehrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>akateemikko<s n="n"/></l><r>Akademiker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>akatemia<s n="n"/></l><r>Akademie<s n="n"/><s n="f"/></r></p></e>
@@ -543,6 +545,7 @@
     <e><p><l>diktaatti<s n="n"/></l><r>Diktat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>diktaattori<s n="n"/></l><r>Diktator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diktatuuri<s n="n"/></l><r>Diktatur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dinosaurus<s n="n"/></l><r>Dino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diplomaatti<s n="n"/></l><r>Diplomat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diplomatia<s n="n"/></l><r>Diplomatie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>direktiivi<s n="n"/></l><r>Direktive<s n="n"/><s n="f"/></r></p></e>
@@ -2562,6 +2565,7 @@
     <e><p><l>näyttelijätär<s n="n"/></l><r>Schauspielerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>näyttely<s n="n"/></l><r>Ausstellung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>näyttely<s n="n"/></l><r>Darstellung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>näyttely<s n="n"/></l><r>Exponat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>näyttämö<s n="n"/></l><r>Schauplatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näyttöruutu<s n="n"/></l><r>Bildschirm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näytös<s n="n"/></l><r>Szene<s n="n"/><s n="f"/></r></p></e>
@@ -3017,6 +3021,7 @@
     <e><p><l>puhdistus<s n="n"/></l><r>Verunreinigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puheenjohtaja<s n="n"/></l><r>Vorsitzende<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puhehäiriö<s n="n"/></l><r>Sprachstörung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puhelinlanka<s n="n"/></l><r>Telefonleitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puhelinneuvottelu<s n="n"/></l><r>Telefongespräch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>puhelin<s n="n"/></l><r>Telefon<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>puhelu<s n="n"/></l><r>Anruf<s n="n"/><s n="m"/></r></p></e>
@@ -3209,8 +3214,10 @@
     <e><p><l>rannikkoalue<s n="n"/></l><r>Küstengebiet<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ranskalainen<s n="n"/></l><r>Franzose<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ranskalainen<s n="n"/></l><r>Franzos<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kallionkieleke<s n="n"/></l><r>Steilküste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ranta<s n="n"/></l><r>Beach<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ranta<s n="n"/></l><r>Küste<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ranta<s n="n"/></l><r>Strand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ranta<s n="n"/></l><r>Ufer<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rantavartiosto<s n="n"/></l><r>Küstenwache<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>raportti<s n="n"/></l><r>Bericht<s n="n"/><s n="m"/></r></p></e>
@@ -4869,6 +4876,7 @@
     <e r="RL"><p><l>aikalainen<s n="n"/></l><r>zukünftiger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>aika<s n="n"/></l><r>zeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ajanjakso<s n="n"/></l><r>zeitraum<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>ajankohta<s n="n"/></l><r>zeitpunkt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>akatemia<s n="n"/></l><r>akademie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>aktivisti<s n="n"/></l><r>aktivist<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ala<s n="n"/></l><r>branche<s n="n"/><s n="f"/></r></p></e>
@@ -5067,6 +5075,7 @@
     <e r="RL"><p><l>kaluste<s n="n"/></l><r>mobiliar<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kamari<s n="n"/></l><r>kammer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kamppailu<s n="n"/></l><r>bekämpfung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kanava<s n="n"/></l><r>kanal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kandidaatti<s n="n"/></l><r>kandidat<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kansanedustaja<s n="n"/></l><r>abgeordnete<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kansanäänestys<s n="n"/></l><r>referendum<s n="n"/><s n="nt"/></r></p></e>
@@ -5350,6 +5359,7 @@
     <e r="RL"><p><l>olo<s n="n"/></l><r>wesen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>omaisuus<s n="n"/></l><r>vermögen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ongelma<s n="n"/></l><r>problem<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>onnettomuus<s n="n"/></l><r>unfall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>organisaatio<s n="n"/></l><r>organisation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>anteil<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>schnitt<s n="n"/><s n="m"/></r></p></e>
@@ -5627,6 +5637,7 @@
     <e r="RL"><p><l>tappio<s n="n"/></l><r>verlust<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tarina<s n="n"/></l><r>geschichte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tarjoaja<s n="n"/></l><r>anbieter<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>tarjous<s n="n"/></l><r>angebot<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tarve<s n="n"/></l><r>bedarf<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tarvike<s n="n"/></l><r>mittel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tasavalta<s n="n"/></l><r>republik<s n="n"/><s n="f"/></r></p></e>
@@ -7233,6 +7244,7 @@
     <e><p><l>komentaa<s n="vblex"/></l><r>kommandieren<s n="vblex"/></r></p></e>
     <e><p><l>komentaa<s n="vblex"/></l><r>kommandieren<s n="vblex"/></r></p></e>
     <e><p><l>kommentoida<s n="vblex"/></l><r>kommentieren<s n="vblex"/></r></p></e>
+    <e><p><l>kommunikoida<s n="vblex"/></l><r>kommunizieren<s n="vblex"/></r></p></e>
     <e><p><l>kompuroida<s n="vblex"/></l><r>stolpern<s n="vblex"/></r></p></e>
     <e><p><l>konseptualisoida<s n="vblex"/></l><r>konzipieren<s n="vblex"/></r></p></e>
     <e><p><l>konstruoida<s n="vblex"/></l><r>konstruieren<s n="vblex"/></r></p></e>
@@ -8171,6 +8183,7 @@
     <e><p><l>tienata<s n="vblex"/></l><r>verdienen<s n="vblex"/></r></p></e>
     <e><p><l>tietää<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
     <e><p><l>tietää<s n="vblex"/></l><r>wissen<s n="vblex"/></r></p></e>
+    <e><p><l>tiivistyä<s n="vblex"/></l><r>intensivieren<s n="vblex"/></r></p></e>
     <e><p><l>tiivistää<s n="vblex"/></l><r>verdichten<s n="vblex"/></r></p></e>
     <e><p><l>tilata<s n="vblex"/></l><r>abonnieren<s n="vblex"/></r></p></e>
     <e><p><l>tilata<s n="vblex"/></l><r>bestellen<s n="vblex"/></r></p></e>
@@ -9602,6 +9615,7 @@
     <e><p><l>raivostunut<s n="adj"/></l><r>empört<s n="adj"/></r></p></e>
     <e><p><l>rajallinen<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
     <e><p><l>rajattu<s n="adj"/></l><r>beschränkt<s n="adj"/></r></p></e>
+    <e><p><l>rajatylittävä<s n="adj"/></l><r>grenzüberschreitend<s n="adj"/></r></p></e>
     <e><p><l>rajoitettu<s n="adj"/></l><r>befristet<s n="adj"/></r></p></e>
     <e><p><l>rajoitettu<s n="adj"/></l><r>restriktiv<s n="adj"/></r></p></e>
     <e><p><l>rajoittamaton<s n="adj"/></l><r>unbegrenzt<s n="adj"/></r></p></e>
