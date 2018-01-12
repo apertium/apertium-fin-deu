@@ -144,7 +144,7 @@
 
   <section id="main" type="standard">
 
-     <!-- {{{    N  O      U   N S      O             UN   S     NO UN  S
+     <!-- {{{    N  O       U   N S      O             UN   S     NO UN  S
           {{{    no   u       n s    w  i             t    h g      ende r s -->
 
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -258,6 +258,7 @@
     <e><p><l>alennusmyynti<s n="n"/></l><r>Aktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alfa<s n="n"/></l><r>Alpha<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>algerialainen<s n="n"/></l><r>Algerier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>algoritmi<s n="n"/></l><r>Algorithmus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alibi<s n="n"/></l><r>Alibi<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alijäämä<s n="n"/></l><r>Defizit<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aliravitsemus<s n="n"/></l><r>Unterernährung<s n="n"/><s n="f"/></r></p></e>
@@ -1318,6 +1319,7 @@
     <e><p><l>kansallispuisto<s n="n"/></l><r>Nationalpark<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansallissosialismi<s n="n"/></l><r>Nationalsozialismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansallissosialisti<s n="n"/></l><r>Nationalsozialist<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kansallisteatteri<s n="n"/></l><r>Nationaltheater<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kansallisuus<s n="n"/></l><r>Nationalität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansallisuus<s n="n"/></l><r>Staatsbürgerschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansanedustaja<s n="n"/></l><r>Abgeordnete<s n="n"/><s n="f"/></r></p></e>
@@ -1341,6 +1343,7 @@
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Bundeskanzleramt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Kanzleramt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kansleri<s n="n"/></l><r>Kanzler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kanslia<s n="n"/></l><r>Kanzlei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kanssakäynti<s n="n"/></l><r>Umgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanssaperustaja<s n="n"/></l><r>Mitbegründer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kantaja<s n="n"/></l><r>Kläger<s n="n"/><s n="m"/></r></p></e>
@@ -1684,8 +1687,9 @@
     <e><p><l>korpus<s n="n"/></l><r>Corpus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>korruptio<s n="n"/></l><r>Korruption<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kortteli<s n="n"/></l><r>Viertel<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>koruteollisuus<s n="n"/></l><r>Juweliergeschäft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>koru<s n="n"/></l><r>Schmuck<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>koru<s n="n"/></l><r>Schmuckstück<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>koruteollisuus<s n="n"/></l><r>Juweliergeschäft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>korva<s n="n"/></l><r>Ohr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>korvaus<s n="n"/></l><r>Abfindung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korvike<s n="n"/></l><r>Ersatz<s n="n"/><s n="m"/></r></p></e>
@@ -1909,14 +1913,13 @@
     <e><p><l>laivasto<s n="n"/></l><r>Marine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laji<s n="n"/></l><r>Sorte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laji<s n="n"/></l><r>Spezies<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lakiasiaintoimisto<s n="n"/></l><r>Anwaltskanzlei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lakiesitys<s n="n"/></l><r>Gesetzesvorlage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lakimies<s n="n"/></l><r>Anwalt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lakinainen<s n="n"/></l><r>Anwältin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lakinainen<s n="n"/></l><r>Juristin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lakipykälä<s n="n"/></l><r>Gesetzentwurf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laki<s n="n"/></l><r>Gesetz<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>lakiasiaintoimisto<s n="n"/></l><r>Anwaltskanzlei<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kanslia<s n="n"/></l><r>Kanzlei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lama<s n="n"/></l><r>Rezession<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>langastavetäjä<s n="n"/></l><r>Drahtzieher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>langobardi<s n="n"/></l><r>Lombard<s n="n"/><s n="m"/></r></p></e>
@@ -2060,6 +2063,7 @@
     <e><p><l>litra<s n="n"/></l><r>Liter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>live<s n="n"/></l><r>Live<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lobbaaja<s n="n"/></l><r>Lobbyist<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lobby<s n="n"/></l><r>Lobby<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>logo<s n="n"/></l><r>Logo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lohtu<s n="n"/></l><r>Trost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loisto<s n="n"/></l><r>Pracht<s n="n"/><s n="f"/></r></p></e>
@@ -2685,6 +2689,7 @@
     <e><p><l>osakas<s n="n"/></l><r>Aktionär<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osakeindeksi<s n="n"/></l><r>Aktienindex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osake<s n="n"/></l><r>Aktie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>osallinen<s n="n"/></l><r>Mittäter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osallistuja<s n="n"/></l><r>Teilnehmer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osallistuminen<s n="n"/></l><r>Teilnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osallisuus<s n="n"/></l><r>Mitschuld<s n="n"/><s n="f"/></r></p></e>
@@ -2874,6 +2879,7 @@
     <e><p><l>persikka<s n="n"/></l><r>Pfirsich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>persoonallisuus<s n="n"/></l><r>Persönlichkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perspektiivi<s n="n"/></l><r>Perspektive<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>persreikä<s n="n"/></l><r>Drecksloch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perusarvo<s n="n"/></l><r>Grundwert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskallio<s n="n"/></l><r>Grundstein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskoulu<s n="n"/></l><r>Grundschule<s n="n"/><s n="f"/></r></p></e>
@@ -3388,6 +3394,7 @@
     <e><p><l>räjähtävyys<s n="n"/></l><r>Brisanz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>räätäli<s n="n"/></l><r>Schneider<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>röntgen<s n="n"/></l><r>Röntgen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>saalis<s n="n"/></l><r>Beute<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saapuminen<s n="n"/></l><r>Ankunft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saapuminen<s n="n"/></l><r>Einfahrt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>saapuminen<s n="n"/></l><r>Einreise<s n="n"/><s n="f"/></r></p></e>
@@ -4137,8 +4144,8 @@
     <e><p><l>tyyli<s n="n"/></l><r>Sorte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tyyli<s n="n"/></l><r>Stil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tyyppi<s n="n"/></l><r>Art<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tyyppi<s n="n"/></l><r c="plurale tantum special">Leute<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>tyyppi<s n="n"/></l><r c="de-AT, spoken">Type<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tyyppi<s n="n"/></l><r c="plurale tantum special">Leute<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>tyyppi<s n="n"/></l><r>Typ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tyytymättömyys<s n="n"/></l><r>Unbehagen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tyytymättömyys<s n="n"/></l><r>Unmut<s n="n"/><s n="m"/></r></p></e>
@@ -4371,6 +4378,7 @@
     <e><p><l>varamies<s n="n"/></l><r>Vize<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varapresidentti<s n="n"/></l><r>Vizepräsident<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vararikko<s n="n"/></l><r>Pleite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>varas<s n="n"/></l><r>Dieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varas<s n="n"/></l><r>Räuber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varasto<s n="n"/></l><r>Vorrat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varaus<s n="n"/></l><r>Maßgabe<s n="n"/><s n="f"/></r></p></e>
@@ -4552,6 +4560,7 @@
     <e><p><l>vuoksi<s n="n"/></l><r>Flut<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuori<s n="n"/></l><r>Berg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuoristo<s n="n"/></l><r>Sierra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vuorovaikutus<s n="n"/></l><r>Interaktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuorovaikutus<s n="n"/></l><r>Umgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuosikatsaus<s n="n"/></l><r>Jahresbericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuosikymmen<s n="n"/></l><r>Jahrzehnt<s n="n"/><s n="nt"/></r></p></e>
@@ -4733,7 +4742,6 @@
     <e><p><l>öljy<s n="n"/></l><r>Öl<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>öljytankkeri<s n="n"/></l><r>Öltanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
@@ -5146,6 +5154,7 @@
     <e r="RL"><p><l>kaupunki<s n="n"/></l><r>stadt<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>keidas<s n="n"/></l><r>oase<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>keihäs<s n="n"/></l><r c="usually compound fail">ger<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kello<s n="n"/></l><r>uhr<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kerros<s n="n"/></l><r>schicht<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kerros<s n="n"/></l><r>werk<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kerta<s n="n"/></l><r>mal<s n="n"/><s n="nt"/></r></p></e>
@@ -5575,6 +5584,7 @@
     <e r="RL"><p><l>ryhmä<s n="n"/></l><r>truppe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ryöstö<s n="n"/></l><r>raub<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>räjähdys<s n="n"/></l><r>explosion<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>saalis<s n="n"/></l><r>beute<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saanti<s n="n"/></l><r>versorgung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saari<s n="n"/></l><r>insel<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saaste<s n="n"/></l><r>verschmutzung<s n="n"/><s n="f"/></r></p></e>
@@ -5616,6 +5626,7 @@
     <e r="RL"><p><l>sijoitus<s n="n"/></l><r>investition<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>siru<s n="n"/></l><r>chip<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sisus<s n="n"/></l><r>innere<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>sisältö<s n="n"/></l><r>inhalt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sitoja<s n="n"/></l><r>binder<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skandaali<s n="n"/></l><r>skandal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skenaario<s n="n"/></l><r>szenario<s n="n"/><s n="nt"/></r></p></e>
@@ -5914,6 +5925,7 @@
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääritoiminta<s n="n"/></l><r>extremismus<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
@@ -6923,6 +6935,7 @@
     <e><p><l>elävöittää<s n="vblex"/></l><r>beleben<s n="vblex"/></r></p></e>
     <e><p><l>elää<s n="vblex"/></l><r>leben<s n="vblex"/></r></p></e>
     <e><p><l>ennakkovaroittaa<s n="vblex"/></l><r>vorwarnen<s n="vblex"/></r></p></e>
+    <e><p><l>ennustaa<s n="vblex"/></l><r>vorhersagen<s n="vblex"/></r></p></e>
     <e><p><l>ensiesittää<s n="vblex"/></l><r>erstausstrahlen<s n="vblex"/></r></p></e>
     <e><p><l>epäillä<s n="vblex"/></l><r>bezweifeln<s n="vblex"/></r></p></e>
     <e><p><l>epäillä<s n="vblex"/></l><r>misstrauen<s n="vblex"/></r></p></e>
@@ -7155,6 +7168,7 @@
     <e><p><l>jyrätä<s n="vblex"/></l><r>rammen<s n="vblex"/></r></p></e>
     <e><p><l>jäljitellä<s n="vblex"/></l><r>nachstreben<s n="vblex"/></r></p></e>
     <e><p><l>jäljittää<s n="vblex"/></l><r>aufspüren<s n="vblex"/></r></p></e>
+    <e><p><l>jälleenlöytää<s n="vblex"/></l><r>wiederfinden<s n="vblex"/></r></p></e>
     <e><p><l>jälleennähdä<s n="vblex"/></l><r>wiedersehen<s n="vblex"/></r></p></e>
     <e><p><l>jälleenvoittaa<s n="vblex"/></l><r>zurückgewinnen<s n="vblex"/></r></p></e>
     <e><p><l>jännittää<s n="vblex"/></l><r>erregen<s n="vblex"/></r></p></e>
@@ -7174,6 +7188,7 @@
     <e><p><l>jäädä<s n="vblex"/></l><r>verharren<s n="vblex"/></r></p></e>
     <e><p><l>kaahata<s n="vblex"/></l><r>rasen<s n="vblex"/></r></p></e>
     <e><p><l>kaapata<s n="vblex"/></l><r>entführen<s n="vblex"/></r></p></e>
+    <e><p><l>kaapia<s n="vblex"/></l><r>einschlagen<s n="vblex"/></r></p></e>
     <e><p><l>kaataa<s n="vblex"/></l><r>ausleeren<s n="vblex"/></r></p></e>
     <e><p><l>kaataa<s n="vblex"/></l><r c="of liquid">gießen<s n="vblex"/></r></p></e>
     <e><p><l>kaataa<s n="vblex"/></l><r c="trees etc.">kappen<s n="vblex"/></r></p></e>
@@ -7830,6 +7845,7 @@
     <e><p><l>pommittaa<s n="vblex"/></l><r>beschießen<s n="vblex"/></r></p></e>
     <e><p><l>pommittaa<s n="vblex"/></l><r>bombardieren<s n="vblex"/></r></p></e>
     <e><p><l>preferoida<s n="vblex"/></l><r>bevorzugen<s n="vblex"/></r></p></e>
+    <e><p><l>priorisoida<s n="vblex"/></l><r>priorisieren<s n="vblex"/></r></p></e>
     <e><p><l>promotoida<s n="vblex"/></l><r>promovieren<s n="vblex"/></r></p></e>
     <e><p><l>prosessoida<s n="vblex"/></l><r>verarbeiten<s n="vblex"/></r></p></e>
     <e><p><l>protestoida<s n="vblex"/></l><r>protestieren<s n="vblex"/></r></p></e>
@@ -8628,6 +8644,7 @@
 
 
 
+    <e><p><l>koristella<s n="vblex"/></l><r c="maybe german guesser fail?">nobeljuwelieren<s n="vblex"/></r></p></e>
     <e><p><l>kartoittaa<s n="vblex"/></l><r c="maybe german guesser fail?">cartieren<s n="vblex"/></r></p></e>
     <e><p><l>teloittaa<s n="vblex"/></l><r c="maybe german guesser fail?">guillieren<s n="vblex"/></r></p></e>
     <e><p><l>arvostaa<s n="vblex"/><j/>suuresti<s n="adv"/></l><r c="maybe german guesser fail?">hochqualifizieren<s n="vblex"/></r></p></e>
@@ -10560,7 +10577,7 @@
     <e><p><l>mikä<s n="prn"/><s n="sg"/><s n="nom"/></l><r>was<s n="prn"/></r></p></e>
     <e><p><l>mikä<s n="prn"/><s n="sp"/><s n="itg"/></l><r>welcher<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>mikä<s n="prn"/><s n="sp"/><s n="itg"/></l><r>welcher<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>mikä<s n="prn"/><s n="tra"/></l><r>warum<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>mikä<s n="prn"/><s n="sp"/><s n="tra"/></l><r>warum<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>mikään<s n="prn"/></l><r>kein<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
     <e><p><l>mikään<s n="prn"/></l><r>kein<s n="det"/><s n="ind"/><s n="mfn"/></r></p></e>
     <e><p><l>mikään<s n="prn"/></l><r>kein<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
