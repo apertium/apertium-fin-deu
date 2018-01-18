@@ -147,6 +147,7 @@
       <!-- {{{    N  O       U    N S      O             UN   S     NO UN  S
            {{{    no   u       n  s    w  i             t    h g      ende r s -->
 
+    <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
     <e c="beer"><p><l>ale<s n="n"/></l><r>Ale<s n="n"/><s n="nt"/></r></p></e>
     <e c="bleh"><p><l>lakiesitys<s n="n"/></l><r>Inkrafttreten<s n="n"/><s n="nt"/></r></p></e>
@@ -603,6 +604,7 @@
     <e><p><l>ehto<s n="n"/></l><r>Befinden<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ei-juutalainen<s n="n"/></l><r>Nichtjude<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eilinen<s n="n"/></l><r>Vortag<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ekonomi<s n="n"/></l><r>Ökonom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ekosysteemi<s n="n"/></l><r>Ökosystem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ekskursio<s n="n"/></l><r>Ausflug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ekspertti<s n="n"/></l><r>Experte<s n="n"/><s n="m"/></r></p></e>
@@ -672,6 +674,7 @@
     <e><p><l>erikoisuus<s n="n"/></l><r>Spezialität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erikoisyksikkö<s n="n"/></l><r>Spezialeinheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>erimielisyys<s n="n"/></l><r>Unstimmigkeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eristys<s n="n"/></l><r>Isolation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eroaminen<s n="n"/></l><r>Abspaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ero<s n="n"/></l><r>Aufbruch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ero<s n="n"/></l><r>Rücktritt<s n="n"/><s n="m"/></r></p></e>
@@ -1913,6 +1916,7 @@
     <e><p><l>laina<s n="n"/></l><r>Rente<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lainaus<s n="n"/></l><r>Quote<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lainsäädäntökausi<s n="n"/></l><r>Legislaturperiode<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lainsäädäntö<s n="n"/></l><r>Gesetzgebung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laite<s n="n"/></l><r>Gerät<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laite<s n="n"/></l><r>Zeug<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laitos<s n="n"/></l><r>Einrichtung<s n="n"/><s n="f"/></r></p></e>
@@ -1984,6 +1988,7 @@
     <e><p><l>lehdistö<s n="n"/></l><r>Presse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehdistötyö<s n="n"/></l><r>Pressearbeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehtinainen<s n="n"/></l><r>Journalistin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lehtinen<s n="n"/></l><r>Flugblatt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lehti<s n="n"/></l><r>Blatt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lehti<s n="n"/></l><r>Magazin<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lehti<s n="n"/></l><r>Zeitung<s n="n"/><s n="f"/></r></p></e>
@@ -2780,6 +2785,7 @@
     <e><p><l>palatsi<s n="n"/></l><r>Pfalz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palauttaminen<s n="n"/></l><r>Rückführung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palautuminen<s n="n"/></l><r>Erholung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palautus<s n="n"/></l><r>Rückgabe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palestiinalainen<s n="n"/></l><r>Palästinenser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paletti<s n="n"/></l><r>Palette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paljastus<s n="n"/></l><r>Enthüllung<s n="n"/><s n="f"/></r></p></e>
@@ -2859,6 +2865,7 @@
     <e><p><l>patteri<s n="n"/></l><r>Batterie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>PC<s n="n"/></l><r>PC<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peili<s n="n"/></l><r>Spiegel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pekingiläinen<s n="n"/></l><r>Pekinger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelaaja<s n="n"/></l><r>Spieler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelastuspalvelu<s n="n"/></l><r>Rettungsdienst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelastus<s n="n"/></l><r>Einsparung<s n="n"/><s n="f"/></r></p></e>
@@ -3354,6 +3361,7 @@
     <e><p><l>ritari<s n="n"/></l><r>Ritter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rituaali<s n="n"/></l><r>Ritual<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rivi<s n="n"/></l><r>Reihe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>robotti<s n="n"/></l><r>Roboter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rockbändi<s n="n"/></l><r>Rockband<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rock-konsertti<s n="n"/></l><r>Rockkonzert<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rock<s n="n"/></l><r>Rock<s n="n"/><s n="m"/></r></p></e>
@@ -3814,6 +3822,7 @@
     <e><p><l>talvi<s n="n"/></l><r>Winter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tammikuu<s n="n"/></l><r>Januar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tammikuu<s n="n"/></l><r>Jänner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tankkeri<s n="n"/></l><r>Tanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tankki<s n="n"/></l><r>Panzerwagen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tankki<s n="n"/></l><r>Tank<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tanko<s n="n"/></l><r>Stange<s n="n"/><s n="f"/></r></p></e>
@@ -5070,6 +5079,7 @@
     <e r="RL"><p><l>henkilö<s n="n"/></l><r>leute<s n="n"/><s n="mfn"/></r></p></e>
     <e r="RL"><p><l>henkilö<s n="n"/></l><r>person<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>henki<s n="n"/></l><r>leben<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>hevonen<s n="n"/></l><r>pferd<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hidastaminen<s n="n"/></l><r>behinderung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hiilikopio<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hoito<s n="n"/></l><r c="tierhaltung">haltung<s n="n"/><s n="f"/></r></p></e>
@@ -5379,6 +5389,7 @@
     <e r="RL"><p><l>matka<s n="n"/></l><r>fahrt<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matka<s n="n"/></l><r>reise<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matkustaja<s n="n"/></l><r>reisende<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>matto<s n="n"/></l><r>teppich<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menestys<s n="n"/></l><r>erfolg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menetelmä<s n="n"/></l><r>methode<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>menomatka<s n="n"/></l><r>ausreise<s n="n"/><s n="f"/></r></p></e>
@@ -5847,6 +5858,7 @@
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>wechsel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>übergabe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>übernahme<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>vaikutus<s n="n"/></l><r>auswirkung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaje<s n="n"/></l><r>ausfall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vakoilu<s n="n"/></l><r>spionage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vakuutus<s n="n"/></l><r>versicherung<s n="n"/><s n="f"/></r></p></e>
@@ -8678,6 +8690,8 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>katsoa<s n="vblex"/></l><r>blicken<s n="vblex"/></r></p></e>
+    <e><p><l>törmätä<s n="vblex"/></l><r>zusammenstoßen<s n="vblex"/></r></p></e>
 
 
 
@@ -10803,6 +10817,7 @@
     <e><p><l>takana<s n="post"/></l><r>hinter<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>da<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>takia<s n="post"/></l><r>infolge<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>toimesta<s n="post"/></l><r>durch<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>außer<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>valossa<s n="post"/></l><r>angesichts<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>varten<s n="post"/></l><r>wegen<s n="pr"/><s n="dat"/></r></p></e>
