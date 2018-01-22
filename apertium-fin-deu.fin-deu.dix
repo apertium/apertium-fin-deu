@@ -144,8 +144,8 @@
 
   <section id="main" type="standard">
 
-      <!-- {{{    N  O       U    N S      O             UN   S     NO UN  S
-           {{{    no   u       n  s    w  i             t    h g      ende r s -->
+      <!-- {{{    N  O       U    N S       O             UN   S     NO UN  S
+           {{{    no   u       n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx." r="RL"><p><l>autonomia<s n="n"/></l><r>Freistaat<s n="n"/><s n="m"/></r></p></e>
@@ -2130,6 +2130,7 @@
     <e><p><l>luokitus<s n="n"/></l><r>Einstufung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>Gattung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>Klasse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luominen<s n="n"/></l><r>Schaffung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luomi<s n="n"/></l><r>Mal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>luonnonkatastrofi<s n="n"/></l><r>Naturkatastrophe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luonnonsuojelija<s n="n"/></l><r>Umweltschützer<s n="n"/><s n="m"/></r></p></e>
@@ -2137,6 +2138,7 @@
     <e><p><l>luonnonsuojelujärjestö<s n="n"/></l><r>Naturschutzorganisation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luonnos<s n="n"/></l><r>Entwurf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonti<s n="n"/></l><r>Entstehung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luonti<s n="n"/></l><r>Schaffung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luonto<s n="n"/></l><r>Natur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luostari<s n="n"/></l><r>Kloster<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>luottamus<s n="n"/></l><r>Vertrauen<s n="n"/><s n="nt"/></r></p></e>
@@ -2835,6 +2837,7 @@
     <e><p><l>paperi<s n="n"/></l><r>Papier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pappi<s n="n"/></l><r>Priester<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parakki<s n="n"/></l><r>Kaserne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parannus<s n="n"/></l><r>Aufwertung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>parannus<s n="n"/></l><r>Besserung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>parannus<s n="n"/></l><r>Verbesserung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pariisilainen<s n="n"/></l><r>Pariser<s n="n"/><s n="m"/></r></p></e>
@@ -3193,6 +3196,7 @@
     <e><p><l>päärautatieasema<s n="n"/></l><r>Hauptbahnhof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päärooli<s n="n"/></l><r>Hauptrolle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päärynä<s n="n"/></l><r>Birne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pääsiäinen<s n="n"/></l><r>Ostern<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pää<s n="n"/></l><r>Kopf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päästö<s n="n"/></l><r>Ausstoß<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pääsylippu<s n="n"/></l><r>Eintrittskarte<s n="n"/><s n="f"/></r></p></e>
@@ -4508,6 +4512,7 @@
     <e><p><l>vieras<s n="n"/></l><r>Gast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viesti<s n="n"/></l><r>Botschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viesti<s n="n"/></l><r>Mitteilung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vietnamilainen<s n="n"/></l><r>Vietnamese<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vihamielisyys<s n="n"/></l><r>Feindschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vihapuhe<s n="n"/></l><r>Hetze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viha<s n="n"/></l><r>Grand<s n="n"/><s n="m"/></r></p></e>
@@ -5179,6 +5184,7 @@
     <e r="RL"><p><l>kasvatus<s n="n"/></l><r>anbau<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kasvatus<s n="n"/></l><r>erziehung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kasvu<s n="n"/></l><r>erhöhung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kasvu<s n="n"/></l><r>wachstum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>katastrofi<s n="n"/></l><r>katastrophe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>katkos<s n="n"/></l><r>panne<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>katu<s n="n"/></l><r>straße<s n="n"/><s n="f"/></r></p></e>
@@ -5614,6 +5620,7 @@
     <e r="RL"><p><l>rikollinen<s n="n"/></l><r>verbrecher<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rikollisuus<s n="n"/></l><r>kriminalität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rikos<s n="n"/></l><r>delikt<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>rikos<s n="n"/></l><r>verbrechen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>riutta<s n="n"/></l><r>riff<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ruiske<s n="n"/></l><r>spritze<s n="n"/><s n="f"/></r></p></e>
@@ -6356,6 +6363,7 @@
     <e><p><l>laajiten<s n="adv"/></l><r>weitestgehend<s n="adv"/></r></p></e>
     <e><p><l>laillisesti<s n="adv"/></l><r>gesetzlich<s n="adv"/></r></p></e>
     <e><p><l>laillisesti<s n="adv"/></l><r>legal<s n="adv"/></r></p></e>
+    <e><p><l>laillisesti<s n="adv"/></l><r>legitim<s n="adv"/></r></p></e>
     <e><p><l>lainkaan<s n="adv"/></l><r>gar<s n="adv"/></r></p></e>
     <e><p><l>lainkaan<s n="adv"/></l><r>keinerlei<s n="adv"/></r></p></e>
     <e><p><l>lainkaan<s n="adv"/></l><r>nichts<s n="adv"/></r></p></e>
@@ -10241,6 +10249,7 @@
     <e><p><l>vieras<s n="adj"/></l><r>fremd<s n="adj"/></r></p></e>
     <e><p><l>vieras<s n="adj"/></l><r>unbekannt<s n="adj"/></r></p></e>
     <e><p><l>viereinen<s n="adj"/></l><r>angrenzend<s n="adj"/></r></p></e>
+    <e><p><l>vietnamilainen<s n="adj"/></l><r>vietnamesisch<s n="adj"/></r></p></e>
     <e><p><l>vihainen<s n="adj"/></l><r>wütend<s n="adj"/></r></p></e>
     <e><p><l>vihamielinen<s n="adj"/></l><r>verfeindet<s n="adj"/></r></p></e>
     <e><p><l>vihollinen<s n="adj"/></l><r>feindlich<s n="adj"/></r></p></e>
@@ -10942,8 +10951,6 @@
 
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
-    <e><i>Winston<s n="np"/></i></e>
-    <e><i>Beatrix<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
@@ -11010,6 +11017,7 @@
     <e><i>Barnaby<s n="np"/></i></e>
     <e><i>Barry<s n="np"/></i></e>
     <e><i>Basel<s n="np"/></i></e>
+    <e><i>Beatrix<s n="np"/></i></e>
     <e><i>Becker<s n="np"/></i></e>
     <e><i>Belfast<s n="np"/></i></e>
     <e><i>Belgrad<s n="np"/></i></e>
@@ -11183,6 +11191,7 @@
     <e><i>Haley<s n="np"/></i></e>
     <e><i>Hamilton<s n="np"/></i></e>
     <e><i>Hannover<s n="np"/></i></e>
+    <e><i>Hanoi<s n="np"/></i></e>
     <e><i>Hans<s n="np"/></i></e>
     <e><i>Harris<s n="np"/></i></e>
     <e><i>Harry<s n="np"/></i></e>
@@ -11606,6 +11615,7 @@
     <e><i>Willy<s n="np"/></i></e>
     <e><i>Wilma<s n="np"/></i></e>
     <e><i>Wilson<s n="np"/></i></e>
+    <e><i>Winston<s n="np"/></i></e>
     <e><i>Wolfgang<s n="np"/></i></e>
     <e><i>Wolfgang<s n="np"/></i></e>
     <e><i>Württemberg<s n="np"/></i></e>
