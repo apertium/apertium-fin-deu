@@ -144,7 +144,7 @@
 
   <section id="main" type="standard">
 
-      <!-- {{{    N  O       U    N S       O             UN   S     NO UN  S
+    <!--          {{{    N  O       U    N S       O             UN   S     NO UN  S
            {{{    no   u       n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
@@ -2533,6 +2533,7 @@
     <e><p><l>naapurusto<s n="n"/></l><r>Stadtviertel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>naarmu<s n="n"/></l><r c="can be PROPN">Ritz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nainen<s n="n"/></l><r>Frau<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>naisfinalisti<s n="n"/></l><r>Finalistin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naiskokki<s n="n"/></l><r>Köchin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naiskollega<s n="n"/></l><r>Kollegin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naispoliitikko<s n="n"/></l><r>Politikerin<s n="n"/><s n="f"/></r></p></e>
@@ -3026,6 +3027,7 @@
     <e><p><l>portti<s n="n"/></l><r>Tor<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>portugalilainen<s n="n"/></l><r>Portugiese<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>posteri<s n="n"/></l><r>Poster<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>postimaksu<s n="n"/></l><r c="common PROPN">Porto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>posti<s n="n"/></l><r>Post<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>potentiaali<s n="n"/></l><r>Potenzial<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>potilas<s n="n"/></l><r>Patient<s n="n"/><s n="m"/></r></p></e>
@@ -3934,6 +3936,7 @@
     <e><p><l>tempo<s n="n"/></l><r>Tempo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>temppeli<s n="n"/></l><r>Tempel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tendenssi<s n="n"/></l><r>Tendenz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tenniksenpelaajatar<s n="n"/></l><r>Tennisspielerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teollisuudenharjoittaja<s n="n"/></l><r>Industrieller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teollisuusmaa<s n="n"/></l><r>Industriestaat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teollisuus<s n="n"/></l><r>Industrie<s n="n"/><s n="f"/></r></p></e>
@@ -4059,6 +4062,7 @@
     <e><p><l>tribunaali<s n="n"/></l><r>Tribunal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Trope<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Tropus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tšekitär<s n="n"/></l><r>Tschechin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tsunami<s n="n"/></l><r>Tsunami<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tsätti<s n="n"/></l><r>Chat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuhkapilvi<s n="n"/></l><r>Aschewolke<s n="n"/><s n="f"/></r></p></e>
@@ -4806,8 +4810,8 @@
 
 
 
-    <!--  }}}
-                         {{{             no  u  n          s :   u    n  ca t  eg  o rise d gende rs
+     <!--  }}}
+           {{{    no  u  n          s :   u    n  ca t  eg  o rise d gende rs
       -->
 
     <!-- problematic genders -->
@@ -5456,6 +5460,7 @@
     <e r="RL"><p><l>nousu<s n="n"/></l><r>steigerung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>numero<s n="n"/></l><r>nummer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>odotus<s n="n"/></l><r>warte<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>offensiivi<s n="n"/></l><r>offensive<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ohjaaja<s n="n"/></l><r>regisseur<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ohjaajatar<s n="n"/></l><r>regisseurin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ohjelma<s n="n"/></l><r>programm<s n="n"/><s n="nt"/></r></p></e>
@@ -6789,6 +6794,7 @@
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
+    <e><p><l>peräkkäin<s n="adv"/></l><r>nacheinander<s n="adv"/></r></p></e>
 
     <e r="LR"><p><l c="colloquial kun.adv">kun<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
     <e r="RL"><p><l>poissa<s n="adv"/></l><r c="no good adv translations">tot<s n="adv"/></r></p></e>
@@ -6802,7 +6808,7 @@
 
     <e c="fin sti deriv is 0-conversion deu" r="LR"><p><l>sti<s n="adv"/></l><r/></p></e>
 
-    <!-- }}}
+     <!-- }}}
          {{{ light adverbs -->
 
     <e><p><l>pikkuhiljaa<s n="adv"/></l><r>nach<b/>und<b/>nach<s n="adv"/></r></p></e>
@@ -11645,6 +11651,7 @@
     <e><i>Yasmina<s n="np"/></i></e>
     <e><i>Young<s n="np"/></i></e>
     <e><i>Zürich<s n="np"/></i></e>
+    <e><i>Simona<s n="np"/></i></e>
 
 
 
