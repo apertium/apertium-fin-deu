@@ -634,6 +634,7 @@
     <e><p><l>elokuva<s n="n"/></l><r>Spielfilm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elokuvateatterifilmi<s n="n"/></l><r>Kinofilm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elokuvatuotantoyhtiö<s n="n"/></l><r>Filmproduktionsgesellschaft<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>eläinkoe<s n="n"/></l><r>Tierversuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eläinlaji<s n="n"/></l><r>Tierart<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eläin<s n="n"/></l><r>Tier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>eläkeläinen<s n="n"/></l><r>Rentner<s n="n"/><s n="m"/></r></p></e>
@@ -1128,6 +1129,7 @@
     <e><p><l>jalka<s n="n"/></l><r>Bein<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jalka<s n="n"/></l><r>Fuß<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalokivi<s n="n"/></l><r>Juwel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>jalometalli<s n="n"/></l><r>Edelmetall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jano<s n="n"/></l><r>Durst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>japanilainen<s n="n"/></l><r>Japaner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>japanilainen<s n="n"/></l><r>Japanisch<s n="n"/><s n="nt"/></r></p></e>
@@ -1770,6 +1772,7 @@
     <e><p><l>kukka<s n="n"/></l><r>Blume<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kukka<s n="n"/></l><r>Blume<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuljetusalus<s n="n"/></l><r>Containerschiff<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kulkusilta<s n="n"/></l><r c="also PROPN">Steg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kulku<s n="n"/></l><r>Passage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kulkuväline<s n="n"/></l><r>Fahrzeug<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kulli<s n="n"/></l><r>Lümmel<s n="n"/><s n="m"/></r></p></e>
@@ -2764,6 +2767,7 @@
     <e><p><l>ostoskatu<s n="n"/></l><r>Einkaufsstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ostoskeskus<s n="n"/></l><r>Mall<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osto<s n="n"/></l><r>Ankauf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>osto<s n="n"/></l><r>Kauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ostos<s n="n"/></l><r>Einkauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osuus<s n="n"/></l><r>Anteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ote<s n="n"/></l><r>Griff<s n="n"/><s n="m"/></r></p></e>
@@ -3020,7 +3024,9 @@
     <e><p><l>poistumisreitti<s n="n"/></l><r>Ausweg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pokaali<s n="n"/></l><r>Pokal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pokaali<s n="n"/></l><r>Trophäe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poliisiasema<s n="n"/></l><r>Polizeistation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poliisiasema<s n="n"/></l><r>Polizeiwache<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poliisilaitos<s n="n"/></l><r>Polizeistation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poliisiläsnäolo<s n="n"/></l><r>Polizeiaufgebot<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>poliisipartio<s n="n"/></l><r>Polizeipatrouille<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poliisipäällikkö<s n="n"/></l><r>Polizeichef<s n="n"/><s n="m"/></r></p></e>
@@ -3192,6 +3198,7 @@
     <e><p><l>pysähdys<s n="n"/></l><r>Stillstand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pysähdys<s n="n"/></l><r>Stopp<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pysäkki<s n="n"/></l><r>Haltstelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pyyhe<s n="n"/></l><r>Handtuch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pyyntö<s n="n"/></l><r>Anforderung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pyyntö<s n="n"/></l><r>Antrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pyörremyrsky<s n="n"/></l><r>Wirbelsturm<s n="n"/><s n="m"/></r></p></e>
@@ -4563,6 +4570,7 @@
     <e><p><l>viha<s n="n"/></l><r>Grant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viha<s n="n"/></l><r>Hass<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viha<s n="n"/></l><r>Zorn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>viha<s n="n"/></l><r>Ärger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viheralue<s n="n"/></l><r c="often english">Anger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vihollinen<s n="n"/></l><r>Feind<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vihreä<s n="n"/></l><r>Grüne<s n="n"/><s n="m"/></r></p></e>
@@ -4802,6 +4810,7 @@
     <e><p><l>älykkö<s n="n"/></l><r>Intellektuelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>älynväläys<s n="n"/></l><r>Einfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ärsyke<s n="n"/></l><r>Reiz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ärtymys<s n="n"/></l><r>Ärger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ässä<s n="n"/></l><r>As<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>äänensävy<s n="n"/></l><r>Ton<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äänestyslipuke<s n="n"/></l><r>Stimmzettel<s n="n"/><s n="m"/></r></p></e>
@@ -4830,7 +4839,6 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
-
 
 
 
@@ -5686,6 +5694,7 @@
     <e r="RL"><p><l>rikollisuus<s n="n"/></l><r>kriminalität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rikos<s n="n"/></l><r>delikt<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>rikos<s n="n"/></l><r>verbrechen<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>riski<s n="n"/></l><r>risiko<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>riutta<s n="n"/></l><r>riff<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ruiske<s n="n"/></l><r>spritze<s n="n"/><s n="f"/></r></p></e>
@@ -5730,6 +5739,7 @@
     <e r="RL"><p><l>sihteeritär<s n="n"/></l><r>sekretärin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>siirto<s n="n"/></l><r>transfer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>siirtyminen<s n="n"/></l><r>ruck<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>siivous<s n="n"/></l><r>reinigung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sijainti<s n="n"/></l><r>standort<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sijainti<s n="n"/></l><r>stellung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sija<s n="n"/></l><r>platz<s n="n"/><s n="m"/></r></p></e>
@@ -6848,6 +6858,7 @@
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
+    <e><p><l>täysin<s n="adv"/></l><r>gänzlich<s n="adv"/></r></p></e>
 
     <e r="LR"><p><l c="colloquial kun.adv">kun<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
     <e r="RL"><p><l>poissa<s n="adv"/></l><r c="no good adv translations">tot<s n="adv"/></r></p></e>
@@ -7601,6 +7612,7 @@
     <e><p><l>liioitella<s n="vblex"/></l><r>übertreiben<s n="vblex"/></r></p></e>
     <e><p><l>liittoutua<s n="vblex"/></l><r>verbünden<s n="vblex"/></r></p></e>
     <e><p><l>liittyä<s n="vblex"/></l><r>beitreten<s n="vblex"/></r></p></e>
+    <e><p><l>liittyä<s n="vblex"/></l><r>involvieren<s n="vblex"/></r></p></e>
     <e><p><l>liittää<s n="vblex"/></l><r>annektieren<s n="vblex"/></r></p></e>
     <e><p><l>liittää<s n="vblex"/></l><r>aufhängen<s n="vblex"/></r></p></e>
     <e><p><l>liittää<s n="vblex"/></l><r>engagieren<s n="vblex"/></r></p></e>
@@ -8948,6 +8960,7 @@
     <e><p><l>vaihtaa<s n="vblex"/></l><r>steigen<g><b/>um</g><s n="vblex"/></r></p></e>
     <e><p><l>vastaanottaa<s n="vblex"/></l><r>ziehen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>välittää<s n="vblex"/></l><r>sagen<g><b/>nach</g><s n="vblex"/></r></p></e>
+    <e><p><l>vähentää<s n="vblex"/></l><r>lassen<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>yhteenvetää<s n="vblex"/></l><r>ziehen<g><b/>zusammen</g><s n="vblex"/></r></p></e>
 
     <!-- split fin <-> split deu -->
@@ -10474,6 +10487,7 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+    <e><p><l>kuvottava<s n="adj"/></l><r>abstoßend<s n="adj"/></r></p></e>
 
 
     <e r="RL"><p><l>kaunis<s n="adj"/></l><r c="veraltend, can be disam fail">schmuck<s n="adj"/></r></p></e>
