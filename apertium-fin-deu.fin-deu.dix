@@ -169,6 +169,8 @@
     <e c="parrot type, macaw"><p><l>ara<s n="n"/></l><r>Ara<s n="n"/><s n="m"/></r></p></e>
     <e c="redistribution; anti-piracy"><p><l>jälleenmyynti<s n="n"/></l><r>Umverteilung<s n="n"/><s n="f"/></r></p></e>
     <e c="SI unit"><p><l>newton<s n="n"/></l><r>Newton<s n="n"/><s n="nt"/></r></p></e>
+    <e c="special language"><p><l>palkkaneuvottelu<s n="n"/></l><r>Tarifverhandlung<s n="n"/><s n="f"/></r></p></e>
+    <e c="sports"><p><l>ampumahiihtäjä<s n="n"/></l><r>Biathlet<s n="n"/><s n="m"/></r></p></e>
     <e c="sports"><p><l>kakkonen<s n="n"/></l><r>Vizemeister<s n="n"/><s n="m"/></r></p></e>
     <e c="sprots"><p><l>maaliviiva<s n="n"/></l><r>Zielgerade<s n="n"/><s n="f"/></r></p></e>
     <e c="sprots"><p><l>pelinrakentaja<s n="n"/></l><r>Quarterback<s n="n"/><s n="m"/></r></p></e>
@@ -705,6 +707,7 @@
     <e><p><l>esiintyjänimi<s n="n"/></l><r>Deckname<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esiintyminen<s n="n"/></l><r>Auftritt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esiintyminen<s n="n"/></l><r>Erscheinung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>esi-isä<s n="n"/></l><r>Ahn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esikuva<s n="n"/></l><r>Vorbild<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>esillepanija<s n="n"/></l><r>Aussteller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>esimerkki<s n="n"/></l><r>Beispiel<s n="n"/><s n="m"/></r></p></e>
@@ -1405,6 +1408,7 @@
     <e><p><l>kasarmi<s n="n"/></l><r>Kaserne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kasino<s n="n"/></l><r>Casino<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kassa<s n="n"/></l><r>Kassa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kassa<s n="n"/></l><r>Kasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kassi<s n="n"/></l><r>Tasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kasvatus<s n="n"/></l><r>Anbau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kasvatus<s n="n"/></l><r>Erziehung<s n="n"/><s n="f"/></r></p></e>
@@ -1532,6 +1536,7 @@
     <e><p><l>keskustelu<s n="n"/></l><r>Konversation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>keskustelu<s n="n"/></l><r>Unterhaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kesto<s n="n"/></l><r>Dauer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kesto<s n="n"/></l><r>Laufzeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kesäkisat<s n="n"/><s n="pl"/></l><r>Sommerspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kesäkuu<s n="n"/></l><r>Juni<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kesäloma<s n="n"/></l><r>Sommerpause<s n="n"/><s n="f"/></r></p></e>
@@ -1920,6 +1925,7 @@
     <e><p><l>kääntäjä<s n="n"/></l><r>Übersetzer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käärme<s n="n"/></l><r>Schlange<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>köli<s n="n"/></l><r>Kiel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>könttäsumma<s n="n"/></l><r>Pauschale<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>köyhyys<s n="n"/></l><r>Armut<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laajennus<s n="n"/></l><r>Ausbau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laajennus<s n="n"/></l><r>Ausdehnung<s n="n"/><s n="f"/></r></p></e>
@@ -1979,6 +1985,7 @@
     <e><p><l>laskeutuminen<s n="n"/></l><r>Abstieg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laskeutuminen<s n="n"/></l><r>Abstieg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laskeutuminen<s n="n"/></l><r>Landung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>laskuri<s n="n"/></l><r>Zähler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lasku<s n="n"/></l><r>Rechnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lasku<s n="n"/></l><r>Rückgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lasku<s n="n"/></l><r>Zählung<s n="n"/><s n="f"/></r></p></e>
@@ -2697,6 +2704,7 @@
     <e><p><l>olosuhde<s n="n"/></l><r>Umstand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>olut<s n="n"/></l><r>Bier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>olympiastadion<s n="n"/></l><r>Olympiastadion<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>olympiavoittaja<s n="n"/></l><r>Olympiasieger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>omaisuus<s n="n"/></l><r>Kapital<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omaisuus<s n="n"/></l><r>Vermögen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omatunto<s n="n"/></l><r>Gewissen<s n="n"/><s n="nt"/></r></p></e>
@@ -2830,6 +2838,7 @@
     <e><p><l>palestiinalainen<s n="n"/></l><r>Palästinenser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paletti<s n="n"/></l><r>Palette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paljastus<s n="n"/></l><r>Enthüllung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palkankorotus<s n="n"/></l><r>Lohnerhöhung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palkinnonjako<s n="n"/></l><r>Preisverleihung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palkinnonjako<s n="n"/></l><r>Verleihung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palkinto<s n="n"/></l><r>Auszeichnung<s n="n"/><s n="f"/></r></p></e>
@@ -3937,6 +3946,7 @@
     <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichstellung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasapeli<s n="n"/></l><r>Remis<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>tasaus<s n="n"/></l><r>Angleichung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasaus<s n="n"/></l><r>Ausrichtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasavalta<s n="n"/></l><r>Republik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taskukirja<s n="n"/></l><r>Taschenbuch<s n="n"/><s n="nt"/></r></p></e>
@@ -4241,6 +4251,7 @@
     <e><p><l>tyyppi<s n="n"/></l><r>Typ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tyytymättömyys<s n="n"/></l><r>Unbehagen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tyytymättömyys<s n="n"/></l><r>Unmut<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>työaika<s n="n"/></l><r>Arbeitszeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työhaastattelu<s n="n"/></l><r>Vorstellungsgespräch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>työkalu<s n="n"/></l><r>Werkzeug<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>työkokemus<s n="n"/></l><r>Tätigkeit<s n="n"/><s n="f"/></r></p></e>
@@ -4359,6 +4370,7 @@
     <e><p><l>vahvuus<s n="n"/></l><r>Stärke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaihde<s n="n"/></l><r>Weiche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaihe<s n="n"/></l><r>Phase<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vaihtelu<s n="n"/></l><r>Fluktuation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaihtoehto<s n="n"/></l><r>Alternative<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaihtoehto<s n="n"/></l><r>Option<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaihtokauppa<s n="n"/></l><r>Austausch<s n="n"/><s n="m"/></r></p></e>
@@ -4591,6 +4603,7 @@
     <e><p><l>viihde<s n="n"/></l><r>Unterhaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viikko<s n="n"/></l><r>Woche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viikonloppu<s n="n"/></l><r>Wochenende<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>loppusuora<s n="n"/></l><r>Schlussrunde<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viini<s n="n"/></l><r>Wein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viisintaistelu<s n="n"/></l><r>Fünfkampf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>viisumi<s n="n"/></l><r>Visum<s n="n"/><s n="nt"/></r></p></e>
@@ -4754,6 +4767,7 @@
     <e><p><l>yksinpeli<s n="n"/></l><r>Alleingang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yksisuuntaiskatu<s n="n"/></l><r>Einbahnstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yksittäistapaus<s n="n"/></l><r>Einzelfall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yksityisasiakas<s n="n"/></l><r>Privatpatient<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yksityishenkilö<s n="n"/></l><r>Einzelperson<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yksityishenkilö<s n="n"/></l><r>Privatperson<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yksityiskohta<s n="n"/></l><r>Detail<s n="n"/><s n="nt"/></r></p></e>
@@ -5333,6 +5347,7 @@
     <e r="RL"><p><l>korkeus<s n="n"/></l><r>pegel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>korko<s n="n"/></l><r>zins<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kortteli<s n="n"/></l><r>viertel<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>korvaus<s n="n"/></l><r>honorar<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kosmos<s n="n"/></l><r>all<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>koti<s n="n"/></l><r>heim<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>koulu<s n="n"/></l><r>schule<s n="n"/><s n="f"/></r></p></e>
@@ -5431,6 +5446,7 @@
     <e r="RL"><p><l>lunastus<s n="n"/></l><r>rückkauf<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>luokka<s n="n"/></l><r>klasse<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>luonnonsuojelu<s n="n"/></l><r>naturschutz<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>luonteenpiirre<s n="n"/></l><r>charakter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>luoti<s n="n"/></l><r>mantelgeschoss<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>luotto<s n="n"/></l><r>haben<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>luotto<s n="n"/></l><r>habe<s n="n"/><s n="f"/></r></p></e>
@@ -5692,6 +5708,7 @@
     <e r="RL"><p><l>raketti<s n="n"/></l><r>rakete<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rangaistuslaukaus<s n="n"/></l><r>elfmeter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rannikko<s n="n"/></l><r>küste<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>raportointi<s n="n"/></l><r>berichterstattung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>raportti<s n="n"/></l><r>bericht<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ratkaisu<s n="n"/></l><r>lösung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rauha<s n="n"/></l><r>frieden<s n="n"/><s n="m"/></r></p></e>
@@ -5779,6 +5796,7 @@
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>abkommen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>antrag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>pakt<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>sopimus<s n="n"/></l><r>vertrag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>vertrag<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sota<s n="n"/></l><r>krieg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sotilas<s n="n"/></l><r>soldat<s n="n"/><s n="m"/></r></p></e>
@@ -5933,6 +5951,7 @@
     <e r="RL"><p><l>tyyli<s n="n"/></l><r>art<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tyyppi<s n="n"/></l><r>art<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tyyppi<s n="n"/></l><r>leute<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>työaika<s n="n"/></l><r>arbeitszeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>työntekijä<s n="n"/></l><r>mitarbeiter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>työ<s n="n"/></l><r>arbeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>työ<s n="n"/></l><r>geschäft<s n="n"/><s n="nt"/></r></p></e>
@@ -5996,6 +6015,7 @@
     <e r="RL"><p><l>varoitus<s n="n"/></l><r>warnung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>varsi<s n="n"/></l><r>schaft<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vartija<s n="n"/></l><r>garde<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>vastike<s n="n"/></l><r>honorar<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>vastustaja<s n="n"/></l><r>gegner<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaunu<s n="n"/></l><r>wagen<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>velka<s n="n"/></l><r>schuld<s n="n"/><s n="f"/></r></p></e>
@@ -6066,6 +6086,7 @@
     <e r="RL"><p><l>ylimäärä<s n="n"/></l><r>exzess<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ylänkö<s n="n"/></l><r>hoch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ympäristö<s n="n"/></l><r>umfeld<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>yritys<s n="n"/></l><r>gewerbe<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>yritys<s n="n"/></l><r>unternehmen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>yritys<s n="n"/></l><r>versuch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ystävätär<s n="n"/></l><r>freundin<s n="n"/><s n="f"/></r></p></e>
@@ -7691,6 +7712,7 @@
     <e><p><l>luulla<s n="vblex"/></l><r>glauben<s n="vblex"/></r></p></e>
     <e><p><l>luvata<s n="vblex"/></l><r>versprechen<s n="vblex"/></r></p></e>
     <e><p><l>lyhentää<s n="vblex"/></l><r>kürzen<s n="vblex"/></r></p></e>
+    <e><p><l>lyhentää<s n="vblex"/></l><r>verkürzen<s n="vblex"/></r></p></e>
     <e><p><l>lykätä<s n="vblex"/></l><r>vertagen<s n="vblex"/></r></p></e>
     <e><p><l>lyödä<s n="vblex"/></l><r>betreffen<s n="vblex"/></r></p></e>
     <e><p><l>lyödä<s n="vblex"/></l><r>hauen<s n="vblex"/></r></p></e>
@@ -8284,6 +8306,7 @@
     <e><p><l>sisääntuoda<s n="vblex"/></l><r>innern<s n="vblex"/></r></p></e>
     <e><p><l>sitoa<s n="vblex"/></l><r>binden<s n="vblex"/></r></p></e>
     <e><p><l>sivistää<s n="vblex"/></l><r>zivilisieren<s n="vblex"/></r></p></e>
+    <e><p><l>sivuuttaa<s n="vblex"/></l><r>absehen<s n="vblex"/></r></p></e>
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>auslassen<s n="vblex"/></r></p></e>
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>ignorieren<s n="vblex"/></r></p></e>
     <e><p><l>sivuuttaa<s n="vblex"/></l><r>wegfallen<s n="vblex"/></r></p></e>
@@ -8778,6 +8801,7 @@
     <e><p><l>välittää<s n="vblex"/></l><r>nachsagen<s n="vblex"/></r></p></e>
     <e><p><l>välittää<s n="vblex"/></l><r>sorgen<s n="vblex"/></r></p></e>
     <e><p><l>välittää<s n="vblex"/></l><r>vermitteln<s n="vblex"/></r></p></e>
+    <e><p><l>välttää<s n="vblex"/></l><r>meiden<s n="vblex"/></r></p></e>
     <e><p><l>välttää<s n="vblex"/></l><r>umgehen<s n="vblex"/></r></p></e>
     <e><p><l>välttää<s n="vblex"/></l><r>vermeiden<s n="vblex"/></r></p></e>
     <e><p><l>vääntää<s n="vblex"/></l><r>entreißen<s n="vblex"/></r></p></e>
@@ -9439,6 +9463,7 @@
     <e><p><l>kiireinen<s n="adj"/></l><r>beschäftigt<s n="adj"/></r></p></e>
     <e><p><l>kiireinen<s n="adj"/></l><r>vordringlich<s n="adj"/></r></p></e>
     <e><p><l>kiistanalainen<s n="adj"/></l><r>brisant<s n="adj"/></r></p></e>
+    <e><p><l>kiistanalainen<s n="adj"/></l><r>kontrovers<s n="adj"/></r></p></e>
     <e><p><l>kiistanalainen<s n="adj"/></l><r>strittig<s n="adj"/></r></p></e>
     <e><p><l>kiistaton<s n="adj"/></l><r>unstrittig<s n="adj"/></r></p></e>
     <e><p><l>kiistaton<s n="adj"/></l><r>widerspruchsfrei<s n="adj"/></r></p></e>
@@ -9604,6 +9629,7 @@
     <e><p><l>luvaton<s n="adj"/></l><r>eigenmächtig<s n="adj"/></r></p></e>
     <e><p><l>luvaton<s n="adj"/></l><r>unerlaubt<s n="adj"/></r></p></e>
     <e><p><l>luxemburglainen<s n="adj"/></l><r>luxemburgisch<s n="adj"/></r></p></e>
+    <e><p><l>lyhytaikainen<s n="adj"/></l><r>kurzfristig<s n="adj"/></r></p></e>
     <e><p><l>lyhytaikainen<s n="adj"/></l><r>kurzzeitig<s n="adj"/></r></p></e>
     <e><p><l>lyhyt<s n="adj"/></l><r>kurz<s n="adj"/></r></p></e>
     <e><p><l>läheinen<s n="adj"/></l><r>nahegelegen<s n="adj"/></r></p></e>
@@ -11063,8 +11089,9 @@
     <e c="days, months, years"><re>[0-9][0-9]?[.][0-9][0-9]?[.][0-9][0-9]*</re><p><l><s n="num"/><s n="nocard"/></l><r><s n="num"/></r></p></e>
 
     <!-- turn one thousand separator space<->. -->
-    <e c="thousand separators space to ."><re>[0-9][0-9]*</re><p><l><b/></l><r>.</r></p><re>[0-9][0-9][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e c="thousand separators space to . and ,"><re>[0-9][0-9]*</re><p><l><b/></l><r>.</r></p><re>[0-9][0-9][0-9],[0-9][0-9]*</re><p><l><s n="num"/><s n="nocard"/></l><r><s n="num"/></r></p></e>
     <!-- thousand separator keep space? (deu nonstd??) -->
+    <e c="thousand separators space to ."><re>[0-9][0-9]*</re><p><l><b/></l><r>.</r></p><re>[0-9][0-9][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e c="thousand separators spaces both"><re>[0-9][0-9 ]*[0-9][0-9][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <!-- romans -->
