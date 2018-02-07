@@ -5876,7 +5876,7 @@
     <e r="RL"><p><l>tapahtuma<s n="n"/></l><r>veranstaltung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tapa<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapa<s n="n"/></l><r>weise<s n="n"/><s n="f"/></r></p></e>
-    <e c="wrong gender?" r="RL"><p><l>tapa<s n="n"/></l><r>weise<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>tapa<s n="n"/></l><r c="wrong gender">weise<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapaus<s n="n"/></l><r>fall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tappaja<s n="n"/></l><r>toter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tappio<s n="n"/></l><r>niederlage<s n="n"/><s n="f"/></r></p></e>
