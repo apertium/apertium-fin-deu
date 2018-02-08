@@ -174,6 +174,8 @@
     <e c="special language"><p><l>palkkaneuvottelu<s n="n"/></l><r>Tarifverhandlung<s n="n"/><s n="f"/></r></p></e>
     <e c="sports"><p><l>ampumahiihtäjä<s n="n"/></l><r>Biathlet<s n="n"/><s n="m"/></r></p></e>
     <e c="sports"><p><l>kakkonen<s n="n"/></l><r>Vizemeister<s n="n"/><s n="m"/></r></p></e>
+    <e c="sports"><p><l>semifinaali<s n="n"/></l><r>Semifinale<s n="n"/><s n="nt"/></r></p></e>
+    <e c="sports"><p><l>välierä<s n="n"/></l><r>Semifinale<s n="n"/><s n="nt"/></r></p></e>
     <e c="sprots"><p><l>maaliviiva<s n="n"/></l><r>Zielgerade<s n="n"/><s n="f"/></r></p></e>
     <e c="sprots"><p><l>pelinrakentaja<s n="n"/></l><r>Quarterback<s n="n"/><s n="m"/></r></p></e>
     <e c="stalemate also fig."><p><l>patti<s n="n"/></l><r>Patt<s n="n"/><s n="nt"/></r></p></e>
@@ -1040,6 +1042,7 @@
     <e><p><l>ikä<s n="n"/></l><r>Alter<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>illallinen<s n="n"/></l><r>Abendessen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>illallinen<s n="n"/></l><r>Dinner<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>illuusio<s n="n"/></l><r>Illusion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ilmabussi<s n="n"/></l><r>Airbus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ilmahyökkäys<s n="n"/></l><r>Luftangriff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ilmakehä<s n="n"/></l><r>Atmosphäre<s n="n"/><s n="f"/></r></p></e>
@@ -1902,6 +1905,7 @@
     <e><p><l>käsiase<s n="n"/></l><r>Handfeuerwaffe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>käsikirjoittaja<s n="n"/></l><r>Drehbuchautor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käsikirjoitus<s n="n"/></l><r>Drehbuch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>käsikirjoitus<s n="n"/></l><r>Handschrift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>käsimatkatavara<s n="n"/></l><r>Handgepäck<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käsi<s n="n"/></l><r>Arm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käsi<s n="n"/></l><r>Hand<s n="n"/><s n="f"/></r></p></e>
@@ -4335,6 +4339,7 @@
     <e><p><l>urheilija<s n="n"/></l><r>Sportler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>urheilijatar<s n="n"/></l><r>Sportlerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urheilu<s n="n"/></l><r>Sport<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>urheilutapahtuma<s n="n"/></l><r>Sportereignis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>urheilutapahtuma<s n="n"/></l><r>Sportveranstaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urku<s n="n"/></l><r>Orgel<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uskollisuus<s n="n"/></l><r>Treue<s n="n"/><s n="f"/></r></p></e>
@@ -5123,6 +5128,7 @@
     <e r="RL"><p><l>avustus<s n="n"/></l><r>hilfswerk<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>barrikadi<s n="n"/></l><r>blockade<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>budjetti<s n="n"/></l><r>budget<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>budjetti<s n="n"/></l><r>etat<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>bulevardi<s n="n"/></l><r>boulevard<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>cocktail<s n="n"/></l><r>cocktail<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>data<s n="n"/></l><r>datum<s n="n"/><s n="nt"/></r></p></e>
@@ -5874,9 +5880,9 @@
     <e r="RL"><p><l>tapaaminen<s n="n"/></l><r>treff<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapahtuma<s n="n"/></l><r>tat<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tapahtuma<s n="n"/></l><r>veranstaltung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>tapa<s n="n"/></l><r c="wrong gender">weise<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapa<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapa<s n="n"/></l><r>weise<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>tapa<s n="n"/></l><r c="wrong gender">weise<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tapaus<s n="n"/></l><r>fall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tappaja<s n="n"/></l><r>toter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tappio<s n="n"/></l><r>niederlage<s n="n"/><s n="f"/></r></p></e>
@@ -7430,6 +7436,8 @@
     <e><p><l>kasvaa<s n="vblex"/></l><r>vergrößern<s n="vblex"/></r></p></e>
     <e><p><l>kasvaa<s n="vblex"/></l><r>wachsen<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>anbauen<s n="vblex"/></r></p></e>
+    <e><p><l>kasvattaa<s n="vblex"/></l><r>anheben<s n="vblex"/></r></p></e>
+    <e><p><l>kasvattaa<s n="vblex"/></l><r>anheben<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>erhöhen<s n="vblex"/></r></p></e>
     <e><p><l>kasvattaa<s n="vblex"/></l><r>zunehmen<s n="vblex"/></r></p></e>
     <e><p><l>katkaista<s n="vblex"/></l><r>abschneiden<s n="vblex"/></r></p></e>
@@ -7451,6 +7459,7 @@
     <e><p><l>kehua<s n="vblex"/></l><r>preisen<s n="vblex"/></r></p></e>
     <e><p><l>keinua<s n="vblex"/></l><r>schaukeln<s n="vblex"/></r></p></e>
     <e><p><l>keksiä<s n="vblex"/></l><r>erfinden<s n="vblex"/></r></p></e>
+    <e><p><l>kerjätä<s n="vblex"/></l><r>betteln<s n="vblex"/></r></p></e>
     <e><p><l>kerrospukeutua<s n="vblex"/></l><r>überziehen<s n="vblex"/></r></p></e>
     <e><p><l>kertoa<s n="vblex"/></l><r>besagen<s n="vblex"/></r></p></e>
     <e><p><l>kertoa<s n="vblex"/></l><r>besagen<s n="vblex"/></r></p></e>
@@ -7869,6 +7878,7 @@
     <e><p><l>nopeuttaa<s n="vblex"/></l><r>schnellen<s n="vblex"/></r></p></e>
     <e><p><l>normalisoida<s n="vblex"/></l><r>normalisieren<s n="vblex"/></r></p></e>
     <e><p><l>nostaa<s n="vblex"/></l><r>abheben<s n="vblex"/></r></p></e>
+    <e><p><l>nostaa<s n="vblex"/></l><r>anheben<s n="vblex"/></r></p></e>
     <e><p><l>nostaa<s n="vblex"/></l><r>aufweisen<s n="vblex"/></r></p></e>
     <e><p><l>nostattaa<s n="vblex"/></l><r>hervorrufen<s n="vblex"/></r></p></e>
     <e><p><l>noudattaa<s n="vblex"/></l><r>festhalten<s n="vblex"/></r></p></e>
@@ -8884,6 +8894,7 @@
 
 
     <e><p><l>luovuttaa<s n="vblex"/></l><r c="maybe german guesser fail?">spendertieren<s n="vblex"/></r></p></e>
+    <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">eröffnungsfeieren<s n="vblex"/></r></p></e>
     <e><p><l>koristella<s n="vblex"/></l><r c="maybe german guesser fail?">nobeljuwelieren<s n="vblex"/></r></p></e>
     <e><p><l>kartoittaa<s n="vblex"/></l><r c="maybe german guesser fail?">cartieren<s n="vblex"/></r></p></e>
     <e><p><l>teloittaa<s n="vblex"/></l><r c="maybe german guesser fail?">guillieren<s n="vblex"/></r></p></e>
