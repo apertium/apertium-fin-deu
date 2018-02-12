@@ -425,6 +425,7 @@
     <e><p><l>asetus<s n="n"/></l><r>Satzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asevoima<s n="n"/></l><r>Streitkraft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asiakas<s n="n"/></l><r>Mandant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>asiakysymys<s n="n"/></l><r>Sachfrage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asialista<s n="n"/></l><r>Protokoll<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asianajaja<s n="n"/></l><r>Rechtsanwalt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asiantuntija<s n="n"/></l><r>Fachleute<s n="n"/><s n="pl"/></r></p></e>
@@ -746,6 +747,7 @@
     <e><p><l>etumatka<s n="n"/></l><r>Vorsprung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etumies<s n="n"/></l><r>Strohmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etunimi<s n="n"/></l><r>Vorname<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>etupommerilainen<s n="n"/></l><r>Vorpommer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eturistiriita<s n="n"/></l><r>Interessenkonflikt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etu<s n="n"/></l><r>Vorteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etuvartioasema<s n="n"/></l><r>Vorposten<s n="n"/><s n="m"/></r></p></e>
@@ -1388,6 +1390,7 @@
     <e><p><l>kansleriehdokas<s n="n"/></l><r>Kanzlerkandidat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Bundeskanzleramt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kanslerinvirasto<s n="n"/></l><r>Kanzleramt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kanslerinvirka<s n="n"/></l><r>Kanzlerschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansleri<s n="n"/></l><r>Kanzler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanslia<s n="n"/></l><r>Kanzlei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kanssakäynti<s n="n"/></l><r>Umgang<s n="n"/><s n="m"/></r></p></e>
@@ -2878,6 +2881,7 @@
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrleute<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>palomies<s n="n"/></l><r>Feuerwehrmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palo<s n="n"/></l><r>Verbrennung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paluulento<s n="n"/></l><r>Rückflug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paluumatka<s n="n"/></l><r>Rückreise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paluumuuttaja<s n="n"/></l><r>Heimkehrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paluureitti<s n="n"/></l><r>Rückweg<s n="n"/><s n="m"/></r></p></e>
@@ -3053,6 +3057,7 @@
     <e><p><l>poika<s n="n"/></l><r>Junge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poika<s n="n"/></l><r>Jungs<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>poika<s n="n"/></l><r>Sohn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>poikkeama<s n="n"/></l><r>Abweichung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poikkeuslupa<s n="n"/></l><r>Sonderrecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>poikkeus<s n="n"/></l><r>Ausnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poikkeustila<s n="n"/></l><r>Ausnahmezustand<s n="n"/><s n="m"/></r></p></e>
@@ -3379,6 +3384,7 @@
     <e><p><l>rauha<s n="n"/></l><r>Frieden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rauha<s n="n"/></l><r>Friede<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rauhattomuus<s n="n"/></l><r>Unruhe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rauhoittaminen<s n="n"/></l><r>Beruhigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rauhoittelu<s n="n"/></l><r>Besänftigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rauhoittuminen<s n="n"/></l><r>Entspannung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rauta<s n="n"/></l><r>Eisen<s n="n"/><s n="nt"/></r></p></e>
@@ -3799,6 +3805,7 @@
     <e><p><l>suosio<s n="n"/></l><r>Popularität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suositus<s n="n"/></l><r>Empfehlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suo<s n="n"/></l><r>Moor<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>suostumus<s n="n"/></l><r>Einverständnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>supermarketti<s n="n"/></l><r>Supermarkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>supernova<s n="n"/></l><r>Nova<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>supertähti<s n="n"/></l><r>Superstar<s n="n"/><s n="m"/></r></p></e>
@@ -4360,6 +4367,7 @@
     <e><p><l>uudenvuodenaatto<s n="n"/></l><r>Silvesterabend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uudisrakennus<s n="n"/></l><r>Neubau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uusintapainos<s n="n"/></l><r>Neuauflage<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>uusinta<s n="n"/></l><r>Erneuerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uusintavaali<s n="n"/></l><r>Neuwahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uusivuosi<s n="n"/></l><r>Neujahr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>uusivuosi<s n="n"/></l><r>Silvester<s n="n"/><s n="nt"/></r></p></e>
@@ -4900,6 +4908,7 @@
 
 
 
+
     <e r="RL"><p><l c="hair(s)">hius<s n="n"/></l><r c="lock of hair">Locke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>harmi<s n="n"/></l><r c="old orth?">Schade<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>poika<s n="n"/></l><r c="often English">Boy<s n="n"/><s n="m"/></r></p></e>
@@ -5147,6 +5156,7 @@
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diplomaatti<s n="n"/></l><r>diplomat<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>dokumentti<s n="n"/></l><r>dokument<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>duo<s n="n"/></l><r>duo<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>edistys<s n="n"/></l><r>fortschritt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>edustaja<s n="n"/></l><r>vertreter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>edustaja<s n="n"/></l><r>vorstand<s n="n"/><s n="m"/></r></p></e>
@@ -5676,6 +5686,7 @@
     <e r="RL"><p><l>potentiaali<s n="n"/></l><r>potenzial<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>presidentti<s n="n"/></l><r>präsidentin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>presidentti<s n="n"/></l><r>präsident<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>professori<s n="n"/></l><r>professor<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>projekti<s n="n"/></l><r>plan<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>projekti<s n="n"/></l><r>projekt<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>propaganda<s n="n"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
@@ -8134,6 +8145,7 @@
     <e><p><l>pystyttää<s n="vblex"/></l><r>aufschlagen<s n="vblex"/></r></p></e>
     <e><p><l>pystyttää<s n="vblex"/></l><r>errichten<s n="vblex"/></r></p></e>
     <e><p><l>pystyä<s n="vblex"/></l><r>können<s n="vbmod"/></r></p></e>
+    <e><p><l>pystyä<s n="vblex"/></l><r>vermögen<s n="vblex"/></r></p></e>
     <e><p><l>pysyä<s n="vblex"/></l><r>festsitzen<s n="vblex"/></r></p></e>
     <e><p><l>pysähtyä<s n="vblex"/></l><r>anhalten<s n="vblex"/></r></p></e>
     <e><p><l>pysähtyä<s n="vblex"/></l><r>halten<s n="vblex"/></r></p></e>
@@ -9299,6 +9311,7 @@
     <e><p><l>heikentynyt<s n="adj"/></l><r>abgeschwächt<s n="adj"/></r></p></e>
     <e><p><l>heikentynyt<s n="adj"/></l><r>geschwächt<s n="adj"/></r></p></e>
     <e><p><l>heikko<s n="adj"/></l><r>schwach<s n="adj"/></r></p></e>
+    <e><p><l>heltymätön<s n="adj"/></l><r>unablässig<s n="adj"/></r></p></e>
     <e><p><l>hengellinen<s n="adj"/></l><r>fromm<s n="adj"/></r></p></e>
     <e><p><l>hengellinen<s n="adj"/></l><r>fromm<s n="adj"/></r></p></e>
     <e><p><l>hengellinen<s n="adj"/></l><r>geistig<s n="adj"/></r></p></e>
@@ -9306,6 +9319,7 @@
     <e><p><l>hengellinen<s n="adj"/></l><r>spirituell<s n="adj"/></r></p></e>
     <e><p><l>hengenvaarallinen<s n="adj"/></l><r>lebensgefährlich<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>personal<s n="adj"/></r></p></e>
+    <e><p><l>henkilökohtainen<s n="adj"/></l><r>personell<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>persönlich<s n="adj"/></r></p></e>
     <e><p><l>herjaava<s n="adj"/></l><r>abfällig<s n="adj"/></r></p></e>
     <e><p><l>herkeämätön<s n="adj"/></l><r>unerschütterlich<s n="adj"/></r></p></e>
@@ -9636,6 +9650,7 @@
     <e><p><l>latinalaisamerikkalainen<s n="adj"/></l><r>lateinamerikanisch<s n="adj"/></r></p></e>
     <e><p><l>legendaarinen<s n="adj"/></l><r>legendär<s n="adj"/></r></p></e>
     <e><p><l>legitiimi<s n="adj"/></l><r>legitim<s n="adj"/></r></p></e>
+    <e><p><l>leppymätön<s n="adj"/></l><r>unablässig<s n="adj"/></r></p></e>
     <e><p><l>lesbo<s n="adj"/></l><r>lesbisch<s n="adj"/></r></p></e>
     <e><p><l>levinnyt<s n="adj"/></l><r>ausgedehnt<s n="adj"/></r></p></e>
     <e><p><l>libanonilainen<s n="adj"/></l><r>libanesisch<s n="adj"/></r></p></e>
@@ -9954,6 +9969,8 @@
     <e><p><l>puolitoistas<s n="adj"/></l><r>anderthalb<s n="adj"/></r></p></e>
     <e><p><l>puolittainen<s n="adj"/></l><r>halb<s n="adj"/></r></p></e>
     <e><p><l>puolueellinen<s n="adj"/></l><r>parteiisch<s n="adj"/></r></p></e>
+    <e><p><l>puolueensisäinen<s n="adj"/></l><r>innerparteilich<s n="adj"/></r></p></e>
+    <e><p><l>puolueensisäinen<s n="adj"/></l><r>innerparteilich<s n="adj"/></r></p></e>
     <e><p><l>puolueeton<s n="adj"/></l><r>sachlich<s n="adj"/></r></p></e>
     <e><p><l>puoluepoliittinen<s n="adj"/></l><r>parteipolitisch<s n="adj"/></r></p></e>
     <e><p><l>puolueriippumaton<s n="adj"/></l><r>überparteilich<s n="adj"/></r></p></e>
@@ -10212,6 +10229,7 @@
     <e><p><l>tasa-arvoinen<s n="adj"/></l><r>gleichberechtigt<s n="adj"/></r></p></e>
     <e><p><l>tasainen<s n="adj"/></l><r>eben<s n="adj"/></r></p></e>
     <e><p><l>taukoamaton<s n="adj"/></l><r>anhaltend<s n="adj"/></r></p></e>
+    <e><p><l>taukoamaton<s n="adj"/></l><r>unablässig<s n="adj"/></r></p></e>
     <e><p><l>taukoamaton<s n="adj"/></l><r>unermüdlich<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>regulär<s n="adj"/></r></p></e>
     <e><p><l>teennäinen<s n="adj"/></l><r>abwegig<s n="adj"/></r></p></e>
@@ -10483,6 +10501,7 @@
     <e><p><l>virallinen<s n="adj"/></l><r>offiziell<s n="adj"/></r></p></e>
     <e><p><l>virheellinen<s n="adj"/></l><r>irrtümlich<s n="adj"/></r></p></e>
     <e><p><l>virheellinen<s n="adj"/></l><r>versehentlich<s n="adj"/></r></p></e>
+    <e><p><l>virkaatekevä<s n="adj"/></l><r>kommissarisch<s n="adj"/></r></p></e>
     <e><p><l>virkaatekevä<s n="adj"/></l><r>stellvertretend<s n="adj"/></r></p></e>
     <e><p><l>virolainen<s n="adj"/></l><r>estnisch<s n="adj"/></r></p></e>
     <e><p><l>virtuaalinen<s n="adj"/></l><r>virtuell<s n="adj"/></r></p></e>
@@ -10506,6 +10525,7 @@
     <e><p><l>väkivaltainen<s n="adj"/></l><r>gewalttätig<s n="adj"/></r></p></e>
     <e><p><l>väkivaltainen<s n="adj"/></l><r>tätlich<s n="adj"/></r></p></e>
     <e><p><l>väliaikainen<s n="adj"/></l><r>einstweilig<s n="adj"/></r></p></e>
+    <e><p><l>väliaikainen<s n="adj"/></l><r>kommissarisch<s n="adj"/></r></p></e>
     <e><p><l>väliaikainen<s n="adj"/></l><r>temporär<s n="adj"/></r></p></e>
     <e><p><l>väliaikainen<s n="adj"/></l><r>vorübergehend<s n="adj"/></r></p></e>
     <e><p><l>väliaikainen<s n="adj"/></l><r>zwischenzeitlich<s n="adj"/></r></p></e>
