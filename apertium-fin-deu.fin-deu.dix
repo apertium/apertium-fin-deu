@@ -92,6 +92,7 @@
     <sdef n="org"   c="-- organisation name"/>
     <sdef n="al"   c="-- al name"/>
 
+    <sdef n="ess" c="essive" />
     <sdef n="ine" c="inessive" />
     <sdef n="nom" c="nominative" />
     <sdef n="ade" c="nominative" />
@@ -4904,6 +4905,8 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>remontti<s n="n"/></l><r>Sanierung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kommuuni<s n="n"/></l><r>Kommune<s n="n"/><s n="f"/></r></p></e>
 
 
 
@@ -5300,6 +5303,7 @@
     <e r="RL"><p><l>kamppailu<s n="n"/></l><r>bekämpfung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kanava<s n="n"/></l><r>kanal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kandidaatti<s n="n"/></l><r>kandidat<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kandidaattius<s n="n"/></l><r>kandidatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kansanedustaja<s n="n"/></l><r>abgeordnete<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kansanäänestys<s n="n"/></l><r>referendum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kantaja<s n="n"/></l><r>träger<s n="n"/><s n="m"/></r></p></e>
@@ -5319,6 +5323,7 @@
     <e r="RL"><p><l>kaupankäynti<s n="n"/></l><r>handel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kauppasaarto<s n="n"/></l><r>embargo<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kauppa<s n="n"/></l><r>affäre<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kaupunginjohtajatar<s n="n"/></l><r>bürgermeisterin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kaupunginosa<s n="n"/></l><r>stadtbezirk<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaupunkilainen<s n="n"/></l><r>burger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaupunkilainen<s n="n"/></l><r>burger<s n="n"/><s n="m"/></r></p></e>
@@ -5553,6 +5558,7 @@
     <e r="RL"><p><l>ministeri<s n="n"/></l><r>minister<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ministeritär<s n="n"/></l><r>ministerin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ministeriö<s n="n"/></l><r>ministerium<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>mittaus<s n="n"/></l><r>messreihe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>motiivi<s n="n"/></l><r>motiv<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>muistiinpano<s n="n"/></l><r>note<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>muistomerkki<s n="n"/></l><r>mahnmal<s n="n"/><s n="nt"/></r></p></e>
@@ -5731,6 +5737,7 @@
     <e r="RL"><p><l>päällikkö<s n="n"/></l><r>oberhaupt<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>päästö<s n="n"/></l><r>emission<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>päätös<s n="n"/></l><r>beschluss<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>päätös<s n="n"/></l><r>entscheid<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>päätös<s n="n"/></l><r>entscheidung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pöytä<s n="n"/></l><r>tisch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>radikaali<s n="n"/></l><r>radikal<s n="n"/><s n="nt"/></r></p></e>
@@ -6775,7 +6782,9 @@
     <e><p><l>taloudellisesti<s n="adv"/></l><r>wirtschaftlich<s n="adv"/></r></p></e>
     <e><p><l>tarkasti<s n="adv"/></l><r>genau<s n="adv"/></r></p></e>
     <e><p><l>tarvittaessa<s n="adv"/></l><r>notfalls<s n="adv"/></r></p></e>
+    <e><p><l>tasaisesti<s n="adv"/></l><r>gleichmäßig<s n="adv"/></r></p></e>
     <e><p><l>tavallisesti<s n="adv"/></l><r>normalerweise<s n="adv"/></r></p></e>
+    <e><p><l>tavallisesti<s n="adv"/></l><r>regulär<s n="adv"/></r></p></e>
     <e><p><l>tavallisesti<s n="adv"/></l><r>typischerweise<s n="adv"/></r></p></e>
     <e><p><l>tavoin<s n="adv"/></l><r>weise<s n="adv"/></r></p></e>
     <e><p><l>tehokkaasti<s n="adv"/></l><r>effektiv<s n="adv"/></r></p></e>
@@ -7015,6 +7024,7 @@
     <e><p><l>kaakkoinen<s n="adj"/></l><r>südöstlich<s n="pr"/></r></p></e>
     <e><p><l>koillinen<s n="adj"/><s n="pos"/><s n="sg"/></l><r>nordöstlich<s n="pr"/></r></p></e>
     <e><p><l>lännempänä<s n="adv"/></l><r>westlich<s n="adv"/></r></p></e>
+    <e><p><l>sama<s n="adj"/><s n="pos"/><s n="sg"/><s n="ess"/><j/>päivä<s n="n"/><s n="sg"/><s n="ess"/></l><r>am<b/>gleichen<b/>Tag<s n="adv"/></r></p></e>
     <e><p><l>montako<s n="prn"/><s n="sg"/><s n="nom"/></l><r>wie<b/>viele<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="adv"/></r></p></e>
     <e r="LR"><p><l>takia<s n="post"/></l><r>seinetwegen<s n="adv"/></r></p></e>
@@ -7816,6 +7826,7 @@
     <e><p><l>marssia<s n="vblex"/></l><r>marschieren<s n="vblex"/></r></p></e>
     <e><p><l>maskeerata<s n="vblex"/></l><r>maskieren<s n="vblex"/></r></p></e>
     <e><p><l>matkata<s n="vblex"/></l><r>wagen<s n="vblex"/></r></p></e>
+    <e><p><l>matkustaa<s n="vblex"/></l><r>bereisen<s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>fahren<s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>reisen<s n="vblex"/></r></p></e>
     <e><p><l>meinata<s n="vblex"/></l><r>meinen<s n="vblex"/></r></p></e>
@@ -9274,6 +9285,7 @@
     <e><p><l>esimerkillinen<s n="adj"/></l><r>beispielhaft<s n="adj"/></r></p></e>
     <e><p><l>esittävä<s n="adj"/></l><r>vorstellig<s n="adj"/></r></p></e>
     <e><p><l>espanjalainen<s n="adj"/></l><r>spanisch<s n="adj"/></r></p></e>
+    <e><p><l>eteläafrikkalainen<s n="adj"/></l><r>südafrikanisch<s n="adj"/></r></p></e>
     <e><p><l>eteläinen<s n="adj"/></l><r>südlich<s n="adj"/></r></p></e>
     <e><p><l>eteläinen<s n="adj"/></l><r>südlich<s n="adj"/></r></p></e>
     <e><p><l>eteläsaksalainen<s n="adj"/></l><r>süddeutsch<s n="adj"/></r></p></e>
@@ -10388,6 +10400,7 @@
     <e><p><l>vaihtoehtoinen<s n="adj"/></l><r>alternativ<s n="adj"/></r></p></e>
     <e><p><l>vaikea<s n="adj"/></l><r>schwer<s n="adj"/></r></p></e>
     <e><p><l>vaikea<s n="adj"/></l><r>schwierig<s n="adj"/></r></p></e>
+    <e><p><l>vaikuttunut<s n="adj"/></l><r>beeindruckt<s n="adj"/></r></p></e>
     <e><p><l>vaikutukseton<s n="adj"/></l><r>wirkungslos<s n="adj"/></r></p></e>
     <e><p><l>vainoharhainen<s n="adj"/></l><r>paranoid<s n="adj"/></r></p></e>
     <e><p><l>vaivalloinen<s n="adj"/></l><r>mühsam<s n="adj"/></r></p></e>
@@ -11181,6 +11194,7 @@
 
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
+    <e><i>Colorado<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
