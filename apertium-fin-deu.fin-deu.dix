@@ -545,6 +545,7 @@
     <e><p><l>byrokratia<s n="n"/></l><r>Bürokratie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>celsius<s n="n"/></l><r>Celsius<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>chileläinen<s n="n"/></l><r>Chilene<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l c="in water">väylä<s n="n"/></l><r>Fahrwasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>city<s n="n"/></l><r>City<s n="n"/><s n="f"/></r></p></e>
     <e><p><l c="language">mari<s n="n"/></l><r>Mari<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l c="of a flight">lähtö<s n="n"/></l><r>Abflug<s n="n"/><s n="m"/></r></p></e>
@@ -2660,6 +2661,7 @@
     <e><p><l>noudattaminen<s n="n"/></l><r>Einhaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nousu<s n="n"/></l><r>Anstieg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nukke<s n="n"/></l><r>Puppe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nukkuja<s n="n"/></l><r>Träumer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>numero<s n="n"/></l><r>Nummer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>numero<s n="n"/></l><r>Zahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nunna<s n="n"/></l><r>Nonne<s n="n"/><s n="f"/></r></p></e>
@@ -4364,6 +4366,8 @@
     <e><p><l>uloskäynti<s n="n"/></l><r>Ausgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uloskäynti<s n="n"/></l><r>Ausstieg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ulottuvuus<s n="n"/></l><r>Dimension<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>uneksija<s n="n"/></l><r>Träumer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>unelmoija<s n="n"/></l><r>Träumer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unioni<s n="n"/></l><r>Union<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uni<s n="n"/></l><r>Traum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>universumi<s n="n"/></l><r>Universum<s n="n"/><s n="nt"/></r></p></e>
@@ -4625,6 +4629,7 @@
     <e><p><l>vertailu<s n="n"/></l><r>Vergleich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vesilähde<s n="n"/></l><r>Wasserversorgung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vesimuodostuma<s n="n"/></l><r>Gewässer<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>vesireitti<s n="n"/></l><r>Fahrwasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vesi<s n="n"/></l><r>Wasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vesistö<s n="n"/></l><r>Gewässer<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>veteraani<s n="n"/></l><r>Veteran<s n="n"/><s n="m"/></r></p></e>
@@ -5117,6 +5122,7 @@
     <e r="RL"><p><l>ala<s n="n"/></l><r>branche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ala<s n="n"/></l><r>industrie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>alkuperämaa<s n="n"/></l><r>herkunftsland<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>alku<s n="n"/></l><r>anfang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>aloitus<s n="n"/></l><r>start<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>alue<s n="n"/></l><r>anlage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>alue<s n="n"/></l><r>bereich<s n="n"/><s n="m"/></r></p></e>
@@ -5150,6 +5156,7 @@
     <e r="RL"><p><l>asevarasto<s n="n"/></l><r>waffenlager<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>asiakas<s n="n"/></l><r>kunde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>asianajaja<s n="n"/></l><r>rechtsanwalt<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>asiantuntija<s n="n"/></l><r>experte<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>asia<s n="n"/></l><r>angelegenheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>aspekti<s n="n"/></l><r>aspekt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>assi<s n="n"/></l><r c="usually compound fail">as<s n="n"/><s n="nt"/></r></p></e>
@@ -5363,6 +5370,7 @@
     <e r="RL"><p><l>kierros<s n="n"/></l><r>rund<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kiinalainen<s n="n"/></l><r>chinesisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kiintiö<s n="n"/></l><r>quote<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kiista<s n="n"/></l><r>querele<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kiista<s n="n"/></l><r>streitigkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kilometri<s n="n"/></l><r>kilometer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kilpailu<s n="n"/></l><r>wettbewerb<s n="n"/><s n="m"/></r></p></e>
@@ -5465,6 +5473,7 @@
     <e r="RL"><p><l>laukaus<s n="n"/></l><r>abschuss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laukaus<s n="n"/></l><r>schuss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laulu<s n="n"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>lauma<s n="n"/></l><r>herde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lausunto<s n="n"/></l><r>äußerung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lautakunta<s n="n"/></l><r>ausschuss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lautta<s n="n"/></l><r>fähre<s n="n"/><s n="f"/></r></p></e>
@@ -6419,6 +6428,7 @@
     <e><p><l>ensin<s n="adv"/></l><r>zuerst<s n="adv"/></r></p></e>
     <e><p><l>entä<s n="adv"/></l><r>doch<s n="adv"/></r></p></e>
     <e><p><l>epäselvästi<s n="adv"/></l><r>unklar<s n="adv"/></r></p></e>
+    <e><p><l>epäselvästi<s n="adv"/></l><r>vage<s n="adv"/></r></p></e>
     <e><p><l>epäsuorasti<s n="adv"/></l><r>indirekt<s n="adv"/></r></p></e>
     <e><p><l>epätavallisesti<s n="adv"/></l><r>ungewöhnlich<s n="adv"/></r></p></e>
     <e><p><l>epävarmasti<s n="adv"/></l><r>ungewiss<s n="adv"/></r></p></e>
@@ -7214,6 +7224,7 @@
     <e><p><l>epäillä<s n="vblex"/></l><r>tätigen<s n="vblex"/></r></p></e>
     <e><p><l>epäillä<s n="vblex"/></l><r>verdächtigen<s n="vblex"/></r></p></e>
     <e><p><l>epäonnistua<s n="vblex"/></l><r>durchfallen<s n="vblex"/></r></p></e>
+    <e><p><l>epäonnistua<s n="vblex"/></l><r>fehlschlagen<s n="vblex"/></r></p></e>
     <e><p><l>epäonnistua<s n="vblex"/></l><r>missglücken<s n="vblex"/></r></p></e>
     <e><p><l>epäonnistua<s n="vblex"/></l><r>scheitern<s n="vblex"/></r></p></e>
     <e><p><l>epäonnistua<s n="vblex"/></l><r>schiefgehen<s n="vblex"/></r></p></e>
@@ -7526,6 +7537,7 @@
     <e><p><l>kertoa<s n="vblex"/></l><r>schildern<s n="vblex"/></r></p></e>
     <e><p><l>kertoa<s n="vblex"/></l><r>teilen<s n="vblex"/></r></p></e>
     <e><p><l>kerätä<s n="vblex"/></l><r>anhäufen<s n="vblex"/></r></p></e>
+    <e><p><l>kerätä<s n="vblex"/></l><r>einsammeln<s n="vblex"/></r></p></e>
     <e><p><l>kerätä<s n="vblex"/></l><r>kassieren<s n="vblex"/></r></p></e>
     <e><p><l>kerätä<s n="vblex"/></l><r>sammeln<s n="vblex"/></r></p></e>
     <e><p><l>keräytyä<s n="vblex"/></l><r>häufen<s n="vblex"/></r></p></e>
@@ -7607,6 +7619,7 @@
     <e><p><l>koostua<s n="vblex"/></l><r>belaufen<s n="vblex"/></r></p></e>
     <e><p><l>koostua<s n="vblex"/></l><r>beruhen<s n="vblex"/></r></p></e>
     <e><p><l>koostua<s n="vblex"/></l><r>zusammensetzen<s n="vblex"/></r></p></e>
+    <e><p><l>koota<s n="vblex"/></l><r>einsammeln<s n="vblex"/></r></p></e>
     <e><p><l>koota<s n="vblex"/></l><r>zusammenbringen<s n="vblex"/></r></p></e>
     <e><p><l>kopioida<s n="vblex"/></l><r>kopieren<s n="vblex"/></r></p></e>
     <e><p><l>korjata<s n="vblex"/></l><r>ernten<s n="vblex"/></r></p></e>
@@ -9089,6 +9102,8 @@
     <e><p><l>riittää<s n="vblex"/></l><r>reichen<g><b/>aus</g><s n="vblex"/></r></p></e>
     <e><p><l>romahtaa<s n="vblex"/></l><r>stürzen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>laufen<g><b/>ein</g><s n="vblex"/></r></p></e>
+    <e><p><l>saapua<s n="vblex"/></l><r>kommen<g><b/>an</g><s n="vblex"/></r></p></e>
+    <e><p><l>saapua<s n="vblex"/></l><r>kommen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>saattaa<s n="vblex"/></l><r>gehen<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>sanella<s n="vblex"/></l><r>sagen<g><b/>vor</g><s n="vblex"/></r></p></e>
     <e><p><l>selvittää<s n="vblex"/></l><r>finden<g><b/>heraus</g><s n="vblex"/></r></p></e>
@@ -9130,6 +9145,7 @@
     <e><p><l>aamuinen<s n="adj"/></l><r>morgendlich<s n="adj"/></r></p></e>
     <e><p><l>aasialainen<s n="adj"/></l><r>asiatisch<s n="adj"/></r></p></e>
     <e><p><l>aatelinen<s n="adj"/></l><r>vornehm<s n="adj"/></r></p></e>
+    <e><p><l>aavikoitunut<s n="adj"/></l><r>wüst<s n="adj"/></r></p></e>
     <e><p><l>absoluuttinen<s n="adj"/></l><r>absolut<s n="adj"/></r></p></e>
     <e><p><l>absurdi<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
     <e><p><l>afgaani<s n="adj"/></l><r>afghanisch<s n="adj"/></r></p></e>
@@ -9274,6 +9290,7 @@
     <e><p><l>epäisänmaallinen<s n="adj"/></l><r>unpatriotisch<s n="adj"/></r></p></e>
     <e><p><l>epäkelpo<s n="adj"/></l><r>ungültig<s n="adj"/></r></p></e>
     <e><p><l>epäkypsä<s n="adj"/></l><r>unreif<s n="adj"/></r></p></e>
+    <e><p><l>epämukava<s n="adj"/></l><r>unbequem<s n="adj"/></r></p></e>
     <e><p><l>epämuodollinen<s n="adj"/></l><r>informell<s n="adj"/></r></p></e>
     <e><p><l>epäonnistunut<s n="adj"/></l><r>erfolglos<s n="adj"/></r></p></e>
     <e><p><l>epäonnistunut<s n="adj"/></l><r>verfehlt<s n="adj"/></r></p></e>
@@ -10658,7 +10675,6 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
-    <e><p><l>aavikoitunut<s n="adj"/></l><r>wüst<s n="adj"/></r></p></e>
 
 
 
