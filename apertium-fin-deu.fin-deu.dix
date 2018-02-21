@@ -676,6 +676,7 @@
     <e><p><l>enklaavi<s n="n"/></l><r>Enklave<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ennakkoluulo<s n="n"/></l><r>Vorurteil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ennakkomaksu<s n="n"/></l><r>Anzahlung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ennakkomyynti<s n="n"/></l><r>Vorverkauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ennakko<s n="n"/></l><r>Vorfeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ennakkotapaus<s n="n"/></l><r>Vorrang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ennakointi<s n="n"/></l><r>Voraussicht<s n="n"/><s n="f"/></r></p></e>
@@ -1680,6 +1681,7 @@
     <e><p><l>koko<s n="n"/></l><r>Größe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kokous<s n="n"/></l><r>Gipfel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kolera<s n="n"/></l><r>Cholera<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kolikko<s n="n"/></l><r>Münze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kolleegio<s n="n"/></l><r>Kollegium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kollega<s n="n"/></l><r>Kollege<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kollege<s n="n"/></l><r>College<s n="n"/><s n="nt"/></r></p></e>
@@ -2243,6 +2245,7 @@
     <e><p><l>lähde<s n="n"/></l><r>Quelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähde<s n="n"/></l><r>Quell<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>läheneminen<s n="n"/></l><r>Annäherung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lähettiläs<s n="n"/></l><r>Abgesandte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähettäjä<s n="n"/></l><r>Sender<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähetys<s n="n"/></l><r>Ausstrahlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lähetys<s n="n"/></l><r>Lieferung<s n="n"/><s n="f"/></r></p></e>
@@ -2565,6 +2568,7 @@
     <e><p><l>muotoilu<s n="n"/></l><r>Formulierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muoto<s n="n"/></l><r>Form<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muovipussi<s n="n"/></l><r>Plastiktüte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>muovi<s n="n"/></l><r>Plastik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>murhaaja<s n="n"/></l><r>Mörder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>murha<s n="n"/></l><r>Ermordung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>murha<s n="n"/></l><r>Mord<s n="n"/><s n="m"/></r></p></e>
@@ -2988,7 +2992,10 @@
     <e><p><l>penis<s n="n"/></l><r>Penis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r c="~2017 often Mike Pence">Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pensaikko<s n="n"/></l><r>Hecke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pentagoni<s n="n"/></l><r>Pentagon<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perheenjäsen<s n="n"/></l><r>Familienmitglied<s n="n"/><s n="nt"/></r></p></e>
@@ -4092,6 +4099,7 @@
     <e><p><l>tiedosto<s n="n"/></l><r>Datei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tiedote<s n="n"/></l><r>Medienbericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tiedottaja<s n="n"/></l><r>Publizist<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tiedotuskampanja<s n="n"/></l><r>Informationskampagne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tiedustelu<s n="n"/></l><r>Auskunft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tie<s n="n"/></l><r>Bahn<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tie<s n="n"/></l><r>Weg<s n="n"/><s n="m"/></r></p></e>
@@ -5230,6 +5238,7 @@
     <e r="RL"><p><l>gaala<s n="n"/></l><r>gala<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>georgialainen<s n="n"/></l><r>georgisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hahmo<s n="n"/></l><r>figur<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>hajoaminen<s n="n"/></l><r>verfall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hallinta<s n="n"/></l><r>management<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hallinta<s n="n"/></l><r>management<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hallinto<s n="n"/></l><r>verwaltung<s n="n"/><s n="f"/></r></p></e>
@@ -5340,6 +5349,7 @@
     <e r="RL"><p><l>kalenteri<s n="n"/></l><r>kalender<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kaluste<s n="n"/></l><r>mobiliar<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kamari<s n="n"/></l><r>kammer<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kampanja<s n="n"/></l><r>kampagne<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kamppailu<s n="n"/></l><r>bekämpfung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kanava<s n="n"/></l><r>kanal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kandidaatti<s n="n"/></l><r>kandidat<s n="n"/><s n="m"/></r></p></e>
@@ -5522,6 +5532,7 @@
     <e r="RL"><p><l>linnoitus<s n="n"/></l><r>bastion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lipsahdus<s n="n"/></l><r>rutsch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lista<s n="n"/></l><r>liste<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>lisäosa<s n="n"/></l><r>aufsatz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>live<s n="n"/></l><r>live<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lobby<s n="n"/></l><r>lobby<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lohkare<s n="n"/></l><r c="betoni">klotz<s n="n"/><s n="m"/></r></p></e>
@@ -6028,6 +6039,7 @@
     <e r="RL"><p><l>tukikohta<s n="n"/></l><r>basis<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tukikohta<s n="n"/></l><r>stützpunkt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tuki<s n="n"/></l><r>unterstützung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>tuli<s n="n"/></l><r>feuer<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tulli<s n="n"/></l><r>zoll<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulonlähde<s n="n"/></l><r>einnahmequelle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tulo<s n="n"/></l><r>einzug<s n="n"/><s n="m"/></r></p></e>
@@ -9745,6 +9757,7 @@
     <e><p><l>libanonilainen<s n="adj"/></l><r>libanesisch<s n="adj"/></r></p></e>
     <e><p><l>liberaali<s n="adj"/></l><r>liberal<s n="adj"/></r></p></e>
     <e><p><l>libyalainen<s n="adj"/></l><r>libysch<s n="adj"/></r></p></e>
+    <e><p><l>liettualainen<s n="adj"/></l><r>lettisch<s n="adj"/></r></p></e>
     <e><p><l>liettualainen<s n="adj"/></l><r>litauisch<s n="adj"/></r></p></e>
     <e><p><l>liiallinen<s n="adj"/></l><r>exzessiv<s n="adj"/></r></p></e>
     <e><p><l>liiketoiminnallinen<s n="adj"/></l><r>geschäftlich<s n="adj"/></r></p></e>
@@ -9788,6 +9801,7 @@
     <e><p><l>läheinen<s n="adj"/></l><r>nah<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>läheinen<s n="adj"/></l><r>vertraut<s n="adj"/></r></p></e>
     <e><p><l>lähempi<s n="adj"/></l><r>nah<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lähetetty<s n="adj"/></l><r>abgesandt<s n="adj"/></r></p></e>
     <e><p><l>lähetetty<s n="adj"/></l><r>gesandt<s n="adj"/></r></p></e>
     <e><p><l>lämmin<s n="adj"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>länsiafrikkalainen<s n="adj"/></l><r>westafrikanisch<s n="adj"/></r></p></e>
@@ -11280,7 +11294,6 @@
 
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
-    <e><i>Port-au-Prince<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
@@ -11801,6 +11814,7 @@
     <e><i>Pedro<s n="np"/></i></e>
     <e><i>Peking<s n="np"/></i></e>
     <e><i>Pennsylvania<s n="np"/></i></e>
+    <e><i>Penny<s n="np"/></i></e>
     <e><i>Perry<s n="np"/></i></e>
     <e><i>Peru<s n="np"/></i></e>
     <e><i>Peter<s n="np"/></i></e>
@@ -11814,6 +11828,7 @@
     <e><i>Pierre<s n="np"/></i></e>
     <e><i>Pieter<s n="np"/></i></e>
     <e><i>Porsche<s n="np"/></i></e>
+    <e><i>Port-au-Prince<s n="np"/></i></e>
     <e><i>Potsdam<s n="np"/></i></e>
     <e><i>Powell<s n="np"/></i></e>
     <e><i>Puerto<b/>Rico<s n="np"/></i></e>
@@ -11988,8 +12003,6 @@
          {{{ translated names -->
 
     <e c="of Nazareth"><p><l>Jeesus<s n="np"/></l><r>Jesus<s n="np"/></r></p></e>
-    <e><p><l>Karibia<s n="np"/></l><r>Karibik<s n="np"/></r></p></e>
-    <e><p><l>Kambodža<s n="np"/></l><r>Kambodscha<s n="np"/></r></p></e>
     <e><p><l>Aasia<s n="np"/></l><r>Asien<s n="np"/></r></p></e>
     <e><p><l>Afganistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
     <e><p><l>Afrikka<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
@@ -12045,6 +12058,8 @@
     <e><p><l>Jordania<s n="np"/></l><r>Jordanien<s n="np"/></r></p></e>
     <e><p><l>Jugoslavia<s n="np"/></l><r>Jugoslawien<s n="np"/></r></p></e>
     <e><p><l>Kalifornia<s n="np"/></l><r>Kalifornien<s n="np"/></r></p></e>
+    <e><p><l>Kambodža<s n="np"/></l><r>Kambodscha<s n="np"/></r></p></e>
+    <e><p><l>Karibia<s n="np"/></l><r>Karibik<s n="np"/></r></p></e>
     <e><p><l>Katalonia<s n="np"/></l><r>Katalonien<s n="np"/></r></p></e>
     <e><p><l>Kazakstan<s n="np"/></l><r>Kasachstan<s n="np"/></r></p></e>
     <e><p><l>Keski-Afrikan<b/>tasavalta<s n="np"/></l><r>Zentralafrikanische<b/>Republik<s n="np"/></r></p></e>
@@ -12096,6 +12111,7 @@
     <e><p><l>Ranska<s n="np"/></l><r>Frankreich<s n="np"/></r></p></e>
     <e><p><l>Reininmaa<s n="np"/></l><r>Rheinland<s n="np"/></r></p></e>
     <e><p><l>Rein<s n="np"/></l><r>Rhein<s n="np"/></r></p></e>
+    <e><p><l>Riika<s n="np"/></l><r>Riga<s n="np"/></r></p></e>
     <e><p><l>Romania<s n="np"/></l><r>Rumänien<s n="np"/></r></p></e>
     <e><p><l>Rooma<s n="np"/></l><r>Rom<s n="np"/></r></p></e>
     <e><p><l>Ruotsi<s n="np"/></l><r>Schweden<s n="np"/></r></p></e>
