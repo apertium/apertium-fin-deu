@@ -384,6 +384,7 @@
     <e><p><l>aromi<s n="n"/></l><r>Aroma<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aromi<s n="n"/></l><r>Aromastoff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>artikkeli<s n="n"/></l><r>Artikel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>artisti<s n="n"/></l><r>Artist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arvaus<s n="n"/></l><r>Vermutung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arvioija<s n="n"/></l><r>Gutachter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arviointi<s n="n"/></l><r>Auswertung<s n="n"/><s n="f"/></r></p></e>
@@ -1349,6 +1350,7 @@
     <e><p><l>kameramies<s n="n"/></l><r>Kameramann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamera<s n="n"/></l><r>Kamera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kampanja<s n="n"/></l><r>Kampagne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kamppailija<s n="n"/></l><r>Fighter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamppailu<s n="n"/></l><r>Bekämpfung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kamppailu<s n="n"/></l><r>Kampf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanadalainen<s n="n"/></l><r>Kanadier<s n="n"/><s n="m"/></r></p></e>
@@ -1930,6 +1932,7 @@
     <e><p><l>käsikirjoittaja<s n="n"/></l><r>Drehbuchautor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käsikirjoitus<s n="n"/></l><r>Drehbuch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käsikirjoitus<s n="n"/></l><r>Handschrift<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>käsikranaatti<s n="n"/></l><r>Handgranate<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>käsimatkatavara<s n="n"/></l><r>Handgepäck<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käsi<s n="n"/></l><r>Arm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käsi<s n="n"/></l><r>Hand<s n="n"/><s n="f"/></r></p></e>
@@ -2618,6 +2621,7 @@
     <e><p><l>naapurusto<s n="n"/></l><r>Stadtviertel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>naarmu<s n="n"/></l><r c="can be PROPN">Ritz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nainen<s n="n"/></l><r>Frau<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>naisartisti<s n="n"/></l><r>Künstlerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naisfinalisti<s n="n"/></l><r>Finalistin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naiskokki<s n="n"/></l><r>Köchin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>naiskollega<s n="n"/></l><r>Kollegin<s n="n"/><s n="f"/></r></p></e>
@@ -2762,6 +2766,7 @@
     <e><p><l>olympiavoittaja<s n="n"/></l><r>Olympiasieger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>omaisuus<s n="n"/></l><r>Kapital<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omaisuus<s n="n"/></l><r>Vermögen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>omaisuusvahinko<s n="n"/></l><r>Sachschaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>omatunto<s n="n"/></l><r>Gewissen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omeletti<s n="n"/></l><r>Omelette<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omistaja<s n="n"/></l><r>Besitzer<s n="n"/><s n="m"/></r></p></e>
@@ -2992,9 +2997,9 @@
     <e><p><l>penis<s n="n"/></l><r>Penis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r c="~2017 often Mike Pence">Pence<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Pence<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>penni<s n="n"/></l><r>Penny<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pensaikko<s n="n"/></l><r>Hecke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pentagoni<s n="n"/></l><r>Pentagon<s n="n"/><s n="nt"/></r></p></e>
@@ -4584,6 +4589,7 @@
     <e><p><l>vasemmisto<s n="n"/></l><r>Linke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vasikka<s n="n"/></l><r>Spitzel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaaja<s n="n"/></l><r>Korrespondent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vastaanottaja<s n="n"/></l><r>Empfänger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaanotto<s n="n"/></l><r>Annahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vastaanotto<s n="n"/></l><r>Aufnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vastaantulo<s n="n"/></l><r>Entgegenkommen<s n="n"/><s n="nt"/></r></p></e>
@@ -5592,6 +5598,7 @@
     <e r="RL"><p><l>marssi<s n="n"/></l><r>marsch<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>massamurha<s n="n"/></l><r>massaker<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>massa<s n="n"/></l><r>masse<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>mastonhuippu<s n="n"/></l><r c="common disam fail">topp<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>materiaali<s n="n"/></l><r>material<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>matka<s n="n"/></l><r c="Kurzstecke">strecke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matka<s n="n"/></l><r>fahrt<s n="n"/><s n="f"/></r></p></e>
@@ -5779,6 +5786,7 @@
     <e r="RL"><p><l>puoliso<s n="n"/></l><r>ehe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puoliso<s n="n"/></l><r>gemahl<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puolue<s n="n"/></l><r>partei<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>puolustaja<s n="n"/></l><r>verteidiger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puolustusjärjestelmä<s n="n"/></l><r>abwehrsystem<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>puolustus<s n="n"/></l><r>abwehr<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puolustus<s n="n"/></l><r>schutz<s n="n"/><s n="m"/></r></p></e>
@@ -6221,7 +6229,6 @@
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääritoiminta<s n="n"/></l><r>extremismus<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
@@ -7826,6 +7833,7 @@
     <e><p><l>lorvailla<s n="vblex"/></l><r c="should translate to a phrase">beschäftigen<s n="vblex"/></r></p></e>
     <e><p><l>loukata<s n="vblex"/></l><r>beleidigen<s n="vblex"/></r></p></e>
     <e><p><l>loukata<s n="vblex"/></l><r>beschimpfen<s n="vblex"/></r></p></e>
+    <e><p><l>luennoida<s n="vblex"/></l><r>vortragen<s n="vblex"/></r></p></e>
     <e><p><l>luetteloida<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
     <e><p><l>luiskahtaa<s n="vblex"/></l><r>schlüpfen<s n="vblex"/></r></p></e>
     <e><p><l>lukea<s n="vblex"/></l><r>lesen<s n="vblex"/></r></p></e>
@@ -8192,6 +8200,7 @@
     <e><p><l>preferoida<s n="vblex"/></l><r>bevorzugen<s n="vblex"/></r></p></e>
     <e><p><l>priorisoida<s n="vblex"/></l><r>priorisieren<s n="vblex"/></r></p></e>
     <e><p><l>promotoida<s n="vblex"/></l><r>promovieren<s n="vblex"/></r></p></e>
+    <e><p><l>propagoida<s n="vblex"/></l><r>propagieren<s n="vblex"/></r></p></e>
     <e><p><l>prosessoida<s n="vblex"/></l><r>verarbeiten<s n="vblex"/></r></p></e>
     <e><p><l>protestoida<s n="vblex"/></l><r>protestieren<s n="vblex"/></r></p></e>
     <e><p><l>provosoida<s n="vblex"/></l><r>provozieren<s n="vblex"/></r></p></e>
@@ -11755,6 +11764,7 @@
     <e><i>Monaco<s n="np"/></i></e>
     <e><i>Monica<s n="np"/></i></e>
     <e><i>Monika<s n="np"/></i></e>
+    <e><i>Montenegro<s n="np"/></i></e>
     <e><i>Montreal<s n="np"/></i></e>
     <e><i>Moreno<s n="np"/></i></e>
     <e><i>Morgan<s n="np"/></i></e>
