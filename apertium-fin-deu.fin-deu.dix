@@ -145,8 +145,8 @@
 
   <section id="main" type="standard">
 
-    <!--            {{{     N   O       U    N S       O             UN   S     NO UN  S
-           {{{     n o   u         n  s     w  i             t    h g      ende r s -->
+    <!--            {{{     N    O       U    N S       O             UN   S     NO UN  S
+           {{{     n o   u          n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -171,6 +171,7 @@
     <e c="meeting meeting"><p><l>kokous<s n="n"/></l><r>Gipfeltreffen<s n="n"/><s n="nt"/></r></p></e>
     <e c="net(?) income"><p><l>tulo<s n="n"/></l><r>Aufkommen<s n="n"/><s n="nt"/></r></p></e>
     <e c="parrot type, macaw"><p><l>ara<s n="n"/></l><r>Ara<s n="n"/><s n="m"/></r></p></e>
+    <e c="politix"><p><l>ministerinvirka<s n="n"/></l><r>Staatsminister<s n="n"/><s n="m"/></r></p></e>
     <e c="redistribution; anti-piracy"><p><l>jälleenmyynti<s n="n"/></l><r>Umverteilung<s n="n"/><s n="f"/></r></p></e>
     <e c="SI unit"><p><l>newton<s n="n"/></l><r>Newton<s n="n"/><s n="nt"/></r></p></e>
     <e c="special language"><p><l>palkkaneuvottelu<s n="n"/></l><r>Tarifverhandlung<s n="n"/><s n="f"/></r></p></e>
@@ -471,6 +472,7 @@
     <e><p><l>attentaatti<s n="n"/></l><r>Attentäter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>audio<s n="n"/></l><r>Audio<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aukioloaika<s n="n"/></l><r>Öffnungszeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>auktoriteetti<s n="n"/></l><r>Autorität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aurinkojärjestelmä<s n="n"/></l><r>Sonnensystem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aurinkolasit<s n="n"/></l><r>Sonnenbrille<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aurinko<s n="n"/></l><r>Sonne<s n="n"/><s n="f"/></r></p></e>
@@ -2434,6 +2436,7 @@
     <e><p><l>matkakohde<s n="n"/></l><r>Ausflugsziel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>matkakulu<s n="n"/></l><r>Reisekosten<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>matkalasku<s n="n"/></l><r>Reisekosten<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>matkapuhelin<s n="n"/></l><r>Mobilfunk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>matka<s n="n"/></l><r>Fahrt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>matka<s n="n"/></l><r>Reise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>matkasuunnitelma<s n="n"/></l><r>Fahrplan<s n="n"/><s n="m"/></r></p></e>
@@ -2526,6 +2529,7 @@
     <e><p><l>mittakaava<s n="n"/></l><r>Maßstab<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mitta<s n="n"/></l><r>Maß<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mitta<s n="n"/></l><r>Pegel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mobiili<s n="n"/></l><r>Mobile<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>moderaattori<s n="n"/></l><r>Moderator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>modernisointi<s n="n"/></l><r>Modernisierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>moguli<s n="n"/></l><r>Mogul<s n="n"/><s n="m"/></r></p></e>
@@ -2675,6 +2679,7 @@
     <e><p><l>normaalius<s n="n"/></l><r>Normalität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>normi<s n="n"/></l><r>Norm<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>norsunluu<s n="n"/></l><r>Elfenbein<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nostalgikko<s n="n"/></l><r>Nostalgiker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noste<s n="n"/></l><r>Auftrieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noste<s n="n"/></l><r>Aufwind<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>noudattaminen<s n="n"/></l><r>Einhaltung<s n="n"/><s n="f"/></r></p></e>
@@ -4879,6 +4884,7 @@
     <e><p><l>yli-ihminen<s n="n"/></l><r>Übermensch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ylijäämä<s n="n"/></l><r>Überschuss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ylikulku<s n="n"/></l><r>Übergang<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ylimäärä<s n="n"/></l><r>Übermaß<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yliopistokaupunki<s n="n"/></l><r>Universitätsstadt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yliopisto<s n="n"/></l><r>Uni<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yliopisto<s n="n"/></l><r>Universität<s n="n"/><s n="f"/></r></p></e>
@@ -5674,6 +5680,7 @@
     <e r="RL"><p><l>oikeus<s n="n"/></l><r>rechte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>oire<s n="n"/></l><r>symptom<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>oksa<s n="n"/></l><r>zweig<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>olemassaolo<s n="n"/></l><r>vorliegen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>olo<s n="n"/></l><r>wesen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>omaisuus<s n="n"/></l><r>vermögen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ongelma<s n="n"/></l><r>problem<s n="n"/><s n="nt"/></r></p></e>
@@ -6014,6 +6021,7 @@
     <e r="RL"><p><l>tekijä<s n="n"/></l><r>faktor<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tekijä<s n="n"/></l><r>täter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tekniikka<s n="n"/></l><r>technik<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>teknologia<s n="n"/></l><r>technologie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>teko<s n="n"/></l><r>akt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>teksti<s n="n"/></l><r>text<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>teloitus<s n="n"/></l><r>hinrichtung<s n="n"/><s n="f"/></r></p></e>
@@ -8281,6 +8289,7 @@
     <e><p><l>päätyä<s n="vblex"/></l><r>gelangen<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>landen<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>resultieren<s n="vblex"/></r></p></e>
+    <e><p><l>pönkittää<s n="vblex"/></l><r>untermauern<s n="vblex"/></r></p></e>
     <e><p><l>radikalisoitua<s n="vblex"/></l><r>radikalisieren<s n="vblex"/></r></p></e>
     <e><p><l>rahoittaa<s n="vblex"/></l><r>finanzieren<s n="vblex"/></r></p></e>
     <e><p><l>raiskata<s n="vblex"/></l><r>vergewaltigen<s n="vblex"/></r></p></e>
@@ -8692,6 +8701,7 @@
     <e><p><l>tukahduttaa<s n="vblex"/></l><r>ersticken<s n="vblex"/></r></p></e>
     <e><p><l>tukahtua<s n="vblex"/></l><r>stagnieren<s n="vblex"/></r></p></e>
     <e><p><l>tukea<s n="vblex"/></l><r>stützen<s n="vblex"/></r></p></e>
+    <e><p><l>tukea<s n="vblex"/></l><r>untermauern<s n="vblex"/></r></p></e>
     <e><p><l>tukea<s n="vblex"/></l><r>unterstützen<s n="vblex"/></r></p></e>
     <e><p><l>tukehduttaa<s n="vblex"/></l><r>ersticken<s n="vblex"/></r></p></e>
     <e><p><l>tulittaa<s n="vblex"/></l><r>feuern<s n="vblex"/></r></p></e>
@@ -8819,6 +8829,7 @@
     <e><p><l>vaikuttaa<s n="vblex"/></l><r>auswirken<s n="vblex"/></r></p></e>
     <e><p><l>vaikuttaa<s n="vblex"/></l><r>beeindrucken<s n="vblex"/></r></p></e>
     <e><p><l>vaikuttaa<s n="vblex"/></l><r>beeinflussen<s n="vblex"/></r></p></e>
+    <e><p><l>vaikuttaa<s n="vblex"/></l><r>einwirken<s n="vblex"/></r></p></e>
     <e><p><l>vaivata<s n="vblex"/></l><r>belasten<s n="vblex"/></r></p></e>
     <e><p><l>vakautua<s n="vblex"/></l><r>stabilisieren<s n="vblex"/></r></p></e>
     <e><p><l>vakoilla<s n="vblex"/></l><r>ausspionieren<s n="vblex"/></r></p></e>
@@ -9555,6 +9566,8 @@
     <e><p><l>järkyttynyt<s n="adj"/></l><r>entsetzt<s n="adj"/></r></p></e>
     <e><p><l>järkyttynyt<s n="adj"/></l><r>geschockt<s n="adj"/></r></p></e>
     <e><p><l>järkyttävä<s n="adj"/></l><r>eklatant<s n="adj"/></r></p></e>
+    <e><p><l>jäykkäniskainen<s n="adj"/></l><r>hartnäckig<s n="adj"/></r></p></e>
+    <e><p><l>jääräpäinen<s n="adj"/></l><r>hartnäckig<s n="adj"/></r></p></e>
     <e><p><l>kadonnut<s n="adj"/></l><r>verloren<s n="adj"/></r></p></e>
     <e><p><l>kadonnut<s n="adj"/></l><r>verschwunden<s n="adj"/></r></p></e>
     <e><p><l>kahdeksas<s n="adj"/></l><r>achte<s n="adj"/></r></p></e>
@@ -11349,6 +11362,7 @@
     <e><i>Andy<s n="np"/></i></e>
     <e><i>Angela<s n="np"/></i></e>
     <e><i>Angelino<s n="np"/></i></e>
+    <e><i>Anja<s n="np"/></i></e>
     <e><i>Ankara<s n="np"/></i></e>
     <e><i>Anna<s n="np"/></i></e>
     <e><i>Anne<s n="np"/></i></e>
@@ -11574,6 +11588,7 @@
     <e><i>Heinrich<s n="np"/></i></e>
     <e><i>Heinz<s n="np"/></i></e>
     <e><i>Helen<s n="np"/></i></e>
+    <e><i>Helge<s n="np"/></i></e>
     <e><i>Helmut<s n="np"/></i></e>
     <e><i>Henri<s n="np"/></i></e>
     <e><i>Henry<s n="np"/></i></e>
