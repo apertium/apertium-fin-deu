@@ -810,6 +810,7 @@
     <e><p><l>frangi<s n="n"/></l><r>Franken<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frankfurtinmakkara<s n="n"/></l><r>Frankfurter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frankfurtlainen<s n="n"/></l><r>Frankfurter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fregatti<s n="n"/></l><r>Fregatte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>freiburglainen<s n="n"/></l><r>Freiburger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fundamentti<s n="n"/></l><r>Fundament<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>funktio<s n="n"/></l><r>Funktion<s n="n"/><s n="f"/></r></p></e>
@@ -908,6 +909,7 @@
     <e><p><l>helpotus<s n="n"/></l><r>Erleichterung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>helvetti<s n="n"/></l><r>Hölle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hengitys<s n="n"/></l><r>Atem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>henkiinherätys<s n="n"/></l><r>Wiederbelebung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>henkilökunta<s n="n"/></l><r>Belegschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>henkilöllisyystodistus<s n="n"/></l><r>Personalausweis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>henkilöstö<s n="n"/></l><r>Mitarbeiterstab<s n="n"/><s n="m"/></r></p></e>
@@ -3719,6 +3721,7 @@
     <e><p><l>sisälmys<s n="n"/></l><r>Innere<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisältö<s n="n"/></l><r>Inhalt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sisämaa<s n="n"/></l><r>Inland<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>sisämaa<s n="n"/></l><r>Landesinnere<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisäministeri<s n="n"/></l><r>Innenminister<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sisäministeriö<s n="n"/></l><r>Innenministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisäpiiri<s n="n"/></l><r>Insider<s n="n"/><s n="m"/></r></p></e>
@@ -3879,6 +3882,7 @@
     <e><p><l>suu<s n="n"/></l><r>Mund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suutari<s n="n"/></l><r>Schuster<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suvereniteetti<s n="n"/></l><r>Souveränität<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>švaabi<s n="n"/></l><r>Schwabe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sveitsiläinen<s n="n"/></l><r>Schweizer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sydäninfarkti<s n="n"/></l><r>Herzinfarkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sydänkohtaus<s n="n"/></l><r>Schlaganfall<s n="n"/><s n="m"/></r></p></e>
@@ -4966,6 +4970,7 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+
 
 
 
@@ -6250,6 +6255,9 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>kamppailija<s n="n"/></l><r>fighter<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>uudelleenkoulutus<s n="n"/></l><r>umbildung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>boikotti<s n="n"/></l><r>boykott<s n="n"/><s n="m"/></r></p></e>
 
 
 
@@ -9036,6 +9044,7 @@
 
 
 
+    <e><p><l>toimittaa<s n="vblex"/></l><r c="maybe german guesser fail?">courieren<s n="vblex"/></r></p></e>
     <e><p><l>luovuttaa<s n="vblex"/></l><r c="maybe german guesser fail?">spendertieren<s n="vblex"/></r></p></e>
     <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">eröffnungsfeieren<s n="vblex"/></r></p></e>
     <e><p><l>koristella<s n="vblex"/></l><r c="maybe german guesser fail?">nobeljuwelieren<s n="vblex"/></r></p></e>
@@ -9146,6 +9155,7 @@
     <e><p><l>kääntyä<s n="vblex"/></l><r>lenken<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>luokitella<s n="vblex"/></l><r>ordnen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>lisätä<s n="vblex"/></l><r>fügen<g><b/>hinzu</g><s n="vblex"/></r></p></e>
+    <e><p><l>kanssamatkustaa<s n="vblex"/></l><r>fahren<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>fahren<g><b/>aus</g><s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>reisen<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>myöntyä<s n="vblex"/></l><r>stimmen<g><b/>zu</g><s n="vblex"/></r></p></e>
@@ -9604,6 +9614,7 @@
     <e><p><l>karkea<s n="adj"/></l><r>derb<s n="adj"/></r></p></e>
     <e><p><l>karkottava<s n="adj"/></l><r>abschreckend<s n="adj"/></r></p></e>
     <e><p><l>karmaiseva<s n="adj"/></l><r>grausam<s n="adj"/></r></p></e>
+    <e><p><l>karu<s n="adj"/></l><r>desolat<s n="adj"/></r></p></e>
     <e><p><l>karu<s n="adj"/></l><r>grob<s n="adj"/></r></p></e>
     <e><p><l>karu<s n="adj"/></l><r>harsch<s n="adj"/></r></p></e>
     <e><p><l>kasviperäinen<s n="adj"/></l><r>pflanzlich<s n="adj"/></r></p></e>
