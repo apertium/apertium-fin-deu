@@ -145,7 +145,7 @@
 
   <section id="main" type="standard">
 
-    <!--             {{{     N    O       U    N S       O             UN   S     NO UN  S
+    <!--              {{{     N    O       U    N S       O             UN   S     NO UN  S
            {{{     n o   u          n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
@@ -4992,6 +4992,10 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voitto<s n="n"/></l><r>Zugewinn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>omakuva<s n="n"/></l><r>Selbstverständnis<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>satu<s n="n"/></l><r>Märchen<s n="n"/><s n="nt"/></r></p></e>
+
 
 
 
@@ -5241,6 +5245,7 @@
     <e r="RL"><p><l>delegaatio<s n="n"/></l><r>delegation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>demonstraatio<s n="n"/></l><r>demonstration<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>demo<s n="n"/></l><r>demo<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>design<s n="n"/></l><r>design<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diktatuuri<s n="n"/></l><r>diktatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diplomaatti<s n="n"/></l><r>diplomat<s n="n"/><s n="m"/></r></p></e>
@@ -5939,6 +5944,7 @@
     <e r="RL"><p><l>sarja<s n="n"/></l><r>serie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>satiiri<s n="n"/></l><r>satire<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sattuma<s n="n"/></l><r>chance<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>satu<s n="n"/></l><r>märchen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>saudi<s n="n"/></l><r>saudi<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>seikka<s n="n"/></l><r>sache<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sektori<s n="n"/></l><r>sektor<s n="n"/><s n="m"/></r></p></e>
@@ -7754,6 +7760,7 @@
     <e><p><l>kriisiytyä<s n="vblex"/></l><r>kriseln<s n="vblex"/></r></p></e>
     <e><p><l>kriminalisoida<s n="vblex"/></l><r>kriminalisieren<s n="vblex"/></r></p></e>
     <e><p><l>kritisoida<s n="vblex"/></l><r>kritisieren<s n="vblex"/></r></p></e>
+    <e><p><l>kuiskata<s n="vblex"/></l><r>flüstern<s n="vblex"/></r></p></e>
     <e><p><l>kukoistaa<s n="vblex"/></l><r>boomen<s n="vblex"/></r></p></e>
     <e><p><l>kukoistaa<s n="vblex"/></l><r>florieren<s n="vblex"/></r></p></e>
     <e><p><l>kulkea<s n="vblex"/></l><r>verkehren<s n="vblex"/></r></p></e>
@@ -9470,6 +9477,7 @@
     <e><p><l>etäinen<s n="adj"/></l><r>fern<s n="adj"/></r></p></e>
     <e><p><l>eurooppalainen<s n="adj"/></l><r>europäisch<s n="adj"/></r></p></e>
     <e><p><l>evankelinen<s n="adj"/></l><r>evangelisch<s n="adj"/></r></p></e>
+    <e><p><l>fantastinen<s n="adj"/></l><r>fantasievoll<s n="adj"/></r></p></e>
     <e><p><l>fasistinen<s n="adj"/></l><r>faschistisch<s n="adj"/></r></p></e>
     <e><p><l>filippiiniläinen<s n="adj"/></l><r>philippinisch<s n="adj"/></r></p></e>
     <e><p><l>filippiiniläinen<s n="adj"/></l><r>philippinisch<s n="adj"/></r></p></e>
@@ -9634,6 +9642,7 @@
     <e><p><l>kaivattu<s n="adj"/></l><r>begehrt<s n="adj"/></r></p></e>
     <e><p><l>kaksinkertainen<s n="adj"/></l><r>doppelt<s n="adj"/></r></p></e>
     <e><p><l>kaksinkertainen<s n="adj"/></l><r>zweifach<s n="adj"/></r></p></e>
+    <e><p><l>kaksinumeroinen<s n="adj"/></l><r>zweistellig<s n="adj"/></r></p></e>
     <e><p><l>kaksipuolinen<s n="adj"/></l><r>zweiseitig<s n="adj"/></r></p></e>
     <e><p><l>kaksivuotinen<s n="adj"/></l><r>zweijährig<s n="adj"/></r></p></e>
     <e><p><l>kalifornialainen<s n="adj"/></l><r>kalifornisch<s n="adj"/></r></p></e>
@@ -11522,6 +11531,7 @@
     <e><i>Christine<s n="np"/></i></e>
     <e><i>Christopher<s n="np"/></i></e>
     <e><i>Christoph<s n="np"/></i></e>
+    <e><i>Churchill<s n="np"/></i></e>
     <e><i>Clark<s n="np"/></i></e>
     <e><i>Claude<s n="np"/></i></e>
     <e><i>Claudia<s n="np"/></i></e>
@@ -11593,6 +11603,7 @@
     <e><i>Fitzgerald<s n="np"/></i></e>
     <e><i>Florida<s n="np"/></i></e>
     <e><i>Ford<s n="np"/></i></e>
+    <e><i>Frances<s n="np"/></i></e>
     <e><i>Francis<s n="np"/></i></e>
     <e><i>François<s n="np"/></i></e>
     <e><i>Franco<s n="np"/></i></e>
@@ -11608,6 +11619,7 @@
     <e><i>Fritz<s n="np"/></i></e>
     <e><i>Fuller<s n="np"/></i></e>
     <e><i>Gardner<s n="np"/></i></e>
+    <e><i>Gary<s n="np"/></i></e>
     <e><i>Gates<s n="np"/></i></e>
     <e><i>Genesis<s n="np"/></i></e>
     <e><i>George<b/>Washington<s n="np"/></i></e>
