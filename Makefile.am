@@ -123,7 +123,7 @@ $(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
 ###
 
 $(PREFIX2).autosep.bin: $(BASENAME).$(PREFIX2).lsx
-	$(LSXCOMP) $< $@
+	$(LSXCOMP) lr $< $@
 
 ###############################################################################
 ## Structural transfer rules
