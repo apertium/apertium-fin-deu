@@ -1124,6 +1124,7 @@
           <test>
             <or>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="yksityis"/></equal>
+             <equal><clip pos="1" side="tl" part="lem"/><lit v="vähimmäis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="yhteis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="lähi"/></equal>
            </or>
@@ -2992,7 +2993,7 @@
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
               <var n="number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
@@ -3033,7 +3034,7 @@
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="a_noun"/>
               <var n="number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="case"/>
             </lu>
           </chunk>
         </out>
