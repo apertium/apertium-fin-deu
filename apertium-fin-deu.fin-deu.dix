@@ -157,6 +157,7 @@
     <e c="beer"><p><l>ale<s n="n"/></l><r>Ale<s n="n"/><s n="nt"/></r></p></e>
     <e c="bleh"><p><l>lakiesitys<s n="n"/></l><r>Inkrafttreten<s n="n"/><s n="nt"/></r></p></e>
     <e c="colour"><p><l>sienna<s n="n"/></l><r>Siena<s n="n"/><s n="nt"/></r></p></e>
+    <e c="Cox’ Orange" r="RL"><p><l>omena<s n="n"/></l><r c="likely PROPN">Cox<s n="n"/><s n="m"/></r></p></e>
     <e c="dynastia"><p><l>qiang<s n="n"/></l><r>Chan<s n="n"/><s n="m"/></r></p></e>
     <e c="electronical drone"><p><l>drone<s n="n"/></l><r>Drohne<s n="n"/><s n="f"/></r></p></e>
     <e c="finances"><p><l>erä<s n="n"/></l><r>Tranche<s n="n"/><s n="f"/></r></p></e>
@@ -3704,6 +3705,7 @@
     <e><p><l>seuraus<s n="n"/></l><r>Konsequenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>show<s n="n"/></l><r>Schau<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>show<s n="n"/></l><r>Show<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sianliha<s n="n"/></l><r>Schweinefleisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>siemenneste<s n="n"/></l><r>Same<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>siemen<s n="n"/></l><r>Saatgut<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>siemen<s n="n"/></l><r>Same<s n="n"/><s n="m"/></r></p></e>
@@ -3985,6 +3987,7 @@
     <e><p><l>taistelu<s n="n"/></l><r>Gefecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>taiteilijanimi<s n="n"/></l><r>Künstlername<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taiteilija<s n="n"/></l><r>Künstler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taitoluistelija<s n="n"/></l><r>Eiskunstläufer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taivas<s n="n"/></l><r>Himmel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taju<s n="n"/></l><r>Verstand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>takaisku<s n="n"/></l><r>Rückfall<s n="n"/><s n="m"/></r></p></e>
@@ -4142,6 +4145,7 @@
     <e><p><l>terveysministeri<s n="n"/></l><r>Gesundheitsminister<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>terveysministeriö<s n="n"/></l><r>Gesundheitsministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>terveys<s n="n"/></l><r>Gesundheit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teräsputki<s n="n"/></l><r>Stahlrohr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>teräs<s n="n"/></l><r>Stahl<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>terästehdas<s n="n"/></l><r>Stahlwerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>testamentti<s n="n"/></l><r>Testament<s n="n"/><s n="nt"/></r></p></e>
@@ -4397,6 +4401,7 @@
     <e><p><l>työntekijä<s n="n"/></l><r>Beschäftigte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>työntekijä<s n="n"/></l><r>Mitarbeiterin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työntekijä<s n="n"/></l><r>Mitarbeiter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>työntekijätär<s n="n"/></l><r>Bedienstete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työpaikka<s n="n"/></l><r>Arbeitsplatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>työpäivä<s n="n"/></l><r>Werktag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>työryhmä<s n="n"/></l><r>Arbeitsgruppe<s n="n"/><s n="f"/></r></p></e>
@@ -5016,6 +5021,7 @@
     <e><p><l>öljytankkeri<s n="n"/></l><r>Öltanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljyteollisuus<s n="n"/></l><r>Erdölindustrie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
@@ -6611,6 +6617,7 @@
     <e><p><l>hiljaa<s n="adv"/></l><r>ruhig<s n="adv"/></r></p></e>
     <e><p><l>hiljan<s n="adv"/></l><r>unlängst<s n="adv"/></r></p></e>
     <e><p><l>hiljattain<s n="adv"/></l><r>unlängst<s n="adv"/></r></p></e>
+    <e><p><l>hiljattain<s n="adv"/></l><r>vor<b/>kurzem<s n="adv"/></r></p></e>
     <e><p><l>historiallisesti<s n="adv"/></l><r>historisch<s n="adv"/></r></p></e>
     <e><p><l>hitaasti<s n="adv"/></l><r>langsam<s n="adv"/></r></p></e>
     <e><p><l>huolellisesti<s n="adv"/></l><r>vorsichtig<s n="adv"/></r></p></e>
@@ -7242,6 +7249,7 @@
     <e c="approx."><p><l>erilleenajautua<s n="vblex"/></l><r>überwerfen<s n="vblex"/></r></p></e>
     <e c="liquid or so"><p><l>kaataa<s n="vblex"/></l><r>schütten<s n="vblex"/></r></p></e>
     <e c="vaipua epätoivoon?"><p><l>murehtia<s n="vblex"/></l><r>verzweifeln<s n="vblex"/></r></p></e>
+    <e c="XXX"><p><l>budjetoida<s n="vblex"/></l><r>wirtschaften<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>rauhoittaa<s n="vblex"/></l><r>deeskalieren<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>ruoskia<s n="vblex"/></l><r>geißeln<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>selvittää<s n="vblex"/></l><r>einholen<s n="vblex"/></r></p></e>
@@ -8087,6 +8095,7 @@
     <e><p><l>muuttaa<s n="vblex"/></l><r>überführen<s n="vblex"/></r></p></e>
     <e><p><l>muuttaa<s n="vblex"/></l><r>übersiedeln<s n="vblex"/></r></p></e>
     <e><p><l>muuttua<s n="vblex"/></l><r>umwandeln<s n="vblex"/></r></p></e>
+    <e><p><l>myrkyttää<s n="vblex"/></l><r>vergiften<s n="vblex"/></r></p></e>
     <e><p><l>myrskytä<s n="vblex"/></l><r>stürmen<s n="vblex"/></r></p></e>
     <e><p><l>myydä<s n="vblex"/></l><r>verkaufen<s n="vblex"/></r></p></e>
     <e><p><l>myöntää<s n="vblex"/></l><r>zugeben<s n="vblex"/></r></p></e>
@@ -10651,6 +10660,7 @@
     <e><p><l>vaiennettu<s n="adj"/></l><r>schweigend<s n="adj"/></r></p></e>
     <e><p><l>vaiettu<s n="adj"/></l><r>verschwiegen<s n="adj"/></r></p></e>
     <e><p><l>vaihtoehtoinen<s n="adj"/></l><r>alternativ<s n="adj"/></r></p></e>
+    <e><p><l>vaikeaselkoinen<s n="adj"/></l><r>unübersichtlich<s n="adj"/></r></p></e>
     <e><p><l>vaikea<s n="adj"/></l><r>schwer<s n="adj"/></r></p></e>
     <e><p><l>vaikea<s n="adj"/></l><r>schwierig<s n="adj"/></r></p></e>
     <e><p><l>vaikuttunut<s n="adj"/></l><r>beeindruckt<s n="adj"/></r></p></e>
@@ -11543,6 +11553,7 @@
     <e><i>Bob<s n="np"/></i></e>
     <e><i>Bochum<s n="np"/></i></e>
     <e><i>Bogota<s n="np"/></i></e>
+    <e><i>Bolton<s n="np"/></i></e>
     <e><i>Bond<s n="np"/></i></e>
     <e><i>Bonner<s n="np"/></i></e>
     <e><i>Bonn<s n="np"/></i></e>
@@ -12114,6 +12125,7 @@
     <e><i>Ursula<s n="np"/></i></e>
     <e><i>Utah<s n="np"/></i></e>
     <e><i>Vandenberg<s n="np"/></i></e>
+    <e><i>Vanessa<s n="np"/></i></e>
     <e><i>Venezuela<s n="np"/></i></e>
     <e><i>Ventura<s n="np"/></i></e>
     <e><i>Vera<s n="np"/></i></e>
