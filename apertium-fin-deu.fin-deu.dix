@@ -145,8 +145,8 @@
 
   <section id="main" type="standard">
 
-    <!--              {{{     N     O       U    N S       O             UN   S     NO UN  S
-           {{{     n o   u           n  s     w  i             t    h g      ende r s -->
+    <!--              {{{      N     O       U    N S       O             UN   S     NO UN  S
+           {{{     n o   u            n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -950,6 +950,7 @@
     <e><p><l>hiilivoimala<s n="n"/></l><r>Kohlekraftwerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hiippakunta<s n="n"/></l><r>Bistum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hiljaisuus<s n="n"/></l><r>Ruhe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hinnannousu<s n="n"/></l><r>Preissteigerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hinta<s n="n"/></l><r>Kosten<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>hinta<s n="n"/></l><r>Kosten<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>hippi<s n="n"/></l><r>Hippie<s n="n"/><s n="m"/></r></p></e>
@@ -992,6 +993,7 @@
     <e><p><l>huomautus<s n="n"/></l><r>Bemerkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>Aufmerksamkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>Aufmerksamkeit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>huomio<s n="n"/></l><r>Augenmerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>Beachtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huonekalu<s n="n"/></l><r>Möbel<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>huone<s n="n"/></l><r>Kammer<s n="n"/><s n="f"/></r></p></e>
@@ -1544,6 +1546,7 @@
     <e><p><l>kenialainen<s n="n"/></l><r>Kenianer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kenraalimajuri<s n="n"/></l><r>Generalmajor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kenraali<s n="n"/></l><r>General<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kenttäleiri<s n="n"/></l><r>Feldlager<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kenttä<s n="n"/></l><r>Feld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keppi<s n="n"/></l><r>Scheit<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keppi<s n="n"/></l><r>Stab<s n="n"/><s n="m"/></r></p></e>
@@ -2962,6 +2965,7 @@
     <e><p><l>palveluntarjoaja<s n="n"/></l><r>Carrier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palveluntarjoaja<s n="n"/></l><r c="ISP usw.">Provider<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palvelus<s n="n"/></l><r>Annehmlichkeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pamppu<s n="n"/></l><r>Schlagstock<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paneeli<s n="n"/></l><r>Panel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>paniikki<s n="n"/></l><r>Panik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>panimo<s n="n"/></l><r>Brauerei<s n="n"/><s n="f"/></r></p></e>
@@ -3424,6 +3428,7 @@
     <e><p><l>rajoitus<s n="n"/></l><r>Beschränkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajoitus<s n="n"/></l><r>Einschränkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rakenne<s n="n"/></l><r>Struktur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rakennuskompleksi<s n="n"/></l><r>Gebäudekomplex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakennuspalikka<s n="n"/></l><r>Baustein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakennus<s n="n"/></l><r>Bau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakennus<s n="n"/></l><r>Gebäude<s n="n"/><s n="nt"/></r></p></e>
@@ -4008,6 +4013,7 @@
     <e><p><l>talousministeriö<s n="n"/></l><r>Wirtschaftsministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>talous<s n="n"/></l><r>Finanz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>talous<s n="n"/></l><r>Wirtschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taloussuunnitelma<s n="n"/></l><r>Finanzplan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>talousvirhe<s n="n"/></l><r>Misswirtschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>talvipeli<s n="n"/></l><r>Winterspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>talvi<s n="n"/></l><r>Winter<s n="n"/><s n="m"/></r></p></e>
@@ -4338,6 +4344,7 @@
     <e><p><l>turkkilainen<s n="n"/></l><r>Türkisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>turkki<s n="n"/></l><r>Fell<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>turnaus<s n="n"/></l><r>Turnier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>turvallisuusmäärittely<s n="n"/></l><r>Sicherheitsbestimmung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turvallisuusohje<s n="n"/></l><r>Sicherheitshinweise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turvallisuusperuste<s n="n"/></l><r>Sicherheitsgrund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turvallisuus<s n="n"/></l><r>Sicherheit<s n="n"/><s n="f"/></r></p></e>
@@ -5021,7 +5028,6 @@
     <e><p><l>öljytankkeri<s n="n"/></l><r>Öltanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljyteollisuus<s n="n"/></l><r>Erdölindustrie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
@@ -5743,6 +5749,7 @@
     <e r="RL"><p><l>neuvottelu<s n="n"/></l><r>verhandlung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>nihti<s n="n"/></l><r>knecht<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>nimi<s n="n"/></l><r>name<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>nousu<s n="n"/></l><r>aufschwung<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>nousu<s n="n"/></l><r>steigerung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>numero<s n="n"/></l><r>nummer<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>näyttelijätär<s n="n"/></l><r>darstellerin<s n="n"/><s n="f"/></r></p></e>
@@ -6346,6 +6353,7 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
 
 
 
@@ -6484,6 +6492,7 @@
     <e><p><l>TV<s n="n"/><s n="acr"/></l><r>TV<s n="n"/></r></p></e>
     <e><p><l>DVD<s n="n"/></l><r>DVD<s n="n"/></r></p></e>
     <e><p><l>kämppis<s n="n"/></l><r>WG<s n="n"/></r></p></e>
+    <e><p><l>lounas<s n="n"/></l><r c="SOS fail">SO<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>hra<s n="n"/><s n="abbr"/></l><r>Mr.<s n="n"/></r></p></e>
 
 
@@ -7424,6 +7433,7 @@
     <e><p><l>esittää<s n="vblex"/></l><r>ausstrahlen<s n="vblex"/></r></p></e>
     <e><p><l>esittää<s n="vblex"/></l><r>darstellen<s n="vblex"/></r></p></e>
     <e><p><l>esittää<s n="vblex"/></l><r>repräsentieren<s n="vblex"/></r></p></e>
+    <e><p><l>esittää<s n="vblex"/></l><r>vorführen<s n="vblex"/></r></p></e>
     <e><p><l>esittää<s n="vblex"/></l><r>vorlegen<s n="vblex"/></r></p></e>
     <e><p><l>eskaloitua<s n="vblex"/></l><r>eskalieren<s n="vblex"/></r></p></e>
     <e><p><l>estellä<s n="vblex"/></l><r>behindern<s n="vblex"/></r></p></e>
@@ -8516,6 +8526,7 @@
     <e><p><l>sammuttaa<s n="vblex"/></l><r>ausmachen<s n="vblex"/></r></p></e>
     <e><p><l>saneerata<s n="vblex"/></l><r>sanieren<s n="vblex"/></r></p></e>
     <e><p><l>sanella<s n="vblex"/></l><r>diktieren<s n="vblex"/></r></p></e>
+    <e><p><l>sanella<s n="vblex"/></l><r>skandieren<s n="vblex"/></r></p></e>
     <e><p><l>sanella<s n="vblex"/></l><r>vorschreiben<s n="vblex"/></r></p></e>
     <e><p><l>sanktioida<s n="vblex"/></l><r>sanktionieren<s n="vblex"/></r></p></e>
     <e><p><l>sanoa<s n="vblex"/></l><r>angeben<s n="vblex"/></r></p></e>
@@ -9374,6 +9385,7 @@
     <e><p><l>alasaksalainen<s n="adj"/></l><r>niedersächsisch<s n="adj"/></r></p></e>
     <e><p><l>alaston<s n="adj"/></l><r>nackt<s n="adj"/></r></p></e>
     <e><p><l>albanialainen<s n="adj"/></l><r>albanisch<s n="adj"/></r></p></e>
+    <e><p><l>alistava<s n="adj"/></l><r>repressiv<s n="adj"/></r></p></e>
     <e><p><l>alitajunnallinen<s n="adj"/></l><r>unterschwellig<s n="adj"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>ursprünglich<s n="adj"/></r></p></e>
     <e><p><l>altis<s n="adj"/></l><r>liegend<s n="adj"/></r></p></e>
@@ -10390,6 +10402,7 @@
     <e><p><l>silloinen<s n="adj"/></l><r>damalig<s n="adj"/></r></p></e>
     <e><p><l>silloinen<s n="adj"/></l><r>derzeitig<s n="adj"/></r></p></e>
     <e><p><l>sininen<s n="adj"/></l><r>blau<s n="adj"/></r></p></e>
+    <e><p><l>siperialainen<s n="adj"/></l><r>sibirisch<s n="adj"/></r></p></e>
     <e><p><l>sisilialainen<s n="adj"/></l><r>sizilianisch<s n="adj"/></r></p></e>
     <e><p><l>sisäinen<s n="adj"/></l><r>intern<s n="adj"/></r></p></e>
     <e><p><l>sisällöllinen<s n="adj"/></l><r>inhaltlich<s n="adj"/></r></p></e>
