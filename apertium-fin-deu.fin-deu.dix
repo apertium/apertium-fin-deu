@@ -1868,7 +1868,8 @@
     <e><p><l>kuningatar<s n="n"/></l><r>Dame<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuningatar<s n="n"/></l><r>Königin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuninkaallinen<s n="n"/></l><r>Königshaus<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>kunniamerki<s n="n"/></l><r>Orden<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kunnialegioona<s n="n"/></l><r>Ehrenlegion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kunniamerkki<s n="n"/></l><r>Orden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunnianloukkaus<s n="n"/></l><r>Verleumdung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnianosoitus<s n="n"/></l><r>Beifall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunnia<s n="n"/></l><r>Ehrung<s n="n"/><s n="f"/></r></p></e>
@@ -3749,6 +3750,7 @@
     <e><p><l>siltaus<s n="n"/></l><r>Überbrückung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>siluetti<s n="n"/></l><r>Silhouette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sima<s n="n"/></l><r>Met<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sini<s n="n"/></l><r>Blau<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sinkki<s n="n"/></l><r>Zink<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sirpale<s n="n"/></l><r>Splitter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sir<s n="n"/></l><r>Sir<s n="n"/><s n="m"/></r></p></e>
@@ -5032,6 +5034,7 @@
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
 
 
 
@@ -5543,6 +5546,7 @@
     <e r="RL"><p><l>korko<s n="n"/></l><r>zins<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kortteli<s n="n"/></l><r>viertel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>korvaus<s n="n"/></l><r>honorar<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>korvike<s n="n"/></l><r>ersatz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kosmos<s n="n"/></l><r>all<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>koti<s n="n"/></l><r>heim<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>koulu<s n="n"/></l><r>schule<s n="n"/><s n="f"/></r></p></e>
@@ -5908,11 +5912,13 @@
     <e r="RL"><p><l>päivä<s n="n"/></l><r>tag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pääkaupunki<s n="n"/></l><r>hauptstadt<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>päällikkö<s n="n"/></l><r>oberhaupt<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>päämaja<s n="n"/></l><r>zentrale<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>päästö<s n="n"/></l><r>emission<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>päätös<s n="n"/></l><r>beschluss<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>päätös<s n="n"/></l><r>entscheid<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>päätös<s n="n"/></l><r>entscheidung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pöytä<s n="n"/></l><r>tisch<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>raaka-aine<s n="n"/></l><r>rohstoff<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>radikaali<s n="n"/></l><r>radikal<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>radio<s n="n"/></l><r>radio<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>raha<s n="n"/></l><r>geld<s n="n"/><s n="nt"/></r></p></e>
@@ -6354,7 +6360,6 @@
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääri<s n="n"/></l><r>ultra<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ääritoiminta<s n="n"/></l><r>extremismus<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
@@ -6878,6 +6883,7 @@
     <e><p><l>pelkästään<s n="adv"/></l><r>bloß<s n="adv"/></r></p></e>
     <e><p><l>pelottavasti<s n="adv"/></l><r>furchtbar<s n="adv"/></r></p></e>
     <e><p><l>periaatteessa<s n="adv"/></l><r>grundsätzlich<s n="adv"/></r></p></e>
+    <e><p><l>periaatteessa<s n="adv"/></l><r>prinzipiell<s n="adv"/></r></p></e>
     <e><p><l>perinteisesti<s n="adv"/></l><r>traditionell<s n="adv"/></r></p></e>
     <e><p><l>perjantaisin<s n="adv"/></l><r>freitags<s n="adv"/></r></p></e>
     <e><p><l>perustavanlaatuisesti<s n="adv"/></l><r>grundlegend<s n="adv"/></r></p></e>
@@ -9882,6 +9888,7 @@
     <e><p><l>kunniaton<s n="adj"/></l><r>unwürdig<s n="adj"/></r></p></e>
     <e><p><l>kunnioittava<s n="adj"/></l><r>respektvoll<s n="adj"/></r></p></e>
     <e><p><l>kunnoton<s n="adj"/></l><r>unehrenhaft<s n="adj"/></r></p></e>
+    <e><p><l>kuolemanjälkeinen<s n="adj"/></l><r>posthum<s n="adj"/></r></p></e>
     <e><p><l>kuollut<s n="adj"/></l><r>tot<s n="adj"/></r></p></e>
     <e><p><l>kuollut<s n="adj"/></l><r>verstorben<s n="adj"/></r></p></e>
     <e><p><l>kurdilainen<s n="adj"/></l><r>kurdisch<s n="adj"/></r></p></e>
@@ -10065,6 +10072,7 @@
     <e><p><l>mobiili<s n="adj"/></l><r>mobil<s n="adj"/></r></p></e>
     <e><p><l>moderni<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
     <e><p><l>molekylaarinen<s n="adj"/></l><r>molekular<s n="adj"/></r></p></e>
+    <e><p><l>molemminpuolinen<s n="adj"/></l><r>beiderseitig<s n="adj"/></r></p></e>
     <e><p><l>molemminpuolinen<s n="adj"/></l><r>bilateral<s n="adj"/></r></p></e>
     <e><p><l>mongolialainen<s n="adj"/></l><r>mongolisch<s n="adj"/></r></p></e>
     <e><p><l>monias<s n="adj"/></l><r>manche<s n="adj"/></r></p></e>
@@ -10237,6 +10245,7 @@
     <e><p><l>populistinen<s n="adj"/></l><r>populistisch<s n="adj"/></r></p></e>
     <e><p><l>portugalilainen<s n="adj"/></l><r>portugiesisch<s n="adj"/></r></p></e>
     <e><p><l>positiivinen<s n="adj"/></l><r>positiv<s n="adj"/></r></p></e>
+    <e><p><l>postuumi<s n="adj"/></l><r>posthum<s n="adj"/></r></p></e>
     <e><p><l>potentiaalinen<s n="adj"/></l><r>potentiell<s n="adj"/></r></p></e>
     <e><p><l>potentiaalinen<s n="adj"/></l><r>potenziell<s n="adj"/></r></p></e>
     <e><p><l>presidentillinen<s n="adj"/></l><r>präsidial<s n="adj"/></r></p></e>
@@ -11486,6 +11495,7 @@
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Sierra<b/>Leone<s n="np"/></i></e>
+    <e><i>Carcassonne<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
