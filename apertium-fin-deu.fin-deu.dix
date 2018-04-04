@@ -168,6 +168,7 @@
     <e c="house of commons"><p><l>ylähuone<s n="n"/></l><r>Oberhaus<s n="n"/><s n="nt"/></r></p></e>
     <e c="in court"><p><l>vastaaja<s n="n"/></l><r>Angeklagte<s n="n"/><s n="f"/></r></p></e>
     <e c="leadership"><p><l>johto<s n="n"/></l><r>Führungskraft<s n="n"/><s n="f"/></r></p></e>
+    <e c="legal terms"><p><l>rikoslaki<s n="n"/></l><r>Bundesgesetz<s n="n"/><s n="nt"/></r></p></e>
     <e c="male bee drone"><p><l>kuhnuri<s n="n"/></l><r>Drohne<s n="n"/><s n="f"/></r></p></e>
     <e c="maybe bad"><p><l>provisio<s n="n"/></l><r>Proviant<s n="n"/><s n="m"/></r></p></e>
     <e c="meeting meeting"><p><l>kokous<s n="n"/></l><r>Gipfeltreffen<s n="n"/><s n="nt"/></r></p></e>
@@ -4122,6 +4123,7 @@
     <e><p><l>tehtävä<s n="n"/></l><r>Aufgabe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tehtävä<s n="n"/></l><r>Mission<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teini<s n="n"/></l><r>Teenager<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tekijänoikeus<s n="n"/></l><r>Urheberrecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tekijä<s n="n"/></l><r>Akteur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tekijä<s n="n"/></l><r>Autor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tekijä<s n="n"/></l><r>Macher<s n="n"/><s n="m"/></r></p></e>
@@ -4274,6 +4276,7 @@
     <e><p><l>treffi<s n="n"/></l><r>Verabredung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trendi<s n="n"/></l><r>Trend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tribunaali<s n="n"/></l><r>Tribunal<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>tri<s n="n"/></l><r>Dr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Trope<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Tropus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tšekitär<s n="n"/></l><r>Tschechin<s n="n"/><s n="f"/></r></p></e>
@@ -5012,6 +5015,7 @@
     <e><p><l>ystäväpiiri<s n="n"/></l><r>Freundeskreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ystävä<s n="n"/></l><r>Freund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ystävätär<s n="n"/></l><r>Freundin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>yuan<s n="n"/></l><r>Yuan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yökerho<s n="n"/></l><r>Nachtclub<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yöpyminen<s n="n"/></l><r>Übernachtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yö<s n="n"/></l><r>Nacht<s n="n"/><s n="f"/></r></p></e>
@@ -5355,6 +5359,7 @@
     <e r="RL"><p><l>hallussapito<s n="n"/></l><r>haft<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>haltija<s n="n"/></l><r>inhaber<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>halukas<s n="n"/></l><r>aspirant<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>hankinta<s n="n"/></l><r>beschaffung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hankinta<s n="n"/></l><r>erwerb<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>happo<s n="n"/></l><r>säure<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>harja<s n="n"/></l><r c="mainly english">first<s n="n"/><s n="m"/></r></p></e>
@@ -5506,6 +5511,7 @@
     <e r="RL"><p><l>kielto<s n="n"/></l><r>verbot<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kierros<s n="n"/></l><r>runde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kierros<s n="n"/></l><r>rund<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>kiertue<s n="n"/></l><r>tour<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kiinalainen<s n="n"/></l><r>chinesisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kiintiö<s n="n"/></l><r>quote<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kiista<s n="n"/></l><r>querele<s n="n"/><s n="f"/></r></p></e>
@@ -5855,6 +5861,7 @@
     <e r="RL"><p><l>pesti<s n="n"/></l><r>posten<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>pesu<s n="n"/></l><r>wäsche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>petos<s n="n"/></l><r>verrat<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>pidätysmääräys<s n="n"/></l><r>haftbefehl<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pidätys<s n="n"/></l><r>verhaftung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>piirre<s n="n"/></l><r>merkmal<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>pila<s n="n"/></l><r>streich<s n="n"/><s n="m"/></r></p></e>
@@ -9197,6 +9204,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>herättää<s n="vblex"/></l><r>wecken<s n="vblex"/></r></p></e>
 
 
 
