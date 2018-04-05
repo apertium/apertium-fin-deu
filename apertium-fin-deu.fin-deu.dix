@@ -2688,6 +2688,7 @@
     <e><p><l>nauhoitus<s n="n"/></l><r>Aufzeichnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nauraja<s n="n"/></l><r>Lacher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nautinto<s n="n"/></l><r>Vergnügen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nautinto<s n="n"/></l><r>Vergnügung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>navigaatio<s n="n"/></l><r>Navigation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>negatiivi<s n="n"/></l><r>Negativ<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>neitsyt<s n="n"/></l><r>Jungfer<s n="n"/><s n="f"/></r></p></e>
@@ -3441,6 +3442,7 @@
     <e><p><l>rajoitus<s n="n"/></l><r>Beschränkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajoitus<s n="n"/></l><r>Einschränkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rakenne<s n="n"/></l><r>Struktur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rakennusfirma<s n="n"/></l><r>Bauunternehmen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rakennuskompleksi<s n="n"/></l><r>Gebäudekomplex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakennuspalikka<s n="n"/></l><r>Baustein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakennus<s n="n"/></l><r>Bau<s n="n"/><s n="m"/></r></p></e>
@@ -4720,6 +4722,7 @@
     <e><p><l>velipuoli<s n="n"/></l><r>Halbbruder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>veli<s n="n"/></l><r>Bruder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>veljenpoika<s n="n"/></l><r>Neffe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>veljeys<s n="n"/></l><r>Bruderschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>velka<s n="n"/></l><r>Schuld<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>velvollisuus<s n="n"/></l><r>Pflicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>velvollisuus<s n="n"/></l><r>Verantwortlichkeit<s n="n"/><s n="f"/></r></p></e>
@@ -4893,7 +4896,7 @@
     <e><p><l>välitys<s n="n"/></l><r>Vermittlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>välttely<s n="n"/></l><r>Vermeidung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>välttämättömyys<s n="n"/></l><r>Notwendigkeit<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>väni<s n="n"/></l><r>Van<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>väni<s n="n"/></l><r c="typicall from PROPN">Van<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>väri<s n="n"/></l><r>Farbe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>värväys<s n="n"/></l><r>Anwerbung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väärinkäytös<s n="n"/></l><r>Verfehlung<s n="n"/><s n="f"/></r></p></e>
@@ -5283,10 +5286,12 @@
     <e r="RL"><p><l>asianajaja<s n="n"/></l><r>rechtsanwalt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>asiantuntija<s n="n"/></l><r>experte<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>asia<s n="n"/></l><r>angelegenheit<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>askel<s n="n"/></l><r>schritt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>aspekti<s n="n"/></l><r>aspekt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>assi<s n="n"/></l><r c="usually compound fail">as<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>asukas<s n="n"/></l><r>bürger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>asumus<s n="n"/></l><r>domizil<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>asunto<s n="n"/></l><r>appartement<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>asunto<s n="n"/></l><r>residenz<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>attentaatti<s n="n"/></l><r>attentat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>attentaatti<s n="n"/></l><r>attentäter<s n="n"/><s n="m"/></r></p></e>
@@ -5775,6 +5780,7 @@
     <e r="RL"><p><l>netti<s n="n"/></l><r>net<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>neutraalius<s n="n"/></l><r>neutralität<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>neuvoja<s n="n"/></l><r>berater<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>neuvonta<s n="n"/></l><r>beratung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>neuvostonjäsen<s n="n"/></l><r>ratsmitglied<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>neuvosto<s n="n"/></l><r c="Sicherheits-">rat<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>neuvottelija<s n="n"/></l><r>unterhändler<s n="n"/><s n="m"/></r></p></e>
@@ -6332,6 +6338,7 @@
     <e r="RL"><p><l>viikko<s n="n"/></l><r>woche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>viisumi<s n="n"/></l><r>visum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>viivytys<s n="n"/></l><r>verschiebung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>viivästys<s n="n"/></l><r>aufschub<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vika<s n="n"/></l><r>fehler<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>viljelijä<s n="n"/></l><r>bauer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vilppi<s n="n"/></l><r>betrug<s n="n"/><s n="m"/></r></p></e>
@@ -7554,6 +7561,7 @@
     <e><p><l>heittää<s n="vblex"/></l><r>werfen<s n="vblex"/></r></p></e>
     <e><p><l>helpottaa<s n="vblex"/></l><r>erleichtern<s n="vblex"/></r></p></e>
     <e><p><l>helpottaa<s n="vblex"/></l><r>lindern<s n="vblex"/></r></p></e>
+    <e><p><l>herättää<s n="vblex"/></l><r>wecken<s n="vblex"/></r></p></e>
     <e><p><l>herätä<s n="vblex"/></l><r>wachen<s n="vblex"/></r></p></e>
     <e><p><l>hidastaa<s n="vblex"/></l><r>verlangsamen<s n="vblex"/></r></p></e>
     <e><p><l>hirttäytyä<s n="vblex"/></l><r>erhängen<s n="vblex"/></r></p></e>
@@ -8308,6 +8316,7 @@
     <e><p><l>paloitella<s n="vblex"/></l><r>abtrennen<s n="vblex"/></r></p></e>
     <e><p><l>palvella<s n="vblex"/></l><r>bedienen<s n="vblex"/></r></p></e>
     <e><p><l>palvella<s n="vblex"/></l><r>dienen<s n="vblex"/></r></p></e>
+    <e><p><l>palvella<s n="vblex"/></l><r>unterstehen<s n="vblex"/></r></p></e>
     <e><p><l>palvoa<s n="vblex"/></l><r>verehren<s n="vblex"/></r></p></e>
     <e><p><l>panna<s n="vblex"/></l><r>einlegen<s n="vblex"/></r></p></e>
     <e><p><l>panna<s n="vblex"/></l><r>stecken<s n="vblex"/></r></p></e>
@@ -9204,7 +9213,6 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
-    <e><p><l>herättää<s n="vblex"/></l><r>wecken<s n="vblex"/></r></p></e>
 
 
 
@@ -9722,6 +9730,7 @@
     <e><p><l>iso<s n="adj"/></l><r>groß<s n="adj"/></r></p></e>
     <e><p><l>israelilainen<s n="adj"/></l><r>israelisch<s n="adj"/></r></p></e>
     <e><p><l>italialainen<s n="adj"/></l><r>italienisch<s n="adj"/></r></p></e>
+    <e><p><l>itsekriittinen<s n="adj"/></l><r>selbstkritisch<s n="adj"/></r></p></e>
     <e><p><l>itsenimitetty<s n="adj"/></l><r>selbsternannt<s n="adj"/></r></p></e>
     <e><p><l>itsenäinen<s n="adj"/></l><r>eigenständig<s n="adj"/></r></p></e>
     <e><p><l>itsenäinen<s n="adj"/></l><r>selbstständig<s n="adj"/></r></p></e>
@@ -11532,6 +11541,7 @@
 
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
+    <e><i>Liverpool<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
