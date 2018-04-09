@@ -442,6 +442,7 @@
     <e><p><l>asetus<s n="n"/></l><r>Satzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asevoima<s n="n"/></l><r>Streitkraft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asiakas<s n="n"/></l><r>Mandant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>asiakirja<s n="n"/></l><r>Schriftstück<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asiakysymys<s n="n"/></l><r>Sachfrage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asialista<s n="n"/></l><r>Protokoll<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asianajaja<s n="n"/></l><r>Rechtsanwalt<s n="n"/><s n="m"/></r></p></e>
@@ -705,6 +706,7 @@
     <e><p><l>episentrumi<s n="n"/></l><r>Epizentrum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>episodi<s n="n"/></l><r>Episode<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epookki<s n="n"/></l><r>Epoche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>epäilty<s n="n"/></l><r>Verdächtiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>epäilty<s n="n"/></l><r>Verdächtige<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epäily<s n="n"/></l><r>Verdacht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>epäilys<s n="n"/></l><r>Argwohn<s n="n"/><s n="m"/></r></p></e>
@@ -2212,6 +2214,7 @@
     <e><p><l>loppuerä<s n="n"/></l><r>Endrunde<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>loppukatsaus<s n="n"/></l><r>Abschlussbericht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loppukoe<s n="n"/></l><r>Abschlussprüfung<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>loppukuu<s n="n"/></l><r>Monatsende<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>Beendigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>Ende<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>Schluss<s n="n"/><s n="m"/></r></p></e>
@@ -2597,6 +2600,7 @@
     <e><p><l>motto<s n="n"/></l><r>Motto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>muistiinpano<s n="n"/></l><r>Mitschrift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muistio<s n="n"/></l><r>Memorandum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>muistojumalanpalvelus<s n="n"/></l><r>Gedenkgottesdienst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muistomerkki<s n="n"/></l><r>Gedenkstätte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muistopäivä<s n="n"/></l><r>Gedenktag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muisto<s n="n"/></l><r>Erinnerung<s n="n"/><s n="f"/></r></p></e>
@@ -3262,6 +3266,7 @@
     <e><p><l>puhdistus<s n="n"/></l><r>Säuberung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puhdistus<s n="n"/></l><r>Verunreinigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puheenjohtaja<s n="n"/></l><r>Vorsitzende<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>puheenjohtaja<s n="n"/></l><r>Vorstandsvorsitzender<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puhehäiriö<s n="n"/></l><r>Sprachstörung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puhelinlanka<s n="n"/></l><r>Telefonleitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puhelinneuvottelu<s n="n"/></l><r>Telefongespräch<s n="n"/><s n="nt"/></r></p></e>
@@ -5247,6 +5252,7 @@
     <e r="RL"><p><l>aika<s n="n"/></l><r>zeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ajanjakso<s n="n"/></l><r>zeitraum<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ajankohta<s n="n"/></l><r>zeitpunkt<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>ajatus<s n="n"/></l><r>gedanke<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>akatemia<s n="n"/></l><r>akademie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>aktivisti<s n="n"/></l><r>aktivist<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ala<s n="n"/></l><r>branche<s n="n"/><s n="f"/></r></p></e>
@@ -5829,6 +5835,7 @@
     <e r="RL"><p><l>paikka<s n="n"/></l><r>stelle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>paikka<s n="n"/></l><r>stätte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>paine<s n="n"/></l><r>druck<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>pakettiauto<s n="n"/></l><r>transporter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>paketti<s n="n"/></l><r>paket<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>pakolainen<s n="n"/></l><r>flüchtling<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pako<s n="n"/></l><r>flucht<s n="n"/><s n="f"/></r></p></e>
@@ -6169,6 +6176,7 @@
     <e r="RL"><p><l>teko<s n="n"/></l><r>akt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>teksti<s n="n"/></l><r>text<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>teloitus<s n="n"/></l><r>hinrichtung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>terassi<s n="n"/></l><r>terrasse<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>terrori<s n="n"/></l><r>terror<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tervehdys<s n="n"/></l><r>gruß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tervehdys<s n="n"/></l><r>gruß<s n="n"/><s n="m"/></r></p></e>
@@ -9493,6 +9501,7 @@
     <e><p><l>asianmukainen<s n="adj"/></l><r>sachgerecht<s n="adj"/></r></p></e>
     <e><p><l>asiaton<s n="adj"/></l><r>verwerflich<s n="adj"/></r></p></e>
     <e><p><l>asuttu<s n="adj"/></l><r>ansässig<s n="adj"/></r></p></e>
+    <e><p><l>aukoton<s n="adj"/></l><r>lückenlos<s n="adj"/></r></p></e>
     <e><p><l>aurinkoinen<s n="adj"/></l><r>sonnig<s n="adj"/></r></p></e>
     <e><p><l>australialainen<s n="adj"/></l><r>australisch<s n="adj"/></r></p></e>
     <e><p><l>autokraattinen<s n="adj"/></l><r>autokratisch<s n="adj"/></r></p></e>
@@ -9536,6 +9545,7 @@
     <e><p><l>egyptiläinen<s n="adj"/></l><r>ägyptisch<s n="adj"/></r></p></e>
     <e><p><l>ehjä<s n="adj"/></l><r c="often disam fail">heil<s n="adj"/></r></p></e>
     <e><p><l>ekonominen<s n="adj"/></l><r>ökonomisch<s n="adj"/></r></p></e>
+    <e><p><l>ekumeeninen<s n="adj"/></l><r>ökumenisch<s n="adj"/></r></p></e>
     <e><p><l>elektroninen<s n="adj"/></l><r>elektronisch<s n="adj"/></r></p></e>
     <e><p><l>elinikäinen<s n="adj"/></l><r>lebenslang<s n="adj"/></r></p></e>
     <e><p><l>elinikäinen<s n="adj"/></l><r>lebenslang<s n="adj"/></r></p></e>
@@ -9672,6 +9682,7 @@
     <e><p><l>historiallinen<s n="adj"/></l><r c="XXX: museoiva">museal<s n="adj"/></r></p></e>
     <e><p><l>historiallinen<s n="adj"/></l><r>historische<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>historiallinen<s n="adj"/></l><r>historisch<s n="adj"/></r></p></e>
+    <e><p><l>holsteinilainen<s n="adj"/></l><r>holsteinisch<s n="adj"/></r></p></e>
     <e><p><l>homo<s n="adj"/></l><r>homosexuell<s n="adj"/></r></p></e>
     <e><p><l>homo<s n="adj"/></l><r>schwul<s n="adj"/></r></p></e>
     <e><p><l>hopeinen<s n="adj"/></l><r>silbern<s n="adj"/></r></p></e>
@@ -10010,6 +10021,7 @@
     <e><p><l>liittoutunut<s n="adj"/></l><r>Alliiert<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>assoziiert<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>verbunden<s n="adj"/></r></p></e>
+    <e><p><l>likainen<s n="adj"/></l><r>dreckig<s n="adj"/></r></p></e>
     <e><p><l>lingvistinen<s n="adj"/></l><r>sprachlich<s n="adj"/></r></p></e>
     <e><p><l>liukenematon<s n="adj"/></l><r>unauflösbar<s n="adj"/></r></p></e>
     <e><p><l>logistinen<s n="adj"/></l><r>logistisch<s n="adj"/></r></p></e>
@@ -10724,6 +10736,8 @@
     <e><p><l>uskollinen<s n="adj"/></l><r>getreu<s n="adj"/></r></p></e>
     <e><p><l>uskonnollinen<s n="adj"/></l><r>religiöse<s n="adj"/></r></p></e>
     <e><p><l>uskonnollinen<s n="adj"/></l><r>religiös<s n="adj"/></r></p></e>
+    <e><p><l>uskoton<s n="adj"/></l><r>untreu<s n="adj"/></r></p></e>
+    <e><p><l>uskoton<s n="adj"/></l><r>untreu<s n="adj"/></r></p></e>
     <e><p><l>uskottava<s n="adj"/></l><r>glaubwürdig<s n="adj"/></r></p></e>
     <e><p><l>uskottava<s n="adj"/></l><r>plausibel<s n="adj"/></r></p></e>
     <e><p><l>uskova<s n="adj"/></l><r>gläubig<s n="adj"/></r></p></e>
@@ -10976,11 +10990,6 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
-    <e><p><l>likainen<s n="adj"/></l><r>dreckig<s n="adj"/></r></p></e>
-    <e><p><l>holsteinilainen<s n="adj"/></l><r>holsteinisch<s n="adj"/></r></p></e>
-    <e><p><l>uskoton<s n="adj"/></l><r>untreu<s n="adj"/></r></p></e>
-    <e><p><l>uskoton<s n="adj"/></l><r>untreu<s n="adj"/></r></p></e>
-    <e><p><l>aukoton<s n="adj"/></l><r>lückenlos<s n="adj"/></r></p></e>
 
 
 
