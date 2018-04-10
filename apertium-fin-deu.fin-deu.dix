@@ -2049,6 +2049,7 @@
     <e><p><l>lakinainen<s n="n"/></l><r>Juristin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lakipykälä<s n="n"/></l><r>Gesetzentwurf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laki<s n="n"/></l><r>Gesetz<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lakko<s n="n"/></l><r>Streik<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lama<s n="n"/></l><r>Rezession<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>langastavetäjä<s n="n"/></l><r>Drahtzieher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>langobardi<s n="n"/></l><r>Lombard<s n="n"/><s n="m"/></r></p></e>
@@ -3081,6 +3082,7 @@
     <e><p><l>peruskallio<s n="n"/></l><r>Grundstein<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskoulu<s n="n"/></l><r>Grundschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perusoikeus<s n="n"/></l><r>Grundrecht<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>perustajajäsen<s n="n"/></l><r>Gründungsmitglied<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perustaja<s n="n"/></l><r>Gründer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perustaminen<s n="n"/></l><r>Establishment<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perusta<s n="n"/></l><r>Basis<s n="n"/><s n="f"/></r></p></e>
@@ -3366,6 +3368,7 @@
     <e><p><l>päivystyspoliklinikka<s n="n"/></l><r>Notaufnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päiväjärjestys<s n="n"/></l><r>Tagesordnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päiväkirja<s n="n"/></l><r>Tagebuch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>päiväkoti<s n="n"/></l><r>Kita<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päivälehti<s n="n"/></l><r>Tageszeitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>päivä<s n="n"/></l><r>Tag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päivätyö<s n="n"/></l><r>Tagesgeschäft<s n="n"/><s n="nt"/></r></p></e>
@@ -5044,6 +5047,7 @@
     <e><p><l>äänestys<s n="n"/></l><r>Stimmabgabe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>äänestäjä<s n="n"/></l><r>Wähler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äänioikeus<s n="n"/></l><r>Stimmrecht<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>äänioikeus<s n="n"/></l><r>Wahlrecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ääni<s n="n"/></l><r>Geräusch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ääni<s n="n"/></l><r>Laut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ääni<s n="n"/></l><r>Stimme<s n="n"/><s n="f"/></r></p></e>
@@ -5304,6 +5308,7 @@
     <e r="RL"><p><l>attentaatti<s n="n"/></l><r>attentat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>attentaatti<s n="n"/></l><r>attentäter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>audienssi<s n="n"/></l><r>audienz<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>aukiolo<s n="n"/></l><r>öffnung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>aukio<s n="n"/></l><r>platz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>auttaja<s n="n"/></l><r>helfer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>avaruus<s n="n"/></l><r>raum<s n="n"/><s n="m"/></r></p></e>
@@ -6414,7 +6419,6 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
-
 
 
 
@@ -9230,6 +9234,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>selvittää<s n="vblex"/></l><r>vorsagen<s n="vblex"/></r></p></e>
 
 
 
