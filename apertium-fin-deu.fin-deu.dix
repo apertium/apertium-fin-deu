@@ -303,6 +303,7 @@
     <e><p><l>alluusio<s n="n"/></l><r>Anspielung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aloite<s n="n"/></l><r>Initiative<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aloitus<s n="n"/></l><r>Antritt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alppi<s n="n"/></l><r>Alpe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alppi<s n="n"/></l><r>Alp<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alttari<s n="n"/></l><r>Altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alue<s n="n"/></l><r>Anlage<s n="n"/><s n="f"/></r></p></e>
@@ -953,6 +954,8 @@
     <e><p><l>hevonen<s n="n"/></l><r>Pferd<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hiekka<s n="n"/></l><r>Sand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hierarkia<s n="n"/></l><r>Hierarchie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hiihtoalue<s n="n"/></l><r>Skigebiet<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hiihtokierros<s n="n"/></l><r>Skitour<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiilidioksidi<s n="n"/></l><r>Kohlendioxid<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hiili<s n="n"/></l><r>Kohle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiilivoimala<s n="n"/></l><r>Kohlekraftwerk<s n="n"/><s n="nt"/></r></p></e>
@@ -1551,6 +1554,7 @@
     <e><p><l>kelta<s n="n"/></l><r>Gelb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keltuainen<s n="n"/></l><r>Eigelb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kemia<s n="n"/></l><r>Chemie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kemikaali<s n="n"/></l><r>Chemikalie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kemisti<s n="n"/></l><r>Chemiker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kenialainen<s n="n"/></l><r>Kenianer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kenraalimajuri<s n="n"/></l><r>Generalmajor<s n="n"/><s n="m"/></r></p></e>
@@ -2123,6 +2127,7 @@
     <e><p><l>leima<s n="n"/></l><r>Stempel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>leiri<s n="n"/></l><r>Camp<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>leivos<s n="n"/></l><r>Gebäck<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>leivänhinta<s n="n"/></l><r>Brotpreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>leksikko<s n="n"/></l><r>Lexikon<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lemma<s n="n"/></l><r>Lemma<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lentoaikataulu<s n="n"/></l><r>Flugplan<s n="n"/><s n="m"/></r></p></e>
@@ -2159,6 +2164,7 @@
     <e><p><l>liike<s n="n"/></l><r>Bewegung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liiketoiminta<s n="n"/></l><r>Geschäftsaktivität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikevoima<s n="n"/></l><r>Schwung<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>liikeyritys<s n="n"/></l><r>Handelsgesellschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikkeellelasku<s n="n"/></l><r>Aussetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liima<s n="n"/></l><r>Kleber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liipaisin<s n="n"/></l><r>Auslöser<s n="n"/><s n="m"/></r></p></e>
@@ -2497,6 +2503,7 @@
     <e><p><l>megafoni<s n="n"/></l><r>Sprachrohr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>meikki<s n="n"/></l><r>Make-up<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mekaniikka<s n="n"/></l><r>Mechanik<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mekanismi<s n="n"/></l><r>Mechanismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meklari<s n="n"/></l><r>Börsianer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meksikolainen<s n="n"/></l><r>Mexikaner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mellakka<s n="n"/></l><r>Aufruhr<s n="n"/><s n="m"/></r></p></e>
@@ -3065,6 +3072,7 @@
     <e><p><l>pentagoni<s n="n"/></l><r>Pentagon<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perheenjäsen<s n="n"/></l><r>Familienmitglied<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perhe<s n="n"/></l><r>Familie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>perheyritys<s n="n"/></l><r>Familienunternehmen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perhonen<s n="n"/></l><r>Schmetterling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perhosverkko<s n="n"/></l><r>Schmetterlingsnetz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>periaate<s n="n"/></l><r>Grundsatz<s n="n"/><s n="m"/></r></p></e>
@@ -4013,6 +4021,7 @@
     <e><p><l>taakka<s n="n"/></l><r>Belastung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tahto<s n="n"/></l><r>Lust<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taidekokoelma<s n="n"/></l><r>Kunstsammlung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taidenäyttely<s n="n"/></l><r>Kunsthalle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taide<s n="n"/></l><r>Kunst<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taifuuni<s n="n"/></l><r>Taifun<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taikina<s n="n"/></l><r>Teig<s n="n"/><s n="m"/></r></p></e>
@@ -4481,6 +4490,7 @@
     <e><p><l>ulkoministeritär<s n="n"/></l><r>Außenministerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ulkoministeriö<s n="n"/></l><r>Außenministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ulkomoottori<s n="n"/></l><r>Außenbordmotor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ulkomuuri<s n="n"/></l><r>Außenmauer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ulkonäkö<s n="n"/></l><r>Aussicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ulkopolitiikka<s n="n"/></l><r>Außenpolitik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uloskäynti<s n="n"/></l><r>Abgang<s n="n"/><s n="m"/></r></p></e>
@@ -5068,6 +5078,7 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>loppu<s n="n"/></l><r c="musical notation, usually English">Fine<s n="n"/><s n="nt"/></r></p></e>
 
 
 
@@ -5596,6 +5607,7 @@
     <e r="RL"><p><l>kriitikko<s n="n"/></l><r>kritiker<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kritiikki<s n="n"/></l><r>kritik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>krääsä<s n="n"/></l><r c="rare, was falsch PROPN">bettel<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kulku<s n="n"/></l><r>laufen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kulku<s n="n"/></l><r>zugang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kulttuuri<s n="n"/></l><r>kultur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kulu<s n="n"/></l><r>kosten<s n="n"/><s n="mfn"/></r></p></e>
@@ -6318,6 +6330,7 @@
     <e r="RL"><p><l>vanhin<s n="n"/></l><r>älteste<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vankila<s n="n"/></l><r>gefängnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>vanki<s n="n"/></l><r>häftling<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>vanki<s n="n"/></l><r>insasse<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vapaus<s n="n"/></l><r>freiheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vapautus<s n="n"/></l><r>entlassung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vapautus<s n="n"/></l><r>freigabe<s n="n"/><s n="f"/></r></p></e>
@@ -6453,6 +6466,8 @@
     <e><p><l>ulkoistus<s n="n"/></l><r>Dritt<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>uudelleen<s n="n"/><s n="compound-only-L"/></l><r>Weiter<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>uudelleen<s n="n"/><s n="sg"/><s n="nom"/></l><r>Weiter<s n="atp"/><s n="lower"/><s n="cmp"/></r></p></e>
+    <e><p><l>uudelleen<s n="n"/><s n="compound-only-L"/></l><r>weiter<s n="atp"/><s n="cmp"/></r></p></e>
+    <e><p><l>uudelleen<s n="n"/><s n="sg"/><s n="nom"/></l><r>weiter<s n="atp"/><s n="lower"/><s n="cmp"/></r></p></e>
     <e><p><l>vähimmäis<s n="n"/><s n="cmp"/></l><r>Mindest<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>väli<s n="n"/><s n="sg"/><s n="nom"/></l><r>Zwischen<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>yhteis<s n="n"/><s n="cmp"/></l><r>Gesamt<s n="atp"/><s n="cmp"/></r></p></e>
@@ -9889,6 +9904,7 @@
     <e><p><l>kiistanalainen<s n="adj"/></l><r>strittig<s n="adj"/></r></p></e>
     <e><p><l>kiistaton<s n="adj"/></l><r>unstrittig<s n="adj"/></r></p></e>
     <e><p><l>kiistaton<s n="adj"/></l><r>widerspruchsfrei<s n="adj"/></r></p></e>
+    <e><p><l>kiistaton<s n="adj"/></l><r>zweifelsfrei<s n="adj"/></r></p></e>
     <e><p><l>kiistelty<s n="adj"/></l><r>umstritten<s n="adj"/></r></p></e>
     <e><p><l>kiivas<s n="adj"/></l><r>vehement<s n="adj"/></r></p></e>
     <e><p><l>kireä<s n="adj"/></l><r>angespannt<s n="adj"/></r></p></e>
