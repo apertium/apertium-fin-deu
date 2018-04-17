@@ -183,6 +183,8 @@
     <e c="special language"><p><l>palkkaneuvottelu<s n="n"/></l><r>Tarifverhandlung<s n="n"/><s n="f"/></r></p></e>
     <e c="sports"><p><l>ampumahiihtäjä<s n="n"/></l><r>Biathlet<s n="n"/><s n="m"/></r></p></e>
     <e c="sports"><p><l>kakkonen<s n="n"/></l><r>Vizemeister<s n="n"/><s n="m"/></r></p></e>
+    <e c="SPORTS"><p><l>pudotuserä<s n="n"/></l><r>Abstiegskampf<s n="n"/><s n="m"/></r></p></e>
+    <e c="SPORTS"><p><l>rangaistuspotku<s n="n"/></l><r>Strafstoß<s n="n"/><s n="m"/></r></p></e>
     <e c="sports"><p><l>rankinglista<s n="n"/></l><r>Weltrangliste<s n="n"/><s n="f"/></r></p></e>
     <e c="sports"><p><l>semifinaali<s n="n"/></l><r>Semifinale<s n="n"/><s n="nt"/></r></p></e>
     <e c="Sports"><p><l>säilyminen<s n="n"/></l><r>Klassenerhalt<s n="n"/><s n="m"/></r></p></e>
@@ -2380,6 +2382,7 @@
     <e><p><l>maahanmuutto<s n="n"/></l><r>Immigration<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maahanmuutto<s n="n"/></l><r>Migration<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maahanmuutto<s n="n"/></l><r>Zuwanderung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maailmankauppa<s n="n"/></l><r>Welthandel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maailmankongressi<s n="n"/></l><r>Weltkongress<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maailmanliitto<s n="n"/></l><r>Weltverband<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maailmanluokka<s n="n"/></l><r>Weltklasse<s n="n"/><s n="f"/></r></p></e>
@@ -2450,6 +2453,7 @@
     <e><p><l>mainoskampanja<s n="n"/></l><r>Werbekampagne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mainoskyltti<s n="n"/></l><r>Werbeplakat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mainos<s n="n"/></l><r>Anzeige<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mainzilainen<s n="n"/></l><r>Mainzer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maisema<s n="n"/></l><r>Landschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maissi<s n="n"/></l><r>Korn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maito<s n="n"/></l><r>Milch<s n="n"/><s n="f"/></r></p></e>
@@ -5391,7 +5395,6 @@
     <e r="RL"><p><l>delegaatio<s n="n"/></l><r>delegation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>demonstraatio<s n="n"/></l><r>demonstration<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>demo<s n="n"/></l><r>demo<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>kilpailu<s n="n"/></l><r>derby<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>design<s n="n"/></l><r>design<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diktatuuri<s n="n"/></l><r>diktatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
@@ -5476,6 +5479,7 @@
     <e r="RL"><p><l>hälytys<s n="n"/></l><r>alarm<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hätä<s n="n"/></l><r>not<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hätätila<s n="n"/></l><r>notsituation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>idea<s n="n"/></l><r>idee<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ikä<s n="n"/></l><r>alter<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ilmasto<s n="n"/></l><r>klima<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>imperiumi<s n="n"/></l><r>imperium<s n="n"/><s n="nt"/></r></p></e>
@@ -5603,6 +5607,7 @@
     <e r="RL"><p><l>kiista<s n="n"/></l><r>querele<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kiista<s n="n"/></l><r>streitigkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kilometri<s n="n"/></l><r>kilometer<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kilpailu<s n="n"/></l><r>derby<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kilpailu<s n="n"/></l><r>wettbewerb<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kirjasto<s n="n"/></l><r>bibliothek<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kirjoitus<s n="n"/></l><r>beitrag<s n="n"/><s n="m"/></r></p></e>
@@ -6271,6 +6276,7 @@
     <e r="RL"><p><l>tila<s n="n"/></l><r>zustand<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tilasto<s n="n"/></l><r>statistik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tilavuus<s n="n"/></l><r>volumen<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>todiste<s n="n"/></l><r>beweis<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>todistus<s n="n"/></l><r>ausweis<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>toimeksianto<s n="n"/></l><r>auftrag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>toimeksianto<s n="n"/></l><r>vergabe<s n="n"/><s n="f"/></r></p></e>
@@ -6711,6 +6717,7 @@
     <e><p><l>edessä<s n="adv"/></l><r>vorne<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>vorn<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>vor<s n="adv"/></r></p></e>
+    <e><p><l>ehdottomasti<s n="adv"/></l><r>bedingungslos<s n="adv"/></r></p></e>
     <e><p><l>ehjästi<s n="adv"/></l><r>unbeschadet<s n="adv"/></r></p></e>
     <e><p><l>ehkä<s n="adv"/></l><r>vielleicht<s n="adv"/></r></p></e>
     <e><p><l>eilen<s n="adv"/></l><r>gestern<s n="adv"/></r></p></e>
@@ -7282,6 +7289,7 @@
     <e><p><l>välillä<s n="adv"/></l><r>irgendwann<s n="adv"/></r></p></e>
     <e><p><l>välittömästi<s n="adv"/></l><r>umgehend<s n="adv"/></r></p></e>
     <e><p><l>välittömästi<s n="adv"/></l><r>unverzüglich<s n="adv"/></r></p></e>
+    <e><p><l>välttämättä<s n="adv"/></l><r>bedingungslos<s n="adv"/></r></p></e>
     <e><p><l>välttämättä<s n="adv"/></l><r>notwendigerweise<s n="adv"/></r></p></e>
     <e><p><l>välttämättä<s n="adv"/></l><r>notwendig<s n="adv"/></r></p></e>
     <e><p><l>väsymättömästi<s n="adv"/></l><r>unermüdlich<s n="adv"/></r></p></e>
@@ -7422,6 +7430,7 @@
 
     <e c="approx."><p><l>erilleenajautua<s n="vblex"/></l><r>überwerfen<s n="vblex"/></r></p></e>
     <e c="liquid or so"><p><l>kaataa<s n="vblex"/></l><r>schütten<s n="vblex"/></r></p></e>
+    <e c="sports"><p><l c="pilliin">puhaltaa<s n="vblex"/></l><r>pfeifen<s n="vblex"/></r></p></e>
     <e c="vaipua epätoivoon?"><p><l>murehtia<s n="vblex"/></l><r>verzweifeln<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>budjetoida<s n="vblex"/></l><r>wirtschaften<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>rauhoittaa<s n="vblex"/></l><r>deeskalieren<s n="vblex"/></r></p></e>
@@ -12473,6 +12482,7 @@
          {{{ translated names -->
 
     <e c="of Nazareth"><p><l>Jeesus<s n="np"/></l><r>Jesus<s n="np"/></r></p></e>
+    <e><p><l>Strasbourg<s n="np"/></l><r>Straßburg<s n="np"/></r></p></e>
     <e><p><l>Azerbaidžan<s n="np"/></l><r>Aserbaidschan<s n="np"/></r></p></e>
     <e><p><l>Aasia<s n="np"/></l><r>Asien<s n="np"/></r></p></e>
     <e><p><l>Afganistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
