@@ -363,6 +363,7 @@
     <e><p><l>anteeksianto<s n="n"/></l><r>Entschuldigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anteeksianto<s n="n"/></l><r>Vergebung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anteeksipyyntö<s n="n"/></l><r>Entschuldigung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antirasismi<s n="n"/></l><r>Anti-rassismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antisemitismi<s n="n"/></l><r>Antisemitismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apina<s n="n"/></l><r>Affe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aplodi<s n="n"/></l><r>Applaus<s n="n"/><s n="m"/></r></p></e>
@@ -2750,6 +2751,7 @@
     <e><p><l>neurotiede<s n="n"/></l><r>Neurowissenschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neutraalius<s n="n"/></l><r>Neutralität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neuvo<s n="n"/></l><r>Ratschlag<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>neuvostotasavalta<s n="n"/></l><r>Sowjetrepublik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neuvottelija<s n="n"/></l><r>Vermittler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neuvottelu<s n="n"/></l><r>Verhandlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niemi<s n="n"/></l><r>Halbinsel<s n="n"/><s n="f"/></r></p></e>
@@ -3059,6 +3061,7 @@
     <e><p><l>parannus<s n="n"/></l><r>Verbesserung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pariisilainen<s n="n"/></l><r>Pariser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pari<s n="n"/></l><r>Paar<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>parittaja<s n="n"/></l><r>Zuhälter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parkkipaikka<s n="n"/></l><r>Parkplatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parlamentaarikko<s n="n"/></l><r>Parlamentarier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parlamentinpresidentti<s n="n"/></l><r>Parlamentspräsident<s n="n"/><s n="m"/></r></p></e>
@@ -3993,6 +3996,7 @@
     <e><p><l>suru<s n="n"/></l><r>Sorge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suru<s n="n"/></l><r>Trauer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>susi<s n="n"/></l><r>Wolf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sutenööri<s n="n"/></l><r>Zuhälter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suunnanvaihto<s n="n"/></l><r>Kursänderung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suunnitelma<s n="n"/></l><r>Vorhaben<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>suunnittelu<s n="n"/></l><r>Planung<s n="n"/><s n="f"/></r></p></e>
@@ -5396,6 +5400,7 @@
     <e r="RL"><p><l>demonstraatio<s n="n"/></l><r>demonstration<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>demo<s n="n"/></l><r>demo<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>design<s n="n"/></l><r>design<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>diileri<s n="n"/></l><r>händler<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>diktatuuri<s n="n"/></l><r>diktatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diplomaatti<s n="n"/></l><r>diplomat<s n="n"/><s n="m"/></r></p></e>
@@ -5995,6 +6000,7 @@
     <e r="RL"><p><l>projekti<s n="n"/></l><r>projekt<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>propaganda<s n="n"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>prosessi<s n="n"/></l><r>prozess<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>prostituutio<s n="n"/></l><r>prostitution<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>protektionismi<s n="n"/></l><r>protektionismus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>protesti<s n="n"/></l><r>protest<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pudotus<s n="n"/></l><r>abwurf<s n="n"/><s n="m"/></r></p></e>
@@ -7955,6 +7961,7 @@
     <e><p><l>kirjoittaa<s n="vblex"/></l><r>schreiben<s n="vblex"/></r></p></e>
     <e><p><l>kiskoa<s n="vblex"/></l><r>zerren<s n="vblex"/></r></p></e>
     <e><p><l>kivittää<s n="vblex"/></l><r>steinmeieren<s n="vblex"/></r></p></e>
+    <e><p><l>klikata<s n="vblex"/></l><r>klicken<s n="vblex"/></r></p></e>
     <e><p><l>kloonata<s n="vblex"/></l><r>klonen<s n="vblex"/></r></p></e>
     <e><p><l>kohdata<s n="vblex"/></l><r>konfrontieren<s n="vblex"/></r></p></e>
     <e><p><l>kohdella<s n="vblex"/></l><r>verhandeln<s n="vblex"/></r></p></e>
@@ -8464,6 +8471,7 @@
     <e><p><l>palvoa<s n="vblex"/></l><r>verehren<s n="vblex"/></r></p></e>
     <e><p><l>panna<s n="vblex"/></l><r>einlegen<s n="vblex"/></r></p></e>
     <e><p><l>panna<s n="vblex"/></l><r>stecken<s n="vblex"/></r></p></e>
+    <e><p><l>parantaa<s n="vblex"/></l><r>aufwerten<s n="vblex"/></r></p></e>
     <e><p><l>parantaa<s n="vblex"/></l><r>bessern<s n="vblex"/></r></p></e>
     <e><p><l>parantaa<s n="vblex"/></l><r>verbessern<s n="vblex"/></r></p></e>
     <e><p><l>pariutua<s n="vblex"/></l><r>paaren<s n="vblex"/></r></p></e>
@@ -8597,6 +8605,7 @@
     <e><p><l>pyöriä<s n="vblex"/></l><r>rollen<s n="vblex"/></r></p></e>
     <e><p><l>pähkäillä<s n="vblex"/></l><r>rätseln<s n="vblex"/></r></p></e>
     <e><p><l>päihittää<s n="vblex"/></l><r>überwinden<s n="vblex"/></r></p></e>
+    <e><p><l>päivittää<s n="vblex"/></l><r>aufwerten<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>bewältigen<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r c="should translate to a phrase">verzichten<s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>geraten<s n="vblex"/></r></p></e>
@@ -9495,6 +9504,7 @@
     <e><p><l>kääntyä<s n="vblex"/></l><r>lenken<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>luokitella<s n="vblex"/></l><r>ordnen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>lisätä<s n="vblex"/></l><r>fügen<g><b/>hinzu</g><s n="vblex"/></r></p></e>
+    <e><p><l>löytää<s n="vblex"/></l><r>finden<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>kanssamatkustaa<s n="vblex"/></l><r>fahren<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>matkia<s n="vblex"/></l><r>streben<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>fahren<g><b/>aus</g><s n="vblex"/></r></p></e>
