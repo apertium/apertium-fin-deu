@@ -1182,6 +1182,7 @@
     <e><p><l>itsemurha<s n="n"/></l><r>Selbstmord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>itsemurha<s n="n"/></l><r>Suizid<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>itsenäisyysjulistus<s n="n"/></l><r>Unabhängigkeitserklärung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>itsepuolustus<s n="n"/></l><r>Selbstverteidigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>it<s n="n"/></l><r>IT<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>itu<s n="n"/></l><r>Trieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>itäafrikkalainen<s n="n"/></l><r>Ostafrikaner<s n="n"/><s n="m"/></r></p></e>
@@ -1668,6 +1669,7 @@
     <e><p><l>kilogramma<s n="n"/></l><r>Kilogramm<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kilometri<s n="n"/></l><r>Kilometer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilpailija<s n="n"/></l><r>Konkurrent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kilpailija<s n="n"/></l><r>Wettbewerber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilpailu<s n="n"/></l><r>Contest<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilpailu<s n="n"/></l><r>Rivalität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kilpailu<s n="n"/></l><r>Wettbewerb<s n="n"/><s n="m"/></r></p></e>
@@ -3720,6 +3722,7 @@
     <e><p><l>sali<s n="n"/></l><r>Saal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sanakirja<s n="n"/></l><r>Wörterbuch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sanaleikki<s n="n"/></l><r>Wortspiel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>sananmuoto<s n="n"/></l><r>Wortlaut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sanansaattaja<s n="n"/></l><r>Botschafter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sananvapaus<s n="n"/></l><r>Mitspracherecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sana<s n="n"/></l><r>Wort<s n="n"/><s n="nt"/></r></p></e>
@@ -4385,6 +4388,7 @@
     <e><p><l>tulkinta<s n="n"/></l><r>Lesart<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulli<s n="n"/></l><r>Maut<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulli<s n="n"/></l><r>Zoll<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tulliunioni<s n="n"/></l><r>Zollunion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulomatka<s n="n"/></l><r>Einreise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulo<s n="n"/></l><r>Einkommen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tulo<s n="n"/></l><r>Einnahme<s n="n"/><s n="f"/></r></p></e>
@@ -6244,6 +6248,7 @@
     <e r="RL"><p><l>tarjoaja<s n="n"/></l><r>anbieter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tarjous<s n="n"/></l><r>angebot<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tarve<s n="n"/></l><r>bedarf<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>tarve<s n="n"/></l><r>bedürfnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tarvike<s n="n"/></l><r>mittel<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tasavalta<s n="n"/></l><r>republik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tase<s n="n"/></l><r>bilanz<s n="n"/><s n="f"/></r></p></e>
@@ -7073,6 +7078,7 @@
     <e><p><l>radikaalisti<s n="adv"/></l><r>radikal<s n="adv"/></r></p></e>
     <e><p><l>rauhallisesti<s n="adv"/></l><r>friedlich<s n="adv"/></r></p></e>
     <e><p><l>rehellisesti<s n="adv"/></l><r>ernst<s n="adv"/></r></p></e>
+    <e><p><l>riittämättömästi<s n="adv"/></l><r>ungenügend<s n="adv"/></r></p></e>
     <e><p><l>riittävästi<s n="adv"/></l><r>ausreichend<s n="adv"/></r></p></e>
     <e><p><l>riittävästi<s n="adv"/></l><r>genug<s n="adv"/></r></p></e>
     <e><p><l>riittävästi<s n="adv"/></l><r>genügend<s n="adv"/></r></p></e>
@@ -9262,6 +9268,7 @@
     <e><p><l>velkaantua<s n="vblex"/></l><r>schulden<s n="vblex"/></r></p></e>
     <e><p><l>venyttää<s n="vblex"/></l><r>spannen<s n="vblex"/></r></p></e>
     <e><p><l>venyttää<s n="vblex"/></l><r>spannen<s n="vblex"/></r></p></e>
+    <e><p><l>venyä<s n="vblex"/></l><r>ausstrecken<s n="vblex"/></r></p></e>
     <e><p><l>vereentyä<s n="vblex"/></l><r>blutverschmieren<s n="vblex"/></r></p></e>
     <e><p><l>verkottua<s n="vblex"/></l><r>vernetzen<s n="vblex"/></r></p></e>
     <e><p><l>verottaa<s n="vblex"/></l><r>besteuern<s n="vblex"/></r></p></e>
@@ -9363,6 +9370,7 @@
     <e><p><l>ylitäyttää<s n="vblex"/></l><r>überfüllen<s n="vblex"/></r></p></e>
     <e><p><l>ylläpitää<s n="vblex"/></l><r>unterhalten<s n="vblex"/></r></p></e>
     <e><p><l>yllättää<s n="vblex"/></l><r>überraschen<s n="vblex"/></r></p></e>
+    <e><p><l>yltää<s n="vblex"/></l><r>ausstrecken<s n="vblex"/></r></p></e>
     <e><p><l>ymmärtää<s n="vblex"/></l><r>verstehen<s n="vblex"/></r></p></e>
     <e><p><l>ympäröidä<s n="vblex"/></l><r>umstellen<s n="vblex"/></r></p></e>
     <e><p><l>yrittää<s n="vblex"/></l><r>bemühen<s n="vblex"/></r></p></e>
@@ -9821,6 +9829,7 @@
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>personal<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>personell<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>persönlich<s n="adj"/></r></p></e>
+    <e><p><l>heprealainen<s n="adj"/></l><r>hebräisch<s n="adj"/></r></p></e>
     <e><p><l>herjaava<s n="adj"/></l><r>abfällig<s n="adj"/></r></p></e>
     <e><p><l>herkeämätön<s n="adj"/></l><r>unerschütterlich<s n="adj"/></r></p></e>
     <e><p><l>heterogeeninen<s n="adj"/></l><r>heterogen<s n="adj"/></r></p></e>
