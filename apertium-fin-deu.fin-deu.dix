@@ -801,6 +801,7 @@
     <e><p><l>etätyö<s n="n"/></l><r>Außenstelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>EU-laki<s n="n"/></l><r>EU-Richtlinie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Euroopan-mestaruus<s n="n"/></l><r>Europameisterschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>euroopanneuvosto<s n="n"/></l><r>Europarat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eurooppalainen<s n="n"/></l><r>Europäer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>europarlamentti<s n="n"/></l><r>Europaparlament<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>euro<s n="n"/></l><r>Euro<s n="n"/><s n="m"/></r></p></e>
@@ -5731,6 +5732,7 @@
     <e r="RL"><p><l>laiva<s n="n"/></l><r>boot<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>laki<s n="n"/></l><r>gesetz<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lammas<s n="n"/></l><r>schaf<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>lanka<s n="n"/></l><r>faden<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lapsi<s n="n"/></l><r>kind<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lasku<s n="n"/></l><r>rechnung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lauantai-iltapäivä<s n="n"/></l><r>samstagnachmittag<s n="n"/><s n="m"/></r></p></e>
@@ -5849,6 +5851,7 @@
     <e r="RL"><p><l>merkintä<s n="n"/></l><r>vermerk<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>merkki<s n="n"/></l><r>marke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>mesi<s n="n"/></l><r>met<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>messu<s n="n"/></l><r>messe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>mestari<s n="n"/></l><r>meister<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>mestaruus<s n="n"/></l><r>meisterschaft<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>metropoli<s n="n"/></l><r>metropole<s n="n"/><s n="f"/></r></p></e>
@@ -6151,6 +6154,7 @@
     <e r="RL"><p><l>seremonia<s n="n"/></l><r>zeremonie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>seuraaja<s n="n"/></l><r>anhänger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>seuraaja<s n="n"/></l><r>nachfolge<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>show<s n="n"/></l><r>schau<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sihteeri<s n="n"/></l><r>sekretariat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sihteeri<s n="n"/></l><r>sekretär<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sihteeritär<s n="n"/></l><r>sekretärin<s n="n"/><s n="f"/></r></p></e>
@@ -7293,6 +7297,7 @@
     <e><p><l>viisi<s n="adv"/></l><r>nicths<s n="adv"/></r></p></e>
     <e><p><l>virallisesti<s n="adv"/></l><r>offiziell<s n="adv"/></r></p></e>
     <e><p><l>virheellisesti<s n="adv"/></l><r>fälschlicherweise<s n="adv"/></r></p></e>
+    <e><p><l>voimakkaasti<s n="adv"/></l><r>kräftig<s n="adv"/></r></p></e>
     <e><p><l>voimakkaasti<s n="adv"/></l><r>scharf<s n="adv"/></r></p></e>
     <e><p><l>vuoden<s n="adv"/></l><r>jahrelang<s n="adv"/></r></p></e>
     <e><p><l>vuosikymmenisesti<s n="adv"/></l><r>jahrzehntelang<s n="adv"/></r></p></e>
@@ -8165,6 +8170,7 @@
     <e><p><l>lisätä<s n="vblex"/></l><r>fügen<s n="vblex"/></r></p></e>
     <e><p><l>lisätä<s n="vblex"/></l><r>hinzufügen<s n="vblex"/></r></p></e>
     <e><p><l>lisäytyä<s n="vblex"/></l><r>mehren<s n="vblex"/></r></p></e>
+    <e><p><l>lisääntyä<s n="vblex"/></l><r>vermehren<s n="vblex"/></r></p></e>
     <e><p><l>litistyä<s n="vblex"/></l><r>erdrücken<s n="vblex"/></r></p></e>
     <e><p><l>liudentaa<s n="vblex"/></l><r>warmbieren<s n="vblex"/></r></p></e>
     <e><p><l>liukua<s n="vblex"/></l><r>rutschen<s n="vblex"/></r></p></e>
@@ -9359,6 +9365,7 @@
     <e><p><l>yhdistää<s n="vblex"/></l><r>vernetzen<s n="vblex"/></r></p></e>
     <e><p><l>yhdistää<s n="vblex"/></l><r>zusammenschließen<s n="vblex"/></r></p></e>
     <e><p><l>yhteenmuuttaa<s n="vblex"/></l><r>zusammenziehen<s n="vblex"/></r></p></e>
+    <e><p><l>yhteenvetää<s n="vblex"/></l><r>resümieren<s n="vblex"/></r></p></e>
     <e><p><l>yhteenvetää<s n="vblex"/></l><r>zusammenfassen<s n="vblex"/></r></p></e>
     <e><p><l>yhteishallita<s n="vblex"/></l><r>mitregieren<s n="vblex"/></r></p></e>
     <e><p><l>yhteistyöskennellä<s n="vblex"/></l><r>zusammenarbeiten<s n="vblex"/></r></p></e>
@@ -10089,6 +10096,7 @@
     <e><p><l>kokonainen<s n="adj"/></l><r>ganz<s n="adj"/></r></p></e>
     <e><p><l>kokonainen<s n="adj"/></l><r>gesamt<s n="adj"/></r></p></e>
     <e><p><l>kokonainen<s n="adj"/></l><r>vollständig<s n="adj"/></r></p></e>
+    <e><p><l>kokopäiväinen<s n="adj"/></l><r>ganztägig<s n="adj"/></r></p></e>
     <e><p><l>kollegiaalinen<s n="adj"/></l><r>kollegial<s n="adj"/></r></p></e>
     <e><p><l>kolmas<s n="adj"/></l><r>dritte<s n="adj"/></r></p></e>
     <e><p><l>kolmikymppinen<s n="adj"/></l><r>dreißigjährig<s n="adj"/></r></p></e>
@@ -11179,7 +11187,6 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
-    <e><p><l>kokopäiväinen<s n="adj"/></l><r>ganztägig<s n="adj"/></r></p></e>
 
 
 
@@ -12135,6 +12142,7 @@
     <e><i>Kairo<s n="np"/></i></e>
     <e><i>Kamerun<s n="np"/></i></e>
     <e><i>Kanada<s n="np"/></i></e>
+    <e><i>Karin<s n="np"/></i></e>
     <e><i>Karl<s n="np"/></i></e>
     <e><i>Karlsruhe<s n="np"/></i></e>
     <e><i>Katharina<s n="np"/></i></e>
