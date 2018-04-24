@@ -148,7 +148,7 @@
   <section id="main" type="standard">
 
     <!--              {{{      N     O       U    N S       O             UN   S     NO UN  S
-           {{{     n o   u            n  s     w  i             t    h g      ende r s -->
+           {{{      n o   u            n  s     w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -1537,6 +1537,7 @@
     <e><p><l>kaupankäyntikumppani<s n="n"/></l><r>Handelspartner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppahinta<s n="n"/></l><r>Kaufsumme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kauppakeskus<s n="n"/></l><r>Einkaufszentrum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kauppakortteli<s n="n"/></l><r>Geschäftsviertel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppala<s n="n"/></l><r>Weiler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppamies<s n="n"/></l><r>Kaufmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppaministeriö<s n="n"/></l><r>Handelsministerium<s n="n"/><s n="nt"/></r></p></e>
@@ -2015,6 +2016,7 @@
     <e><p><l>käsky<s n="n"/></l><r>Befehl<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käsky<s n="n"/></l><r>Gebot<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käsky<s n="n"/></l><r>Weisung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kävelykatu<s n="n"/></l><r>Gehweg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käyntikortti<s n="n"/></l><r>Visitenkarte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>käynti<s n="n"/></l><r>Besuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käyttäjä<s n="n"/></l><r>Benutzer<s n="n"/><s n="m"/></r></p></e>
@@ -3837,6 +3839,7 @@
     <e><p><l>siltaus<s n="n"/></l><r>Überbrückung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>siluetti<s n="n"/></l><r>Silhouette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sima<s n="n"/></l><r>Met<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>simulaattori<s n="n"/></l><r>Simulator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sini<s n="n"/></l><r>Blau<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sinkki<s n="n"/></l><r>Zink<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sirpale<s n="n"/></l><r>Splitter<s n="n"/><s n="m"/></r></p></e>
@@ -4115,6 +4118,7 @@
     <e><p><l>talvi<s n="n"/></l><r>Winter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tammikuu<s n="n"/></l><r>Januar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tammikuu<s n="n"/></l><r>Jänner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tammi<s n="n"/></l><r>Eichenbaum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tankkeri<s n="n"/></l><r>Tanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tankki<s n="n"/></l><r>Panzerwagen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tankki<s n="n"/></l><r>Tank<s n="n"/><s n="m"/></r></p></e>
@@ -5753,6 +5757,7 @@
     <e r="RL"><p><l>lentokone<s n="n"/></l><r>flugzeug<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lento<s n="n"/></l><r>flug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lentäjä<s n="n"/></l><r>flieger<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>leuka<s n="n"/></l><r>kinn<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>leveä<s n="n"/></l><r>breite<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>levitys<s n="n"/></l><r>verbreitung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>liikenne<s n="n"/></l><r>verkehr<s n="n"/><s n="m"/></r></p></e>
@@ -6368,6 +6373,7 @@
     <e r="RL"><p><l>uhri<s n="n"/></l><r>opfer<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>u-käännös<s n="n"/></l><r>kehre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ulkokuori<s n="n"/></l><r>hülle<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>ulkonäkö<s n="n"/></l><r>auftritt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ulkonäkö<s n="n"/></l><r>aussehen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ulko<s n="n"/></l><r>aus<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>uloskäynti<s n="n"/></l><r>ausstieg<s n="n"/><s n="m"/></r></p></e>
@@ -9333,6 +9339,7 @@
     <e><p><l>voittaa<s n="vblex"/></l><r>erstplatzieren<s n="vblex"/></r></p></e>
     <e><p><l>voittaa<s n="vblex"/></l><r>gewinnen<s n="vblex"/></r></p></e>
     <e><p><l>voittaa<s n="vblex"/></l><r>siegen<s n="vblex"/></r></p></e>
+    <e><p><l>vuokrata<s n="vblex"/></l><r>mieten<s n="vblex"/></r></p></e>
     <e><p><l>vuokrata<s n="vblex"/></l><r>vermieten<s n="vblex"/></r></p></e>
     <e><p><l>vähentää<s n="vblex"/></l><r>abnehmen<s n="vblex"/></r></p></e>
     <e><p><l>vähentää<s n="vblex"/></l><r>abziehen<s n="vblex"/></r></p></e>
@@ -9557,6 +9564,7 @@
     <e><p><l>päivittää<s n="vblex"/></l><r>werten<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>pärjätä<s n="vblex"/></l><r>kommen<g><b/>aus</g><s n="vblex"/></r></p></e>
     <e><p><l>pystyttää<s n="vblex"/></l><r>richten<g><b/>ein</g><s n="vblex"/></r></p></e>
+    <e><p><l>pysähtyä<s n="vblex"/></l><r>halten<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>riittää<s n="vblex"/></l><r>reichen<g><b/>aus</g><s n="vblex"/></r></p></e>
     <e><p><l>romahtaa<s n="vblex"/></l><r>stürzen<g><b/>ein</g><s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>laufen<g><b/>ein</g><s n="vblex"/></r></p></e>
@@ -9770,6 +9778,7 @@
     <e><p><l>epäsuora<s n="adj"/></l><r>mittelbar<s n="adj"/></r></p></e>
     <e><p><l>epäsuora<s n="adj"/></l><r>mittelbar<s n="adj"/></r></p></e>
     <e><p><l>epäsuosittu<s n="adj"/></l><r>unbeliebt<s n="adj"/></r></p></e>
+    <e><p><l>epätaloudellinen<s n="adj"/></l><r>Unwirtschaftlich<s n="adj"/></r></p></e>
     <e><p><l>epätavallinen<s n="adj"/></l><r>außergewöhnlich<s n="adj"/></r></p></e>
     <e><p><l>epätavallinen<s n="adj"/></l><r>irregulär<s n="adj"/></r></p></e>
     <e><p><l>epätavallinen<s n="adj"/></l><r>ungewöhnlich<s n="adj"/></r></p></e>
@@ -10194,6 +10203,7 @@
     <e><p><l>latinalaisamerikkalainen<s n="adj"/></l><r>lateinamerikanisch<s n="adj"/></r></p></e>
     <e><p><l>legendaarinen<s n="adj"/></l><r>legendär<s n="adj"/></r></p></e>
     <e><p><l>legitiimi<s n="adj"/></l><r>legitim<s n="adj"/></r></p></e>
+    <e><p><l>lentäjällinen<s n="adj"/></l><r>fliegerisch<s n="adj"/></r></p></e>
     <e><p><l>leppymätön<s n="adj"/></l><r>unablässig<s n="adj"/></r></p></e>
     <e><p><l>lesbo<s n="adj"/></l><r>lesbisch<s n="adj"/></r></p></e>
     <e><p><l>levinnyt<s n="adj"/></l><r>ausgedehnt<s n="adj"/></r></p></e>
@@ -10843,6 +10853,7 @@
     <e><p><l>tuhannes<s n="adj"/></l><r>tausend<s n="adj"/></r></p></e>
     <e><p><l>tuhantinen<s n="adj"/></l><r>tausende<s n="adj"/></r></p></e>
     <e><p><l>tuhatkertainen<s n="adj"/></l><r>tausendfach<s n="adj"/></r></p></e>
+    <e><p><l>tuhlaavainen<s n="adj"/></l><r>Unwirtschaftlich<s n="adj"/></r></p></e>
     <e><p><l>tuhoisa<s n="adj"/></l><r>destruktiv<s n="adj"/></r></p></e>
     <e><p><l>tuhoisa<s n="adj"/></l><r>zerstörerisch<s n="adj"/></r></p></e>
     <e><p><l>tuhottu<s n="adj"/></l><r>verwüstet<s n="adj"/></r></p></e>
@@ -12447,6 +12458,7 @@
     <e><i>Tom<s n="np"/></i></e>
     <e><i>Toni<s n="np"/></i></e>
     <e><i>Tony<s n="np"/></i></e>
+    <e><i>Toronto<s n="np"/></i></e>
     <e><i>Torvinen<s n="np"/></i></e>
     <e><i>Tracy<s n="np"/></i></e>
     <e><i>Trafalgar<b/>Square<s n="np"/></i></e>
