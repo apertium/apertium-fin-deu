@@ -1833,6 +1833,7 @@
     <e><p><l>korko<s n="n"/></l><r>Zins<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>korpus<s n="n"/></l><r>Corpus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>korruptio<s n="n"/></l><r>Korruption<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kortteli<s n="n"/></l><r>Quartier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kortteli<s n="n"/></l><r>Viertel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>koru<s n="n"/></l><r>Schmuck<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>koru<s n="n"/></l><r>Schmuckstück<s n="n"/><s n="nt"/></r></p></e>
@@ -4543,6 +4544,7 @@
     <e><p><l>työttömyysraha<s n="n"/></l><r>Arbeitslosengeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>työttömyys<s n="n"/></l><r>Arbeitslosigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työvierailu<s n="n"/></l><r>Arbeitsbesuch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>työvoima<s n="n"/></l><r>Arbeitskraft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työväenluokka<s n="n"/></l><r>Arbeiterklasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työväenpuolue<s n="n"/></l><r>Arbeiterpartei<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tähti<s n="n"/></l><r>Star<s n="n"/><s n="m"/></r></p></e>
@@ -4705,6 +4707,7 @@
     <e><p><l>valmistuminen<s n="n"/></l><r>Beendigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valmistusfirma<s n="n"/></l><r>Herstellerfirma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valmius<s n="n"/></l><r>Bereitschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>valokuvaaja<s n="n"/></l><r>Fotograf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valokuva<s n="n"/></l><r>Foto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>valo<s n="n"/></l><r>Licht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>valtakirja<s n="n"/></l><r>Vollmacht<s n="n"/><s n="f"/></r></p></e>
@@ -5938,6 +5941,7 @@
     <e r="RL"><p><l>ongelma<s n="n"/></l><r>problem<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>onnettomuus<s n="n"/></l><r>unfall<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>organisaatio<s n="n"/></l><r>organisation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>osakas<s n="n"/></l><r>aktionär<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>anteil<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>schnitt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>teil<s n="n"/><s n="m"/></r></p></e>
@@ -6236,6 +6240,7 @@
     <e r="RL"><p><l>syyttäjätär<s n="n"/></l><r>anklägerin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>syytös<s n="n"/></l><r>anklage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>syytös<s n="n"/></l><r>vorwurf<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>syöksy<s n="n"/></l><r>rush<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>syöpä<s n="n"/></l><r>krebs<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>säädös<s n="n"/></l><r>dekret<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>säännös<s n="n"/></l><r>bestimmung<s n="n"/><s n="f"/></r></p></e>
@@ -6410,6 +6415,7 @@
     <e r="RL"><p><l>vahvuus<s n="n"/></l><r>stärke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihe<s n="n"/></l><r>phase<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>austausch<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>vaihto<s n="n"/></l><r>tausch<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>wechsel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>übergabe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihto<s n="n"/></l><r>übernahme<s n="n"/><s n="f"/></r></p></e>
@@ -7680,6 +7686,7 @@
     <e><p><l>formuloida<s n="vblex"/></l><r>formulieren<s n="vblex"/></r></p></e>
     <e><p><l>fuusioida<s n="vblex"/></l><r>fusionieren<s n="vblex"/></r></p></e>
     <e><p><l>groovata<s n="vblex"/></l><r>grooven<s n="vblex"/></r></p></e>
+    <e><p><l>haastaa<s n="vblex"/></l><r>trotzen<s n="vblex"/></r></p></e>
     <e><p><l>haastaa<s n="vblex"/></l><r>verklagen<s n="vblex"/></r></p></e>
     <e><p><l>haastatella<s n="vblex"/></l><r>interviewen<s n="vblex"/></r></p></e>
     <e><p><l>haistaa<s n="vblex"/></l><r>wittern<s n="vblex"/></r></p></e>
@@ -8370,6 +8377,7 @@
     <e><p><l>netota<s n="vblex"/></l><r>profitieren<s n="vblex"/></r></p></e>
     <e><p><l>neuvoa<s n="vblex"/></l><r>anraten<s n="vblex"/></r></p></e>
     <e><p><l>neuvoa<s n="vblex"/></l><r>raten<s n="vblex"/></r></p></e>
+    <e><p><l>nielaista<s n="vblex"/></l><r>schlucken<s n="vblex"/></r></p></e>
     <e><p><l>niittää<s n="vblex"/></l><r>ernten<s n="vblex"/></r></p></e>
     <e><p><l>nimetä<s n="vblex"/></l><r>benennen<s n="vblex"/></r></p></e>
     <e><p><l>nimetä<s n="vblex"/></l><r>bezeichnen<s n="vblex"/></r></p></e>
@@ -8623,6 +8631,7 @@
     <e><p><l>puolustaa<s n="vblex"/></l><r>wehren<s n="vblex"/></r></p></e>
     <e><p><l>puolustautua<s n="vblex"/></l><r>abwehren<s n="vblex"/></r></p></e>
     <e><p><l>purkaa<s n="vblex"/></l><r>abbauen<s n="vblex"/></r></p></e>
+    <e><p><l>purkaa<s n="vblex"/></l><r>abwickeln<s n="vblex"/></r></p></e>
     <e><p><l>purkaa<s n="vblex"/></l><r>entschärfen<s n="vblex"/></r></p></e>
     <e><p><l>purskahtaa<s n="vblex"/></l><r>platzen<s n="vblex"/></r></p></e>
     <e><p><l>puukottaa<s n="vblex"/></l><r>erstechen<s n="vblex"/></r></p></e>
@@ -8806,6 +8815,7 @@
     <e><p><l>selvitä<s n="vblex"/></l><r>ernüchtern<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>herausfinden<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>schaffen<s n="vblex"/></r></p></e>
+    <e><p><l>selvitä<s n="vblex"/></l><r>schöpfen<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>überleben<s n="vblex"/></r></p></e>
     <e><p><l>selviytyä<s n="vblex"/></l><r>begeben<s n="vblex"/></r></p></e>
     <e><p><l>selviytyä<s n="vblex"/></l><r>davonkommen<s n="vblex"/></r></p></e>
