@@ -147,8 +147,8 @@
 
   <section id="main" type="standard">
 
-    <!--               {{{      N     O        U    N S       O             UN   S     NO UN  S
-           {{{       n o   u            n  s      w  i             t    h g      ende r s -->
+    <!--                {{{      N     O        U    N S       O             UN   S     NO UN  S
+           {{{       n  o   u            n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -163,6 +163,7 @@
     <e c="dunno, wikt"><p><l>onsilo<s n="n"/></l><r>Kar<s n="n"/><s n="nt"/></r></p></e>
     <e c="dynastia"><p><l>qiang<s n="n"/></l><r>Chan<s n="n"/><s n="m"/></r></p></e>
     <e c="electronical drone"><p><l>drone<s n="n"/></l><r>Drohne<s n="n"/><s n="f"/></r></p></e>
+    <e c="esp. payments"><p><l>muistutus<s n="n"/></l><r>Mahnung<s n="n"/><s n="f"/></r></p></e>
     <e c="finances"><p><l>erä<s n="n"/></l><r>Tranche<s n="n"/><s n="f"/></r></p></e>
     <e c="fin XXX"><p><l>palkki<s n="n"/></l><r>Riegel<s n="n"/><s n="m"/></r></p></e>
     <e c="FIXME: what's the fin idiom here"><p><l>vale<s n="n"/></l><r>Lügenmärchen<s n="n"/><s n="nt"/></r></p></e>
@@ -700,6 +701,7 @@
     <e><p><l>enemmistö<s n="n"/></l><r>Mehrheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>energianlähde<s n="n"/></l><r>Energieträger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>energia<s n="n"/></l><r>Energie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>englantilainen<s n="n"/></l><r>Engländer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>enkeli<s n="n"/></l><r>Engel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>enklaavi<s n="n"/></l><r>Enklave<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>enklaavi<s n="n"/></l><r>Enklave<s n="n"/><s n="f"/></r></p></e>
@@ -924,6 +926,7 @@
     <e><p><l>harmi<s n="n"/></l><r>Schaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>harppi<s n="n"/></l><r>Zirkel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hartsi<s n="n"/></l><r>Harz<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>harvinaisuus<s n="n"/></l><r>Seltenheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hasselpähkinä<s n="n"/></l><r>Haselnuss<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hattu<s n="n"/></l><r>Hut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hautajainen<s n="n"/></l><r>Beerdigung<s n="n"/><s n="f"/></r></p></e>
@@ -5130,6 +5133,7 @@
     <e><p><l>yritys<s n="n"/></l><r>Versuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yrityssuhde<s n="n"/></l><r>Geschäftsbeziehung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yritystila<s n="n"/></l><r>Geschäftsraum<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yritystoiminta<s n="n"/></l><r>Geschäftspraktik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ystävyysottelu<s n="n"/></l><r>Freundschaftsspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ystävyys<s n="n"/></l><r>Freundschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ystäväpiiri<s n="n"/></l><r>Freundeskreis<s n="n"/><s n="m"/></r></p></e>
@@ -5522,6 +5526,7 @@
     <e r="RL"><p><l>hälytys<s n="n"/></l><r>alarm<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hätä<s n="n"/></l><r>not<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hätätila<s n="n"/></l><r>notsituation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>häviö<s n="n"/></l><r>schwund<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>idea<s n="n"/></l><r>idee<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ikä<s n="n"/></l><r>alter<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ilmasto<s n="n"/></l><r>klima<s n="n"/><s n="nt"/></r></p></e>
@@ -6957,6 +6962,7 @@
     <e><p><l>käytännöllisesti<s n="adv"/></l><r>puncto<s n="adv"/></r></p></e>
     <e><p><l>käytännössä<s n="adv"/></l><r>praktisch<s n="adv"/></r></p></e>
     <e><p><l>laajalti<s n="adv"/></l><r>weitgehend<s n="adv"/></r></p></e>
+    <e><p><l>laajalti<s n="adv"/></l><r>weithin<s n="adv"/></r></p></e>
     <e><p><l>laajiten<s n="adv"/></l><r>weitestgehend<s n="adv"/></r></p></e>
     <e><p><l>laillisesti<s n="adv"/></l><r>gesetzlich<s n="adv"/></r></p></e>
     <e><p><l>laillisesti<s n="adv"/></l><r>legal<s n="adv"/></r></p></e>
@@ -10242,6 +10248,7 @@
     <e><p><l>lainvastainen<s n="adj"/></l><r>widerrechtlich<s n="adj"/></r></p></e>
     <e><p><l>laiska<s n="adj"/></l><r>träge<s n="adj"/></r></p></e>
     <e><p><l>laiton<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>
+    <e><p><l>laiton<s n="adj"/></l><r>ungerechtfertigt<s n="adj"/></r></p></e>
     <e><p><l>landelainen<s n="adj"/></l><r>ländlich<s n="adj"/></r></p></e>
     <e><p><l>laskennallinen<s n="adj"/></l><r>rechnerisch<s n="adj"/></r></p></e>
     <e><p><l>latentti<s n="adj"/></l><r>latent<s n="adj"/></r></p></e>
@@ -10530,6 +10537,7 @@
     <e><p><l>perustavanlaatuinen<s n="adj"/></l><r>grundsätzlich<s n="adj"/></r></p></e>
     <e><p><l>perustava<s n="adj"/></l><r>gründlich<s n="adj"/></r></p></e>
     <e><p><l>perusteeton<s n="adj"/></l><r>grundlos<s n="adj"/></r></p></e>
+    <e><p><l>perusteeton<s n="adj"/></l><r>ungerechtfertigt<s n="adj"/></r></p></e>
     <e><p><l>perusteltu<s n="adj"/></l><r>vertretbar<s n="adj"/></r></p></e>
     <e><p><l>perustuslaillinen<s n="adj"/></l><r>konstitutionell<s n="adj"/></r></p></e>
     <e><p><l>perustuslaillinen<s n="adj"/></l><r>verfassungsgemäß<s n="adj"/></r></p></e>
@@ -11174,6 +11182,7 @@
     <e><p><l>väärti<s n="adj"/></l><r>würdig<s n="adj"/></r></p></e>
     <e><p><l>väärä<s n="adj"/></l><r>falsch<s n="adj"/></r></p></e>
     <e><p><l>väärä<s n="adj"/></l><r>faul<s n="adj"/></r></p></e>
+    <e><p><l>väärä<s n="adj"/></l><r>unrecht<s n="adj"/></r></p></e>
     <e><p><l>westfalenlainen<s n="adj"/></l><r>westfälisch<s n="adj"/></r></p></e>
     <e><p><l>würtembergläinen<s n="adj"/></l><r>württembergisch<s n="adj"/></r></p></e>
     <e><p><l>ydinvoimallinen<s n="adj"/></l><r>atomar<s n="adj"/></r></p></e>
@@ -11187,6 +11196,7 @@
     <e><p><l>yhteinen<s n="adj"/></l><r>gemeinschaftlich<s n="adj"/></r></p></e>
     <e><p><l>yhteinen<s n="adj"/></l><r>vereint<s n="adj"/></r></p></e>
     <e><p><l>yhteiskunnallinen<s n="adj"/></l><r>gesellschaftlich<s n="adj"/></r></p></e>
+    <e><p><l>yhteistyökykyinen<s n="adj"/></l><r>kooperativ<s n="adj"/></r></p></e>
     <e><p><l>yhteistyökykyinen<s n="adj"/></l><r>partnerschaftlich<s n="adj"/></r></p></e>
     <e><p><l>yhteisöllinen<s n="adj"/></l><r>kommunal<s n="adj"/></r></p></e>
     <e><p><l>yhtenäinen<s n="adj"/></l><r>einheitlich<s n="adj"/></r></p></e>
@@ -11991,6 +12001,7 @@
     <e><i>Cleveland<s n="np"/></i></e>
     <e><i>Clinton<s n="np"/></i></e>
     <e><i>Clint<s n="np"/></i></e>
+    <e><i>Cobb<s n="np"/></i></e>
     <e><i>Cohen<s n="np"/></i></e>
     <e><i>Colorado<s n="np"/></i></e>
     <e><i>Colorado<s n="np"/></i></e>
