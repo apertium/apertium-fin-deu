@@ -479,6 +479,7 @@
     <e><p><l>asumistiheys<s n="n"/></l><r>Bevölkerungsdichte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asumus<s n="n"/></l><r>Bleibe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asumus<s n="n"/></l><r>Siedlung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>asunnonrakennus<s n="n"/></l><r>Wohnungsbau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>Appartement<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>Wohnsitz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>Wohnung<s n="n"/><s n="f"/></r></p></e>
@@ -921,6 +922,7 @@
     <e><p><l>halu<s n="n"/></l><r>Verlangen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>halveksunta<s n="n"/></l><r>Verachtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hame<s n="n"/></l><r>Rock<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hammas<s n="n"/></l><r>Zahn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hamppukasvi<s n="n"/></l><r>Hanfpflanze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hampurilainen<s n="n"/></l><r>Hamburger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hankinta<s n="n"/></l><r>Beschaffung<s n="n"/><s n="f"/></r></p></e>
@@ -1505,6 +1507,7 @@
     <e><p><l>karhu<s n="n"/></l><r>Bär<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>karibialainen<s n="n"/></l><r>Karibik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>karja<s n="n"/></l><r>Nutztier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>karja<s n="n"/></l><r>Vieh<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>karkoitus<s n="n"/></l><r>Räumung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>karkotus<s n="n"/></l><r>Exil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>karkumatka<s n="n"/></l><r>Flucht<s n="n"/><s n="f"/></r></p></e>
@@ -1563,6 +1566,7 @@
     <e><p><l>kauppa<s n="n"/></l><r>Laden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppias<s n="n"/></l><r>Ladenbesitzer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunginjohtaja<s n="n"/></l><r>Bürgermeister<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kaupunginjohtaja<s n="n"/></l><r>Oberbürgermeister<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunginjohtajatar<s n="n"/></l><r>Bürgermeisterin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaupunginosa<s n="n"/></l><r>Arrondissement<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kaupunginosa<s n="n"/></l><r>Bezirk<s n="n"/><s n="m"/></r></p></e>
@@ -1932,6 +1936,7 @@
     <e><p><l>kuningatar<s n="n"/></l><r>Dame<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuningatar<s n="n"/></l><r>Königin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuninkaallinen<s n="n"/></l><r>Königshaus<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kunnallisvaali<s n="n"/></l><r>Kommunalwahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnialegioona<s n="n"/></l><r>Ehrenlegion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunniamerkki<s n="n"/></l><r>Orden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunnianloukkaus<s n="n"/></l><r>Verleumdung<s n="n"/><s n="f"/></r></p></e>
@@ -1940,6 +1945,7 @@
     <e><p><l>kunnioittamattomuus<s n="n"/></l><r>Respektlosigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnioitus<s n="n"/></l><r>Respekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kunta<s n="n"/></l><r>Landkreis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuntavaali<s n="n"/></l><r>Kommunalwahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuntoilu<s n="n"/></l><r>Fitness<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuokka<s n="n"/></l><r>Hacke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuolemantuomio<s n="n"/></l><r>Todesstrafe<s n="n"/><s n="f"/></r></p></e>
@@ -2829,6 +2835,7 @@
     <e><p><l>nurkkapöytä<s n="n"/></l><r>Ecktisch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nurkka<s n="n"/></l><r>Ecke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nyrkki<s n="n"/></l><r>Faust<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Nürnbergiläinen<s n="n"/></l><r>Nürnberger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nähtävyyssuoja<s n="n"/></l><r>Denkmalschutz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näkemys<s n="n"/></l><r>Auffassung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>näkemys<s n="n"/></l><r>Augenmaß<s n="n"/><s n="nt"/></r></p></e>
@@ -3013,6 +3020,7 @@
     <e><p><l>paikka<s n="n"/></l><r>Stelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paikka<s n="n"/></l><r>Stellung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paikka<s n="n"/></l><r>Stätte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paimen<s n="n"/></l><r>Hirt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painajainen<s n="n"/></l><r>Albtraum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painolasti<s n="n"/></l><r>Ballast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painopiste<s n="n"/></l><r>Nachdruck<s n="n"/><s n="m"/></r></p></e>
@@ -5003,6 +5011,7 @@
     <e><p><l>vuode<s n="n"/></l><r>Bett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vuokra<s n="n"/></l><r>Miete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuoksi<s n="n"/></l><r>Flut<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vuorenhuippu<s n="n"/></l><r c="PROPN likelier">Zugspitze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuori<s n="n"/></l><r>Berg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuoristo<s n="n"/></l><r>Sierra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuorovaikutus<s n="n"/></l><r>Interaktion<s n="n"/><s n="f"/></r></p></e>
@@ -6110,6 +6119,7 @@
     <e r="RL"><p><l>puoliso<s n="n"/></l><r>ehe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puoliso<s n="n"/></l><r>gemahl<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puolue<s n="n"/></l><r>partei<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>puolue<s n="n"/></l><r>party<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>puolustaja<s n="n"/></l><r>verteidiger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>puolustusjärjestelmä<s n="n"/></l><r>abwehrsystem<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>puolustus<s n="n"/></l><r>abwehr<s n="n"/><s n="f"/></r></p></e>
@@ -6503,6 +6513,7 @@
     <e r="RL"><p><l>varaedustaja<s n="n"/></l><r>vize<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>varapresidentti<s n="n"/></l><r>vizepräsident<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>varasto<s n="n"/></l><r>lager<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>varkaus<s n="n"/></l><r>diebstahl<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>varmistus<s n="n"/></l><r>überprüfung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>varoitus<s n="n"/></l><r>warnung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>varovaisuus<s n="n"/></l><r>vorsorge<s n="n"/><s n="f"/></r></p></e>
@@ -7654,6 +7665,7 @@
     <e><p><l c="as gay">paljastaa<s n="vblex"/></l><r>outen<s n="vblex"/></r></p></e>
     <e><p><l c="inexact, should be: advise against">kieltää<s n="vblex"/></l><r>abraten<s n="vblex"/></r></p></e>
     <e><p><l c="literal rare">laukoa<s n="vblex"/></l><r>schießen<s n="vblex"/></r></p></e>
+    <e><p><l c="of a vehicle">poistua<s n="vblex"/></l><r>absteigen<s n="vblex"/></r></p></e>
     <e><p><l c="of prices">kallistua<s n="vblex"/></l><r>verteuern<s n="vblex"/></r></p></e>
     <e><p><l c="paussata?">pysähtyä<s n="vblex"/></l><r>pausieren<s n="vblex"/></r></p></e>
     <e><p><l>debytoida<s n="vblex"/></l><r>debütieren<s n="vblex"/></r></p></e>
@@ -9505,6 +9517,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
+    <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
