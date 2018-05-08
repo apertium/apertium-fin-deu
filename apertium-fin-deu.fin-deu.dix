@@ -147,7 +147,7 @@
 
   <section id="main" type="standard">
 
-    <!--                {{{      N     O        U    N S       O             UN   S     NO UN  S
+    <!--                {{{       N     O        U    N S       O             UN   S     NO UN  S
            {{{       n  o   u            n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
@@ -4500,6 +4500,7 @@
     <e><p><l>tuottaja<s n="n"/></l><r>Produzent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuottaja<s n="n"/></l><r>Versorger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuottaja<s n="n"/></l><r>Zulieferer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tuotto<s n="n"/></l><r>Erlös<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuotto<s n="n"/></l><r>Umsatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turbulenssi<s n="n"/></l><r>Turbulenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turhautuminen<s n="n"/></l><r>Frust<s n="n"/><s n="m"/></r></p></e>
@@ -5247,7 +5248,7 @@
 
 
      <!--   }}}
-           {{{    no  u  n          s :   u    n  ca t  eg  o rise d gende rs
+           {{{    no  u  n           s :   u    n  ca t  eg  o rise d gende rs
       -->
 
     <!-- problematic genders -->
@@ -5487,6 +5488,7 @@
     <e r="RL"><p><l>demo<s n="n"/></l><r>demo<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>design<s n="n"/></l><r>design<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diileri<s n="n"/></l><r>händler<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>diili<s n="n"/></l><r>deal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>diktatuuri<s n="n"/></l><r>diktatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diplomaatti<s n="n"/></l><r>diplomat<s n="n"/><s n="m"/></r></p></e>
@@ -5558,6 +5560,7 @@
     <e r="RL"><p><l>hevonen<s n="n"/></l><r>pferd<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hidastaminen<s n="n"/></l><r>behinderung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hiilikopio<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>historia<s n="n"/></l><r>vergangenheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hoito<s n="n"/></l><r c="tierhaltung">haltung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hovi<s n="n"/></l><r>hof<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>huhu<s n="n"/></l><r>gerücht<s n="n"/><s n="nt"/></r></p></e>
@@ -6264,6 +6267,7 @@
     <e r="RL"><p><l>solu<s n="n"/></l><r>zelle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>abkommen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>antrag<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>sopimus<s n="n"/></l><r>deal<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>einigung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>pakt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>vertrag<s n="n"/><s n="m"/></r></p></e>
@@ -7376,6 +7380,7 @@
     <e><p><l>varten<s n="adv"/></l><r>wegen<s n="adv"/></r></p></e>
     <e><p><l>vasemmalle<s n="adv"/></l><r>links<s n="adv"/></r></p></e>
     <e><p><l>vastaan<s n="adv"/></l><r>anti<s n="adv"/></r></p></e>
+    <e><p><l>vastaisesti<s n="adv"/></l><r>contra<s n="adv"/></r></p></e>
     <e><p><l>vastakkain<s n="adv"/></l><r>gegeneinander<s n="adv"/></r></p></e>
     <e><p><l>vastedes<s n="adv"/></l><r>nunmehr<s n="adv"/></r></p></e>
     <e><p><l>vastoin<s n="adv"/></l><r>entgegen<s n="adv"/></r></p></e>
@@ -7563,7 +7568,6 @@
     <e><p><l>adoptoida<s n="vblex"/></l><r>adoptieren<s n="vblex"/></r></p></e>
     <e><p><l>agitoida<s n="vblex"/></l><r>hetzen<s n="vblex"/></r></p></e>
     <e><p><l>ahdistella<s n="vblex"/></l><r>belästigen<s n="vblex"/></r></p></e>
-    <e><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>anrichten<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>auslösen<s n="vblex"/></r></p></e>
     <e><p><l>aiheuttaa<s n="vblex"/></l><r>bedingen<s n="vblex"/></r></p></e>
@@ -9538,6 +9542,7 @@
 
 
 
+    <e><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
     <e><p><l>toimittaa<s n="vblex"/></l><r c="maybe german guesser fail?">courieren<s n="vblex"/></r></p></e>
     <e><p><l>luovuttaa<s n="vblex"/></l><r c="maybe german guesser fail?">spendertieren<s n="vblex"/></r></p></e>
     <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">eröffnungsfeieren<s n="vblex"/></r></p></e>
@@ -9549,6 +9554,7 @@
     <e><p><l>tulla<s n="vblex"/><j/>toinen<s n="num"/><s n="sg"/><s n="tra"/></l><r c="maybe german guesser fail?">zweitplatzieren<s n="vblex"/></r></p></e>
     <e><p><l>asua<s n="vblex"/><j/>poliisiasema<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">polizeihauptquartieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
+    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">militäroffizieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">grundsatzpapieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">ergebnispapieren<s n="vblex"/></r></p></e>
@@ -11931,6 +11937,7 @@
     {{{ props 1:1 -->
 
 
+
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
@@ -12507,6 +12514,7 @@
     <e><i>Ralph<s n="np"/></i></e>
     <e><i>Raymond<s n="np"/></i></e>
     <e><i>Ray<s n="np"/></i></e>
+    <e><i>Reagan<s n="np"/></i></e>
     <e><i>Rhode<s n="np"/></i></e>
     <e><i>Richard<b/>Nixon<s n="np"/></i></e>
     <e><i>Richard<s n="np"/></i></e>
@@ -12652,7 +12660,6 @@
     <e><i>Yasmina<s n="np"/></i></e>
     <e><i>Young<s n="np"/></i></e>
     <e><i>Zürich<s n="np"/></i></e>
-
 
 
     <!-- }}}
