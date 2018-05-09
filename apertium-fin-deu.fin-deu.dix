@@ -180,6 +180,7 @@
     <e c="parrot type, macaw"><p><l>ara<s n="n"/></l><r>Ara<s n="n"/><s n="m"/></r></p></e>
     <e c="politix"><p><l>ministerinvirka<s n="n"/></l><r>Staatsminister<s n="n"/><s n="m"/></r></p></e>
     <e c="redistribution; anti-piracy"><p><l>jälleenmyynti<s n="n"/></l><r>Umverteilung<s n="n"/><s n="f"/></r></p></e>
+    <e c="schools"><p><l>loppukoe<s n="n"/></l><r>Staatsexamen<s n="n"/><s n="nt"/></r></p></e>
     <e c="SI unit"><p><l>newton<s n="n"/></l><r>Newton<s n="n"/><s n="nt"/></r></p></e>
     <e c="special language"><p><l>palkkaneuvottelu<s n="n"/></l><r>Tarifverhandlung<s n="n"/><s n="f"/></r></p></e>
     <e c="sports"><p><l>ampumahiihtäjä<s n="n"/></l><r>Biathlet<s n="n"/><s n="m"/></r></p></e>
@@ -831,6 +832,7 @@
     <e><p><l>filmintekijä<s n="n"/></l><r>Filmemacher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filmi<s n="n"/></l><r>Film<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filmi<s n="n"/></l><r>Streif<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>filmitähti<s n="n"/></l><r>Filmstar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filosofia<s n="n"/></l><r>Philosophie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filosofi<s n="n"/></l><r>Philosoph<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>finaalipeli<s n="n"/></l><r>Endspiel<s n="n"/><s n="nt"/></r></p></e>
@@ -949,6 +951,7 @@
     <e><p><l>heikennys<s n="n"/></l><r>Aufweichung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heikkous<s n="n"/></l><r>Faible<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>heikkous<s n="n"/></l><r>Schwachstelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>heiluri<s n="n"/></l><r>Pendel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>heimo<s n="n"/></l><r>Stamm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heinäkuu<s n="n"/></l><r>Juli<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heitteillejättö<s n="n"/></l><r>Vernachlässigung<s n="n"/><s n="f"/></r></p></e>
@@ -2411,6 +2414,7 @@
     <e><p><l>lääkitys<s n="n"/></l><r>Medikament<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lääkärintakki<s n="n"/></l><r>Arztkittel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääkäri<s n="n"/></l><r>Arzt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lääkäri<s n="n"/></l><r>Mediziner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääkäri<s n="n"/></l><r>Ärzte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääninhallinto<s n="n"/></l><r>Bundesregierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>löytäjä<s n="n"/></l><r>Entdecker<s n="n"/><s n="m"/></r></p></e>
@@ -3049,6 +3053,7 @@
     <e><p><l>palatsi<s n="n"/></l><r>Palast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palatsi<s n="n"/></l><r>Pfalz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palauttaminen<s n="n"/></l><r>Rückführung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palauttaminen<s n="n"/></l><r>Wiedereinsetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palautuminen<s n="n"/></l><r>Erholung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palautus<s n="n"/></l><r>Rückgabe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palestiinalainen<s n="n"/></l><r>Palästinenser<s n="n"/><s n="m"/></r></p></e>
@@ -3065,6 +3070,7 @@
     <e><p><l>palkki<s n="n"/></l><r>Balken<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pallonpuolisko<s n="n"/></l><r>Hemisphäre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pallo<s n="n"/></l><r>Ball<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palmu<s n="n"/></l><r>Palme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>palmusunnuntai<s n="n"/></l><r>Palmsonntag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palohälytys<s n="n"/></l><r>Feueralarm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>palokunta<s n="n"/></l><r>Feuerwehr<s n="n"/><s n="m"/></r></p></e>
@@ -4421,6 +4427,7 @@
     <e><p><l>treffi<s n="n"/></l><r>Verabredung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trendi<s n="n"/></l><r>Trend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tribunaali<s n="n"/></l><r>Tribunal<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>trio<s n="n"/></l><r>Trio<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tri<s n="n"/></l><r>Dr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Trope<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trooppi<s n="n"/></l><r>Tropus<s n="n"/><s n="m"/></r></p></e>
@@ -5492,6 +5499,7 @@
     <e r="RL"><p><l>diktatuuri<s n="n"/></l><r>diktatur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dioksidi<s n="n"/></l><r>dioxid<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>diplomaatti<s n="n"/></l><r>diplomat<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>diplomatia<s n="n"/></l><r>diplomatie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>dokumentti<s n="n"/></l><r>dokument<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>duo<s n="n"/></l><r>duo<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>edistys<s n="n"/></l><r>fortschritt<s n="n"/><s n="m"/></r></p></e>
@@ -9534,7 +9542,8 @@
 
 
 
-
+    <!-- }}}
+         {{{ guesser problems deu -->
 
 
 
@@ -9559,6 +9568,7 @@
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">grundsatzpapieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">ergebnispapieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">sondierungspapieren<s n="vblex"/></r></p></e>
+    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">javieren<s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/><j/>passi<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">einreisepapieren<s n="vblex"/></r></p></e>
 
 
@@ -9664,6 +9674,7 @@
     <e><p><l>matkia<s n="vblex"/></l><r>streben<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>fahren<g><b/>aus</g><s n="vblex"/></r></p></e>
     <e><p><l>matkustaa<s n="vblex"/></l><r>reisen<g><b/>an</g><s n="vblex"/></r></p></e>
+    <e><p><l>merkitä<s n="vblex"/></l><r>schreiben<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>myöntyä<s n="vblex"/></l><r>stimmen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>noudattaa<s n="vblex"/></l><r>kommen<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>nousta<s n="vblex"/></l><r>stehen<g><b/>auf</g><s n="vblex"/></r></p></e>
