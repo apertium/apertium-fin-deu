@@ -8381,6 +8381,7 @@
     <e><p><l>löytyä<s n="vblex"/></l><r>vorfinden<s n="vblex"/></r></p></e>
     <e><p><l>löytää<s n="vblex"/></l><r>entdecken<s n="vblex"/></r></p></e>
     <e><p><l>löytää<s n="vblex"/></l><r>finden<s n="vblex"/></r></p></e>
+    <e><p><l>maalata<s n="vblex"/></l><r>aufmalen<s n="vblex"/></r></p></e>
     <e><p><l>maata<s n="vblex"/></l><r>auflegen<s n="vblex"/></r></p></e>
     <e><p><l>maata<s n="vblex"/></l><r>legen<s n="vblex"/></r></p></e>
     <e><p><l>maata<s n="vblex"/></l><r>liegen<s n="vblex"/></r></p></e>
@@ -10057,6 +10058,7 @@
     <e><p><l>hädänalainen<s n="adj"/></l><r>nötig<s n="adj"/></r></p></e>
     <e><p><l>häpeällinen<s n="adj"/></l><r>schändlich<s n="adj"/></r></p></e>
     <e><p><l>häpeämätön<s n="adj"/></l><r>schamlos<s n="adj"/></r></p></e>
+    <e><p><l>hävitty<s n="adj"/></l><r>verspielt<s n="adj"/></r></p></e>
     <e><p><l>identtinen<s n="adj"/></l><r>identisch<s n="adj"/></r></p></e>
     <e><p><l>ikävä<s n="adj"/></l><r>traurig<s n="adj"/></r></p></e>
     <e><p><l>ikääntynyt<s n="adj"/></l><r>greis<s n="adj"/></r></p></e>
@@ -11829,6 +11831,7 @@
     <e><p><l>vastaan<s n="post"/></l><r>gegen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastapäätä<s n="post"/></l><r>gegenüber<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>vastoin<s n="post"/></l><r>dagegen<s n="pr"/><s n="dat"/></r></p></e>
+    <e><p><l>vastoin<s n="post"/></l><r>dagegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välissä<s n="post"/></l><r>zwischen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>ympärille<s n="post"/></l><r>um<s n="pr"/><s n="acc"/></r></p></e>
@@ -12710,8 +12713,6 @@
          {{{ translated names -->
 
     <e c="of Nazareth"><p><l>Jeesus<s n="np"/></l><r>Jesus<s n="np"/></r></p></e>
-    <e><p><l>Strasbourg<s n="np"/></l><r>Straßburg<s n="np"/></r></p></e>
-    <e><p><l>Azerbaidžan<s n="np"/></l><r>Aserbaidschan<s n="np"/></r></p></e>
     <e><p><l>Aasia<s n="np"/></l><r>Asien<s n="np"/></r></p></e>
     <e><p><l>Afganistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
     <e><p><l>Afrikka<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
@@ -12727,6 +12728,7 @@
     <e><p><l>Ateena<s n="np"/></l><r>Athen<s n="np"/></r></p></e>
     <e><p><l>Atlantti<s n="np"/></l><r>Atlantik<s n="np"/></r></p></e>
     <e><p><l>Australia<s n="np"/></l><r>Australien<s n="np"/></r></p></e>
+    <e><p><l>Azerbaidžan<s n="np"/></l><r>Aserbaidschan<s n="np"/></r></p></e>
     <e><p><l>Baijeri<s n="np"/></l><r>Bayern<s n="np"/></r></p></e>
     <e><p><l>Bangladesh<s n="np"/></l><r>Bangladesch<s n="np"/></r></p></e>
     <e><p><l>Belgia<s n="np"/></l><r>Belgien<s n="np"/></r></p></e>
@@ -12788,6 +12790,7 @@
     <e><p><l>Kööpenhamina<s n="np"/></l><r>Kopenhagen<s n="np"/></r></p></e>
     <e><p><l>Latinalais-Amerikka<s n="np"/></l><r>Lateinamerika<s n="np"/></r></p></e>
     <e><p><l>Libya<s n="np"/></l><r>Libyen<s n="np"/></r></p></e>
+    <e><p><l>Liettua<s n="np"/></l><r>Lettland<s n="np"/></r></p></e>
     <e><p><l>Liettua<s n="np"/></l><r>Litauen<s n="np"/></r></p></e>
     <e><p><l>Lontoo<s n="np"/></l><r>London<s n="np"/></r></p></e>
     <e><p><l>Lyypekki<s n="np"/></l><r>Lübeck<s n="np"/></r></p></e>
@@ -12837,6 +12840,7 @@
     <e><p><l>Skotlanti<s n="np"/></l><r>Schottland<s n="np"/></r></p></e>
     <e><p><l>Slovakia<s n="np"/></l><r>Slowakei<s n="np"/></r></p></e>
     <e><p><l>Slovenia<s n="np"/></l><r>Slowenien<s n="np"/></r></p></e>
+    <e><p><l>Strasbourg<s n="np"/></l><r>Straßburg<s n="np"/></r></p></e>
     <e><p><l>Suomi<s n="np"/></l><r>Finnland<s n="np"/></r></p></e>
     <e><p><l>Sveitsi<s n="np"/></l><r>Schweiz<s n="np"/></r></p></e>
     <e><p><l>Syyria<s n="np"/></l><r>Syrien<s n="np"/></r></p></e>
