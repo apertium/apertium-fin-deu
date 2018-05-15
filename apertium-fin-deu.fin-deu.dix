@@ -1810,6 +1810,7 @@
     <e><p><l>kompensaatio<s n="n"/></l><r>Ausgleich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kompensaatio<s n="n"/></l><r>Entschädigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kompetenssi<s n="n"/></l><r>Kompetenz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>komplikaatio<s n="n"/></l><r>Komplikation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>komponentti<s n="n"/></l><r>Komponente<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kompromissi<s n="n"/></l><r>Kompromiss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kondiittori<s n="n"/></l><r>Konditor<s n="n"/><s n="m"/></r></p></e>
@@ -2704,6 +2705,7 @@
     <e><p><l>munalikööri<s n="n"/></l><r>Eierlikör<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muna<s n="n"/></l><r>Ei<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>munasolu<s n="n"/></l><r>Eizelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>munuainen<s n="n"/></l><r>Niere<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muodostelma<s n="n"/></l><r>Formation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muokkaus<s n="n"/></l><r>Bearbeitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muoti<s n="n"/></l><r>Mode<s n="n"/><s n="f"/></r></p></e>
@@ -3358,6 +3360,7 @@
     <e><p><l>pronssimitali<s n="n"/></l><r>Bronzemedaille<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pronssi<s n="n"/></l><r>Bronze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>propaganda<s n="n"/></l><r>Propaganda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proseduuri<s n="n"/></l><r>Prozedur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prosentti<s n="n"/></l><r>Prozent<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>prosenttiyksikkö<s n="n"/></l><r>Prozentpunkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>prosessi<s n="n"/></l><r>Ablauf<s n="n"/><s n="m"/></r></p></e>
@@ -4902,6 +4905,7 @@
     <e><p><l>verilöyly<s n="n"/></l><r>Blutbad<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>verilöyly<s n="n"/></l><r>Blutvergießen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>veri<s n="n"/></l><r>Blut<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>verisuoni<s n="n"/></l><r>Blutgefäß<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>verkkosivu<s n="n"/></l><r>Internetseite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>verkkosivu<s n="n"/></l><r>Webseite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>verkkosivusto<s n="n"/></l><r>Website<s n="n"/><s n="f"/></r></p></e>
@@ -4937,7 +4941,6 @@
     <e><p><l>vierailu<s n="n"/></l><r>Visite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vieras<s n="n"/></l><r>Fremde<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vieras<s n="n"/></l><r>Gast<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>viesti<s n="n"/></l><r>Botschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>viesti<s n="n"/></l><r>Mitteilung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vietnamilainen<s n="n"/></l><r>Vietnamese<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vihamielisyys<s n="n"/></l><r>Feindschaft<s n="n"/><s n="f"/></r></p></e>
@@ -5734,6 +5737,7 @@
     <e r="RL"><p><l>klubi<s n="n"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>koalitio<s n="n"/></l><r>koalition<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kohta<s n="n"/></l><r>punkt<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kohtuus<s n="n"/></l><r>mäßigkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kokoelma<s n="n"/></l><r>sammlung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kokoelma<s n="n"/></l><r>versammlung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kokous<s n="n"/></l><r>gipfel<s n="n"/><s n="m"/></r></p></e>
@@ -6224,6 +6228,7 @@
     <e r="RL"><p><l>räjähdys<s n="n"/></l><r>explosion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saalis<s n="n"/></l><r>beute<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saanti<s n="n"/></l><r>versorgung<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>saanti<s n="n"/></l><r>zufuhr<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saari<s n="n"/></l><r>insel<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saaste<s n="n"/></l><r>verschmutzung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saattue<s n="n"/></l><r>konvoi<s n="n"/><s n="m"/></r></p></e>
@@ -6798,6 +6803,7 @@
     <e c="XXX"><p><l>huolissaan<s n="adv"/><s n="pxsp3"/></l><r>bedacht<s n="adv"/></r></p></e>
     <e><p><l>aamulla<s n="adv"/></l><r>Morgen<s n="adv"/></r></p></e>
     <e><p><l>aamulla<s n="adv"/></l><r>morgens<s n="adv"/></r></p></e>
+    <e><p><l>absoluuttisesti<s n="adv"/></l><r>absolut<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>bisher<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>ehemals<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>früher<s n="adv"/></r></p></e>
@@ -8194,6 +8200,7 @@
     <e><p><l>kuvailla<s n="vblex"/></l><r>beschreiben<s n="vblex"/></r></p></e>
     <e><p><l>kuvata<s n="vblex"/></l><r>bilden<s n="vblex"/></r></p></e>
     <e><p><l>kuvitella<s n="vblex"/></l><r>vorstellen<s n="vblex"/></r></p></e>
+    <e><p><l>kylmentää<s n="vblex"/></l><r>kühlen<s n="vblex"/></r></p></e>
     <e><p><l>kylpeä<s n="vblex"/></l><r>baden<s n="vblex"/></r></p></e>
     <e><p><l>kysyä<s n="vblex"/></l><r>befragen<s n="vblex"/></r></p></e>
     <e><p><l>kysyä<s n="vblex"/></l><r>fragen<s n="vblex"/></r></p></e>
@@ -10050,6 +10057,7 @@
     <e><p><l>hybridi<s n="adj"/></l><r>hybrid<s n="adj"/></r></p></e>
     <e><p><l>hygieeninen<s n="adj"/></l><r>hygienisch<s n="adj"/></r></p></e>
     <e><p><l>hyväksyttävä<s n="adj"/></l><r>akzeptabel<s n="adj"/></r></p></e>
+    <e><p><l>hyvänlaatuinen<s n="adj"/></l><r>gutartig<s n="adj"/></r></p></e>
     <e><p><l>hyvä<s n="adj"/></l><r>gut<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hyödyllinen<s n="adj"/></l><r>hilfreich<s n="adj"/></r></p></e>
     <e><p><l>hyödytön<s n="adj"/></l><r>vergeblich<s n="adj"/></r></p></e>
@@ -10333,6 +10341,7 @@
     <e><p><l>köyhä<s n="adj"/></l><r>karg<s n="adj"/></r></p></e>
     <e><p><l>laadullinen<s n="adj"/></l><r>qualitativ<s n="adj"/></r></p></e>
     <e><p><l>laahaava<s n="adj"/></l><r>schleppend<s n="adj"/></r></p></e>
+    <e><p><l>laaja-alainen<s n="adj"/></l><r>weitläufig<s n="adj"/></r></p></e>
     <e><p><l>laaja<s n="adj"/></l><r>breit<s n="adj"/></r></p></e>
     <e><p><l>laaja<s n="adj"/></l><r>eingehend<s n="adj"/></r></p></e>
     <e><p><l>laaja<s n="adj"/></l><r>weitgehend<s n="adj"/></r></p></e>
@@ -10984,6 +10993,7 @@
     <e><p><l>terveydellinen<s n="adj"/></l><r>sanitär<s n="adj"/></r></p></e>
     <e><p><l>terveyshaitallinen<s n="adj"/></l><r>gesundheitsschädlich<s n="adj"/></r></p></e>
     <e><p><l>terävä<s n="adj"/></l><r>spitz<s n="adj"/></r></p></e>
+    <e><p><l>testaamaton<s n="adj"/></l><r>unversucht<s n="adj"/></r></p></e>
     <e><p><l>thaimaalainen<s n="adj"/></l><r>thailändisch<s n="adj"/></r></p></e>
     <e><p><l>tiedotuksellinen<s n="adj"/></l><r>medial<s n="adj"/></r></p></e>
     <e><p><l>tieteellinen<s n="adj"/></l><r>wissenschaftlich<s n="adj"/></r></p></e>
@@ -11350,6 +11360,7 @@
     <e><p><l>ymmärrettävä<s n="adj"/></l><r>verständlich<s n="adj"/></r></p></e>
     <e><p><l>ympäröivä<s n="adj"/></l><r>umliegend<s n="adj"/></r></p></e>
     <e><p><l>ystävystynyt<s n="adj"/></l><r>befreundet<s n="adj"/></r></p></e>
+    <e><p><l>ystävällinen<s n="adj"/></l><r>einvernehmlich<s n="adj"/></r></p></e>
     <e><p><l>ystävällinen<s n="adj"/></l><r>freundlich<s n="adj"/></r></p></e>
     <e><p><l>ystävällinen<s n="adj"/></l><r>freundschaftlich<s n="adj"/></r></p></e>
     <e><p><l>yöllinen<s n="adj"/></l><r>nächtlich<s n="adj"/></r></p></e>
@@ -12259,6 +12270,7 @@
     <e><i>Hollywood<s n="np"/></i></e>
     <e><i>Honduras<s n="np"/></i></e>
     <e><i>Hongkong<s n="np"/></i></e>
+    <e><i>Hopkins<s n="np"/></i></e>
     <e><i>Houston<s n="np"/></i></e>
     <e><i>Howard<s n="np"/></i></e>
     <e><i>Hudson<s n="np"/></i></e>
