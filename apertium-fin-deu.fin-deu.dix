@@ -3146,6 +3146,7 @@
     <e><p><l>patja<s n="n"/></l><r>Matratze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pato<s n="n"/></l><r>Damm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pato<s n="n"/></l><r>Staudamm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pato<s n="n"/></l><r>Wehr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pato<s n="n"/></l><r>Weir<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>patsas<s n="n"/></l><r>Statue<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>patteri<s n="n"/></l><r>Batterie<s n="n"/><s n="f"/></r></p></e>
@@ -3449,6 +3450,7 @@
     <e><p><l>puolustus<s n="n"/></l><r>Abwehr<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puolustus<s n="n"/></l><r>Verteidiger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puolustus<s n="n"/></l><r>Verteidigung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puolustus<s n="n"/></l><r>Wehr<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>purje<s n="n"/></l><r>Segel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>purkaus<s n="n"/></l><r>Ausbruch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>purku<s n="n"/></l><r>Abbau<s n="n"/><s n="m"/></r></p></e>
@@ -7514,7 +7516,6 @@
      <!-- }}}
          {{{ light adverbs -->
 
-    <e><p><l>pikkuhiljaa<s n="adv"/></l><r>nach<b/>und<b/>nach<s n="adv"/></r></p></e>
     <e><p><l>eikä<s n="adv"/></l><r>auch<b/>nicht<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>immer<b/>mehr<s n="adv"/></r></p></e>
     <e><p><l>enempää<s n="adv"/></l><r>nicht<b/>mehr<s n="adv"/></r></p></e>
@@ -7533,47 +7534,27 @@
     <e><p><l>niin<s n="adv"/></l><r>so<b/>weit<s n="adv"/></r></p></e>
     <e><p><l>parhaiten<s n="adv"/></l><r>am<b/>besten<s n="adv"/></r></p></e>
     <e><p><l>perjantaina<s n="adv"/></l><r>am<b/>Freitag<s n="adv"/></r></p></e>
+    <e><p><l>pikkuhiljaa<s n="adv"/></l><r>nach<b/>und<b/>nach<s n="adv"/></r></p></e>
     <e><p><l>puhelimessa<s n="adv"/></l><r>am<b/>Telefon<s n="adv"/></r></p></e>
     <e><p><l>päivittäin<s n="adv"/></l><r>jeden<b/>Tag<s n="adv"/></r></p></e>
     <e><p><l>siksi<s n="adv"/></l><r>aus<b/>diesem<b/>Grund<s n="adv"/></r></p></e>
     <e><p><l>sunnuntaina<s n="adv"/></l><r>am<b/>Sonntag<s n="adv"/></r></p></e>
     <e><p><l>tiistaina<s n="adv"/></l><r>am<b/>Dienstag<s n="adv"/></r></p></e>
     <e><p><l>torstaina<s n="adv"/></l><r>am<b/>Donnerstag<s n="adv"/></r></p></e>
+    <e><p><l>tällä<b/>viikolla<s n="adv"/></l><r>diese<b/>Woche<s n="adv"/></r></p></e>
     <e><p><l>tänä<b/>iltana<s n="adv"/></l><r>heute<b/>Abend<s n="adv"/></r></p></e>
     <e><p><l>tänä<b/>vuonna<s n="adv"/></l><r>dieses<b/>Jahr<s n="adv"/></r></p></e>
-    <e><p><l>tällä<b/>viikolla<s n="adv"/></l><r>diese<b/>Woche<s n="adv"/></r></p></e>
     <e><p><l>ulkomailla<s n="adv"/></l><r>im<b/>Ausland<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>im<b/>Zusammenhang<b/>mit<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>in<b/>Zusammenhang<b/>mit<s n="adv"/></r></p></e>
     <e><p><l>yksin<b/>tein<s n="adv"/></l><r>auf<b/>Anhieb<s n="adv"/></r></p></e>
 
-    <!-- mismatches -->
+    <!-- decompounding hacks -->
 
-    <e><p><l>de<s n="np"/><s n="cog"/><s n="sg"/><s n="nom"/></l><r c="dewiki freq > 1Mio">de<s n="pr"/><s n="acc"/></r></p></e>
-    <e r="LR"><p><l>aikaa<s n="adv"/></l><r>während<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>aika<s n="adv"/></l><r>zeit<s n="pr"/></r></p></e>
-    <e><p><l>eteläinen<s n="adj"/></l><r>sudlich<s n="pr"/></r></p></e>
-    <e><p><l>eteläinen<s n="adj"/></l><r>südlich<s n="pr"/></r></p></e>
-    <e><p><l>ex<s n="n"/></l><r>ex<s n="adv"/></r></p></e>
-    <e><p><l>itäinen<s n="adj"/><s n="pos"/><s n="sg"/></l><r>östlich<s n="pr"/></r></p></e>
-    <e><p><l>kaakkoinen<s n="adj"/></l><r>sudöstlich<s n="pr"/></r></p></e>
-    <e><p><l>kaakkoinen<s n="adj"/></l><r>südöstlich<s n="pr"/></r></p></e>
-    <e><p><l>koillinen<s n="adj"/><s n="pos"/><s n="sg"/></l><r>nordöstlich<s n="pr"/></r></p></e>
-    <e><p><l>lännempänä<s n="adv"/></l><r>westlich<s n="adv"/></r></p></e>
+    <e><p><l>ensi<s n="adv"/><j/>vuonna<s n="adv"/></l><r>nächstes<b/>Jahr<s n="adv"/></r></p></e>
     <e><p><l>sama<s n="adj"/><s n="pos"/><s n="sg"/><s n="ess"/><j/>päivä<s n="n"/><s n="sg"/><s n="ess"/></l><r>am<b/>gleichen<b/>Tag<s n="adv"/></r></p></e>
-    <e><p><l>montako<s n="prn"/><s n="sg"/><s n="nom"/></l><r>wie<b/>viele<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>takia<s n="post"/></l><r>seinetwegen<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>takia<s n="post"/></l><r>zuliebe<s n="adv"/></r></p></e>
 
-    <!-- rarities
-        (the kind of adverb / intj / particle use is so rare that we ignore)
-    -->
 
-    <e r="LR"><p><l>edessä<s n="adv"/></l><r>vor<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>ja<s n="adv"/></l><r>und<s n="cnjcoo"/></r></p></e>
-    <e r="LR"><p><l>kun<s n="adv"/></l><r>wann<s n="cnjadv"/></r></p></e>
-    <e r="LR"><p><l>tai<s n="adv"/></l><r>oder<s n="cnjcoo"/></r></p></e>
 
     <!-- }}}
        }}}
@@ -8416,6 +8397,7 @@
     <e><p><l>matkustaa<s n="vblex"/></l><r>reisen<s n="vblex"/></r></p></e>
     <e><p><l>meinata<s n="vblex"/></l><r>meinen<s n="vblex"/></r></p></e>
     <e><p><l>menestyä<s n="vblex"/></l><r>gelingen<s n="vblex"/></r></p></e>
+    <e><p><l>menestyä<s n="vblex"/></l><r>prosperieren<s n="vblex"/></r></p></e>
     <e><p><l>mennä<s n="vblex"/></l><r>einsteigen<s n="vblex"/></r></p></e>
     <e><p><l>mennä<s n="vblex"/></l><r>fahren<s n="vblex"/></r></p></e>
     <e><p><l>mennä<s n="vblex"/></l><r>gehen<s n="vblex"/></r></p></e>
@@ -11299,6 +11281,7 @@
     <e><p><l>välitön<s n="adj"/></l><r>umgehend<s n="adj"/></r></p></e>
     <e><p><l>välitön<s n="adj"/></l><r>unmittelbar<s n="adj"/></r></p></e>
     <e><p><l>välttämätön<s n="adj"/></l><r>essentiell<s n="adj"/></r></p></e>
+    <e><p><l>välttävä<s n="adj"/></l><r>annehmbar<s n="adj"/></r></p></e>
     <e><p><l>väritetty<s n="adj"/></l><r>gefärbt<s n="adj"/></r></p></e>
     <e><p><l>vääjäämätön<s n="adj"/></l><r>bevorstehend<s n="adj"/></r></p></e>
     <e><p><l>vääjäämätön<s n="adj"/></l><r>unvermeidlich<s n="adj"/></r></p></e>
@@ -12227,6 +12210,7 @@
     <e><i>Gerry<s n="np"/></i></e>
     <e><i>Ghana<s n="np"/></i></e>
     <e><i>Gianluigi<s n="np"/></i></e>
+    <e><i>Gina<s n="np"/></i></e>
     <e><i>Goethe<s n="np"/></i></e>
     <e><i>Goldman<s n="np"/></i></e>
     <e><i>Gordon<s n="np"/></i></e>
@@ -12595,6 +12579,7 @@
     <e><i>Santa<s n="np"/></i></e>
     <e><i>Santiago<s n="np"/></i></e>
     <e><i>Sarah<s n="np"/></i></e>
+    <e><i>Schindler<s n="np"/></i></e>
     <e><i>Schleswig-Holstein<s n="np"/></i></e>
     <e><i>Schmidt<s n="np"/></i></e>
     <e><i>Schröder<s n="np"/></i></e>
@@ -12967,6 +12952,27 @@
 
     <e r="RL"><p><l/><r>zu<s n="ito"/></r></p></e>
 
+    <!-- simply odd mismatches -->
+
+    <e><p><l>de<s n="np"/><s n="cog"/><s n="sg"/><s n="nom"/></l><r c="dewiki freq > 1Mio">de<s n="pr"/><s n="acc"/></r></p></e>
+    <e r="LR"><p><l>aikaa<s n="adv"/></l><r>während<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>aika<s n="adv"/></l><r>zeit<s n="pr"/></r></p></e>
+    <e><p><l>eteläinen<s n="adj"/></l><r>sudlich<s n="pr"/></r></p></e>
+    <e><p><l>eteläinen<s n="adj"/></l><r>südlich<s n="pr"/></r></p></e>
+    <e><p><l>ex<s n="n"/></l><r>ex<s n="adv"/></r></p></e>
+    <e><p><l>itäinen<s n="adj"/><s n="pos"/><s n="sg"/></l><r>östlich<s n="pr"/></r></p></e>
+    <e><p><l>kaakkoinen<s n="adj"/></l><r>sudöstlich<s n="pr"/></r></p></e>
+    <e><p><l>kaakkoinen<s n="adj"/></l><r>südöstlich<s n="pr"/></r></p></e>
+    <e><p><l>koillinen<s n="adj"/><s n="pos"/><s n="sg"/></l><r>nordöstlich<s n="pr"/></r></p></e>
+    <e><p><l>lännempänä<s n="adv"/></l><r>westlich<s n="adv"/></r></p></e>
+    <e><p><l>montako<s n="prn"/><s n="sg"/><s n="nom"/></l><r>wie<b/>viele<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>takia<s n="post"/></l><r>seinetwegen<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>takia<s n="post"/></l><r>zuliebe<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>edessä<s n="adv"/></l><r>vor<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>ja<s n="adv"/></l><r>und<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>kun<s n="adv"/></l><r>wann<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>tai<s n="adv"/></l><r>oder<s n="cnjcoo"/></r></p></e>
 
     <!-- where fin analyses some foreign tokens -->
 
