@@ -385,6 +385,7 @@
     <e><p><l>argumentaatio<s n="n"/></l><r>Argumentation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>argumentti<s n="n"/></l><r>Argument<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arkisto<s n="n"/></l><r>Archiv<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>arkkihiippakunta<s n="n"/></l><r>Erzbistum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arkkipiispa<s n="n"/></l><r>Erzbischof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arkkitehti<s n="n"/></l><r>Architekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arkkitehtitoimisto<s n="n"/></l><r>Architekturbüro<s n="n"/><s n="nt"/></r></p></e>
@@ -993,7 +994,7 @@
     <e><p><l>hiilidioksidi<s n="n"/></l><r>Kohlendioxid<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hiili<s n="n"/></l><r>Kohle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiilivoimala<s n="n"/></l><r>Kohlekraftwerk<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>hiippakunta<s n="n"/></l><r>Bistum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hiippakunta<s n="n"/></l><r>Bistum<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiljaisuus<s n="n"/></l><r>Ruhe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiljaisuus<s n="n"/></l><r>Stille<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hinnannousu<s n="n"/></l><r>Preissteigerung<s n="n"/><s n="f"/></r></p></e>
@@ -4488,6 +4489,7 @@
     <e><p><l>tulva<s n="n"/></l><r>Hochwasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tulviminen<s n="n"/></l><r>Überschwemmung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tuma<s n="n"/></l><r>Zellkern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tumppi<s n="n"/></l><r>Kippe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tunisialainen<s n="n"/></l><r>Tunesier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tunneli<s n="n"/></l><r>Tunnel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tunnelma<s n="n"/></l><r>Stimmung<s n="n"/><s n="f"/></r></p></e>
@@ -10621,6 +10623,7 @@
     <e><p><l>parlamentaarinen<s n="adj"/></l><r>parlamentarisch<s n="adj"/></r></p></e>
     <e><p><l>pasifistinen<s n="adj"/></l><r>pazifistisch<s n="adj"/></r></p></e>
     <e><p><l>patentoitu<s n="adj"/></l><r>patent<s n="adj"/></r></p></e>
+    <e><p><l>pedofiilinen<s n="adj"/></l><r>pädophil<s n="adj"/></r></p></e>
     <e><p><l>pelkkä<s n="adj"/></l><r>bloß<s n="adj"/></r></p></e>
     <e><p><l>pelottava<s n="adj"/></l><r>fürchterlich<s n="adj"/></r></p></e>
     <e><p><l>pelästynyt<s n="adj"/></l><r>erschreckend<s n="adj"/></r></p></e>
@@ -10640,6 +10643,7 @@
     <e><p><l>perustuslaillinen<s n="adj"/></l><r>verfassungsmäßig<s n="adj"/></r></p></e>
     <e><p><l>perustuslaillinen<s n="adj"/></l><r>verfassungsrechtlich<s n="adj"/></r></p></e>
     <e><p><l>peruttu<s n="adj"/></l><r>verworfen<s n="adj"/></r></p></e>
+    <e><p><l>peruuttamaton<s n="adj"/></l><r>unumkehrbar<s n="adj"/></r></p></e>
     <e><p><l>perverssi<s n="adj"/></l><r>pervers<s n="adj"/></r></p></e>
     <e><p><l>pettynyt<s n="adj"/></l><r>enttäuscht<s n="adj"/></r></p></e>
     <e><p><l>pidätetty<s n="adj"/></l><r>festgesetzt<s n="adj"/></r></p></e>
@@ -11285,6 +11289,7 @@
     <e><p><l>väritetty<s n="adj"/></l><r>gefärbt<s n="adj"/></r></p></e>
     <e><p><l>vääjäämätön<s n="adj"/></l><r>bevorstehend<s n="adj"/></r></p></e>
     <e><p><l>vääjäämätön<s n="adj"/></l><r>unvermeidlich<s n="adj"/></r></p></e>
+    <e><p><l>väärinkäytetty<s n="adj"/></l><r>zweckentfremdet<s n="adj"/></r></p></e>
     <e><p><l>väärti<s n="adj"/></l><r>wert<s n="adj"/></r></p></e>
     <e><p><l>väärti<s n="adj"/></l><r>würdig<s n="adj"/></r></p></e>
     <e><p><l>väärä<s n="adj"/></l><r>falsch<s n="adj"/></r></p></e>
@@ -11361,6 +11366,7 @@
     <e><p><l>äänioikeutettu<s n="adj"/></l><r>stimmberechtigt<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>extremistisch<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>extrem<s n="adj"/></r></p></e>
+    <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
 
@@ -12472,6 +12478,7 @@
     <e><i>New<b/>Orleans<s n="np"/></i></e>
     <e><i>New<b/>York<b/>Times<s n="np"/></i></e>
     <e><i>New<b/>York<s n="np"/></i></e>
+    <e><i>Newcastle<s n="np"/></i></e>
     <e><i>Nicaragua<s n="np"/></i></e>
     <e><i>Nicholas<s n="np"/></i></e>
     <e><i>Nichols<s n="np"/></i></e>
