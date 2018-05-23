@@ -1827,6 +1827,7 @@
     <e><p><l>kongressi<s n="n"/></l><r>Kongreß<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konjunktuuri<s n="n"/></l><r>Konjunktur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>konkurrenssi<s n="n"/></l><r>Konkurrenz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>konkurssi<s n="n"/></l><r>Bankrott<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konkurssi<s n="n"/></l><r>Konkurs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konsensus<s n="n"/></l><r>Abkommen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>konsepti<s n="n"/></l><r>Begriff<s n="n"/><s n="m"/></r></p></e>
@@ -2255,6 +2256,7 @@
     <e><p><l>liittyminen<s n="n"/></l><r>Beitritt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liivi<s n="n"/></l><r>Weste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lika<s n="n"/></l><r>Schmutz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>likviditeetti<s n="n"/></l><r>Liquidität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>limonadi<s n="n"/></l><r>Limonade<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>linja-auto<s n="n"/></l><r>Bus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>linja<s n="n"/></l><r>Linie<s n="n"/><s n="f"/></r></p></e>
@@ -2938,6 +2940,7 @@
     <e><p><l>ongelma<s n="n"/></l><r>Problem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>onnentoivotus<s n="n"/></l><r>Glückwunsch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Absturz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>onnettomuus<s n="n"/></l><r>Desaster<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Unfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Unglück<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Vorfall<s n="n"/><s n="m"/></r></p></e>
@@ -4838,6 +4841,7 @@
     <e><p><l>varakansleri<s n="n"/></l><r>Vizekanzler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varamies<s n="n"/></l><r>Vize<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varapresidentti<s n="n"/></l><r>Vizepräsident<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vararikko<s n="n"/></l><r>Bankrott<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vararikko<s n="n"/></l><r>Pleite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>varas<s n="n"/></l><r>Dieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varas<s n="n"/></l><r>Räuber<s n="n"/><s n="m"/></r></p></e>
@@ -9847,6 +9851,7 @@
     <e><p><l>barokki<s n="adj"/></l><r>barock<s n="adj"/></r></p></e>
     <e><p><l>belgialainen<s n="adj"/></l><r>belgisch<s n="adj"/></r></p></e>
     <e><p><l>biologinen<s n="adj"/></l><r>biologisch<s n="adj"/></r></p></e>
+    <e><p><l>biometrinen<s n="adj"/></l><r>biometrisch<s n="adj"/></r></p></e>
     <e><p><l>blondi<s n="adj"/></l><r>blond<s n="adj"/></r></p></e>
     <e><p><l>bolivialainen<s n="adj"/></l><r>bolivianisch<s n="adj"/></r></p></e>
     <e><p><l>bosnialainen<s n="adj"/></l><r>bosnisch<s n="adj"/></r></p></e>
@@ -9904,6 +9909,7 @@
     <e><p><l>epäisänmaallinen<s n="adj"/></l><r>unpatriotisch<s n="adj"/></r></p></e>
     <e><p><l>epäkelpo<s n="adj"/></l><r>ungültig<s n="adj"/></r></p></e>
     <e><p><l>epäkypsä<s n="adj"/></l><r>unreif<s n="adj"/></r></p></e>
+    <e><p><l>epämukava<s n="adj"/></l><r>unangenehm<s n="adj"/></r></p></e>
     <e><p><l>epämukava<s n="adj"/></l><r>unbequem<s n="adj"/></r></p></e>
     <e><p><l>epämuodollinen<s n="adj"/></l><r>informell<s n="adj"/></r></p></e>
     <e><p><l>epäonnistunut<s n="adj"/></l><r>erfolglos<s n="adj"/></r></p></e>
@@ -11065,6 +11071,7 @@
     <e><p><l>tyypillinen<s n="adj"/></l><r>typisch<s n="adj"/></r></p></e>
     <e><p><l>tyypillinen<s n="adj"/></l><r>üblich<s n="adj"/></r></p></e>
     <e><p><l>tyyris<s n="adj"/></l><r>teuer<s n="adj"/></r></p></e>
+    <e><p><l>tyytymätön<s n="adj"/></l><r>unzufrieden<s n="adj"/></r></p></e>
     <e><p><l>tämänpäiväinen<s n="adj"/></l><r>heutig<s n="adj"/></r></p></e>
     <e><p><l>tämänvuotinen<s n="adj"/></l><r>diesjährig<s n="adj"/></r></p></e>
     <e><p><l>tärkeä<s n="adj"/></l><r>wichtig<s n="adj"/></r></p></e>
@@ -11778,6 +11785,7 @@
     <e><p><l>huolimatta<s n="post"/></l><r>trotz<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>huolimatta<s n="post"/></l><r>ungeachtet<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>huolimatta<s n="post"/></l><r>ungeachtet<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>ilman<s n="post"/></l><r>ohne<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>ilman<s n="post"/></l><r>mangels<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>ilman<s n="post"/></l><r>mangels<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>jälkeen<s n="post"/></l><r>außerhalb<s n="pr"/><s n="gen"/></r></p></e>
@@ -11846,7 +11854,7 @@
 
 
     <!-- }}}
-         {{{ cases -->
+         {{{ cases (fin) -->
 
     <e r="RL"><p><l/><r>ab<s n="pr"/><s n="dat"/></r></p></e>
     <e r="RL"><p><l/><r>am<s n="pr"/><s n="acc"/></r></p></e>
@@ -12149,6 +12157,7 @@
     <e><i>DiCaprio<s n="np"/></i></e>
     <e><i>Dieter<s n="np"/></i></e>
     <e><i>Disney<s n="np"/></i></e>
+    <e><i>Dodd<s n="np"/></i></e>
     <e><i>Dolly<s n="np"/></i></e>
     <e><i>Donald<s n="np"/></i></e>
     <e><i>Don<s n="np"/></i></e>
