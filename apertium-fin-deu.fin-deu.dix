@@ -178,6 +178,7 @@
     <e c="meeting meeting"><p><l>kokous<s n="n"/></l><r>Gipfeltreffen<s n="n"/><s n="nt"/></r></p></e>
     <e c="net(?) income"><p><l>tulo<s n="n"/></l><r>Aufkommen<s n="n"/><s n="nt"/></r></p></e>
     <e c="parrot type, macaw"><p><l>ara<s n="n"/></l><r>Ara<s n="n"/><s n="m"/></r></p></e>
+    <e c="physics: impact"><p><l>vaikutus<s n="n"/></l><r>Aufschlag<s n="n"/><s n="m"/></r></p></e>
     <e c="politix"><p><l>ministerinvirka<s n="n"/></l><r>Staatsminister<s n="n"/><s n="m"/></r></p></e>
     <e c="redistribution; anti-piracy"><p><l>jälleenmyynti<s n="n"/></l><r>Umverteilung<s n="n"/><s n="f"/></r></p></e>
     <e c="schools"><p><l>loppukoe<s n="n"/></l><r>Staatsexamen<s n="n"/><s n="nt"/></r></p></e>
@@ -1693,6 +1694,7 @@
     <e><p><l>kiinnostunut<s n="n"/></l><r>Interessent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kiinteistö<s n="n"/></l><r>Immobilie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiintiöpakolainen<s n="n"/></l><r>Kontingentflüchtling<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kiintolevy<s n="n"/></l><r>Festplatte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiireellisyys<s n="n"/></l><r>Dringlichkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiire<s n="n"/></l><r>Eile<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiistakysymys<s n="n"/></l><r>Streitfrage<s n="n"/><s n="f"/></r></p></e>
@@ -1890,6 +1892,7 @@
     <e><p><l>koulutus<s n="n"/></l><r>Ausbildung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>koulutus<s n="n"/></l><r>Bildung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kourallinen<s n="n"/></l><r>Handvoll<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kovalevy<s n="n"/></l><r>Festplatte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kranaatinheitin<s n="n"/></l><r>Mörser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kranaatti<s n="n"/></l><r>Granate<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kranaatti<s n="n"/></l><r>Granat<s n="n"/><s n="m"/></r></p></e>
@@ -3417,6 +3420,7 @@
     <e><p><l>pulu<s n="n"/></l><r>Tauber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>punapuu<s n="n"/></l><r>Rotholz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puna<s n="n"/></l><r>Rote<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puna<s n="n"/></l><r>Rot<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>punta<s n="n"/></l><r>Pfund<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>puoliaika<s n="n"/></l><r>Halbzeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puolijohdin<s n="n"/></l><r>Halbleiter<s n="n"/><s n="m"/></r></p></e>
@@ -3977,6 +3981,7 @@
     <e><p><l>sopimus<s n="n"/></l><r>Verordnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sopimus<s n="n"/></l><r>Vertrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sopimus<s n="n"/></l><r>Zusage<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sopimusvaltio<s n="n"/></l><r>Vertragsstaat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sormenjälki<s n="n"/></l><r>Fingerabdruck<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sormus<s n="n"/></l><r>Ring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sosiaalidemokraatti<s n="n"/></l><r>Sozialdemokrat<s n="n"/><s n="m"/></r></p></e>
@@ -4523,6 +4528,7 @@
     <e><p><l>tuottaja<s n="n"/></l><r>Versorger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuottaja<s n="n"/></l><r>Zulieferer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuotto<s n="n"/></l><r>Erlös<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tuotto<s n="n"/></l><r>Ertrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuotto<s n="n"/></l><r>Umsatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turbulenssi<s n="n"/></l><r>Turbulenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turhautuminen<s n="n"/></l><r>Frust<s n="n"/><s n="m"/></r></p></e>
@@ -5814,6 +5820,7 @@
     <e r="RL"><p><l>kuva<s n="n"/></l><r>bild<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kyky<s n="n"/></l><r>fähigkeit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kylä<s n="n"/></l><r>dorf<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>kynä<s n="n"/></l><r>stift<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kypärä<s n="n"/></l><r>helm<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kypärä<s n="n"/></l><r>helm<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kysely<s n="n"/></l><r>anfrage<s n="n"/><s n="f"/></r></p></e>
@@ -6291,6 +6298,7 @@
     <e r="RL"><p><l>sisältö<s n="n"/></l><r>inhalt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sitoja<s n="n"/></l><r>binder<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skandaali<s n="n"/></l><r>skandal<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>skanneri<s n="n"/></l><r>scanner<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>skenaario<s n="n"/></l><r>szenario<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>slovenialainen<s n="n"/></l><r>slowenisch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sokeus<s n="n"/></l><r>blindheit<s n="n"/><s n="f"/></r></p></e>
@@ -12143,6 +12151,7 @@
     <e><i>Dallas<s n="np"/></i></e>
     <e><i>Daniel<s n="np"/></i></e>
     <e><i>Dan<s n="np"/></i></e>
+    <e><i>Daphne<s n="np"/></i></e>
     <e><i>Dave<s n="np"/></i></e>
     <e><i>David<s n="np"/></i></e>
     <e><i>Davis<s n="np"/></i></e>
