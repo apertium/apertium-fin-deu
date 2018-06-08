@@ -147,8 +147,8 @@
 
   <section id="main" type="standard">
 
-    <!--                {{{       N     O        U    N S       O             UN   S     NO UN  S
-           {{{       n  o   u            n  s      w  i             t    h g      ende r s -->
+    <!--                {{{        N     O        U    N S       O             UN   S     NO UN  S
+           {{{       n  o   u             n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -1587,6 +1587,7 @@
     <e><p><l>kaupunkilainen<s n="n"/></l><r>Bürger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunki<s n="n"/></l><r>Burg<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaupunki<s n="n"/></l><r>Stadt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kaupunkivaltio<s n="n"/></l><r>Stadtstaat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kausi<s n="n"/></l><r>Amtszeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kausi<s n="n"/></l><r>Staffel<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kehittäjä<s n="n"/></l><r>Entwickler<s n="n"/><s n="m"/></r></p></e>
@@ -5555,6 +5556,7 @@
     <e r="RL"><p><l>esitahti<s n="n"/></l><r>auftakt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>esitelmä<s n="n"/></l><r>vorlage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>espanjalainen<s n="n"/></l><r>spanisch<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>este<s n="n"/></l><r>hemmnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>este<s n="n"/></l><r>hindernis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>este<s n="n"/></l><r>sperre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>eteinen<s n="n"/></l><r>korridor<s n="n"/><s n="m"/></r></p></e>
@@ -6203,6 +6205,7 @@
     <e r="RL"><p><l>rahoitus<s n="n"/></l><r>finanzierung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>raita<s n="n"/></l><r>track<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>raja<s n="n"/></l><r>grenze<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>rajoite<s n="n"/></l><r>hemmnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>rajoitus<s n="n"/></l><r>beschränkung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rajoitus<s n="n"/></l><r>restriktion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rakenne<s n="n"/></l><r>struktur<s n="n"/><s n="f"/></r></p></e>
@@ -9567,6 +9570,8 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>lainata<s n="vblex"/></l><r>leihen<s n="vblex"/></r></p></e>
+    <e><p><l>ylittää<s n="vblex"/></l><r>überlaufen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sulkea<s n="vblex"/></l><r c="schotten ... ab">schotten<s n="vblex"/></r></p></e>
@@ -11131,6 +11136,7 @@
     <e><p><l>usea<s n="adj"/></l><r>mehrfach<s n="adj"/></r></p></e>
     <e><p><l>usea<s n="adj"/></l><r>viel<s n="adj"/></r></p></e>
     <e><p><l>uskollinen<s n="adj"/></l><r>getreu<s n="adj"/></r></p></e>
+    <e><p><l>uskomaton<s n="adj"/></l><r>unglaublich<s n="adj"/></r></p></e>
     <e><p><l>uskonnollinen<s n="adj"/></l><r>religiöse<s n="adj"/></r></p></e>
     <e><p><l>uskonnollinen<s n="adj"/></l><r>religiös<s n="adj"/></r></p></e>
     <e><p><l>uskoton<s n="adj"/></l><r>untreu<s n="adj"/></r></p></e>
