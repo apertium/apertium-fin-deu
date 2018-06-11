@@ -12760,7 +12760,7 @@
     <e c="pl fail"><p><l>USA<s n="np"/><s n="top"/><s n="sg"/></l><r>USA<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
     <e c="pl fail"><p><l>US<s n="np"/><s n="top"/><s n="sg"/></l><r>US<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>NATO<s n="np"/><s n="al"/><s n="acr"/></l><r>NATO<s n="np"/><s n="al"/></r></p></e>
-    <e><p><l>EU<s n="np"/><s n="al"/><s n="acr"/></l><r>EU<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>EU<s n="np"/><s n="al"/><s n="acr"/></l><r>EU<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
 
      <!-- }}}
