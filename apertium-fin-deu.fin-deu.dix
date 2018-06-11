@@ -1564,6 +1564,7 @@
     <e><p><l>kauneus<s n="n"/></l><r>Schönheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaupankäyntikumppani<s n="n"/></l><r>Handelspartner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauppahinta<s n="n"/></l><r>Kaufsumme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kauppakamari<s n="n"/></l><r>Handelskammer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kauppakeskus<s n="n"/></l><r>Einkaufszentrum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppakortteli<s n="n"/></l><r>Geschäftsviertel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kauppala<s n="n"/></l><r>Weiler<s n="n"/><s n="m"/></r></p></e>
@@ -3822,6 +3823,7 @@
     <e><p><l>satamakaupunki<s n="n"/></l><r>Hafenstadt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>satama<s n="n"/></l><r>Hafen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>satama<s n="n"/></l><r>Seehafen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satamasulku<s n="n"/></l><r>Hafensperre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>satanen<s n="n"/></l><r>Hundert<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sateenvarjo<s n="n"/></l><r>Regenschirm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>satelliitti<s n="n"/></l><r>Satellit<s n="n"/><s n="m"/></r></p></e>
@@ -6994,6 +6996,7 @@
     <e><p><l>jälkeen<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
     <e><p><l>jälkeen<s n="adv"/></l><r>seitdem<s n="adv"/></r></p></e>
     <e><p><l>jälkeen<s n="adv"/></l><r>seither<s n="adv"/></r></p></e>
+    <e><p><l>jälkikäteen<s n="adv"/></l><r>nachträglich<s n="adv"/></r></p></e>
     <e><p><l>jälleen<s n="adv"/></l><r>nochmal<s n="adv"/></r></p></e>
     <e><p><l>järjestelmällisesti<s n="adv"/></l><r>systematisch<s n="adv"/></r></p></e>
     <e><p><l>kahden<s n="adv"/></l><r>zusammen<s n="adv"/></r></p></e>
@@ -8057,6 +8060,8 @@
     <e><p><l>katua<s n="vblex"/></l><r>bedauern<s n="vblex"/></r></p></e>
     <e><p><l>katua<s n="vblex"/></l><r>bereuen<s n="vblex"/></r></p></e>
     <e><p><l>kaupata<s n="vblex"/></l><r>kaufen<s n="vblex"/></r></p></e>
+    <e><p><l>kavaltaa<s n="vblex"/></l><r>unterschlagen<s n="vblex"/></r></p></e>
+    <e><p><l>kavaltaa<s n="vblex"/></l><r>unterschlagen<s n="vblex"/></r></p></e>
     <e><p><l>kehittyä<s n="vblex"/></l><r>etablieren<s n="vblex"/></r></p></e>
     <e><p><l>kehittyä<s n="vblex"/></l><r>voranschreiten<s n="vblex"/></r></p></e>
     <e><p><l>kehittää<s n="vblex"/></l><r>entwickeln<s n="vblex"/></r></p></e>
@@ -8263,6 +8268,7 @@
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>schenken<s n="vblex"/></r></p></e>
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>spenden<s n="vblex"/></r></p></e>
     <e><p><l>lahjoittaa<s n="vblex"/></l><r>überliefern<s n="vblex"/></r></p></e>
+    <e><p><l>lainata<s n="vblex"/></l><r>leihen<s n="vblex"/></r></p></e>
     <e><p><l>lakaista<s n="vblex"/></l><r>fegen<s n="vblex"/></r></p></e>
     <e><p><l>lakkauttaa<s n="vblex"/></l><r>stilllegen<s n="vblex"/></r></p></e>
     <e><p><l>lakkauttaa<s n="vblex"/></l><r>suspendieren<s n="vblex"/></r></p></e>
@@ -9548,6 +9554,7 @@
     <e><p><l>ylistää<s n="vblex"/></l><r>verherrlichen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>durchkreuzen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überbieten<s n="vblex"/></r></p></e>
+    <e><p><l>ylittää<s n="vblex"/></l><r>überlaufen<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überqueren<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>überschreiten<s n="vblex"/></r></p></e>
     <e><p><l>ylittää<s n="vblex"/></l><r>übersteigen<s n="vblex"/></r></p></e>
@@ -9571,8 +9578,6 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
-    <e><p><l>lainata<s n="vblex"/></l><r>leihen<s n="vblex"/></r></p></e>
-    <e><p><l>ylittää<s n="vblex"/></l><r>überlaufen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sulkea<s n="vblex"/></l><r c="schotten ... ab">schotten<s n="vblex"/></r></p></e>
@@ -10071,6 +10076,7 @@
     <e><p><l>huomattava<s n="adj"/></l><r>heftig<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>spürbar<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>umfangreich<s n="adj"/></r></p></e>
+    <e><p><l>huominen<s n="adj"/></l><r>morgig<s n="adj"/></r></p></e>
     <e><p><l>huono<s n="adj"/></l><r>schlimm<s n="adj"/></r></p></e>
     <e><p><l>huonotapainen<s n="adj"/></l><r>frech<s n="adj"/></r></p></e>
     <e><p><l>huonotapainen<s n="adj"/></l><r>unartig<s n="adj"/></r></p></e>
@@ -10915,6 +10921,7 @@
     <e><p><l>suhteeton<s n="adj"/></l><r>unangemessen<s n="adj"/></r></p></e>
     <e><p><l>sukulainen<s n="adj"/></l><r>verwandt<s n="adj"/></r></p></e>
     <e><p><l>suljettu<s n="adj"/></l><r>geschlossen<s n="adj"/></r></p></e>
+    <e><p><l>suljettu<s n="adj"/></l><r>verschlossen<s n="adj"/></r></p></e>
     <e><p><l>sunni<s n="adj"/></l><r>sunnitisch<s n="adj"/></r></p></e>
     <e><p><l>suojaamaton<s n="adj"/></l><r>schutzlos<s n="adj"/></r></p></e>
     <e><p><l>suojaton<s n="adj"/></l><r>schutzlos<s n="adj"/></r></p></e>
