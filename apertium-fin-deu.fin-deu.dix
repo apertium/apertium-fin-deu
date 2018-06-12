@@ -4619,6 +4619,7 @@
     <e><p><l>työntekijä<s n="n"/></l><r>Mitarbeiter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>työntekijätär<s n="n"/></l><r>Bedienstete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työpaikka<s n="n"/></l><r>Arbeitsplatz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>työpaja<s n="n"/></l><r>Werkstatt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työpäivä<s n="n"/></l><r>Werktag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>työryhmä<s n="n"/></l><r>Arbeitsgruppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>työ<s n="n"/></l><r>Anstellung<s n="n"/><s n="f"/></r></p></e>
@@ -5279,6 +5280,7 @@
     <e r="RL"><p><l>loppu<s n="n"/></l><r c="musical notation, usually English">Fine<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l c="hair(s)">hius<s n="n"/></l><r c="lock of hair">Locke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>harmi<s n="n"/></l><r c="old orth?">Schade<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>työpaja<s n="n"/></l><r c="suppleted">Werkstätte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>poika<s n="n"/></l><r c="often English">Boy<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" c="deu spez-"><p><l>kirkko<s n="n"/></l><r>Christuskirche<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tarjoilija<s n="n"/></l><r c="old, often compound part">Ober<s n="n"/><s n="m"/></r></p></e>
@@ -5479,6 +5481,7 @@
     <e r="RL"><p><l>alus<s n="n"/></l><r>schiff<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>alusta<s n="n"/></l><r>plattform<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>alusta<s n="n"/></l><r>plattform<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>amerikkalainen<s n="n"/></l><r>amerikaner<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ammunta<s n="n"/></l><r>schießerei<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>ampuja<s n="n"/></l><r>schütze<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>analyysi<s n="n"/></l><r>analyse<s n="n"/><s n="f"/></r></p></e>
@@ -9543,6 +9546,7 @@
     <e><p><l>yhteistyöskennellä<s n="vblex"/></l><r>zusammenarbeiten<s n="vblex"/></r></p></e>
     <e><p><l>yhteisöllistää<s n="vblex"/></l><r>gemeinden<s n="vblex"/></r></p></e>
     <e><p><l>yhtenäistää<s n="vblex"/></l><r>abgleichen<s n="vblex"/></r></p></e>
+    <e><p><l>yhtyä<s n="vblex"/></l><r>zusammenfallen<s n="vblex"/></r></p></e>
     <e><p><l>yksinkertaistaa<s n="vblex"/></l><r>vereinfachen<s n="vblex"/></r></p></e>
     <e><p><l>ylenantaa<s n="vblex"/></l><r>übergeben<s n="vblex"/></r></p></e>
     <e><p><l>ylenkatsoa<s n="vblex"/></l><r>übersehen<s n="vblex"/></r></p></e>
@@ -9580,6 +9584,8 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
+    <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
+    <e r="RL" c="when recalling defective products"><p><l>vetää<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sulkea<s n="vblex"/></l><r c="schotten ... ab">schotten<s n="vblex"/></r></p></e>
 
 
@@ -12490,6 +12496,7 @@
     <e><i>Mekka<s n="np"/></i></e>
     <e><i>Melbourne<s n="np"/></i></e>
     <e><i>Melinda<s n="np"/></i></e>
+    <e><i>Mercedes<s n="np"/></i></e>
     <e><i>Messi<s n="np"/></i></e>
     <e><i>Meyer<s n="np"/></i></e>
     <e><i>Miami<s n="np"/></i></e>
@@ -12922,6 +12929,7 @@
     <e><p><l>Venäjä<s n="np"/></l><r>Russland<s n="np"/></r></p></e>
     <e><p><l>Vilna<s n="np"/></l><r>Vilnius<s n="np"/></r></p></e>
     <e><p><l>Vladimir<s n="np"/></l><r c="translit RUS">Wladimir<s n="np"/></r></p></e>
+    <e><p><l>Väli-Amerikka<s n="np"/></l><r>Zentralamerika<s n="np"/></r></p></e>
     <e><p><l>Välimeri<s n="np"/></l><r>Mittelmeer<s n="np"/></r></p></e>
     <e><p><l>Zimbabwe<s n="np"/></l><r>Simbabwe<s n="np"/></r></p></e>
     <e r="RL"><p><l>Britannia<s n="np"/></l><r c="e.g. Britain First">Britain<s n="np"/></r></p></e>
