@@ -1025,6 +1025,7 @@
     <e><p><l>hotelli<s n="n"/></l><r>Hotel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>houkuttelevuus<s n="n"/></l><r>Reiz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>housut<s n="n"/></l><r>Hose<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hovioikeus<s n="n"/></l><r>Bundesgerichtshof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hovioikeus<s n="n"/></l><r>Verfassungsgericht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hovi<s n="n"/></l><r>Hof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huhtikuu<s n="n"/></l><r>April<s n="n"/><s n="m"/></r></p></e>
@@ -1863,7 +1864,6 @@
     <e><p><l>korkeakoulu<s n="n"/></l><r>Hochschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korkeakoulu<s n="n"/></l><r>Lehranstalt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korkeateknologia<s n="n"/></l><r>Hochtechnologie<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>korkein<b/>oikeus<s n="n"/></l><r>Bundesgerichtshof<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>korkeus<s n="n"/></l><r>Höhe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korko<s n="n"/></l><r>Zins<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>korpus<s n="n"/></l><r>Corpus<s n="n"/><s n="nt"/></r></p></e>
@@ -2286,8 +2286,10 @@
     <e><p><l>lisenssi<s n="n"/></l><r>Lizenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lista<s n="n"/></l><r>Liste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lista<s n="n"/></l><r>List<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lisäaine<s n="n"/></l><r>Zusatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lisämaksu<s n="n"/></l><r>Sonderzahlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lisäpykälä<s n="n"/></l><r>Zusatzartikel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lisä<s n="n"/></l><r>Zusatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>litra<s n="n"/></l><r>Liter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>live<s n="n"/></l><r>Live<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lobbaaja<s n="n"/></l><r>Lobbyist<s n="n"/><s n="m"/></r></p></e>
@@ -3991,6 +3993,7 @@
     <e><p><l>sopimus<s n="n"/></l><r>Vertrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sopimus<s n="n"/></l><r>Zusage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sopimusvaltio<s n="n"/></l><r>Vertragsstaat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sopraano<s n="n"/></l><r>Sopranistin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sormenjälki<s n="n"/></l><r>Fingerabdruck<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sormus<s n="n"/></l><r>Ring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sosiaalidemokraatti<s n="n"/></l><r>Sozialdemokrat<s n="n"/><s n="m"/></r></p></e>
@@ -5267,6 +5270,7 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l c="in idioms">pekka<s n="n"/></l><r>irgendjemand<s n="n"/><s n="m"/></r></p></e>
 
 
@@ -5398,6 +5402,7 @@
          {{{ plurale tantums -->
 
 
+    <e><p><l>sisämarkkinat<s n="n"/><s n="pl"/></l><r>Binnenmarkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirjamessut<s n="n"/><s n="pl"/></l><r>Buchmesse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>parlamentinvaalit<s n="n"/><s n="pl"/></l><r>Parlamentswahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kunnallisvaalit<s n="n"/><s n="pl"/></l><r>Landtagswahl<s n="n"/><s n="f"/></r></p></e>
@@ -5457,6 +5462,7 @@
     <e r="RL"><p><l>aikakausilehti<s n="n"/></l><r>magazin<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>aikalainen<s n="n"/></l><r>zukünftiger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>aika<s n="n"/></l><r>zeit<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>aine<s n="n"/></l><r>stoff<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ajaja<s n="n"/></l><r>fahrer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ajanjakso<s n="n"/></l><r>zeitraum<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ajankohta<s n="n"/></l><r>zeitpunkt<s n="n"/><s n="m"/></r></p></e>
@@ -5977,6 +5983,8 @@
     <e r="RL"><p><l>matka<s n="n"/></l><r>reise<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>matkustaja<s n="n"/></l><r>reisende<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>matto<s n="n"/></l><r>teppich<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>mekanismi<s n="n"/></l><r>mechanismus<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>mekanismi<s n="n"/></l><r>mechanismus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menestys<s n="n"/></l><r>erfolg<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>menetelmä<s n="n"/></l><r>methode<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>menomatka<s n="n"/></l><r>ausreise<s n="n"/><s n="f"/></r></p></e>
@@ -6299,6 +6307,7 @@
     <e r="RL"><p><l>sihteeri<s n="n"/></l><r>sekretariat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sihteeri<s n="n"/></l><r>sekretär<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sihteeritär<s n="n"/></l><r>sekretärin<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>siirtokunta<s n="n"/></l><r>siedlung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>siirto<s n="n"/></l><r>transfer<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>siirtyminen<s n="n"/></l><r>ruck<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>siirtymä<s n="n"/></l><r>übergang<s n="n"/><s n="m"/></r></p></e>
@@ -9788,6 +9797,7 @@
 
 
 
+    <e a="en.wikt" c="not sure"><p><l>valaiseva<s n="adj"/></l><r>demonstrativ<s n="adj"/></r></p></e>
     <e c="XXX"><p><l>luvallinen<s n="adj"/></l><r>befugt<s n="adj"/></r></p></e>
     <e c="XXX"><p><l>mahdollinen<s n="adj"/></l><r>zumutbar<s n="adj"/></r></p></e>
     <e><p><l>aamuinen<s n="adj"/></l><r>morgendlich<s n="adj"/></r></p></e>
@@ -12033,6 +12043,7 @@
     <e><i>Adolf<s n="np"/></i></e>
     <e><i>Adriana<s n="np"/></i></e>
     <e><i>Adrian<s n="np"/></i></e>
+    <e><i>Aida<s n="np"/></i></e>
     <e><i>Alabama<s n="np"/></i></e>
     <e><i>Alain<s n="np"/></i></e>
     <e><i>Alan<s n="np"/></i></e>
