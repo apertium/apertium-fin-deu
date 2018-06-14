@@ -12,7 +12,7 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-AC_INIT([apertium-fin-deu], [0.0.1], [flammie@iki.fi], [apertium-fin-deu], [http://wiki.apertium.org/wiki/apertium-fin-deu])
+AC_INIT([apertium-fin-deu], [0.0.2], [flammie@iki.fi], [apertium-fin-deu], [http://wiki.apertium.org/wiki/apertium-fin-deu])
 AM_INIT_AUTOMAKE([-Wall -Werror -Wno-portability foreign])
 
 AC_PROG_LN_S
@@ -76,8 +76,6 @@ m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertiu
 
 AP_CHECK_LING([1], [apertium-fin])
 AP_CHECK_LING([2], [apertium-deu])
-
-AP_MKINCLUDE
 
 AC_OUTPUT([Makefile apertium-fin-deu.pc t/config.sh])
 
