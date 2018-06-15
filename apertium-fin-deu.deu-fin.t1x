@@ -1169,6 +1169,28 @@
         <when>
           <test>
             <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="conpart"/><lit-tag v="sg.conneg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="conpart"/><lit-tag v="pl.conneg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
               <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="pl"/></equal>
               <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
             </and>
