@@ -1004,7 +1004,7 @@
             <equal caseless="yes"><clip pos="1" side="sl" part="lem"/><lit v="von"/></equal>
           </test>
           <let>
-            <var n="adpcase"/><lit-tag v="ela"/>
+            <var n="adpcase"/><lit-tag v="abl"/>
           </let>
           <let>
             <var n="adpmaybe"/><lit v=""/>
@@ -1127,6 +1127,7 @@
              <equal><clip pos="1" side="tl" part="lem"/><lit v="vähimmäis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="yhteis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="lähi"/></equal>
+             <equal><clip pos="1" side="tl" part="lem"/><lit v="uudelleen"/></equal>
            </or>
           </test>
           <let>
