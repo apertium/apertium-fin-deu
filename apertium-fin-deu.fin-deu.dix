@@ -3046,6 +3046,7 @@
     <e><p><l>paikka<s n="n"/></l><r>Stellung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paikka<s n="n"/></l><r>Stätte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paimen<s n="n"/></l><r>Hirt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>paimentolainen<s n="n"/></l><r>Nomade<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painajainen<s n="n"/></l><r>Albtraum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painolasti<s n="n"/></l><r>Ballast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>painopiste<s n="n"/></l><r>Nachdruck<s n="n"/><s n="m"/></r></p></e>
@@ -4176,6 +4177,7 @@
     <e><p><l>taakka<s n="n"/></l><r>Ballast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taakka<s n="n"/></l><r>Belastung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tahto<s n="n"/></l><r>Lust<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tahto<s n="n"/></l><r>Wille<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taidekokoelma<s n="n"/></l><r>Kunstsammlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taidenäyttely<s n="n"/></l><r>Kunsthalle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taide<s n="n"/></l><r>Kunst<s n="n"/><s n="f"/></r></p></e>
@@ -4274,6 +4276,7 @@
     <e><p><l>tarvike<s n="n"/></l><r>Zubehör<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tasa-arvo<s n="n"/></l><r>Gleichstellung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tasanko<s n="n"/></l><r>Plateau<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tasapaino<s n="n"/></l><r>Gleichgewicht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tasapeli<s n="n"/></l><r>Remis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tasaus<s n="n"/></l><r>Angleichung<s n="n"/><s n="f"/></r></p></e>
@@ -5204,6 +5207,7 @@
     <e><p><l>yläkäsite<s n="n"/></l><r>Oberbegriff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yläliiga<s n="n"/></l><r>Oberliga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylänkö<s n="n"/></l><r>Hochland<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ylänkö<s n="n"/></l><r>Plateau<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yläraja<s n="n"/></l><r>Maximum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ylävartalo<s n="n"/></l><r>Oberkörper<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ymmärrys<s n="n"/></l><r>Verstand<s n="n"/><s n="m"/></r></p></e>
@@ -6932,6 +6936,7 @@
     <e><p><l>ensin<s n="adv"/></l><r>erst<s n="adv"/></r></p></e>
     <e><p><l>ensin<s n="adv"/></l><r>vorab<s n="adv"/></r></p></e>
     <e><p><l>ensin<s n="adv"/></l><r>zuerst<s n="adv"/></r></p></e>
+    <e><p><l>ensisijaisesti<s n="adv"/></l><r>primär<s n="adv"/></r></p></e>
     <e><p><l>ensi<s n="adv"/></l><r>nächster<s n="adv"/></r></p></e>
     <e><p><l>entä<s n="adv"/></l><r>doch<s n="adv"/></r></p></e>
     <e><p><l>epäselvästi<s n="adv"/></l><r>unklar<s n="adv"/></r></p></e>
@@ -9946,6 +9951,7 @@
     <e><p><l>ennenaikainen<s n="adj"/></l><r>vorzeitig<s n="adj"/></r></p></e>
     <e><p><l>ennennäkemätön<s n="adj"/></l><r>beispiellos<s n="adj"/></r></p></e>
     <e><p><l>ensimmäinen<s n="adj"/></l><r>erste<s n="adj"/></r></p></e>
+    <e><p><l>ensisijainen<s n="adj"/></l><r>primär<s n="adj"/></r></p></e>
     <e><p><l>ensisijainen<s n="adj"/></l><r>primär<s n="adj"/></r></p></e>
     <e><p><l>ensisijainen<s n="adj"/></l><r>vorrangig<s n="adj"/></r></p></e>
     <e><p><l>entinen<s n="adj"/></l><r>ehemalig<s n="adj"/></r></p></e>
