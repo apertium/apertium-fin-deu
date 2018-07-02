@@ -719,6 +719,7 @@
     <e><p><l>ennakko<s n="n"/></l><r>Vorfeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ennakkotapaus<s n="n"/></l><r>Vorrang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ennakointi<s n="n"/></l><r>Voraussicht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ennuste<s n="n"/></l><r>Hochrechnung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ennätys<s n="n"/></l><r>Rekord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eno<s n="n"/></l><r>Onkel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ensemble<s n="n"/></l><r>Ensemble<s n="n"/><s n="nt"/></r></p></e>
@@ -1231,11 +1232,13 @@
     <e><p><l>jalankulkija<s n="n"/></l><r>Fußgänger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapallofani<s n="n"/></l><r>Fußballfan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapalloilija<s n="n"/></l><r>Fußballspieler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>jalkapallojoukkue<s n="n"/></l><r>Fußballteam<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jalkapallomaajoukkue<s n="n"/></l><r>Fußballnationalmannschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jalkapallo<s n="n"/></l><r>Football<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapallo<s n="n"/></l><r>Fußball<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapallostadion<s n="n"/></l><r>Fußballstadion<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jalkapallotreenit<s n="n"/></l><r>Fußballtraining<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>jalkapallovalmentaja<s n="n"/></l><r>Fußballtrainer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jalkapanta<s n="n"/></l><r>Fußfessel<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jalka<s n="n"/></l><r>Bein<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jalka<s n="n"/></l><r>Fuß<s n="n"/><s n="m"/></r></p></e>
@@ -1275,6 +1278,7 @@
     <e><p><l>johtajatar<s n="n"/></l><r>Direktorin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtoasema<s n="n"/></l><r>Spitzenposition<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtolanka<s n="n"/></l><r>Anhaltspunkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>johtopaikka<s n="n"/></l><r>Leitstelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johto<s n="n"/></l><r>Führung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johto<s n="n"/></l><r>Strang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jointti<s n="n"/></l><r>Joint<s n="n"/><s n="m"/></r></p></e>
@@ -2350,6 +2354,7 @@
     <e><p><l>luokitus<s n="n"/></l><r>Einstufung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>Gattung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>Klasse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luola<s n="n"/></l><r>Höhle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luominen<s n="n"/></l><r>Schaffung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luomi<s n="n"/></l><r>Mal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>luomu<s n="n"/></l><r>Bio<s n="n"/><s n="nt"/></r></p></e>
@@ -2798,6 +2803,7 @@
     <e><p><l>narri<s n="n"/></l><r>Narr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>narttu<s n="n"/></l><r>Weibchen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>naru<s n="n"/></l><r>Draht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>naru<s n="n"/></l><r>Seil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nasta<s n="n"/></l><r>Zwecke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nationalisti<s n="n"/></l><r>Nationalist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nato<s n="n"/></l><r>Schwägerin<s n="n"/><s n="f"/></r></p></e>
@@ -2951,6 +2957,7 @@
     <e><p><l>omistus<s n="n"/></l><r>Eigen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>omistus<s n="n"/></l><r>Eigentum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ongelma<s n="n"/></l><r>Problem<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>onkalo<s n="n"/></l><r>Hohlraum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnentoivotus<s n="n"/></l><r>Glückwunsch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Absturz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnettomuus<s n="n"/></l><r>Desaster<s n="n"/><s n="nt"/></r></p></e>
@@ -4047,6 +4054,7 @@
     <e><p><l>suhde<s n="n"/></l><r>Verhältnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>suhde<s n="n"/></l><r>Verwicklung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sukellusvene<s n="n"/></l><r>U-Boot<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>sukeltaja<s n="n"/></l><r>Taucher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sukkula<s n="n"/></l><r>Shuttle<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>suklaa<s n="n"/></l><r>Schokolade<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suksi<s n="n"/></l><r>Ski<s n="n"/><s n="m"/></r></p></e>
@@ -7377,6 +7385,7 @@
     <e><p><l>todella<s n="adv"/></l><r>wirklich<s n="adv"/></r></p></e>
     <e><p><l>todellisesti<s n="adv"/></l><r>tatsächlich<s n="adv"/></r></p></e>
     <e><p><l>todennäköisesti<s n="adv"/></l><r>wahrscheinlich<s n="adv"/></r></p></e>
+    <e><p><l>todennäköisimmin<s n="adv"/></l><r>höchstwahrscheinlich<s n="adv"/></r></p></e>
     <e><p><l>toisaalta<s n="adv"/></l><r>andererseits<s n="adv"/></r></p></e>
     <e><p><l>toisaalta<s n="adv"/></l><r>hingegen<s n="adv"/></r></p></e>
     <e><p><l>toistuvasti<s n="adv"/></l><r>wiederholt<s n="adv"/></r></p></e>
@@ -9597,6 +9606,9 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>kadota<s n="vblex"/></l><r>verschellen<s n="vblex"/></r></p></e>
+    <e><p><l>kadota<s n="vblex"/></l><r>verschollen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
     <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
@@ -11995,8 +12007,8 @@
 
     <!-- any ordinal with final . -->
 
-    <e c="ordinals ending ."><re>[0-9][0-9 ,]*[.]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e c="odrinals endign ."><re>[0-9][0-9 ,]*</re><p><l>.<s n="num"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
+    <e c="ordinals ending ."><re>[0-9][0-9 ,]*[.]</re><p><l><s n="adj"/></l><r><s n="num"/></r></p></e>
+    <e c="odrinals endign ."><re>[0-9][0-9 ,]*</re><p><l>.<s n="adj"/><s n="ord"/></l><r><s n="num"/><s n="ord"/></r></p></e>
 
     <!-- clock with card hacks -->
 
@@ -12096,6 +12108,7 @@
     <e><i>Atlanta<s n="np"/></i></e>
     <e><i>Augsburg<s n="np"/></i></e>
     <e><i>August<s n="np"/></i></e>
+    <e><i>Aurora<s n="np"/></i></e>
     <e><i>Austin<s n="np"/></i></e>
     <e><i>Baden-Württemberg<s n="np"/></i></e>
     <e><i>Bagdad<s n="np"/></i></e>
