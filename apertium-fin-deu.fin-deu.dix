@@ -1354,6 +1354,7 @@
     <e><p><l>jälkikasvu<s n="n"/></l><r>Nachwuchs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jälkipeli<s n="n"/></l><r>Nachspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>jälkipyykki<s n="n"/></l><r>Folgezeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>jälkiruoka<s n="n"/></l><r>Nachspeiß<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jälki<s n="n"/></l><r>Andeutung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jälki<s n="n"/></l><r>Spur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jälkivaali<s n="n"/></l><r>Nachwahl<s n="n"/><s n="f"/></r></p></e>
@@ -3287,6 +3288,7 @@
     <e><p><l>pioneeri<s n="n"/></l><r>Pionier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piraatti<s n="n"/></l><r>Pirat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piste<s n="n"/></l><r>Punkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pistoke<s n="n"/></l><r>Steckdose<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pisto<s n="n"/></l><r>Stich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pitkämatka<s n="n"/></l><r>Langstrecke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pitkäperjantai<s n="n"/></l><r>Karfreitag<s n="n"/><s n="m"/></r></p></e>
@@ -5280,7 +5282,6 @@
     <e><p><l>öljytankkeri<s n="n"/></l><r>Öltanker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljyteollisuus<s n="n"/></l><r>Erdölindustrie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>öljyvaranto<s n="n"/></l><r>Ölreserve<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
@@ -10781,6 +10782,8 @@
     <e><p><l>pyöreä<s n="adj"/></l><r>ring<s n="adj"/></r></p></e>
     <e><p><l>pyöreä<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
     <e><p><l>-päinen<s n="adj"/></l><r>köpfig<s n="adj"/></r></p></e>
+    <e><p><l>-pohjainen<s n="adj"/></l><r>basierte<s n="adj"/></r></p></e>
+    <e><p><l>jäädytetty<s n="adj"/></l><r>gefroren<s n="adj"/></r></p></e>
     <e><p><l>päivittäinen<s n="adj"/></l><r>täglich<s n="adj"/></r></p></e>
     <e><p><l>päivänmittainen<s n="adj"/></l><r>tagelang<s n="adj"/></r></p></e>
     <e><p><l>pätevä<s n="adj"/></l><r>qualifiziert<s n="adj"/></r></p></e>
