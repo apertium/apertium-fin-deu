@@ -815,7 +815,7 @@
             <clip pos="1" side="tl" part="a_inf"/><lit-tag v="infa"/>
           </let>
           <let>
-            <var n="case"/><lit-tag v="lat"/>
+            <var n="case"/><lit-tag v="sg.lat"/>
           </let>
         </when>
         <when>
