@@ -5270,6 +5270,8 @@
     <e><p><l>öljy-yhtiö<s n="n"/></l><r>Ölkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pistoke<s n="n"/></l><r>Steckdose<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aikakausi<s n="n"/></l><r>Periode<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>yksityisomistus<s n="n"/></l><r>Privateigentum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kuubalainen<s n="n"/></l><r>Kubaner<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l c="in idioms">pekka<s n="n"/></l><r>irgendjemand<s n="n"/><s n="m"/></r></p></e>
 
 
@@ -6700,6 +6702,7 @@
     <e><p><l>luomu<s n="n"/><s n="sg"/><s n="nom"/></l><r>Bio<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>lyhyt<s n="adj"/><s n="pos"/><s n="sg"/><s n="gen"/></l><r>Kurz<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>lyhyt<s n="adj"/><s n="pos"/><s n="sg"/><s n="gen"/></l><r>Kurz<s n="atp"/><s n="lower"/><s n="cmp"/></r></p></e>
+    <e><p><l>lyhyt<s n="adj"/><s n="pos"/><s n="sg"/><s n="gen"/></l><r>kurz<s n="atp"/><s n="lower"/><s n="cmp-split"/></r></p></e>
     <e><p><l>lähi<s n="n"/><s n="cmp"/>></l><r>Neben<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>manner<s n="n"/><s n="sg"/><s n="nom"/></l><r>Kontinental<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>oppi<s n="n"/><s n="sg"/><s n="nom"/></l><r>Lern<s n="atp"/><s n="cmp"/></r></p></e>
@@ -9587,6 +9590,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>sakottaa<s n="vblex"/></l><r>strafen<s n="vblex"/></r></p></e>
+    <e><p><l>laillistaa<s n="vblex"/></l><r>legalisieren<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
     <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
@@ -10019,6 +10023,7 @@
     <e><p><l>fundamentaalinen<s n="adj"/></l><r>fundamental<s n="adj"/></r></p></e>
     <e><p><l>fyysinen<s n="adj"/></l><r>physikalisch<s n="adj"/></r></p></e>
     <e><p><l>geeniteknologinen<s n="adj"/></l><r>gentechnisch<s n="adj"/></r></p></e>
+    <e><p><l>geopoliittinen<s n="adj"/></l><r>geopolitisch<s n="adj"/></r></p></e>
     <e><p><l>globaali<s n="adj"/></l><r>globalisiert<s n="adj"/></r></p></e>
     <e><p><l>globaali<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
     <e><p><l>goottilainen<s n="adj"/></l><r>gotisch<s n="adj"/></r></p></e>
@@ -10174,6 +10179,7 @@
     <e><p><l>järkyttynyt<s n="adj"/></l><r>geschockt<s n="adj"/></r></p></e>
     <e><p><l>järkyttävä<s n="adj"/></l><r>eklatant<s n="adj"/></r></p></e>
     <e><p><l>jäykkäniskainen<s n="adj"/></l><r>hartnäckig<s n="adj"/></r></p></e>
+    <e><p><l>jäädytetty<s n="adj"/></l><r>gefroren<s n="adj"/></r></p></e>
     <e><p><l>jääräpäinen<s n="adj"/></l><r>hartnäckig<s n="adj"/></r></p></e>
     <e><p><l>kadonnut<s n="adj"/></l><r>verloren<s n="adj"/></r></p></e>
     <e><p><l>kadonnut<s n="adj"/></l><r>verschwunden<s n="adj"/></r></p></e>
@@ -10710,6 +10716,7 @@
     <e><p><l>pitkäkestoinen<s n="adj"/></l><r>geraum<s n="adj"/></r></p></e>
     <e><p><l>pitkäkestoinen<s n="adj"/></l><r>langfristig<s n="adj"/></r></p></e>
     <e><p><l>pitkä<s n="adj"/></l><r>lang<s n="adj"/></r></p></e>
+    <e><p><l>-pohjainen<s n="adj"/></l><r>basierte<s n="adj"/></r></p></e>
     <e><p><l>pohjoinen<s n="adj"/></l><r>nördlich<s n="adj"/></r></p></e>
     <e><p><l>pohjoisamerikkalainen<s n="adj"/></l><r>nordamerikanisch<s n="adj"/></r></p></e>
     <e><p><l>poikkeuksellinen<s n="adj"/></l><r>ausdrücklich<s n="adj"/></r></p></e>
@@ -10757,8 +10764,6 @@
     <e><p><l>pyöreä<s n="adj"/></l><r>ring<s n="adj"/></r></p></e>
     <e><p><l>pyöreä<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
     <e><p><l>-päinen<s n="adj"/></l><r>köpfig<s n="adj"/></r></p></e>
-    <e><p><l>-pohjainen<s n="adj"/></l><r>basierte<s n="adj"/></r></p></e>
-    <e><p><l>jäädytetty<s n="adj"/></l><r>gefroren<s n="adj"/></r></p></e>
     <e><p><l>päivittäinen<s n="adj"/></l><r>täglich<s n="adj"/></r></p></e>
     <e><p><l>päivänmittainen<s n="adj"/></l><r>tagelang<s n="adj"/></r></p></e>
     <e><p><l>pätevä<s n="adj"/></l><r>qualifiziert<s n="adj"/></r></p></e>
@@ -10929,6 +10934,7 @@
     <e><p><l>sovittu<s n="adj"/></l><r>vertraglich<s n="adj"/></r></p></e>
     <e><p><l>spesifinen<s n="adj"/></l><r>spezifisch<s n="adj"/></r></p></e>
     <e><p><l>stabiili<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
+    <e><p><l>stalinistinen<s n="adj"/></l><r>stalinistisch<s n="adj"/></r></p></e>
     <e><p><l>strateginen<s n="adj"/></l><r>strategisch<s n="adj"/></r></p></e>
     <e><p><l>strateginen<s n="adj"/></l><r>strategisch<s n="adj"/></r></p></e>
     <e><p><l>suhteeton<s n="adj"/></l><r>unangemessen<s n="adj"/></r></p></e>
@@ -11006,6 +11012,7 @@
     <e><p><l>tarkka<s n="adj"/></l><r>exakt<s n="adj"/></r></p></e>
     <e><p><l>tarkka<s n="adj"/></l><r>präzis<s n="adj"/></r></p></e>
     <e><p><l>tarkoituksellinen<s n="adj"/></l><r>absichtlich<s n="adj"/></r></p></e>
+    <e><p><l>tarkoituksellinen<s n="adj"/></l><r>gesinnt<s n="adj"/></r></p></e>
     <e><p><l>tarpeellinen<s n="adj"/></l><r>erforderlich<s n="adj"/></r></p></e>
     <e><p><l>tarpeellinen<s n="adj"/></l><r>notwendig<s n="adj"/></r></p></e>
     <e><p><l>tarpeellinen<s n="adj"/></l><r>unerlässlich<s n="adj"/></r></p></e>
@@ -11424,7 +11431,6 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
-    <e><p><l>stalinistinen<s n="adj"/></l><r>stalinistisch<s n="adj"/></r></p></e>
 
 
 
@@ -12070,6 +12076,7 @@
     <e><i>Ankara<s n="np"/></i></e>
     <e><i>Anna<s n="np"/></i></e>
     <e><i>Anne<s n="np"/></i></e>
+    <e><i>Annette<s n="np"/></i></e>
     <e><i>Antarktis<s n="np"/></i></e>
     <e><i>Anthony<s n="np"/></i></e>
     <e><i>Antonio<s n="np"/></i></e>
@@ -12513,6 +12520,7 @@
     <e><i>Michigan<s n="np"/></i></e>
     <e><i>Mickey<s n="np"/></i></e>
     <e><i>Mick<s n="np"/></i></e>
+    <e><i>Miguel<s n="np"/></i></e>
     <e><i>Mike<s n="np"/></i></e>
     <e><i>Miller<s n="np"/></i></e>
     <e><i>Milo<s n="np"/></i></e>
@@ -12647,6 +12655,7 @@
     <e><i>Santa<s n="np"/></i></e>
     <e><i>Santiago<s n="np"/></i></e>
     <e><i>Sarah<s n="np"/></i></e>
+    <e><i>Saunders<s n="np"/></i></e>
     <e><i>Schindler<s n="np"/></i></e>
     <e><i>Schleswig-Holstein<s n="np"/></i></e>
     <e><i>Schmidt<s n="np"/></i></e>
@@ -12774,8 +12783,10 @@
 
     <e c="pl fail"><p><l>USA<s n="np"/><s n="top"/><s n="sg"/></l><r>USA<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
     <e c="pl fail"><p><l>US<s n="np"/><s n="top"/><s n="sg"/></l><r>US<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
-    <e><p><l>NATO<s n="np"/><s n="al"/><s n="acr"/></l><r>NATO<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>EU<s n="np"/><s n="al"/><s n="acr"/></l><r>EU<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>NATO<s n="np"/><s n="al"/><s n="acr"/></l><r>NATO<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>USA<s n="np"/><s n="top"/></l><r>USA<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>US<s n="np"/><s n="top"/></l><r>US<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 
 
      <!-- }}}
