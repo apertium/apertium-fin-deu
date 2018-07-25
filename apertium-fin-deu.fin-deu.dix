@@ -5272,6 +5272,9 @@
     <e><p><l>aikakausi<s n="n"/></l><r>Periode<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>yksityisomistus<s n="n"/></l><r>Privateigentum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuubalainen<s n="n"/></l><r>Kubaner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lennonjohtaja<s n="n"/></l><r>Flugbegleiter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pelastusryhmä<s n="n"/></l><r>Rettungsmannschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kriketti<s n="n"/></l><r>Kricket<s n="n"/><s n="nt"/></r></p></e>
     <e r="LR"><p><l c="in idioms">pekka<s n="n"/></l><r>irgendjemand<s n="n"/><s n="m"/></r></p></e>
 
 
@@ -7540,6 +7543,7 @@
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
+    <e><p><l>huomenna<s n="adv"/></l><r>morgen<s n="adv"/></r></p></e>
 
 
     <e r="LR"><p><l c="colloquial kun.adv">kun<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
@@ -9591,8 +9595,12 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>sakottaa<s n="vblex"/></l><r>strafen<s n="vblex"/></r></p></e>
     <e><p><l>laillistaa<s n="vblex"/></l><r>legalisieren<s n="vblex"/></r></p></e>
+    <e><p><l>buukata<s n="vblex"/></l><r>buchen<s n="vblex"/></r></p></e>
+    <e><p><l>roihuta<s n="vblex"/></l><r>lodern<s n="vblex"/></r></p></e>
+    <e><p><l c="a flight or event">varata<s n="vblex"/></l><r>buchen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
+    <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
     <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
     <e r="RL" c="when recalling defective products"><p><l>vetää<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>sulkea<s n="vblex"/></l><r c="schotten ... ab">schotten<s n="vblex"/></r></p></e>
