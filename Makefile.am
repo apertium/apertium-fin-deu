@@ -34,19 +34,17 @@ endif
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
 
-modes/fin-deu.mode: modes.xml
+modes/.d: modes.xml
 	if ! test -d modes ; then \
 		$(MKDIR_P) modes/ ;\
 	fi
+	apertium-validate-modes $(srcdir)/modes.xml
 	apertium-gen-modes $(srcdir)/modes.xml
-	mv -v fin-deu.mode $@
+	mv -v *.mode modes/
+	touch $@
 
-modes/deu-fin.mode: modes.xml
-	if ! test -d modes ; then \
-		$(MKDIR_P) modes/ ;\
-	fi
-	apertium-gen-modes $(srcdir)/modes.xml
-	mv -v deu-fin.mode $@
+modes/fin-deu.mode: modes/.d
+modes/deu-fin.mode: modes/.d
 
 ###############################################################################
 ## Monolingual transducers
@@ -192,6 +190,7 @@ EXTRA_DIST= \
 		$(BASENAME).$(PREFIX2).t2x \
 		$(BASENAME).$(PREFIX2).t3x \
 		$(BASENAME).$(PREFIX2).prep.cg3 \
+		t/config.sh.in \
 		modes.xml
 
 ###############################################################################
