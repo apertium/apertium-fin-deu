@@ -246,6 +246,7 @@
     <e><p><l>aihe<s n="n"/></l><r>Thema<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aikaansaannos<s n="n"/></l><r>Schuld<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aikaikkuna<s n="n"/></l><r>Zeitrahmen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aikakausi<s n="n"/></l><r>Periode<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aikakausi<s n="n"/></l><r>Ära<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aikakauslehti<s n="n"/></l><r>Zeitschrift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aikalainen<s n="n"/></l><r>Zeitgenosse<s n="n"/><s n="m"/></r></p></e>
@@ -3289,6 +3290,7 @@
     <e><p><l>pioneeri<s n="n"/></l><r>Pionier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piraatti<s n="n"/></l><r>Pirat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piste<s n="n"/></l><r>Punkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pistoke<s n="n"/></l><r>Steckdose<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pistoke<s n="n"/></l><r>Steckdose<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pisto<s n="n"/></l><r>Stich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pitkämatka<s n="n"/></l><r>Langstrecke<s n="n"/><s n="f"/></r></p></e>
@@ -6703,6 +6705,7 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>tauko<s n="n"/></l><r>pause<s n="n"/><s n="f"/></r></p></e>
 
 
 
@@ -9620,6 +9623,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+    <e><p><l>sakottaa<s n="vblex"/></l><r>strafen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>empfangen<s n="vblex"/></r></p></e>
     <e r="LR"><p><l c="commonly PRON">siitä<s n="vblex"/></l><r>zeugen<s n="vblex"/></r></p></e>
     <e r="RL" c="on phone etc."><p><l>vastata<s n="vblex"/></l><r>zurückrufen<s n="vblex"/></r></p></e>
@@ -11461,6 +11465,7 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+    <e><p><l>stalinistinen<s n="adj"/></l><r>stalinistisch<s n="adj"/></r></p></e>
 
 
 
