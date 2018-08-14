@@ -147,8 +147,8 @@
 
   <section id="main" type="standard">
 
-    <!--                {{{        N     O        U    N S       O             UN   S     NO UN  S
-           {{{       n  o   u             n  s      w  i             t    h g      ende r s -->
+    <!--                 {{{        N     O        U    N S       O             UN   S     NO UN  S
+           {{{       n  o    u             n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -177,6 +177,7 @@
     <e c="maybe bad"><p><l>provisio<s n="n"/></l><r>Proviant<s n="n"/><s n="m"/></r></p></e>
     <e c="meeting meeting"><p><l>kokous<s n="n"/></l><r>Gipfeltreffen<s n="n"/><s n="nt"/></r></p></e>
     <e c="net(?) income"><p><l>tulo<s n="n"/></l><r>Aufkommen<s n="n"/><s n="nt"/></r></p></e>
+    <e c="Odyssey"><p><l>harharetki<s n="n"/></l><r>Irrfahrt<s n="n"/><s n="f"/></r></p></e>
     <e c="parrot type, macaw"><p><l>ara<s n="n"/></l><r>Ara<s n="n"/><s n="m"/></r></p></e>
     <e c="physics: impact"><p><l>vaikutus<s n="n"/></l><r>Aufschlag<s n="n"/><s n="m"/></r></p></e>
     <e c="politix"><p><l>ministerinvirka<s n="n"/></l><r>Staatsminister<s n="n"/><s n="m"/></r></p></e>
@@ -2493,6 +2494,7 @@
     <e><p><l>maanmies<s n="n"/></l><r>Landsmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Kontinent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Landesteil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maanpuolustus<s n="n"/></l><r>Verteidigungsetat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanraja<s n="n"/></l><r>Landesgrenze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maantie<s n="n"/></l><r>Landstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maanviljelijä<s n="n"/></l><r>Farmer<s n="n"/><s n="m"/></r></p></e>
@@ -4199,6 +4201,7 @@
     <e><p><l>taifuuni<s n="n"/></l><r>Taifun<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taikina<s n="n"/></l><r>Teig<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taistelija<s n="n"/></l><r>Kämpfer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taistelukenttä<s n="n"/></l><r>Schlachtfeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>taistelu<s n="n"/></l><r>Gefecht<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>taiteilijanimi<s n="n"/></l><r>Künstlername<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taiteilija<s n="n"/></l><r>Künstler<s n="n"/><s n="m"/></r></p></e>
@@ -6706,6 +6709,8 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tauko<s n="n"/></l><r>pause<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>viesti<s n="n"/></l><r>mitteilung<s n="n"/><s n="f"/></r></p></e>
+
 
 
 
