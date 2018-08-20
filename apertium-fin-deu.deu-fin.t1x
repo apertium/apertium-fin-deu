@@ -166,6 +166,10 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="abbr">
+      <cat-item tags="abbr"/>
+      <cat-item tags="n.abbr"/>
+    </def-cat>
     <def-cat n="cmp">
       <cat-item tags="n.cmp"/>
       <cat-item tags="n.cmp.*"/>
@@ -333,6 +337,7 @@
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="n.acr"/>
+      <attr-item tags="n.abbr"/>
       <attr-item tags="n.compound-only-L"/>
       <attr-item tags="det"/>
       <attr-item tags="np.ant.m"/>
@@ -818,7 +823,7 @@
             <clip pos="1" side="tl" part="a_inf"/><lit-tag v="infa"/>
           </let>
           <let>
-            <var n="case"/><lit-tag v="sg.lat"/>
+            <var n="case"/><lit-tag v="lat"/>
           </let>
         </when>
         <when>
@@ -2699,6 +2704,9 @@
         <call-macro n="infinite-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="tensemood-mangler">
           <with-param pos="2"/>
         </call-macro>
@@ -2724,7 +2732,7 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <clip pos="1" side="tl" part="a_inf"/>
-              <clip pos="1" side="tl" part="a_number"/> <!-- sg -> sg -->
+              <var n="number"/> <!-- sg -> sg -->
               <var n="case"/>
             </lu>
           </chunk>
@@ -3456,6 +3464,32 @@
         </out>
       </action>
     </rule>
+    <rule comment="abbrs to nouns: case mangle">
+      <pattern>
+        <pattern-item n="abbr"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="NP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N.ABBR"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adjs: add case">
       <pattern>
         <pattern-item n="adj"/>
@@ -3679,6 +3713,9 @@
         <call-macro n="infinite-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="VP" case="caseFirstWord">
             <tags>
@@ -3690,7 +3727,7 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <clip pos="1" side="tl" part="a_inf"/>
-              <clip pos="1" side="tl" part="a_number"/> <!-- sg -> sg -->
+              <var n="number"/> <!-- sg -> sg -->
               <var n="case"/>
             </lu>
           </chunk>
