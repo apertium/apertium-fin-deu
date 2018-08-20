@@ -7336,7 +7336,7 @@
     <e><p><l>kuitenkin<s n="adv"/></l><r>jedoch<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>ohnehin<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>trotzdem<s n="adv"/></r></p></e>
-    <e><p><l>kunhan<s n="adv"/></l><r>soweit<s n="adv"/></r></p></e>
+    <e><p><l>kuten<s n="adv"/></l><r>soweit<s n="adv"/></r></p></e>
     <e><p><l>kuninkaallisesti<s n="adv"/></l><r>königlich<s n="adv"/></r></p></e>
     <e><p><l>kuolettavasti<s n="adv"/></l><r>tödlich<s n="adv"/></r></p></e>
     <e><p><l>kuten<s n="adv"/></l><r>als<s n="adv"/></r></p></e>
@@ -9347,7 +9347,7 @@
     <e><p><l>sosialisoida<s n="vblex"/></l><r>enteignen<s n="vblex"/></r></p></e>
     <e><p><l>sotkeutua<s n="vblex"/></l><r c="to knit wrongly figurative">verstricken<s n="vblex"/></r></p></e>
     <e><p><l>sotkeutua<s n="vblex"/></l><r>verwickeln<s n="vblex"/></r></p></e>
-    <e><p><l>soudella<s n="n"/></l><r c="usually Trier">trieren<s n="vblex"/></r></p></e>
+    <e><p><l>soudella<s n="vblex"/></l><r c="usually Trier">trieren<s n="vblex"/></r></p></e>
     <e><p><l>soutaa<s n="vblex"/></l><r>rudern<s n="vblex"/></r></p></e>
     <e><p><l>soveltua<s n="vblex"/></l><r>verfügen<s n="vblex"/></r></p></e>
     <e><p><l>sovitella<s n="vblex"/></l><r>kompromittieren<s n="vblex"/></r></p></e>
@@ -10224,7 +10224,7 @@
     <e><p><l>balttilainen<s n="adj"/></l><r>baltisch<s n="adj"/></r></p></e>
     <e><p><l>banaali<s n="adj"/></l><r>banal<s n="adj"/></r></p></e>
     <e><p><l>barbaarinen<s n="adj"/></l><r>barbarisch<s n="adj"/></r></p></e>
-    <e><p><l>barokki<s n="adj"/></l><r>barock<s n="adj"/></r></p></e>
+    <e><p><l>barokkilainen<s n="adj"/></l><r>barock<s n="adj"/></r></p></e>
     <e><p><l>belgialainen<s n="adj"/></l><r>belgisch<s n="adj"/></r></p></e>
     <e><p><l>biologinen<s n="adj"/></l><r>biologisch<s n="adj"/></r></p></e>
     <e><p><l>biometrinen<s n="adj"/></l><r>biometrisch<s n="adj"/></r></p></e>
@@ -11198,7 +11198,7 @@
     <e><p><l>rivakka<s n="adj"/></l><r>forsch<s n="adj"/></r></p></e>
     <e><p><l>robusti<s n="adj"/></l><r>robust<s n="adj"/></r></p></e>
     <e><p><l>rohkea<s n="adj"/></l><r>mutig<s n="adj"/></r></p></e>
-    <e><p><l>rohkeus<s n="adj"/></l><r>tapfer<s n="adj"/></r></p></e>
+    <e><p><l>rohkea<s n="adj"/></l><r>tapfer<s n="adj"/></r></p></e>
     <e><p><l>romaaninen<s n="adj"/></l><r>romanisch<s n="adj"/></r></p></e>
     <e><p><l>romanialainen<s n="adj"/></l><r>rumänisch<s n="adj"/></r></p></e>
     <e><p><l>roomalainen<s n="adj"/></l><r>römisch<s n="adj"/></r></p></e>
@@ -12169,8 +12169,6 @@
     <e><p><l>alapuolella<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>alla<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
     <e><p><l>kautta<s n="post"/></l><r>via<s n="pr"/></r></p></e>
-    <e><p><l>keinoin<s n="post"/></l><r>anhand<s n="pr"/></r></p></e>
-    <e><p><l>keinoin<s n="post"/></l><r>mittels<s n="pr"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>betreffend<s n="pr"/></r></p></e>
     <e><p><l>seurauksena<s n="post"/></l><r>kraft<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>innerhalb<s n="pr"/></r></p></e>
@@ -12236,6 +12234,8 @@
     <e><p><l>kanssa<s n="post"/></l><r>zusammen<b/>mit<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>keskuudessa<s n="post"/></l><r>inmitten<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>kiitos<s n="post"/></l><r>dank<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>keinoin<s n="post"/></l><r>anhand<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>keinoin<s n="post"/></l><r>mittels<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>bezüglich<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>hinsichtlich<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>koskien<s n="post"/></l><r>über<s n="pr"/><s n="dat"/></r></p></e>
@@ -12406,7 +12406,7 @@
 
     <!-- romans -->
 
-    <e c="roman caps"><re>[XVILMC][XVILMC]*</re><p><l><s n="num"/><s n="nocard"/></l><r><s n="num"/></r></p></e>
+    <e c="roman caps"><re>[XVILMC][XVILMC]*</re><p><l><s n="adj"/><s n="ord"/></l><r><s n="num"/></r></p></e>
 
     <!-- odd digit exprs -->
 
@@ -13147,7 +13147,6 @@
     <e><i>White<s n="np"/></i></e>
     <e><i>Wien<s n="np"/></i></e>
     <e><i>Wiesbaden<s n="np"/></i></e>
-    <e><i>Wikipedia<s n="np"/></i></e>
     <e><i>Wilbur<s n="np"/></i></e>
     <e><i>Wilhelm<s n="np"/></i></e>
     <e><i>William<s n="np"/></i></e>
@@ -13169,6 +13168,7 @@
     <e><p><l>Clifford<s n="np"/><s n="cog"/></l><r>Clifford<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Beatles<s n="np"/><s n="al"/></l><r>Beatles<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Kurdistan<s n="np"/><s n="top"/></l><r>Kurdistan<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Wikipedia<s n="np"/></l><r>Wikipedia<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Santa<s n="np"/><s n="top"/><s n="use_blacklist"/></l><r>Santa<s n="np"/><s n="ant"/></r></p></e>
 
 
