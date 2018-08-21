@@ -6943,7 +6943,7 @@
 
 
 
-    <e r="RL"><p><l>pien<s n="n"/></l><r c="compound wierdness">klein<s n="n"/></r></p></e>
+    <e r="RL"><p><l>pien<s n="n"/><s n="cmp"/></l><r c="compound wierdness">klein<s n="n"/></r></p></e>
     <e r="RL"><p><l>luoti<s n="n"/></l><r c="old orth">geschoß<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ylimäärä<s n="n"/></l><r c="old orth">exzeß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>prosessi<s n="n"/></l><r c="old orth">prozeß<s n="n"/><s n="m"/></r></p></e>
@@ -13461,7 +13461,7 @@
 
     <!-- broken deu regexes more -->
 
-    <e c="basic digit series"><re>[0-9][0-9]*[ ][0-9][.][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e r="RL" c="German analyser is too greedy"><re>[0-9][0-9]*</re><p><l><s n="num"/><j/></l><r><b/></r></p><re>[0-9][.][0-9]</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
   </section>
 </dictionary>

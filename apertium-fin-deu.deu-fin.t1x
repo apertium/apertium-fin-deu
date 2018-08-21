@@ -358,6 +358,7 @@
     </def-attr>
     <def-attr n="a_nominal">
       <attr-item tags="n.acr"/>
+      <attr-item tags="n.cmp"/>
       <attr-item tags="n.compound-only-L"/>
       <attr-item tags="n"/>
       <attr-item tags="np.ant.m"/>
@@ -1126,6 +1127,14 @@
           </test>
           <let>
             <var n="compstuff"/><lit-tag v="cmp"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.cmp"/></equal>
+          </test>
+          <let>
+            <var n="compstuff"/><lit v=""/>
           </let>
         </when>
         <when>
