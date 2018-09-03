@@ -12,7 +12,7 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-AC_INIT([apertium-fin-deu], [0.0.2], [flammie@iki.fi], [apertium-fin-deu], [http://wiki.apertium.org/wiki/apertium-fin-deu])
+AC_INIT([apertium-fin-deu], [0.0.3], [flammie@iki.fi], [apertium-fin-deu], [http://wiki.apertium.org/wiki/apertium-fin-deu])
 AM_INIT_AUTOMAKE([-Wall -Werror -Wno-portability foreign])
 
 AC_PROG_LN_S

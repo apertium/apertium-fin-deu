@@ -45,6 +45,9 @@
       <cat-item lemma="an" tags="pr.*"/>
       <cat-item lemma="an" tags="pr.dat"/>
     </def-cat>
+    <def-cat n="dem">
+      <cat-item lemma="der" tags="det.def.*"/>
+    </def-cat>
     <def-cat n="ab">
       <cat-item lemma="ab" tags="adv"/> <!-- XXX: bad disam -->
       <cat-item lemma="ab" tags="pr.*"/>
@@ -594,7 +597,7 @@
             <equal><clip pos="1" side="sl" part="a_numtype"/><lit-tag v="ord"/></equal>
           </test>
           <let>
-            <var n="numtype"/><lit-tag v="ord"/>
+            <var n="numtype"/><lit-tag v="adj.ord"/>
           </let>
         </when>
         <when>
@@ -1169,6 +1172,28 @@
         <when>
           <test>
             <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="conpart"/><lit-tag v="sg.conneg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pii"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="conpart"/><lit-tag v="pl.conneg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
               <equal><clip pos="1" side="tl" part="a_number"/><lit-tag v="pl"/></equal>
               <equal><clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/></equal>
             </and>
@@ -1648,6 +1673,45 @@
             <lu>
               <clip pos="4" side="tl" part="lem"/> <!-- März -> tammikuuta-->
               <clip pos="4" side="tl" part="a_nominal"/>
+              <lit-tag v="sg.par"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="am NN. Monat: NN. kuuta">
+      <pattern>
+        <pattern-item n="an"/>
+        <pattern-item n="dem"/>
+        <pattern-item n="daynumber"/>
+        <pattern-item n="monat"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="numtype-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="MonatP" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="MONAT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/> <!-- 21. -> 21. -->
+              <clip pos="2" side="tl" part="a_num"/>
+              <var n="numtype"/>
+              <var n="number"/>
+              <lit-tag v="sg.ess"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/> <!-- März -> tammikuuta-->
+              <clip pos="3" side="tl" part="a_nominal"/>
               <lit-tag v="sg.par"/>
             </lu>
           </chunk>
