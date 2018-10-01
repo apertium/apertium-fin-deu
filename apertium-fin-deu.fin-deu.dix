@@ -2230,6 +2230,7 @@
     <e><p><l>laite<s n="n"/></l><r>Gerät<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laite<s n="n"/></l><r>Zeug<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laitos<s n="n"/></l><r>Einrichtung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>laitteisto<s n="n"/></l><r>Hardware<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laivaliikenne<s n="n"/></l><r>Schiffsverkehr<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laivamatka<s n="n"/></l><r>Schifffahrt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laiva<s n="n"/></l><r>Boot<s n="n"/><s n="nt"/></r></p></e>
@@ -3164,6 +3165,7 @@
     <e><p><l>osto<s n="n"/></l><r>Kauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ostos<s n="n"/></l><r>Einkauf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osuus<s n="n"/></l><r>Anteil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ote<s n="n"/></l><r>Auszug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ote<s n="n"/></l><r>Griff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>otsikko<s n="n"/></l><r>Schlagzeile<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ovi<s n="n"/></l><r>Tür<s n="n"/><s n="f"/></r></p></e>
@@ -10822,6 +10824,7 @@
     <e><p><l>kuninkaallinen<s n="adj"/></l><r>königlich<s n="adj"/></r></p></e>
     <e><p><l>kuninkaallinen<s n="adj"/></l><r>royal<s n="adj"/></r></p></e>
     <e><p><l>kunnianhimoinen<s n="adj"/></l><r>anspruchsvoll<s n="adj"/></r></p></e>
+    <e><p><l>kunnianhimoinen<s n="adj"/></l><r>ehrgeizig<s n="adj"/></r></p></e>
     <e><p><l>kunniaton<s n="adj"/></l><r>unwürdig<s n="adj"/></r></p></e>
     <e><p><l>kunnioittava<s n="adj"/></l><r>respektvoll<s n="adj"/></r></p></e>
     <e><p><l>kunnoton<s n="adj"/></l><r>unehrenhaft<s n="adj"/></r></p></e>
@@ -11276,6 +11279,7 @@
     <e><p><l>raivostunut<s n="adj"/></l><r>aufgebracht<s n="adj"/></r></p></e>
     <e><p><l>raivostunut<s n="adj"/></l><r>empört<s n="adj"/></r></p></e>
     <e><p><l>rajallinen<s n="adj"/></l><r>marginal<s n="adj"/></r></p></e>
+    <e><p><l>rajaton<s n="adj"/></l><r>grenzenlos<s n="adj"/></r></p></e>
     <e><p><l>rajattu<s n="adj"/></l><r>beschränkt<s n="adj"/></r></p></e>
     <e><p><l>rajatylittävä<s n="adj"/></l><r>grenzüberschreitend<s n="adj"/></r></p></e>
     <e><p><l>rajoitettu<s n="adj"/></l><r>befristet<s n="adj"/></r></p></e>
@@ -12753,6 +12757,7 @@
     <e><i>Disney<s n="np"/></i></e>
     <e><i>Dodd<s n="np"/></i></e>
     <e><i>Dolly<s n="np"/></i></e>
+    <e><i>Dominic<s n="np"/></i></e>
     <e><i>Donald<s n="np"/></i></e>
     <e><i>Don<s n="np"/></i></e>
     <e><i>Dortmund<s n="np"/></i></e>
