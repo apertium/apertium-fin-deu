@@ -1687,6 +1687,7 @@
     <e><p><l>kellari<s n="n"/></l><r>Keller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kello<s n="n"/></l><r>Glocke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kello<s n="n"/></l><r>Uhr<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kelpoisuus<s n="n"/></l><r>Gültigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kelta<s n="n"/></l><r>Gelb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keltuainen<s n="n"/></l><r>Eigelb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kemia<s n="n"/></l><r>Chemie<s n="n"/><s n="f"/></r></p></e>
@@ -9289,6 +9290,7 @@
     <e><p><l>rekrytoida<s n="vblex"/></l><r>rekrutieren<s n="vblex"/></r></p></e>
     <e><p><l>remontoida<s n="vblex"/></l><r>renovieren<s n="vblex"/></r></p></e>
     <e><p><l>rentoutua<s n="vblex"/></l><r>erholen<s n="vblex"/></r></p></e>
+    <e><p><l>repiä<s n="vblex"/></l><r>abreißen<s n="vblex"/></r></p></e>
     <e><p><l>repiä<s n="vblex"/></l><r>reißen<s n="vblex"/></r></p></e>
     <e><p><l>repiä<s n="vblex"/></l><r>zerfetzen<s n="vblex"/></r></p></e>
     <e><p><l>riehua<s n="vblex"/></l><r>toben<s n="vblex"/></r></p></e>
@@ -9612,6 +9614,7 @@
     <e><p><l>tavoitella<s n="vblex"/></l><r>anstreben<s n="vblex"/></r></p></e>
     <e><p><l>tavoitella<s n="vblex"/></l><r>streben<s n="vblex"/></r></p></e>
     <e><p><l>teeskennellä<s n="vblex"/></l><r>fingieren<s n="vblex"/></r></p></e>
+    <e><p><l>teeskennellä<s n="vblex"/></l><r>vorgeben<s n="vblex"/></r></p></e>
     <e><p><l>teeskennellä<s n="vblex"/></l><r>vortäuschen<s n="vblex"/></r></p></e>
     <e><p><l>tehdä<s n="vblex"/></l><r>machen<s n="vblex"/></r></p></e>
     <e><p><l>tehdä<s n="vblex"/></l><r>tun<s n="vblex"/></r></p></e>
@@ -10004,6 +10007,7 @@
     <e><p><l>yhtyä<s n="vblex"/></l><r>zusammenfallen<s n="vblex"/></r></p></e>
     <e><p><l>yksilöidä<s n="vblex"/></l><r>personalisieren<s n="vblex"/></r></p></e>
     <e><p><l>yksinkertaistaa<s n="vblex"/></l><r>vereinfachen<s n="vblex"/></r></p></e>
+    <e><p><l>yksityistää<s n="vblex"/></l><r>privatisieren<s n="vblex"/></r></p></e>
     <e><p><l>ylenantaa<s n="vblex"/></l><r>übergeben<s n="vblex"/></r></p></e>
     <e><p><l>ylenkatsoa<s n="vblex"/></l><r>übersehen<s n="vblex"/></r></p></e>
     <e><p><l>yliajaa<s n="vblex"/></l><r>überfahren<s n="vblex"/></r></p></e>
@@ -10194,6 +10198,7 @@
     <e><p><l>vähentää<s n="vblex"/></l><r>lassen<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>ymmärtää<s n="vblex"/></l><r>vollziehen<g><b/>nach</g><s n="vblex"/></r></p></e>
     <e><p><l>yhteenvetää<s n="vblex"/></l><r>ziehen<g><b/>zusammen</g><s n="vblex"/></r></p></e>
+    <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<g><b/>ab</g><s n="vblex"/></r></p></e>
 
     <!-- split fin <-> split deu -->
 
@@ -12762,6 +12767,7 @@
     <e><i>Felix<s n="np"/></i></e>
     <e><i>Ferdinand<s n="np"/></i></e>
     <e><i>Fernandez<s n="np"/></i></e>
+    <e><i>Fernando<s n="np"/></i></e>
     <e><i>Fitzgerald<s n="np"/></i></e>
     <e><i>Florida<s n="np"/></i></e>
     <e><i>Ford<s n="np"/></i></e>
