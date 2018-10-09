@@ -176,6 +176,7 @@
     <e c="in court"><p><l>vastaaja<s n="n"/></l><r>Angeklagte<s n="n"/><s n="f"/></r></p></e>
     <e c="leadership"><p><l>johto<s n="n"/></l><r>Führungskraft<s n="n"/><s n="f"/></r></p></e>
     <e c="legal terms"><p><l>rikoslaki<s n="n"/></l><r>Bundesgesetz<s n="n"/><s n="nt"/></r></p></e>
+    <e c="~localised"><p><l>lähijuna<s n="n"/></l><r>S-Bahn<s n="n"/><s n="f"/></r></p></e>
     <e c="male bee drone"><p><l>kuhnuri<s n="n"/></l><r>Drohne<s n="n"/><s n="f"/></r></p></e>
     <e c="maybe bad"><p><l>provisio<s n="n"/></l><r>Proviant<s n="n"/><s n="m"/></r></p></e>
     <e c="meeting meeting"><p><l>kokous<s n="n"/></l><r>Gipfeltreffen<s n="n"/><s n="nt"/></r></p></e>
@@ -221,6 +222,7 @@
     <e c="XXX style"><p><l>roskalehti<s n="n"/></l><r>Boulevardzeitung<s n="n"/><s n="f"/></r></p></e>
     <e c="yhteinen sävel?"><p><l>yhtenäisyys<s n="n"/></l><r>Einklang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>1960-lukulainen<s n="n"/></l><r>1960er<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aakkosto<s n="n"/></l><r c="should be Google PROPN">Alphabet<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aalto<s n="n"/></l><r>Welle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aalto<s n="n"/></l><r>Woge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aarnikotka<s n="n"/></l><r>Greif<s n="n"/><s n="m"/></r></p></e>
@@ -737,6 +739,7 @@
     <e><p><l>elämä<s n="n"/></l><r>Liebe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emansipaatio<s n="n"/></l><r>Emanzipation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>emiraatti<s n="n"/></l><r>Emirat<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>emokonserni<s n="n"/></l><r>Mutterkonzern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>enemmistö<s n="n"/></l><r>Mehrheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>energianlähde<s n="n"/></l><r>Energieträger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>energia<s n="n"/></l><r>Energie<s n="n"/><s n="f"/></r></p></e>
@@ -1574,6 +1577,7 @@
     <e><p><l>kanssakäynti<s n="n"/></l><r>Umgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanssaperustaja<s n="n"/></l><r>Mitbegründer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kantaja<s n="n"/></l><r>Kläger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kantajatar<s n="n"/></l><r>Klägerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kantama<s n="n"/></l><r>Reichweite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kanta<s n="n"/></l><r>Absatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kantoraketti<s n="n"/></l><r>Trägerrakete<s n="n"/><s n="f"/></r></p></e>
@@ -2102,6 +2106,7 @@
     <e><p><l>kuuntelukirja<s n="n"/></l><r>Hörbuch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuuri<s n="n"/></l><r>Kur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuu<s n="n"/></l><r>Mond<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuutiometri<s n="n"/></l><r>Kubikmeter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuvailu<s n="n"/></l><r>Beschreibung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuva<s n="n"/></l><r>Bild<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuvasto<s n="n"/></l><r>Katalog<s n="n"/><s n="m"/></r></p></e>
@@ -2312,6 +2317,7 @@
     <e><p><l>lehdistönvapaus<s n="n"/></l><r>Pressefreiheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehdistösihteeri<s n="n"/></l><r>Pressesprecher<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lehdistö<s n="n"/></l><r>Presse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lehdistötiedote<s n="n"/></l><r>Pressemitteilung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehdistötyö<s n="n"/></l><r>Pressearbeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehtinainen<s n="n"/></l><r>Journalistin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lehtinen<s n="n"/></l><r>Flugblatt<s n="n"/><s n="nt"/></r></p></e>
@@ -2371,6 +2377,7 @@
     <e><p><l>liike<s n="n"/></l><r>Bewegung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liike<s n="n"/></l><r>Motion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liiketoiminta<s n="n"/></l><r>Geschäftsaktivität<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>liikevaihtovero<s n="n"/></l><r>Umsatzsteuer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikevoima<s n="n"/></l><r>Schwung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liikeyritys<s n="n"/></l><r>Handelsgesellschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikkeellelasku<s n="n"/></l><r>Aussetzung<s n="n"/><s n="f"/></r></p></e>
@@ -3138,7 +3145,6 @@
     <e><p><l>orvokki<s n="n"/></l><r>Viola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osakas<s n="n"/></l><r>Aktionär<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osakeindeksi<s n="n"/></l><r>Aktienindex<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>osakemarkkinat<s n="n"/></l><r>Aktienmarkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osake<s n="n"/></l><r>Aktie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osallinen<s n="n"/></l><r>Mittäter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osallistuja<s n="n"/></l><r>Teilnehmer<s n="n"/><s n="m"/></r></p></e>
@@ -3761,6 +3767,7 @@
     <e><p><l>raivo<s n="n"/></l><r>Wut<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>raja-alue<s n="n"/></l><r>Grenzgebiet<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>raja-alue<s n="n"/></l><r>Grenzverlauf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>raja-arvo<s n="n"/></l><r>Grenzwert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raja-asema<s n="n"/></l><r>Grenzposten<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rajakreivi<s n="n"/></l><r>Markgraf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raja<s n="n"/></l><r>Grenze<s n="n"/><s n="f"/></r></p></e>
@@ -4721,6 +4728,7 @@
     <e><p><l>tulovero<s n="n"/></l><r>Einkommensteuer<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulppa<s n="n"/></l><r>Zapfen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tulva<s n="n"/></l><r>Hochwasser<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>tulva<s n="n"/></l><r>Sturmflut<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulviminen<s n="n"/></l><r>Überschwemmung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tuma<s n="n"/></l><r>Zellkern<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tumppi<s n="n"/></l><r>Kippe<s n="n"/><s n="f"/></r></p></e>
@@ -4884,6 +4892,7 @@
     <e><p><l>ulkoministeriö<s n="n"/></l><r>Außenministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ulkomoottori<s n="n"/></l><r>Außenbordmotor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ulkomuuri<s n="n"/></l><r>Außenmauer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ulkonäkö<s n="n"/></l><r>Ausblick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ulkonäkö<s n="n"/></l><r>Aussicht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ulkopolitiikka<s n="n"/></l><r>Außenpolitik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ulkopuolinen<s n="n"/></l><r>Außenseiter<s n="n"/><s n="m"/></r></p></e>
@@ -5654,15 +5663,17 @@
          {{{ plurale tantums -->
 
 
-    <e><p><l>sisämarkkinat<s n="n"/><s n="pl"/></l><r>Binnenmarkt<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>kirjamessut<s n="n"/><s n="pl"/></l><r>Buchmesse<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>parlamentinvaalit<s n="n"/><s n="pl"/></l><r>Parlamentswahl<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kunnallisvaalit<s n="n"/><s n="pl"/></l><r>Landtagswahl<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>rauhanneuvottelut<s n="n"/><s n="pl"/></l><r>Friedensverhandlung<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>yhdysvallat<s n="n"/><s n="pl"/></l><r>Vereinigte<b/>Staaten<s n="np"/><s n="top"/></r></p></e>
 
+    <e><p><l>kirjamessut<s n="n"/><s n="pl"/></l><r>Buchmesse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kunnallisvaalit<s n="n"/><s n="pl"/></l><r>Landtagswahl<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>osakemarkkinat<s n="n"/><s n="pl"/></l><r>Aktienmarkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>parlamentinvaalit<s n="n"/><s n="pl"/></l><r>Parlamentswahl<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rauhanneuvottelut<s n="n"/><s n="pl"/></l><r>Friedensverhandlung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sisämarkkinat<s n="n"/><s n="pl"/></l><r>Binnenmarkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vientimarkkinat<s n="n"/><s n="pl"/></l><r>Exportgeschäft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Yhdysvallat<s n="np"/><s n="top"/><s n="pl"/></l><r>Vereinigte<b/>Staaten<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Yhdysvallat<s n="np"/><s n="top"/><s n="pl"/></l><r>Vereinigten<b/>Staaten<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>yhdysvallat<s n="n"/><s n="pl"/></l><r>Vereinigte<b/>Staaten<s n="np"/><s n="top"/></r></p></e>
 
 
      <!-- }}}
@@ -5842,6 +5853,7 @@
     <e r="RL"><p><l>fuusio<s n="n"/></l><r>fusion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>gaala<s n="n"/></l><r>gala<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>georgialainen<s n="n"/></l><r>georgisch<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>gramma<s n="n"/></l><r>gramm<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>haastattelu<s n="n"/></l><r>interview<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>hahmo<s n="n"/></l><r>figur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hajoaminen<s n="n"/></l><r>verfall<s n="n"/><s n="m"/></r></p></e>
@@ -5852,6 +5864,7 @@
     <e r="RL"><p><l>hallitus<s n="n"/></l><r>regierung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hallussapito<s n="n"/></l><r>besitz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hallussapito<s n="n"/></l><r>haft<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>haltija<s n="n"/></l><r>halter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>haltija<s n="n"/></l><r>inhaber<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>halukas<s n="n"/></l><r>aspirant<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hame<s n="n"/></l><r>rock<s n="n"/><s n="m"/></r></p></e>
@@ -6778,6 +6791,7 @@
     <e r="RL"><p><l>tilasto<s n="n"/></l><r>statistik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tilavuusmitta<s n="n"/></l><r>ster<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tilavuus<s n="n"/></l><r>volumen<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>tili<s n="n"/></l><r>konto<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>titteli<s n="n"/></l><r>titel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>todiste<s n="n"/></l><r>beweis<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>todistus<s n="n"/></l><r>ausweis<s n="n"/><s n="m"/></r></p></e>
@@ -6806,6 +6820,7 @@
     <e r="RL"><p><l>tulivuori<s n="n"/></l><r>vulkan<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulli<s n="n"/></l><r>zoll<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulonlähde<s n="n"/></l><r>einnahmequelle<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>tulo<s n="n"/></l><r>aufkommen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>tulo<s n="n"/></l><r>einzug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulo<s n="n"/></l><r>einzug<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tulos<s n="n"/></l><r>ergebnis<s n="n"/><s n="nt"/></r></p></e>
@@ -7186,6 +7201,7 @@
     <e c="niin -- kuin myös" r="RL"><p><l>niin<s n="adv"/></l><r>sowohl<s n="adv"/></r></p></e>
     <e c="no good adv pairing" r="LR"><p><l>vuonna<s n="adv"/></l><r>dieses<b/>Jahr<s n="adv"/></r></p></e>
     <e c="XXX"><p><l>huolissaan<s n="adv"/><s n="pxsp3"/></l><r>bedacht<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ympärillä<s n="adv"/></l><r>Rings<s n="adv"/></r></p></e>
     <e><p><l>aamulla<s n="adv"/></l><r>Morgen<s n="adv"/></r></p></e>
     <e><p><l>aamulla<s n="adv"/></l><r>morgens<s n="adv"/></r></p></e>
     <e><p><l>absoluuttisesti<s n="adv"/></l><r>absolut<s n="adv"/></r></p></e>
@@ -11812,6 +11828,7 @@
     <e><p><l>virolainen<s n="adj"/></l><r>estnisch<s n="adj"/></r></p></e>
     <e><p><l>virtuaalinen<s n="adj"/></l><r>virtuell<s n="adj"/></r></p></e>
     <e><p><l>visuaalinen<s n="adj"/></l><r>visuell<s n="adj"/></r></p></e>
+    <e><p><l>voimakas<s n="adj"/></l><r>kräftig<s n="adj"/></r></p></e>
     <e><p><l>voimassaoleva<s n="adj"/></l><r>tätig<s n="adj"/></r></p></e>
     <e><p><l>-voipa<s n="adj"/></l><r>fähig<s n="adj"/></r></p></e>
     <e><p><l>voitokas<s n="adj"/></l><r>siegreich<s n="adj"/></r></p></e>
