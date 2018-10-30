@@ -12,11 +12,30 @@
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="negverb">
+      <cat-item tags="vaux.neg.*"/>
+      <cat-item tags="vblex.neg.*"/>
+    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vaux.*"/>
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vbser.*"/>
+    </def-cat>
+    <def-cat n="someprn">
+      <cat-item tags="prn.rel.*"/>
+      <cat-item tags="prn.dem.*"/>
+      <cat-item tags="det.def.*"/>
+    </def-cat>
+    <def-cat n="inf">
+      <cat-item tags="vblex.*.infa.*"/>
+      <cat-item tags="vaux.*.infa.*"/>
+      <cat-item tags="vbmod.*.infa.*"/>
+      <cat-item tags="vbser.*.infa.*"/>
+      <cat-item tags="vblex.*.infma.*"/>
+      <cat-item tags="vaux.*.infma.*"/>
+      <cat-item tags="vbmod.*.infma.*"/>
+      <cat-item tags="vbser.*.infma.*"/>
     </def-cat>
     <def-cat n="pastverb">
       <cat-item tags="vblex.*.past.*"/>
@@ -50,6 +69,16 @@
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <attr-item tags="n.abbr"/>
+      <attr-item tags="n.acr"/>
+      <attr-item tags="np.abbr"/>
+      <attr-item tags="np.acr"/>
+    </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn"/>
+      <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.rel"/>
+      <attr-item tags="det.def"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -71,6 +100,7 @@
     <def-attr n="a_verb">
         <attr-item tags="vblex"/>
         <attr-item tags="vblex.neg"/>
+        <attr-item tags="vblex.sep"/>
         <attr-item tags="vaux"/>
         <attr-item tags="vbser"/>
         <attr-item tags="vbmod"/>
@@ -183,13 +213,51 @@
             <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pii"/>
           </let>
         </when>
-        <!-- otherwise, same tense -->
+        <when>
+          <test>
+              <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pri"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/>
+          </let>
+        </when>
       </choose>
     </def-macro>
   </section-def-macros>
   <!-- }}}
         {{{ rules -->
   <section-rules>
+
+    <rule comment="negverb neg: find persnum and fix">
+      <pattern>
+        <pattern-item n="negverb"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="a_tense"/>
+              <clip pos="1" side="tl" part="a_prsnum"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="nicht"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <!-- }}}
          {{{ single word fall-backs -->
     <rule comment="Compose syntactic past form">
@@ -220,6 +288,28 @@
         </out>
       </action>
     </rule>
+    <rule comment="Map infs sto inf">
+      <pattern>
+        <pattern-item n="inf"/>
+      </pattern>
+      <action>
+        <call-macro n="tensemood-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="Drop voice from verbs, mangle tense mood">
       <pattern>
         <pattern-item n="verb"/>
@@ -238,6 +328,31 @@
               <clip pos="1" side="tl" part="a_verb"/>
               <clip pos="1" side="tl" part="a_tense"/>
               <clip pos="1" side="tl" part="a_prsnum"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="Mangle case of some prns but not all">
+      <pattern>
+        <pattern-item n="someprn"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="np" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_gender"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <clip pos="1" side="tl" part="a_case"/>
             </lu>
           </chunk>
         </out>
