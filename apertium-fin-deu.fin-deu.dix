@@ -600,6 +600,7 @@
     <e><p><l>budjetti<s n="n"/></l><r>Etat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>budjetti<s n="n"/></l><r>Haushaltsgeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>bulevardi<s n="n"/></l><r>Boulevard<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bulevardi<s n="n"/></l><r>Prachtstraße<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bulla<s n="n"/></l><r c="rare as F">Bulle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bussi<s n="n"/></l><r>Bus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>buumi<s n="n"/></l><r>Boom<s n="n"/><s n="m"/></r></p></e>
@@ -1520,6 +1521,7 @@
     <e><p><l>kameramies<s n="n"/></l><r>Kameramann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamera<s n="n"/></l><r>Kamera<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kampanja<s n="n"/></l><r>Kampagne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kampela<s n="n"/></l><r>Butt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamppailija<s n="n"/></l><r>Fighter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamppailu<s n="n"/></l><r>Bekämpfung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kamppailu<s n="n"/></l><r>Kampf<s n="n"/><s n="m"/></r></p></e>
@@ -1798,6 +1800,7 @@
     <e><p><l>kiintolevy<s n="n"/></l><r>Festplatte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiireellisyys<s n="n"/></l><r>Dringlichkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiire<s n="n"/></l><r>Eile<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kiistakapula<s n="n"/></l><r>Zankapfel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kiistakysymys<s n="n"/></l><r>Streitfrage<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kiistanaihe<s n="n"/></l><r>Streitpunkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kiista<s n="n"/></l><r>Kontroverse<s n="n"/><s n="f"/></r></p></e>
@@ -6995,6 +6998,7 @@
     <e r="RL"><p><l>vastike<s n="n"/></l><r>honorar<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>vastustaja<s n="n"/></l><r>gegner<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vaunu<s n="n"/></l><r>wagen<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>vauva<s n="n"/></l><r>baby<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>velka<s n="n"/></l><r>schuld<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>velvollisuus<s n="n"/></l><r>pflicht<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>velvollisuus<s n="n"/></l><r>verpflichtung<s n="n"/><s n="f"/></r></p></e>
@@ -10340,7 +10344,7 @@
     <e><p><l>aiempi<s n="adj"/></l><r>frühere<s n="adj"/></r></p></e>
     <e><p><l>aikaavievä<s n="adj"/></l><r>aufwendig<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>baldig<s n="adj"/></r></p></e>
-    <e><p><l>aikalainen<s n="adj"/></l><r>zukünftig<s n="adj"/></r></p></e>
+    <e><p><l>tämänaikainen<s n="adj"/></l><r>zukünftig<s n="adj"/></r></p></e>
     <e><p><l>aikuinen<s n="adj"/></l><r>erwachsen<s n="adj"/></r></p></e>
     <e><p><l>ailahtelevainen<s n="adj"/></l><r>marode<s n="adj"/></r></p></e>
     <e><p><l>ainoa<s n="adj"/></l><r>einzige<s n="adj"/></r></p></e>
@@ -11101,6 +11105,7 @@
     <e><p><l>miehitetty<s n="adj"/></l><r>bemannt<s n="adj"/></r></p></e>
     <e><p><l>mielivaltainen<s n="adj"/></l><r>willkürlich<s n="adj"/></r></p></e>
     <e><p><l>mieto<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>militantti<s n="adj"/></l><r>militant<s n="adj"/></r></p></e>
     <e><p><l>miljoonakertainen<s n="adj"/></l><r>millionenfach<s n="adj"/></r></p></e>
     <e><p><l>mittaamaton<s n="adj"/></l><r>kapital<s n="adj"/></r></p></e>
     <e><p><l>mittasuhteeton<s n="adj"/></l><r>unverhältnismäßig<s n="adj"/></r></p></e>
@@ -11132,8 +11137,8 @@
     <e><p><l>muodollinen<s n="adj"/></l><r>förmlich<s n="adj"/></r></p></e>
     <e><p><l>muovinen<s n="adj"/></l><r>plastisch<s n="adj"/></r></p></e>
     <e><p><l>musikaalinen<s n="adj"/></l><r>musikalisch<s n="adj"/></r></p></e>
-    <e><p><l>muslimilainen<s n="adj"/></l><r>muslimisch<s n="adj"/></r></p></e>
     <e><p><l>muslimilainen<s n="adj"/></l><r>moslemisch<s n="adj"/></r></p></e>
+    <e><p><l>muslimilainen<s n="adj"/></l><r>muslimisch<s n="adj"/></r></p></e>
     <e><p><l>musta<s n="adj"/></l><r>schwarz<s n="adj"/></r></p></e>
     <e><p><l>mustasukkainen<s n="adj"/></l><r>eifersüchtig<s n="adj"/></r></p></e>
     <e><p><l>muukalaisvihamielinen<s n="adj"/></l><r>fremdenfeindlich<s n="adj"/></r></p></e>
