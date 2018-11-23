@@ -149,8 +149,8 @@
 
   <section id="main" type="standard">
 
-    <!--                 {{{          N       O        U    N S       O             UN   S     NO UN  S
-           {{{       n  o     u                n  s      w  i             t    h g      ende r s -->
+    <!--                  {{{          N       O        U    N S       O             UN   S     NO UN  S
+           {{{        n  o     u                n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -3066,6 +3066,7 @@
     <e><p><l>objekti<s n="n"/></l><r>Objekt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>obligaatio<s n="n"/></l><r>Anleihe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>odotusaika<s n="n"/></l><r>Wartezeit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>odotuslista<s n="n"/></l><r>Warteliste<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>odotus<s n="n"/></l><r>Erwartung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>odotus<s n="n"/></l><r>Wart<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ohjaaja<s n="n"/></l><r>Geschäftsführer<s n="n"/><s n="m"/></r></p></e>
@@ -4178,6 +4179,7 @@
     <e><p><l>sisäministeriö<s n="n"/></l><r>Innenministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisäpiiri<s n="n"/></l><r>Insider<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sisäänkäynti<s n="n"/></l><r>Eingang<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sisäänpääsy<s n="n"/></l><r>Einlass<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sitaatti<s n="n"/></l><r>Zitat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sitcom<s n="n"/></l><r>Sitcom<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sitoutuminen<s n="n"/></l><r>Engagement<s n="n"/><s n="nt"/></r></p></e>
@@ -6213,6 +6215,7 @@
     <e r="RL"><p><l>lahjoitus<s n="n"/></l><r>spende<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lahjonta<s n="n"/></l><r>bestechung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lahko<s n="n"/></l><r>sekte<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>lainsäädäntö<s n="n"/></l><r>gesetzgebung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>laite<s n="n"/></l><r>apparat<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laite<s n="n"/></l><r>vorrichtung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>laitos<s n="n"/></l><r>anstalt<s n="n"/><s n="f"/></r></p></e>
@@ -6950,6 +6953,7 @@
     <e r="RL"><p><l>vahinko<s n="n"/></l><r>schade<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vahinko<s n="n"/></l><r>verletzung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vahti<s n="n"/></l><r>wache<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>vahti<s n="n"/></l><r>wachmann<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vahti<s n="n"/></l><r>wart<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>vahvuus<s n="n"/></l><r>stärke<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>vaihe<s n="n"/></l><r>phase<s n="n"/><s n="f"/></r></p></e>
@@ -8329,6 +8333,7 @@
     <e><p><l>haravoida<s n="vblex"/></l><r>absuchen<s n="vblex"/></r></p></e>
     <e><p><l>haravoida<s n="vblex"/></l><r>durchkämmen<s n="vblex"/></r></p></e>
     <e><p><l>harhauttaa<s n="vblex"/></l><r>ablenken<s n="vblex"/></r></p></e>
+    <e><p><l>harjoitella<s n="vblex"/></l><r>proben<s n="vblex"/></r></p></e>
     <e><p><l>harjoitella<s n="vblex"/></l><r>üben<s n="vblex"/></r></p></e>
     <e><p><l>harjoittaa<s n="vblex"/></l><r>ausüben<s n="vblex"/></r></p></e>
     <e><p><l>harjoittaa<s n="vblex"/></l><r>praktizieren<s n="vblex"/></r></p></e>
@@ -10152,7 +10157,6 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>stimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>votieren<s n="vblex"/></r></p></e>
-    <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
@@ -12064,6 +12068,7 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+    <e><p><l>thüringeniläinen<s n="adj"/></l><r>thüringisch<s n="adj"/></r></p></e>
 
 
 
