@@ -1227,6 +1227,7 @@
     <e><p><l>imago<s n="n"/></l><r>Image<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>immuniteetti<s n="n"/></l><r>Immunität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>immuunikato<s n="n"/></l><r>Immunschwäche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>implantti<s n="n"/></l><r>Implantat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>impro<s n="n"/></l><r>Improvisation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impulssi<s n="n"/></l><r>Impuls<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>indeksi<s n="n"/></l><r>Index<s n="n"/><s n="m"/></r></p></e>
@@ -2136,6 +2137,7 @@
     <e><p><l>kylmyys<s n="n"/></l><r>Kälte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kylpy<s n="n"/></l><r>Bad<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kyltti<s n="n"/></l><r>Plakat<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kylänvanhin<s n="n"/></l><r>Schulze<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kylä<s n="n"/></l><r>Dorf<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kylä<s n="n"/></l><r>Ortschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kynttilä<s n="n"/></l><r>Kerze<s n="n"/><s n="f"/></r></p></e>
@@ -2752,6 +2754,7 @@
     <e><p><l>matkustaja<s n="n"/></l><r>Passagier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>matkustaja<s n="n"/></l><r>Reisende<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>matkustamo<s n="n"/></l><r c="passenger vessels">Kabine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>matruusi<s n="n"/></l><r>Matrose<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>matto<s n="n"/></l><r>Teppich<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mausoleumi<s n="n"/></l><r>Mausoleum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>medaljonki<s n="n"/></l><r>Medaillon<s n="n"/><s n="nt"/></r></p></e>
@@ -3464,6 +3467,7 @@
     <e><p><l>pikkuserkku<s n="n"/></l><r>Großneffe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilapiirtäjä<s n="n"/></l><r>Karikaturist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilari<s n="n"/></l><r>Pfeiler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pilli<s n="n"/></l><r>Strohhalm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilotti<s n="n"/></l><r>Pilote<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pilotti<s n="n"/></l><r>Pilotfilm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilotti<s n="n"/></l><r>Pilot<s n="n"/><s n="m"/></r></p></e>
@@ -3767,6 +3771,7 @@
     <e><p><l>pörssi<s n="n"/></l><r>Börse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pöyristys<s n="n"/></l><r>Bestürzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pöytä<s n="n"/></l><r>Tisch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>raaja<s n="n"/></l><r>Gelenk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>raaka-ainekustannus<s n="n"/></l><r>Rohstoffpreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raakaöljy<s n="n"/></l><r>Rohöl<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>raami<s n="n"/></l><r>Rahmen<s n="n"/><s n="m"/></r></p></e>
@@ -4037,6 +4042,7 @@
     <e><p><l>salasana<s n="n"/></l><r>Passwort<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>salassapito<s n="n"/></l><r>Geheimhaltung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sali<s n="n"/></l><r>Saal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>salmi<s n="n"/></l><r>Meerenge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sanakirja<s n="n"/></l><r>Wörterbuch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sanaleikki<s n="n"/></l><r>Wortspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sananmuoto<s n="n"/></l><r>Wortlaut<s n="n"/><s n="m"/></r></p></e>
@@ -5506,6 +5512,7 @@
     <e><p><l>ympyrä<s n="n"/></l><r>Kreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ympyrä<s n="n"/></l><r>Ring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ympäristöministeri<s n="n"/></l><r>Umweltminister<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ympäristöministeriö<s n="n"/></l><r>Umweltministerium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ympäristöongelma<s n="n"/></l><r>Umweltproblem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ympäristö<s n="n"/></l><r>Umfeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ympäristö<s n="n"/></l><r>Umgebung<s n="n"/><s n="f"/></r></p></e>
@@ -5957,6 +5964,7 @@
     <e r="RL"><p><l>ilmasto<s n="n"/></l><r>klima<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>imperiumi<s n="n"/></l><r>imperium<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>imperiumi<s n="n"/></l><r>reich<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>implantti<s n="n"/></l><r>implantat<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>indeksi<s n="n"/></l><r>index<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>infektio<s n="n"/></l><r>infektion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>informaatio<s n="n"/></l><r>information<s n="n"/><s n="f"/></r></p></e>
@@ -6649,6 +6657,7 @@
     <e r="RL"><p><l>romahdus<s n="n"/></l><r>einsturz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>romahdus<s n="n"/></l><r>einsturz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>roska<s n="n"/></l><r>müll<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>ruiske<s n="n"/></l><r>spritze<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>rukous<s n="n"/></l><r>gebet<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ruumis<s n="n"/></l><r>leich<s n="n"/><s n="m"/></r></p></e>
@@ -10355,7 +10364,6 @@
     <e><p><l>aiempi<s n="adj"/></l><r>frühere<s n="adj"/></r></p></e>
     <e><p><l>aikaavievä<s n="adj"/></l><r>aufwendig<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>baldig<s n="adj"/></r></p></e>
-    <e><p><l>tämänaikainen<s n="adj"/></l><r>zukünftig<s n="adj"/></r></p></e>
     <e><p><l>aikuinen<s n="adj"/></l><r>erwachsen<s n="adj"/></r></p></e>
     <e><p><l>ailahtelevainen<s n="adj"/></l><r>marode<s n="adj"/></r></p></e>
     <e><p><l>ainoa<s n="adj"/></l><r>einzige<s n="adj"/></r></p></e>
@@ -10800,6 +10808,7 @@
     <e><p><l>kazakstanilainen<s n="adj"/></l><r>kasachisch<s n="adj"/></r></p></e>
     <e><p><l>kazakstanilainen<s n="adj"/></l><r>kasachisch<s n="adj"/></r></p></e>
     <e><p><l>kehno<s n="adj"/></l><r>mau<s n="adj"/></r></p></e>
+    <e><p><l>keinotekoinen<s n="adj"/></l><r>künstlich<s n="adj"/></r></p></e>
     <e><p><l>keisarillinen<s n="adj"/></l><r>kaiserlich<s n="adj"/></r></p></e>
     <e><p><l>keltainen<s n="adj"/></l><r>gelb<s n="adj"/></r></p></e>
     <e><p><l>kelvoton<s n="adj"/></l><r>inakzeptabel<s n="adj"/></r></p></e>
@@ -11614,7 +11623,6 @@
     <e><p><l>taisteluvalmis<s n="adj"/></l><r>einsatzbereit<s n="adj"/></r></p></e>
     <e><p><l>taiteellinen<s n="adj"/></l><r>kunstlich<s n="adj"/></r></p></e>
     <e><p><l>taiteellinen<s n="adj"/></l><r>künstlerisch<s n="adj"/></r></p></e>
-    <e><p><l>taiteellinen<s n="adj"/></l><r>künstlich<s n="adj"/></r></p></e>
     <e><p><l>taiwanilainen<s n="adj"/></l><r>taiwanesisch<s n="adj"/></r></p></e>
     <e><p><l>tajuton<s n="adj"/></l><r>bewusstlos<s n="adj"/></r></p></e>
     <e><p><l>takainen<s n="adj"/></l><r>hinter<s n="adj"/></r></p></e>
@@ -11667,6 +11675,7 @@
     <e><p><l>terävä<s n="adj"/></l><r>spitz<s n="adj"/></r></p></e>
     <e><p><l>testaamaton<s n="adj"/></l><r>unversucht<s n="adj"/></r></p></e>
     <e><p><l>thaimaalainen<s n="adj"/></l><r>thailändisch<s n="adj"/></r></p></e>
+    <e><p><l>thüringeniläinen<s n="adj"/></l><r>thüringisch<s n="adj"/></r></p></e>
     <e><p><l>tiedotuksellinen<s n="adj"/></l><r>medial<s n="adj"/></r></p></e>
     <e><p><l>tieteellinen<s n="adj"/></l><r>wissenschaftlich<s n="adj"/></r></p></e>
     <e><p><l>tietty<s n="adj"/></l><r>gewiss<s n="adj"/></r></p></e>
@@ -11750,6 +11759,7 @@
     <e><p><l>tyyris<s n="adj"/></l><r>teuer<s n="adj"/></r></p></e>
     <e><p><l>tyytymätön<s n="adj"/></l><r>unzufrieden<s n="adj"/></r></p></e>
     <e><p><l>tällainen<s n="adj"/><s n="pos"/></l><r>solche<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
+    <e><p><l>tämänaikainen<s n="adj"/></l><r>zukünftig<s n="adj"/></r></p></e>
     <e><p><l>tämänpäiväinen<s n="adj"/></l><r>heutig<s n="adj"/></r></p></e>
     <e><p><l>tämänvuotinen<s n="adj"/></l><r>diesjährig<s n="adj"/></r></p></e>
     <e><p><l>tärkeä<s n="adj"/></l><r>wichtig<s n="adj"/></r></p></e>
@@ -12041,6 +12051,7 @@
     <e><p><l>ylilastattu<s n="adj"/></l><r>überlastet<s n="adj"/></r></p></e>
     <e><p><l>ylimielinen<s n="adj"/></l><r>arrogant<s n="adj"/></r></p></e>
     <e><p><l>ylimielinen<s n="adj"/></l><r>hochmütig<s n="adj"/></r></p></e>
+    <e><p><l>ylimääräinen<s n="adj"/></l><r>überflüssig<s n="adj"/></r></p></e>
     <e><p><l>ylimääräinen<s n="adj"/></l><r>zusätzlich<s n="adj"/></r></p></e>
     <e><p><l>ylivoimainen<s n="adj"/></l><r>übermächtig<s n="adj"/></r></p></e>
     <e><p><l>yllyttävä<s n="adj"/></l><r>anstiftend<s n="adj"/></r></p></e>
@@ -12068,7 +12079,6 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
-    <e><p><l>thüringeniläinen<s n="adj"/></l><r>thüringisch<s n="adj"/></r></p></e>
 
 
 
@@ -13317,6 +13327,7 @@
     <e><i>Salzburg<s n="np"/></i></e>
     <e><i>Sam<s n="np"/></i></e>
     <e><i>Samuel<s n="np"/></i></e>
+    <e><i>San<b/>Diego<s n="np"/></i></e>
     <e><i>San<b/>Francisco<s n="np"/></i></e>
     <e><i>Sanders<s n="np"/></i></e>
     <e><i>Sandra<s n="np"/></i></e>
