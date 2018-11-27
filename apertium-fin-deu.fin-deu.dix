@@ -1105,6 +1105,7 @@
     <e><p><l>huoli<s n="n"/></l><r>Besorgnis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huoltaja<s n="n"/></l><r>Vormund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huoltajuus<s n="n"/></l><r>Vormundschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>huoltoasema<s n="n"/></l><r>Tankstelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomautus<s n="n"/></l><r>Anmerkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomautus<s n="n"/></l><r>Bemerkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>Aufmerksamkeit<s n="n"/><s n="f"/></r></p></e>
@@ -3524,6 +3525,7 @@
     <e><p><l>poliisi<s n="n"/></l><r>Polizist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poliitikko<s n="n"/></l><r>Politiker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>politiikka<s n="n"/></l><r>Politik<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>polttoaine<s n="n"/></l><r>Kraftstoff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>polttoaine<s n="n"/></l><r>Treibstoff<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>polttomoottori<s n="n"/></l><r>Benziner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>polttomoottori<s n="n"/></l><r>Verbrennungsmotor<s n="n"/><s n="m"/></r></p></e>
@@ -7186,13 +7188,15 @@
     <e><p><l>jouluk.<s n="n"/><s n="abbr"/></l><r>Dez.<s n="abbr"/></r></p></e>
 
     <e><p><l>St.<s n="np"/></l><r>St.<s n="abbr"/></r></p></e>
+
+    <e><p><l>BBC<s n="np"/><s n="al"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>CIA<s n="np"/><s n="al"/></l><r>CIA<s n="n"/></r></p></e>
     <e><p><l>CNN<s n="np"/></l><r>CNN<s n="n"/></r></p></e>
-    <e><p><l>SPD<s n="np"/></l><r>SPD<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-    <e><p><l>BBC<s n="np"/><s n="al"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-    <e><p><l>PKK<s n="np"/><s n="al"/></l><r>PKK<s n="n"/><s n="acr"/></r></p></e>
-    <e><p><l>UEFA<s n="np"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>FBI<s n="np"/><s n="al"/></l><r>FBI<s n="n"/></r></p></e>
+    <e><p><l>NASA<s n="np"/><s n="al"/></l><r>NASA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>PKK<s n="np"/><s n="al"/></l><r>PKK<s n="n"/><s n="acr"/></r></p></e>
+    <e><p><l>SPD<s n="np"/></l><r>SPD<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+    <e><p><l>UEFA<s n="np"/></l><r>UEFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
     <e><p><l>ABC<s n="np"/><s n="al"/><s n="acr"/></l><r>ABC<s n="n"/></r></p></e>
     <e><p><l>AIDS<s n="n"/></l><r>Aids<s n="n"/><s n="acr"/><s n="nt"/></r></p></e>
@@ -7210,7 +7214,6 @@
     <e><p><l>MM<s n="n"/><s n="acr"/></l><r>WM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>mp3<s n="n"/><s n="acr"/></l><r>mp3<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>MP3<s n="n"/><s n="acr"/></l><r>MP3<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
-    <e><p><l>NASA<s n="n"/></l><r>NASA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>OPEC<s n="n"/><s n="abbr"/></l><r>OPEC<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>tv<s n="n"/><s n="acr"/></l><r>Fernsehen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>YK<s n="n"/></l><r>UN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -7460,6 +7463,7 @@
     <e><p><l>jälkikäteen<s n="adv"/></l><r>nachträglich<s n="adv"/></r></p></e>
     <e><p><l>jälleen<s n="adv"/></l><r>nochmal<s n="adv"/></r></p></e>
     <e><p><l>järjestelmällisesti<s n="adv"/></l><r>systematisch<s n="adv"/></r></p></e>
+    <e><p><l>järkyttävästi<s n="adv"/></l><r>katastrophal<s n="adv"/></r></p></e>
     <e><p><l>kahden<s n="adv"/></l><r>zusammen<s n="adv"/></r></p></e>
     <e><p><l>kahdesti<s n="adv"/></l><r>zweimal<s n="adv"/></r></p></e>
     <e><p><l>kaiken<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
@@ -8622,6 +8626,7 @@
     <e><p><l>kestää<s n="vblex"/></l><r>leiden<s n="vblex"/></r></p></e>
     <e><p><l>kestää<s n="vblex"/></l><r>widerstehen<s n="vblex"/></r></p></e>
     <e><p><l>kestää<s n="vblex"/></l><r>währen<s n="vblex"/></r></p></e>
+    <e><p><l>kestää<s n="vblex"/></l><r>überstehen<s n="vblex"/></r></p></e>
     <e><p><l>kidnapata<s n="vblex"/></l><r>kidnappen<s n="vblex"/></r></p></e>
     <e><p><l>kiduttaa<s n="vblex"/></l><r>foltern<s n="vblex"/></r></p></e>
     <e><p><l>kiduttaa<s n="vblex"/></l><r>quälen<s n="vblex"/></r></p></e>
@@ -9507,6 +9512,7 @@
     <e><p><l>selvittää<s n="vblex"/></l><r>ausloten<s n="vblex"/></r></p></e>
     <e><p><l>selvittää<s n="vblex"/></l><r>vorsagen<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>bestehen<s n="vblex"/></r></p></e>
+    <e><p><l>selvitä<s n="vblex"/></l><r>entfalten<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>entheben<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>ernüchtern<s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>herausfinden<s n="vblex"/></r></p></e>
@@ -12079,6 +12085,7 @@
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
     <e><p><l>äärimmäinen<s n="adj"/></l><r>ultimativ<s n="adj"/></r></p></e>
+    <e><p><l>fyysinen<s n="adj"/></l><r>physisch<s n="adj"/></r></p></e>
 
 
 
