@@ -149,8 +149,8 @@
 
   <section id="main" type="standard">
 
-    <!--                  {{{           N       O        U    N S       O             UN   S     NO UN  S
-           {{{         n  o     u                n  s      w  i             t    h g      ende r s -->
+    <!--                   {{{           N       O        U    N S       O             UN   S     NO UN  S
+           {{{          n  o     u                n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -202,6 +202,7 @@
     <e c="sprots"><p><l>pelinrakentaja<s n="n"/></l><r>Quarterback<s n="n"/><s n="m"/></r></p></e>
     <e c="stalemate also fig."><p><l>patti<s n="n"/></l><r>Patt<s n="n"/><s n="nt"/></r></p></e>
     <e c="telkien taakse"><p><l>telki<s n="n"/></l><r>Gitter<s n="n"/><s n="nt"/></r></p></e>
+    <e c="tree pattern thing"><p><l>syy<s n="n"/></l><r>Maser<s n="n"/><s n="f"/></r></p></e>
     <e c="typically computer security hole"><p><l>turva-aukko<s n="n"/></l><r>Sicherheitslücke<s n="n"/><s n="f"/></r></p></e>
     <e c="työpaikanvaihdos tms."><p><l>siirto<s n="n"/></l><r>Versetzung<s n="n"/><s n="f"/></r></p></e>
     <e c="US?"><p><l>osavaltio<s n="n"/></l><r>US-Bundesstaat<s n="n"/><s n="m"/></r></p></e>
@@ -357,6 +358,7 @@
     <e><p><l>amiraali<s n="n"/></l><r>Admiral<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ammattikorkeakoulu<s n="n"/></l><r>Fachhochschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ammattikoulu<s n="n"/></l><r>Fachschule<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ammattilainen<s n="n"/></l><r>Fachleute<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>ammattilainen<s n="n"/></l><r>Profi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ammattiliitto<s n="n"/></l><r>Gewerkschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ammattimaisuus<s n="n"/></l><r>Professionalität<s n="n"/><s n="f"/></r></p></e>
@@ -497,6 +499,7 @@
     <e><p><l>asuinpaikka<s n="n"/></l><r>Aufenthaltsort<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asuinpaikka<s n="n"/></l><r>Wohnort<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asuinrakennus<s n="n"/></l><r>Wohngebäude<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>asuinrakennus<s n="n"/></l><r>Wohnhaus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asukasluku<s n="n"/></l><r>Einwohnerzahl<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asukas<s n="n"/></l><r>Anlieger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asukas<s n="n"/></l><r>Bewohner<s n="n"/><s n="m"/></r></p></e>
@@ -531,6 +534,7 @@
     <e><p><l>automaatti<s n="n"/></l><r>Automat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automobiili<s n="n"/></l><r>Automobil<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>autonomia<s n="n"/></l><r>Autonomie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autonrengas<s n="n"/></l><r>Autoreifen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto-onnettomuus<s n="n"/></l><r>Autounfall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto<s n="n"/></l><r>Auto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto<s n="n"/></l><r>Auto<s n="n"/><s n="nt"/></r></p></e>
@@ -1060,6 +1064,7 @@
     <e><p><l>hiippakunta<s n="n"/></l><r>Bistum<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiljaisuus<s n="n"/></l><r>Ruhe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hiljaisuus<s n="n"/></l><r>Stille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hillo<s n="n"/></l><r>Marmelade<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hinnannousu<s n="n"/></l><r>Preissteigerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hinta<s n="n"/></l><r>Kosten<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>hinta<s n="n"/></l><r>Kosten<s n="n"/><s n="pl"/></r></p></e>
@@ -2574,6 +2579,7 @@
     <e><p><l>lämpeneminen<s n="n"/></l><r>Erwärmung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lämpömittari<s n="n"/></l><r>Thermometer<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lämpö<s n="n"/></l><r>Hitze<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lämpö<s n="n"/></l><r>Wärme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lämpötila<s n="n"/></l><r>Temperatur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>länkkäri<s n="n"/></l><r>Western<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>länsi<s n="n"/></l><r>Westen<s n="n"/><s n="m"/></r></p></e>
@@ -2730,12 +2736,14 @@
     <e><p><l>markkinointi<s n="n"/></l><r>Marketing<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>markkinointi<s n="n"/></l><r>Verbreitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>markkinointi<s n="n"/></l><r>Werbung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>marmeladi<s n="n"/></l><r>Marmelade<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>marokkolainen<s n="n"/></l><r>Marokkaner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marraskuu<s n="n"/></l><r>November<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marssi<s n="n"/></l><r>Marsch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marttyyri<s n="n"/></l><r>Märtyrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marxismi<s n="n"/></l><r>Marxismus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>masennus<s n="n"/></l><r>Depression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maser<s n="n"/></l><r>Maser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>masinointi<s n="n"/></l><r>Machenschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maski<s n="n"/></l><r>Maske<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>massamurha<s n="n"/></l><r>Massaker<s n="n"/><s n="nt"/></r></p></e>
@@ -2906,6 +2914,7 @@
     <e><p><l>murhaaja<s n="n"/></l><r>Mörder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>murha<s n="n"/></l><r>Ermordung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>murha<s n="n"/></l><r>Mord<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>murto-osa<s n="n"/></l><r>Bruchteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>murto-osa<s n="n"/></l><r>Fraktion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>murtuma<s n="n"/></l><r>Bruch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>museo<s n="n"/></l><r>Museum<s n="n"/><s n="nt"/></r></p></e>
@@ -3330,6 +3339,7 @@
     <e><p><l>parannus<s n="n"/></l><r>Verbesserung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pariisilainen<s n="n"/></l><r>Pariser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pari<s n="n"/></l><r>Paar<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>paritalo<s n="n"/></l><r>Mehrfamilienhaus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>parittaja<s n="n"/></l><r>Zuhälter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parkkipaikka<s n="n"/></l><r>Parkplatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parlamentaarikko<s n="n"/></l><r>Parlamentarier<s n="n"/><s n="m"/></r></p></e>
@@ -3876,6 +3886,7 @@
     <e><p><l>rauta<s n="n"/></l><r>Eisen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rautatieasema<s n="n"/></l><r>Bahnstation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rautatie<s n="n"/></l><r>Eisenbahn<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rautatieyhteys<s n="n"/></l><r>Eisenbahnverbindung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rautatieyritys<s n="n"/></l><r>Bahngesellschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ravintola<s n="n"/></l><r>Lokal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ravintola<s n="n"/></l><r>Restaurant<s n="n"/><s n="m"/></r></p></e>
@@ -3943,6 +3954,7 @@
     <e><p><l>ritari<s n="n"/></l><r>Ritter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rituaali<s n="n"/></l><r>Ritual<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rivi<s n="n"/></l><r>Reihe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rivitalo<s n="n"/></l><r>Mehrfamilienhaus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>robotti<s n="n"/></l><r>Roboter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rockbändi<s n="n"/></l><r>Rockband<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rock-konsertti<s n="n"/></l><r>Rockkonzert<s n="n"/><s n="nt"/></r></p></e>
@@ -6011,6 +6023,7 @@
     <e r="RL"><p><l>johtaja<s n="n"/></l><r>leiter<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>johtajatar<s n="n"/></l><r>chefin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>johtajatar<s n="n"/></l><r>direktorin<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>johtopaikka<s n="n"/></l><r>leitstelle<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>johto<s n="n"/></l><r>führe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>johto<s n="n"/></l><r>führung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>johto<s n="n"/></l><r>vorsitz<s n="n"/><s n="m"/></r></p></e>
@@ -6242,6 +6255,7 @@
     <e r="RL"><p><l>lammas<s n="n"/></l><r>schaf<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lanka<s n="n"/></l><r>faden<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lapsi<s n="n"/></l><r>kind<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>lasi<s n="n"/></l><r>glas<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>lasku<s n="n"/></l><r>rechnung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>lauantai-iltapäivä<s n="n"/></l><r>samstagnachmittag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>laukaus<s n="n"/></l><r>abschuss<s n="n"/><s n="m"/></r></p></e>
@@ -6705,6 +6719,7 @@
     <e r="RL"><p><l>satu<s n="n"/></l><r>märchen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>saudi<s n="n"/></l><r>saudi<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>seikka<s n="n"/></l><r>sache<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>seinä<s n="n"/></l><r>wand<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sektori<s n="n"/></l><r>sektor<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>selvitys<s n="n"/></l><r>erklärung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>selvitys<s n="n"/></l><r>klar<s n="n"/><s n="nt"/></r></p></e>
@@ -6741,6 +6756,7 @@
     <e r="RL"><p><l>sokeus<s n="n"/></l><r>blindheit<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>solmu<s n="n"/></l><r>knotenpunkt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>solu<s n="n"/></l><r>zelle<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>sondi<s n="n"/></l><r>sonde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>abkommen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>antrag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>sopimus<s n="n"/></l><r>deal<s n="n"/><s n="m"/></r></p></e>
@@ -6864,6 +6880,7 @@
     <e r="RL"><p><l>tervehdys<s n="n"/></l><r>gruß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>terveinen<s n="n"/></l><r>gruß<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>testi<s n="n"/></l><r>probe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>testi<s n="n"/></l><r>prüfung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>testi<s n="n"/></l><r>test<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tiedustelu<s n="n"/></l><r>anfrage<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tie<s n="n"/></l><r>bahn<s n="n"/><s n="f"/></r></p></e>
@@ -7143,7 +7160,7 @@
     <!-- }}}
         {{{ compound part only -->
 
-    <e><p><l>ulko<s n="n"/><s n="cmp"/></l><r>aus<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ulkopuoli<s n="n"/><s n="cmp"/></l><r>aus<s n="n"/><s n="nt"/></r></p></e>
 
     <e><p><l>asuin<s n="n"/><s n="compound-only-L"/></l><r>Wohn<s n="atp"/><s n="cmp"/></r></p></e>
     <e><p><l>keskus<s n="n"/><s n="sg"/><s n="nom"/></l><r>Zentral<s n="atp"/><s n="cmp"/></r></p></e>
@@ -9056,6 +9073,7 @@
     <e><p><l>myrkyttää<s n="vblex"/></l><r>vergiften<s n="vblex"/></r></p></e>
     <e><p><l>myrskytä<s n="vblex"/></l><r>stürmen<s n="vblex"/></r></p></e>
     <e><p><l>myydä<s n="vblex"/></l><r>verkaufen<s n="vblex"/></r></p></e>
+    <e><p><l>myöhästyä<s n="vblex"/></l><r>verspäten<s n="vblex"/></r></p></e>
     <e><p><l>myöntää<s n="vblex"/></l><r>zugeben<s n="vblex"/></r></p></e>
     <e><p><l>myöntää<s n="vblex"/></l><r>zugestehen<s n="vblex"/></r></p></e>
     <e><p><l>myötävaikuttaa<s n="vblex"/></l><r>beitragen<s n="vblex"/></r></p></e>
@@ -9665,6 +9683,7 @@
     <e><p><l>syrjiä<s n="vblex"/></l><r>benachteiligen<s n="vblex"/></r></p></e>
     <e><p><l>syrjäyttää<s n="vblex"/></l><r>verdrängen<s n="vblex"/></r></p></e>
     <e><p><l>syttyä<s n="vblex"/></l><r>entzünden<s n="vblex"/></r></p></e>
+    <e><p><l>sytyttää<s n="vblex"/></l><r>anzünden<s n="vblex"/></r></p></e>
     <e><p><l>sytyttää<s n="vblex"/></l><r>aufflammen<s n="vblex"/></r></p></e>
     <e><p><l>sytyttää<s n="vblex"/></l><r>entfachen<s n="vblex"/></r></p></e>
     <e><p><l>sytyttää<s n="vblex"/></l><r>fachen<s n="vblex"/></r></p></e>
