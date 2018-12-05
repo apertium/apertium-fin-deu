@@ -1600,7 +1600,7 @@
     <e><p><l>kanta<s n="n"/></l><r>Absatz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kantoraketti<s n="n"/></l><r>Trägerrakete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kantri<s n="n"/></l><r>Countrymusik<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kanttoni<s n="n"/></l><r>Kanton<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kantoni<s n="n"/></l><r>Kanton<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kapasiteetti<s n="n"/></l><r>Kapazität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kapinallinen<s n="n"/></l><r>Rebell<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kapina<s n="n"/></l><r>Meuterei<s n="n"/><s n="f"/></r></p></e>
@@ -1832,6 +1832,7 @@
     <e><p><l>kirjain<s n="n"/></l><r>Buchstabe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirjallisuuspalkinto<s n="n"/></l><r>Literaturpreis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirjallisuus<s n="n"/></l><r>Literatur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kirjanpitäjä<s n="n"/></l><r>Buchhalter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirja<s n="n"/></l><r>Buch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kirjasto<s n="n"/></l><r>Bibliothek<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kirjasto<s n="n"/></l><r>Bibliothek<s n="n"/><s n="m"/></r></p></e>
@@ -5560,6 +5561,7 @@
     <e><p><l>äiti<s n="n"/></l><r>Mutter<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>älykkö<s n="n"/></l><r>Intellektuelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>älynväläys<s n="n"/></l><r>Einfall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>äly<s n="n"/></l><r>Intelligenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ärsyke<s n="n"/></l><r>Irritation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ärsyke<s n="n"/></l><r>Reiz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ärtymys<s n="n"/></l><r>Ärger<s n="n"/><s n="m"/></r></p></e>
@@ -5987,6 +5989,7 @@
     <e r="RL"><p><l>indeksi<s n="n"/></l><r>index<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>infektio<s n="n"/></l><r>infektion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>informaatio<s n="n"/></l><r>information<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>infrastruktuuri<s n="n"/></l><r>infrastruktur<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>injektio<s n="n"/></l><r>injektion<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>instituutti<s n="n"/></l><r>behörde<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>instituutti<s n="n"/></l><r>institut<s n="n"/><s n="nt"/></r></p></e>
@@ -6466,6 +6469,7 @@
     <e r="RL"><p><l>oppi<s n="n"/></l><r>lehre<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>organisaatio<s n="n"/></l><r>organisation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>osakas<s n="n"/></l><r>aktionär<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>osallisuus<s n="n"/></l><r>beteiligung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>anteil<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>schnitt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>osa<s n="n"/></l><r>teil<s n="n"/><s n="m"/></r></p></e>
@@ -10343,6 +10347,7 @@
     <e><p><l>saattaa<s n="vblex"/></l><r>gehen<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>sanella<s n="vblex"/></l><r>sagen<g><b/>vor</g><s n="vblex"/></r></p></e>
     <e><p><l>selvittää<s n="vblex"/></l><r>finden<g><b/>heraus</g><s n="vblex"/></r></p></e>
+    <e><p><l>selvittää<s n="vblex"/></l><r>gehen<g><b/>auf</g><s n="vblex"/></r></p></e>
     <e><p><l>selvitä<s n="vblex"/></l><r>kommen<g><b/>durch</g><s n="vblex"/></r></p></e>
     <e><p><l>seurata<s n="vblex"/></l><r>kommen<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>seurata<s n="vblex"/></l><r>gehen<g><b/>nach</g><s n="vblex"/></r></p></e>
@@ -10508,6 +10513,8 @@
     <e><p><l>dramaattinen<s n="adj"/></l><r>dramatisch<s n="adj"/></r></p></e>
     <e><p><l>edellinen<s n="adj"/></l><r>einstig<s n="adj"/></r></p></e>
     <e><p><l>edellinen<s n="adj"/></l><r>vorherig<s n="adj"/></r></p></e>
+    <e><p><l>edellinen<s n="adj"/></l><r>vorig<s n="adj"/></r></p></e>
+    <e><p><l>edeltävä<s n="adj"/></l><r>vorig<s n="adj"/></r></p></e>
     <e><p><l>edullinen<s n="adj"/></l><r>günstig<s n="adj"/></r></p></e>
     <e><p><l>edustuksellinen<s n="adj"/></l><r>repräsentativ<s n="adj"/></r></p></e>
     <e><p><l>eettinen<s n="adj"/></l><r>ethisch<s n="adj"/></r></p></e>
@@ -11005,6 +11012,7 @@
     <e><p><l>käypä<s n="adj"/></l><r>berechtigt<s n="adj"/></r></p></e>
     <e><p><l>käypä<s n="adj"/></l><r>gültig<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>gebraucht<s n="adj"/></r></p></e>
+    <e><p><l>käyttökelvoton<s n="adj"/></l><r>unbrauchbar<s n="adj"/></r></p></e>
     <e><p><l>käyttökelvoton<s n="adj"/></l><r>unzulässig<s n="adj"/></r></p></e>
     <e><p><l>käytännöllinen<s n="adj"/></l><r>praktisch<s n="adj"/></r></p></e>
     <e><p><l>köyhä<s n="adj"/></l><r>arm<s n="adj"/></r></p></e>
@@ -12478,7 +12486,7 @@
 
     <!-- }}}
     }}}
-      {{{ ADPOSITIONS PREPOSITIONS POSTPOSITIONS
+      {{{ ADPOSITIONS PREPOSITI ONS POSTPOSITIONS
       {{{ adps without casestuff -->
 
     <e><p><l>alapuolella<s n="post"/></l><r>unterhalb<s n="pr"/></r></p></e>
@@ -12524,7 +12532,7 @@
     <e><p><l>silloin<s n="adv"/></l><r>unterdessen<s n="preadv"/></r></p></e>
 
     <!-- }}}
-          {{{ adpositions with cases (deu) -->
+          {{{ adpositions with cas es (deu) -->
 
     <e><p><l>aikana<s n="post"/></l><r>anlässlich<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>aikana<s n="post"/></l><r>während<s n="pr"/><s n="gen"/></r></p></e>
@@ -12608,6 +12616,7 @@
     <e r="RL"><p><l>jälkeen<s n="post"/></l><r>post<s n="pr"/><s n="gen"/></r></p></e>
     <e r="RL"><p><l>kohti<s n="post"/></l><r c="latin etc.">ad<s n="pr"/><s n="acc"/></r></p></e>
     <e r="RL"><p><l>per<s n="post"/></l><r>pro<s n="pr"/><s n="acc"/></r></p></e>
+    <e r="RL"><p><l>vastaan<s n="post"/></l><r>kontra<s n="pr"/></r></p></e>
 
 
     <!-- }}}
