@@ -149,8 +149,8 @@
 
   <section id="main" type="standard">
 
-    <!--                   {{{           N       O        U    N S       O             UN   S     NO UN  S
-           {{{          n  o     u                n  s      w  i             t    h g      ende r s -->
+    <!--                    {{{           N       O        U    N S       O             UN   S     NO UN  S
+           {{{           n  o     u                n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -494,6 +494,7 @@
     <e><p><l>aspekti<s n="n"/></l><r>Aspekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>assistentti<s n="n"/></l><r>Assistent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asteroidi<s n="n"/></l><r>Asteroid<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aste<s n="n"/></l><r>Grad<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>astronautti<s n="n"/></l><r>Astronaut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asuinalue<s n="n"/></l><r>Wohngebiet<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>asuinpaikka<s n="n"/></l><r>Aufenthaltsort<s n="n"/><s n="m"/></r></p></e>
@@ -656,6 +657,7 @@
     <e><p><l>diktaatti<s n="n"/></l><r>Diktat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>diktaattori<s n="n"/></l><r>Diktator<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diktatuuri<s n="n"/></l><r>Diktatur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dilemma<s n="n"/></l><r>Dilemma<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dinosaurus<s n="n"/></l><r>Dino<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diplomaatti<s n="n"/></l><r>Diplomat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>diplomatia<s n="n"/></l><r>Diplomatie<s n="n"/><s n="f"/></r></p></e>
@@ -1495,6 +1497,7 @@
     <e><p><l>kaaos<s n="n"/></l><r>Chaos<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kaapeli<s n="n"/></l><r>Kabel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kaapeli<s n="n"/></l><r>Leitung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kaara<s n="n"/></l><r>Car<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaartilainen<s n="n"/></l><r>Gardist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaasunaamari<s n="n"/></l><r>Gasmaske<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaasupullo<s n="n"/></l><r>Gasflasche<s n="n"/><s n="f"/></r></p></e>
@@ -1598,9 +1601,9 @@
     <e><p><l>kantajatar<s n="n"/></l><r>Klägerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kantama<s n="n"/></l><r>Reichweite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kanta<s n="n"/></l><r>Absatz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kantoni<s n="n"/></l><r>Kanton<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kantoraketti<s n="n"/></l><r>Trägerrakete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kantri<s n="n"/></l><r>Countrymusik<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kantoni<s n="n"/></l><r>Kanton<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kapasiteetti<s n="n"/></l><r>Kapazität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kapinallinen<s n="n"/></l><r>Rebell<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kapina<s n="n"/></l><r>Meuterei<s n="n"/><s n="f"/></r></p></e>
@@ -2518,6 +2521,7 @@
     <e><p><l>luominen<s n="n"/></l><r>Schaffung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luomi<s n="n"/></l><r>Mal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>luomu<s n="n"/></l><r>Bio<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>luomu<s n="n"/></l><r>Öko<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonnonkatastrofi<s n="n"/></l><r>Naturkatastrophe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luonnonsuojelija<s n="n"/></l><r>Umweltschützer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonnonsuojelualue<s n="n"/></l><r>Naturschutzgebiet<s n="n"/><s n="nt"/></r></p></e>
@@ -7148,6 +7152,10 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>länsi<s n="n"/></l><r>westen<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>liivi<s n="n"/></l><r>weste<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>kuitti<s n="n"/></l><r>bon<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>liitto<s n="n"/></l><r>verbund<s n="n"/><s n="m"/></r></p></e>
 
 
     <e r="RL" c="unravalling"><p><l>avautuminen<s n="n"/></l><r>entfaltung<s n="n"/><s n="f"/></r></p></e>
@@ -7247,7 +7255,7 @@
     <e><p><l>MM<s n="n"/><s n="acr"/></l><r>WM<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>mp3<s n="n"/><s n="acr"/></l><r>mp3<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>MP3<s n="n"/><s n="acr"/></l><r>MP3<s n="n"/><s n="acr"/></r></p><par n="anyg"/></e>
-    <e><p><l>OPEC<s n="n"/><s n="abbr"/></l><r>OPEC<s n="n"/><s n="acr"/></r></p></e>
+    <e><p><l>OPEC<s n="np"/><s n="al"/><s n="acr"/></l><r>OPEC<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>tv<s n="n"/><s n="acr"/></l><r>Fernsehen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>YK<s n="n"/></l><r>UN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
     <e><p><l>ZDF<s n="np"/><s n="al"/><s n="acr"/></l><r>ZDF<s n="n"/><s n="acr"/><s n="nt"/></r></p></e>
@@ -9349,6 +9357,7 @@
     <e><p><l>pukeutua<s n="vblex"/></l><r>anziehen<s n="vblex"/></r></p></e>
     <e><p><l>pukeutua<s n="vblex"/></l><r>kleiden<s n="vblex"/></r></p></e>
     <e><p><l>pukeutua<s n="vblex"/></l><r>verkleiden<s n="vblex"/></r></p></e>
+    <e><p><l>pumpata<s n="vblex"/></l><r>pumpen<s n="vblex"/></r></p></e>
     <e><p><l>puntaroida<s n="vblex"/></l><r c="with spirit level / plummet to measure (c.f. ausloten)">loten<s n="vblex"/></r></p></e>
     <e><p><l>puolittaa<s n="vblex"/></l><r>halbieren<s n="vblex"/></r></p></e>
     <e><p><l>puolustaa<s n="vblex"/></l><r>beklagen<s n="vblex"/></r></p></e>
@@ -12497,7 +12506,6 @@
     <e><p><l>sisäpuolella<s n="post"/></l><r>innerhalb<s n="pr"/></r></p></e>
     <e><p><l>takana<s n="post"/></l><r>jenseits<s n="pr"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>außerhalb<s n="pr"/></r></p></e>
-    <e><p><l>yllä<s n="post"/></l><r>nach<b/>oben<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
     <e><p><l>yllä<s n="post"/></l><r>oberhalb<s n="pr"/></r></p></e>
     <e r="LR"><p><l>sisällä<s n="post"/></l><r>in<s n="pr"/></r></p></e>
@@ -12611,6 +12619,7 @@
     <e><p><l>vastoin<s n="post"/></l><r>dagegen<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>välillä<s n="post"/></l><r>zwischen<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>välissä<s n="post"/></l><r>zwischen<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>yllä<s n="post"/></l><r>nach<b/>oben<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>ympärille<s n="post"/></l><r>um<s n="pr"/><s n="acc"/></r></p></e>
     <e r="RL"><p><l>jälkeen<s n="post"/></l><r>post<s n="pr"/><s n="acc"/></r></p></e>
     <e r="RL"><p><l>jälkeen<s n="post"/></l><r>post<s n="pr"/><s n="gen"/></r></p></e>
@@ -12749,6 +12758,7 @@
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Ellis<s n="np"/></i></e>
     <e><i>Aaron<s n="np"/></i></e>
     <e><i>Abbott<s n="np"/></i></e>
     <e><i>Abdel<s n="np"/></i></e>
@@ -13814,30 +13824,31 @@
 
 
 
-    <e><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
-    <e><p><l>arvostaa<s n="vblex"/><j/>suuresti<s n="adv"/></l><r c="maybe german guesser fail?">hochqualifizieren<s n="vblex"/></r></p></e>
-    <e><p><l>asua<s n="vblex"/><j/>poliisiasema<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">polizeihauptquartieren<s n="vblex"/></r></p></e>
-    <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">anniversarfeieren<s n="vblex"/></r></p></e>
-    <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">eröffnungsfeieren<s n="vblex"/></r></p></e>
-    <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">hochzeitsfeieren<s n="vblex"/></r></p></e>
-    <e><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">memorialfeieren<s n="vblex"/></r></p></e>
-    <e><p><l>kartoittaa<s n="vblex"/></l><r c="maybe german guesser fail?">cartieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">ergebnispapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">grundsatzpapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">javieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">militäroffizieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">sondierungspapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>passi<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">einreisepapieren<s n="vblex"/></r></p></e>
-    <e><p><l>kirjoittaa<s n="vblex"/><j/>strategia<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">strategiepapieren<s n="vblex"/></r></p></e>
-    <e><p><l>koristella<s n="vblex"/></l><r c="maybe german guesser fail?">nobeljuwelieren<s n="vblex"/></r></p></e>
-    <e><p><l>luovuttaa<s n="vblex"/></l><r c="maybe german guesser fail?">spendertieren<s n="vblex"/></r></p></e>
-    <e><p><l>portata<s n="vblex"/></l><r c="guesser">potieren<s n="vblex"/></r></p></e>
-    <e><p><l>teloittaa<s n="vblex"/></l><r c="maybe german guesser fail?">guillieren<s n="vblex"/></r></p></e>
-    <e><p><l>toimittaa<s n="vblex"/></l><r c="maybe german guesser fail?">courieren<s n="vblex"/></r></p></e>
-    <e><p><l>tulla<s n="vblex"/><j/>toinen<s n="num"/><s n="sg"/><s n="tra"/></l><r c="maybe german guesser fail?">zweitplatzieren<s n="vblex"/></r></p></e>
-    <e><p><l>varata<s n="vblex"/></l><r c="probably noun">braunkohlerevieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>aidata<s n="vblex"/></l><r c="probably noun">metallbarrieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>arvostaa<s n="vblex"/><j/>suuresti<s n="adv"/></l><r c="maybe german guesser fail?">hochqualifizieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>asua<s n="vblex"/><j/>poliisiasema<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">polizeihauptquartieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">anniversarfeieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">eröffnungsfeieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">hochzeitsfeieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>juhlia<s n="vblex"/></l><r c="maybe german guesser fail?">memorialfeieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kartoittaa<s n="vblex"/></l><r c="maybe german guesser fail?">cartieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">ergebnispapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">grundsatzpapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">javieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">militäroffizieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">positionspapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>mielipidekirjoitus<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">sondierungspapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>passi<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">einreisepapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>kirjoittaa<s n="vblex"/><j/>strategia<s n="n"/><s n="sg"/><s n="nom"/></l><r c="maybe german guesser fail?">strategiepapieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>koristella<s n="vblex"/></l><r c="maybe german guesser fail?">nobeljuwelieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>luovuttaa<s n="vblex"/></l><r c="maybe german guesser fail?">spendertieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>portata<s n="vblex"/></l><r c="guesser">potieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>teloittaa<s n="vblex"/></l><r c="maybe german guesser fail?">guillieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>toimittaa<s n="vblex"/></l><r c="maybe german guesser fail?">courieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>tulla<s n="vblex"/><j/>toinen<s n="num"/><s n="sg"/><s n="tra"/></l><r c="maybe german guesser fail?">zweitplatzieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>varata<s n="vblex"/></l><r c="probably noun">braunkohlerevieren<s n="vblex"/></r></p></e>
+    <e r="RL" c="deu guesser"><p><l>viedä<s n="vblex"/></l><r c="probably noun">erdölexportieren<s n="vblex"/></r></p></e>
 
 
 
