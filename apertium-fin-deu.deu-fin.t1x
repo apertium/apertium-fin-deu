@@ -1141,6 +1141,7 @@
           <test>
             <or>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="yksityis"/></equal>
+             <equal><clip pos="1" side="tl" part="lem"/><lit v="ulko"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="vähimmäis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="yhteis"/></equal>
              <equal><clip pos="1" side="tl" part="lem"/><lit v="lähi"/></equal>
@@ -1605,7 +1606,7 @@
             </tags>
             <lu>
               <lit v="kuolla"/>
-              <lit-tag v="vblex.actv.pp.pos.nom.sg"/>
+              <lit-tag v="vblex.actv.pp.pos.sg.nom"/>
             </lu>
           </chunk>
         </out>
@@ -2458,8 +2459,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <lit v="+tu"/>
-              <lit-tag v="adj.pos"/>
+              <lit-tag v="actv.pp.pos"/>
               <var n="number"/>
               <var n="case"/>
             </lu>
@@ -2639,8 +2639,9 @@
               <clip pos="1" side="tl" part="a_verb"/> <!-- vblex/vaux... -->
               <lit-tag v="actv"/> <!-- 0 -> actv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
-              <lit-tag v="pos.nom"/> <!-- extra junk -->
+              <lit-tag v="pos"/> <!-- extra junk -->
               <var n="number"/>   <!-- sg/pl from main verb-->
+              <lit-tag v="nom"/> <!-- extra junk -->
             </lu>
           </chunk>
         </out>
@@ -3707,7 +3708,7 @@
               <clip pos="1" side="tl" part="a_verb"/> <!-- vblex -->
               <lit-tag v="pasv"/> <!-- 0 -> pasv -->
               <clip pos="1" side="tl" part="a_perf"/> <!-- pp -> pp -->
-              <lit-tag v="pos.nom.sg"/> <!-- if no other information -->
+              <lit-tag v="pos.sg.nom"/> <!-- if no other information -->
             </lu>
           </chunk>
         </out>
