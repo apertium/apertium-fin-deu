@@ -2174,6 +2174,7 @@
     <e><p><l>kärki<s n="n"/></l><r>Spitze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärpänen<s n="n"/></l><r>Fliege<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärpänen<s n="n"/></l><r>Fliege<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kärry<s n="n"/></l><r>Karre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kärsimys<s n="n"/></l><r c="often English/typo">Gram<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kärsimys<s n="n"/></l><r>Elend<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kärsimys<s n="n"/></l><r>Pein<s n="n"/><s n="f"/></r></p></e>
@@ -3165,6 +3166,7 @@
     <e><p><l>opas<s n="n"/></l><r>Leitfaden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>operaatio<s n="n"/></l><r>Operation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>opettaja<s n="n"/></l><r>Lehrer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>opetushenkilökunta<s n="n"/></l><r>Lehrpersonal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opetusohjelma<s n="n"/></l><r>Ausbildungsprogramm<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opetus<s n="n"/></l><r>Unterricht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>opinnot<s n="n"/></l><r>Studium<s n="n"/><s n="nt"/></r></p></e>
@@ -3426,6 +3428,7 @@
     <e><p><l>persreikä<s n="n"/></l><r>Drecksloch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>perusarvo<s n="n"/></l><r>Grundwert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskallio<s n="n"/></l><r>Grundstein<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>peruskirja<s n="n"/></l><r>Chartervertrag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskivi<s n="n"/></l><r>Grundzug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>peruskoulu<s n="n"/></l><r>Grundschule<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>perusoikeus<s n="n"/></l><r>Grundrecht<s n="n"/><s n="nt"/></r></p></e>
@@ -4837,6 +4840,7 @@
     <e><p><l>turkkilainen<s n="n"/></l><r>Türkisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>turkki<s n="n"/></l><r>Fell<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>turnaus<s n="n"/></l><r>Turnier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>turvaistuin<s n="n"/></l><r>Kindersitz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>turvallisuusmäärittely<s n="n"/></l><r>Sicherheitsbestimmung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turvallisuusohje<s n="n"/></l><r>Sicherheitshinweise<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turvallisuusperuste<s n="n"/></l><r>Sicherheitsgrund<s n="n"/><s n="m"/></r></p></e>
@@ -5257,6 +5261,7 @@
     <e><p><l>verkko<s n="n"/></l><r>Netzwerk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>verohelpotus<s n="n"/></l><r>Steuersenkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>verojaedeltävä<s n="n"/></l><r>Vorsteuer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>veronkorotus<s n="n"/></l><r>Steuererhöhung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>veronmaksaja<s n="n"/></l><r>Steuerzahler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>veroparatiisi<s n="n"/></l><r>Steuerparadies<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>veroselvitys<s n="n"/></l><r>Steuererklärung<s n="n"/><s n="f"/></r></p></e>
@@ -5387,6 +5392,7 @@
     <e><p><l>vuosi<s n="n"/></l><r>Jahr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vuo<s n="n"/></l><r>Fluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuota<s n="n"/></l><r>Pelz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vyö<s n="n"/></l><r>Gurt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>väenpaljous<s n="n"/></l><r>Gedränge<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>väenpaljous<s n="n"/></l><r>Menschenmenge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väestönkasvu<s n="n"/></l><r>Bevölkerungswachstum<s n="n"/><s n="nt"/></r></p></e>
@@ -6195,6 +6201,7 @@
     <e r="RL"><p><l>kreivi<s n="n"/></l><r>graf<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kriisi<s n="n"/></l><r>krise<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kriitikko<s n="n"/></l><r>kritiker<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kriteeri<s n="n"/></l><r>kriterium<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kritiikki<s n="n"/></l><r>kritik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kronikka<s n="n"/></l><r>chronik<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kruunaus<s n="n"/></l><r>krönung<s n="n"/><s n="f"/></r></p></e>
@@ -6202,6 +6209,7 @@
     <e r="RL"><p><l>kruunu<s n="n"/></l><r>krone<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kruunu<s n="n"/></l><r>krone<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>krääsä<s n="n"/></l><r c="rare, was falsch PROPN">bettel<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>kuitti<s n="n"/></l><r>bon<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kulku<s n="n"/></l><r>laufen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kulku<s n="n"/></l><r>zugang<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>kulta<s n="n"/></l><r>gold<s n="n"/><s n="nt"/></r></p></e>
@@ -6294,8 +6302,10 @@
     <e r="RL"><p><l>liitto<s n="n"/></l><r>bündnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>liitto<s n="n"/></l><r>union<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>liitto<s n="n"/></l><r>verband<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>liitto<s n="n"/></l><r>verbund<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>liitto<s n="n"/></l><r>vereinigung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>liittoutuma<s n="n"/></l><r>allianz<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>liivi<s n="n"/></l><r>weste<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>linja<s n="n"/></l><r>linie<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>linnake<s n="n"/></l><r>fort<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>linnake<s n="n"/></l><r>hochburg<s n="n"/><s n="f"/></r></p></e>
@@ -6339,6 +6349,7 @@
     <e r="RL"><p><l>lähestyminen<s n="n"/></l><r>ansatz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lähetin<s n="n"/></l><r>funk<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lähettäjä<s n="n"/></l><r>sender<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>länsi<s n="n"/></l><r>westen<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>läpikäynti<s n="n"/></l><r>durchsuchung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>läpäisy<s n="n"/></l><r>bestehen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>läsnäolo<s n="n"/></l><r>präsenz<s n="n"/><s n="f"/></r></p></e>
@@ -7152,10 +7163,6 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
-    <e r="RL"><p><l>länsi<s n="n"/></l><r>westen<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>liivi<s n="n"/></l><r>weste<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>kuitti<s n="n"/></l><r>bon<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>liitto<s n="n"/></l><r>verbund<s n="n"/><s n="m"/></r></p></e>
 
 
     <e r="RL" c="unravalling"><p><l>avautuminen<s n="n"/></l><r>entfaltung<s n="n"/><s n="f"/></r></p></e>
@@ -7242,6 +7249,7 @@
     <e><p><l>ABC<s n="np"/><s n="al"/><s n="acr"/></l><r>ABC<s n="n"/></r></p></e>
     <e><p><l>AIDS<s n="n"/></l><r>Aids<s n="n"/><s n="acr"/><s n="nt"/></r></p></e>
     <e><p><l>as<s n="n"/><s n="acr"/></l><r>AS<s n="n"/></r></p><par n="anyg"/></e>
+    <e><p><l>SOS<s n="n"/><s n="acr"/></l><r>SOS<s n="n"/><s n="acr"/><s n="nt"/></r></p></e>
     <e><p><l>BMW<s n="np"/><s n="al"/><s n="acr"/></l><r>BMW<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
     <e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/><s n="f"/></r></p></e>
@@ -10627,6 +10635,7 @@
     <e><p><l>filippiiniläinen<s n="adj"/></l><r>philippinisch<s n="adj"/></r></p></e>
     <e><p><l>filippiiniläinen<s n="adj"/></l><r>philippinisch<s n="adj"/></r></p></e>
     <e><p><l>filosofinen<s n="adj"/></l><r>philosophisch<s n="adj"/></r></p></e>
+    <e><p><l>flaamilainen<s n="adj"/></l><r>flämisch<s n="adj"/></r></p></e>
     <e><p><l>formaali<s n="adj"/></l><r>formal<s n="adj"/></r></p></e>
     <e><p><l>fossiilinen<s n="adj"/></l><r>fossil<s n="adj"/></r></p></e>
     <e><p><l>fundamentaalinen<s n="adj"/></l><r>fundamental<s n="adj"/></r></p></e>
@@ -11713,6 +11722,7 @@
     <e><p><l>taukoamaton<s n="adj"/></l><r>unermüdlich<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>regulär<s n="adj"/></r></p></e>
     <e><p><l>teennäinen<s n="adj"/></l><r>abwegig<s n="adj"/></r></p></e>
+    <e><p><l>tehokas<s n="adj"/></l><r>effektiv<s n="adj"/></r></p></e>
     <e><p><l>tehokas<s n="adj"/></l><r>effizient<s n="adj"/></r></p></e>
     <e><p><l>tehokas<s n="adj"/></l><r>wirkungsvoll<s n="adj"/></r></p></e>
     <e><p><l>tehostettu<s n="adj"/></l><r>verstärkte<s n="adj"/></r></p></e>
