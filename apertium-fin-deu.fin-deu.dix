@@ -149,8 +149,8 @@
 
   <section id="main" type="standard">
 
-    <!--                     {{{           N       O        U    N S       O             UN   S     NO UN  S
-           {{{            n  o     u                n  s      w  i             t    h g      ende r s -->
+    <!--                      {{{           N       O        U    N S       O             UN   S     NO UN  S
+           {{ {            n  o     u                n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -1167,6 +1167,7 @@
     <e><p><l>hyöty<s n="n"/></l><r>Beihilfe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hyöty<s n="n"/></l><r>Nutzen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>häirintä<s n="n"/></l><r>Störung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>häiriö<s n="n"/></l><r>Ablenkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>häiriö<s n="n"/></l><r>Störung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>häiriötila<s n="n"/></l><r>Missstand<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hämmennys<s n="n"/></l><r>Verwirrung<s n="n"/><s n="f"/></r></p></e>
@@ -2688,6 +2689,7 @@
     <e><p><l>maaöljy<s n="n"/></l><r>Erdöl<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mafia<s n="n"/></l><r>Mafia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>magia<s n="n"/></l><r>Magie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>magneettikenttä<s n="n"/></l><r>Magnetfeld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maha<s n="n"/></l><r>Bauch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mahdollisuus<s n="n"/></l><r>Gelegenheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mahdollisuus<s n="n"/></l><r>Möglichkeit<s n="n"/><s n="f"/></r></p></e>
@@ -3010,6 +3012,7 @@
     <e><p><l>neliökilometri<s n="n"/></l><r>Quadratkilometer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neliömetri<s n="n"/></l><r>Quadratmeter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neljännesfinaali<s n="n"/></l><r>Viertelfinale<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>neljännesmiljoona<s n="n"/></l><r>Viertelmillion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neljännesvuosisata<s n="n"/></l><r>Vierteljahrhundert<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>neljännesvälierä<s n="n"/></l><r c="sports wtf">Achtelfinale<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nelonen<s n="n"/></l><r>Vierer<s n="n"/><s n="m"/></r></p></e>
@@ -3104,6 +3107,7 @@
     <e><p><l>ohjaaja<s n="n"/></l><r>Regisseur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ohjaajatar<s n="n"/></l><r>Regisseurin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ohjaus<s n="n"/></l><r>Kontrolle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ohjaus<s n="n"/></l><r>Lenkung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ohjeistus<s n="n"/></l><r>Anweisung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ohjelma<s n="n"/></l><r>Programm<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ohjelmistovika<s n="n"/></l><r>Softwarefehler<s n="n"/><s n="m"/></r></p></e>
@@ -4434,6 +4438,7 @@
     <e><p><l>syytös<s n="n"/></l><r>Vorwurf<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sähköauto<s n="n"/></l><r>Elektroauto<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sähkökatkos<s n="n"/></l><r>Stromausfall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sähköpostiosoite<s n="n"/></l><r>E-Mail-Adresse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sähköposti<s n="n"/></l><r>E-Mail<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sähköposti<s n="n"/></l><r>Email<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>säiliöauto<s n="n"/></l><r>Tanklastwagen<s n="n"/><s n="m"/></r></p></e>
@@ -7180,6 +7185,7 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>lähetys<s n="n"/></l><r>übertragung<s n="n"/><s n="f"/></r></p></e>
 
 
 
@@ -9027,6 +9033,7 @@
     <e><p><l>lähteä<s n="vblex"/></l><r>abführen<s n="vblex"/></r></p></e>
     <e><p><l>lähteä<s n="vblex"/></l><r>aufbrechen<s n="vblex"/></r></p></e>
     <e><p><l>lähteä<s n="vblex"/></l><r>losgehen<s n="vblex"/></r></p></e>
+    <e><p><l>läpikäydä<s n="vblex"/></l><r>durchfahren<s n="vblex"/></r></p></e>
     <e><p><l>läpikäydä<s n="vblex"/></l><r>durchkommen<s n="vblex"/></r></p></e>
     <e><p><l>läpikäydä<s n="vblex"/></l><r>unterziehen<s n="vblex"/></r></p></e>
     <e><p><l>läpäistä<s n="vblex"/></l><r>absolvieren<s n="vblex"/></r></p></e>
@@ -9133,6 +9140,7 @@
     <e><p><l>määrätä<s n="vblex"/></l><r>befehlen<s n="vblex"/></r></p></e>
     <e><p><l>naamioitua<s n="vblex"/></l><r>tarnen<s n="vblex"/></r></p></e>
     <e><p><l>naida<s n="vblex"/></l><r>heiraten<s n="vblex"/></r></p></e>
+    <e><p><l>napata<s n="vblex"/></l><r>zugreifen<s n="vblex"/></r></p></e>
     <e><p><l>napauta<s n="vblex"/></l><r>tippe<s n="vblex"/></r></p></e>
     <e><p><l>narista<s n="vblex"/></l><r>ächzen<s n="vblex"/></r></p></e>
     <e><p><l>nauraa<s n="vblex"/></l><r>lachen<s n="vblex"/></r></p></e>
@@ -9444,6 +9452,7 @@
     <e><p><l>päättää<s n="vblex"/></l><r>beschließen<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>entscheiden<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>entschließen<s n="vblex"/></r></p></e>
+    <e><p><l>päätyä<s n="vblex"/></l><r>abzeichnen<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>entpuppen<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>gelangen<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>landen<s n="vblex"/></r></p></e>
@@ -10262,6 +10271,7 @@
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
     <e><p><l>äänestää<s n="vblex"/></l><r>überstimmen<s n="vblex"/></r></p></e>
+
 
     <e><p><l c="a flight or event">varata<s n="vblex"/></l><r>buchen<s n="vblex"/></r></p></e>
 
@@ -12804,6 +12814,8 @@
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aallo<s n="np"/></i></e>
     <e><i>Aalto<s n="np"/></i></e>
     <e><i>Aaron<s n="np"/></i></e>
@@ -13723,6 +13735,7 @@
     <e><p><l>Ryan<s n="np"/></l><r>Ryan<s n="np"/></r></p></e>
     <e><p><l>Saksa<s n="np"/></l><r>Deutschland<s n="np"/></r></p></e>
     <e><p><l>Saksi-Anhalt<s n="np"/></l><r>Sachsen-Anhalt<s n="np"/></r></p></e>
+    <e><p><l>Saturnus<s n="np"/></l><r>Saturn<s n="np"/></r></p></e>
     <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi-Arabien<s n="np"/></r></p></e>
     <e><p><l>Saudi-Arabia<s n="np"/></l><r>Saudi<b/>Arabien<s n="np"/></r></p></e>
     <e><p><l>Serbia<s n="np"/></l><r>Serbien<s n="np"/></r></p></e>
@@ -13760,8 +13773,8 @@
     <e><p><l>Venäjä<s n="np"/></l><r>Russland<s n="np"/></r></p></e>
     <e><p><l>Vilna<s n="np"/></l><r>Vilnius<s n="np"/></r></p></e>
     <e><p><l>Vladimir<s n="np"/></l><r c="translit RUS">Wladimir<s n="np"/></r></p></e>
-    <e><p><l>Väli-Amerikka<s n="np"/></l><r>Zentralamerika<s n="np"/></r></p></e>
     <e><p><l>Väli-Amerikka<s n="np"/></l><r>Mittelamerika<s n="np"/></r></p></e>
+    <e><p><l>Väli-Amerikka<s n="np"/></l><r>Zentralamerika<s n="np"/></r></p></e>
     <e><p><l>Välimeri<s n="np"/></l><r>Mittelmeer<s n="np"/></r></p></e>
     <e><p><l>Zimbabwe<s n="np"/></l><r>Simbabwe<s n="np"/></r></p></e>
     <e r="RL"><p><l>Britannia<s n="np"/></l><r c="e.g. Britain First">Britain<s n="np"/></r></p></e>
