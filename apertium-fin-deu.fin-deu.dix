@@ -149,8 +149,8 @@
 
   <section id="main" type="standard">
 
-    <!--                      {{{           N       O        U    N S       O             UN   S     NO UN  S
-           {{ {            n  o     u                n  s      w  i             t    h g      ende r s -->
+    <!--                       {{{           N       O        U    N S       O             UN   S     NO UN  S
+           {{{            n  o     u                n  s      w  i             t    h g      ende r s -->
 
     <e c="approx."><p><l>asuinalue<s n="n"/></l><r>Länderei<s n="n"/><s n="f"/></r></p></e>
     <e c="approx"><p><l>lukio<s n="n"/></l><r>High<b/>School<s n="n"/><s n="f"/></r></p></e>
@@ -1369,6 +1369,7 @@
     <e><p><l>johtaja<s n="n"/></l><r>Vorstandsmitglied<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>johtajatar<s n="n"/></l><r>Chefin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtajatar<s n="n"/></l><r>Direktorin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>johtajatar<s n="n"/></l><r>Managerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtoasema<s n="n"/></l><r>Spitzenposition<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtolanka<s n="n"/></l><r>Anhaltspunkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>johtopaikka<s n="n"/></l><r>Leitstelle<s n="n"/><s n="f"/></r></p></e>
@@ -6369,6 +6370,7 @@
     <e r="RL"><p><l>lähestyminen<s n="n"/></l><r>ansatz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lähetin<s n="n"/></l><r>funk<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>lähettäjä<s n="n"/></l><r>sender<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>lähetys<s n="n"/></l><r>übertragung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>länsi<s n="n"/></l><r>westen<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>läpikäynti<s n="n"/></l><r>durchsuchung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>läpäisy<s n="n"/></l><r>bestehen<s n="n"/><s n="nt"/></r></p></e>
@@ -6654,6 +6656,7 @@
     <e r="RL"><p><l>pyrkimys<s n="n"/></l><r>bestrebung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>pystykorva<s n="n"/></l><r>spitz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pysyvä<s n="n"/></l><r>feste<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>pysähdys<s n="n"/></l><r>stillstand<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>pyyntö<s n="n"/></l><r>ersuchen<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>pyyntö<s n="n"/></l><r>gesuch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>päivä<s n="n"/></l><r>tag<s n="n"/><s n="m"/></r></p></e>
@@ -7185,7 +7188,6 @@
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>öljy<s n="n"/></l><r>öl<s n="n"/><s n="nt"/></r></p></e>
-    <e r="RL"><p><l>lähetys<s n="n"/></l><r>übertragung<s n="n"/><s n="f"/></r></p></e>
 
 
 
@@ -12641,7 +12643,7 @@
     <e><p><l>mukaan<b/>lukien<s n="post"/></l><r>inklusive<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>mukaan<s n="post"/></l><r>gemäß<s n="pr"/><s n="dat"/></r></p></e>
     <e><p><l>mukaan<s n="post"/></l><r>laut<s n="pr"/><s n="gen"/></r></p></e>
-    <e><p><l>nimeltä<s n="post"/></l><r>namens<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>puolesta<s n="post"/></l><r>namens<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>osalta<s n="post"/></l><r>für<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>per<s n="post"/></l><r>je<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>per<s n="post"/></l><r>per<s n="pr"/><s n="acc"/></r></p></e>
@@ -12811,9 +12813,9 @@
 
 
 
+
     <e c="rarish, shadows forms of Helsinki" r="LR"><i>Helsing<s n="np"/></i></e>
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
-    <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aallo<s n="np"/></i></e>
@@ -13543,6 +13545,7 @@
     <e><i>Tyson<s n="np"/></i></e>
     <e><i>Ursula<s n="np"/></i></e>
     <e><i>Utah<s n="np"/></i></e>
+    <e><i>Vancouver<s n="np"/></i></e>
     <e><i>Vandenberg<s n="np"/></i></e>
     <e><i>Vanessa<s n="np"/></i></e>
     <e><i>Venezuela<s n="np"/></i></e>
@@ -13585,7 +13588,6 @@
     <e><i>Yle<s n="np"/></i></e>
     <e><i>Young<s n="np"/></i></e>
     <e><i>Zürich<s n="np"/></i></e>
-
 
     <!-- }}}
          {{{ mismatching secondaries -->
