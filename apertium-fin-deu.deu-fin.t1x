@@ -3681,8 +3681,8 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_det"/>
-              <clip pos="1" side="tl" part="a_number"/>
-              <clip pos="1" side="tl" part="a_case"/>
+              <var n="number"/>
+              <var n="case"/>
             </lu>
             <b pos="1"/>
           </chunk>
