@@ -790,6 +790,7 @@
     <e><p><l>epäröinti<s n="n"/></l><r>zögern<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>epätasa-arvo<s n="n"/></l><r>Ungleichheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epäusko<s n="n"/></l><r>Unverständnis<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>epävakaus<s n="n"/></l><r>Instabilität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epävarmuus<s n="n"/></l><r>Ungewissheit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epävarmuus<s n="n"/></l><r>Verunsicherung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>epävire<s n="n"/></l><r>Verstimmung<s n="n"/><s n="f"/></r></p></e>
@@ -2029,6 +2030,7 @@
     <e><p><l>kranaatinheitin<s n="n"/></l><r>Mörser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kranaatti<s n="n"/></l><r>Granate<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kranaatti<s n="n"/></l><r>Granat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kranssi<s n="n"/></l><r>Kranz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kreikkalainen<s n="n"/></l><r>Grieche<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kreikkalainen<s n="n"/></l><r>Griechisch<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kreivikunta<s n="n"/></l><r>Grafschaft<s n="n"/><s n="f"/></r></p></e>
@@ -2351,6 +2353,7 @@
     <e><p><l>lausunto<s n="n"/></l><r>Äußerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lautakunta<s n="n"/></l><r>Ausschuss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lautakunta<s n="n"/></l><r>Geschworene<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lautanen<s n="n"/></l><r>Teller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lautapeli<s n="n"/></l><r>Brettspiel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lauta<s n="n"/></l><r>Brett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lautta<s n="n"/></l><r>Floß<s n="n"/><s n="nt"/></r></p></e>
@@ -2917,6 +2920,7 @@
     <e><p><l>muisto<s n="n"/></l><r>Erinnerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muisto<s n="n"/></l><r>Gedächtnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>muisto<s n="n"/></l><r>Memorial<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>muistotilaisuus<s n="n"/></l><r>Andacht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muistotilaisuus<s n="n"/></l><r>Gedenkfeier<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mukanatuonti<s n="n"/></l><r>Mitnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mullistus<s n="n"/></l><r>Umbruch<s n="n"/><s n="m"/></r></p></e>
@@ -3042,6 +3046,7 @@
     <e><p><l>nimimerkki<s n="n"/></l><r>Pseudonym<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>Name<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>Titel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nimitys<s n="n"/></l><r>Benennung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nimitys<s n="n"/></l><r>Ernennung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nimitys<s n="n"/></l><r>Nominierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niskalaukaus<s n="n"/></l><r>Erschießung<s n="n"/><s n="f"/></r></p></e>
@@ -4151,6 +4156,7 @@
     <e><p><l>senssi<s n="n"/></l><r>Chance<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>senttimetri<s n="n"/></l><r>Zentimeter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>separatisti<s n="n"/></l><r>Separatist<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seppele<s n="n"/></l><r>Kranz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>seremonia<s n="n"/></l><r>Feierlichkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>seremonia<s n="n"/></l><r>Zeremonie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>šeriffi<s n="n"/></l><r>Sheriff<s n="n"/><s n="m"/></r></p></e>
@@ -12862,6 +12868,9 @@
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Aachen<s n="np"/></i></e>
+    <e><i>Müller<s n="np"/></i></e>
+    <e><i>Madagaskar<s n="np"/></i></e>
     <e><i>Aallo<s n="np"/></i></e>
     <e><i>Aalto<s n="np"/></i></e>
     <e><i>Aaron<s n="np"/></i></e>
