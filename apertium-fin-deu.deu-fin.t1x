@@ -1126,7 +1126,7 @@
             <equal><clip pos="1" side="tl" part="a_nominal"/><lit-tag v="n.compound-only-L"/></equal>
           </test>
           <let>
-            <var n="compstuff"/><lit-tag v="cmp"/>
+            <var n="compstuff"/><lit v=""/>
           </let>
         </when>
         <when>
