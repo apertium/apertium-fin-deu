@@ -743,6 +743,7 @@
     <e><p><l>elokuvatuotantoyhtiö<s n="n"/></l><r>Filmproduktionsgesellschaft<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eläinkoe<s n="n"/></l><r>Tierversuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eläinlaji<s n="n"/></l><r>Tierart<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eläinpuisto<s n="n"/></l><r>Tierpark<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eläin<s n="n"/></l><r>Tier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>eläkeläinen<s n="n"/></l><r>Rentner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eläkerahasto<s n="n"/></l><r>Pensionsfonds<s n="n"/><s n="m"/></r></p></e>
@@ -2159,6 +2160,7 @@
     <e><p><l>kuuri<s n="n"/></l><r>Kur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuu<s n="n"/></l><r>Mond<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuutiometri<s n="n"/></l><r>Kubikmeter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuvaaja<s n="n"/></l><r>Kameraleute<s n="n"/><s n="mfn"/></r></p></e>
     <e><p><l>kuvailu<s n="n"/></l><r>Beschreibung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuva<s n="n"/></l><r>Bild<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuvasto<s n="n"/></l><r>Katalog<s n="n"/><s n="m"/></r></p></e>
@@ -2704,6 +2706,7 @@
     <e><p><l>maa<s n="n"/></l><r>Erde<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maa<s n="n"/></l><r>Land<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maastamuutto<s n="n"/></l><r>Migration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maasto<s n="n"/></l><r>Terrain<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maasturi<s n="n"/></l><r>Geländewagen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maatalousekonomia<s n="n"/></l><r>Landwirtschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maatalous<s n="n"/></l><r>Landwirt<s n="n"/><s n="m"/></r></p></e>
@@ -3981,6 +3984,7 @@
     <e><p><l>riimi<s n="n"/></l><r>Reim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>riippumattomuus<s n="n"/></l><r>Unabhängigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>riisi<s n="n"/></l><r>Reis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>riista<s n="n"/></l><r>Wild<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>riita<s n="n"/></l><r>Streitigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>riita<s n="n"/></l><r>Streit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>riittämättömyys<s n="n"/></l><r>Unzulänglichkeit<s n="n"/><s n="f"/></r></p></e>
@@ -5387,6 +5391,7 @@
     <e><p><l>vilkaisu<s n="n"/></l><r>Blick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vilkaus<s n="n"/></l><r>Blick<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>villa<s n="n"/></l><r>Villa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>villieläin<s n="n"/></l><r>Wildtier<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vilpittömyys<s n="n"/></l><r>Aufrichtigkeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vinkkeli<s n="n"/></l><r>Winkel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vinkki<s n="n"/></l><r>Hinweis<s n="n"/><s n="m"/></r></p></e>
@@ -5438,6 +5443,7 @@
     <e><p><l>vuodenaika<s n="n"/></l><r>Jahreszeit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuodenaika<s n="n"/></l><r>Saison<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuodenvaihde<s n="n"/></l><r>Jahrenswechsel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vuodenvaihde<s n="n"/></l><r>Jahreswechsel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuode<s n="n"/></l><r>Bett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vuokra<s n="n"/></l><r>Miete<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vuoksi<s n="n"/></l><r>Flut<s n="n"/><s n="f"/></r></p></e>
@@ -6039,6 +6045,7 @@
     <e r="RL"><p><l>hidastaminen<s n="n"/></l><r>behinderung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hiilikopio<s n="n"/></l><r>durchschlag<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>historia<s n="n"/></l><r>vergangenheit<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>hoitaja<s n="n"/></l><r>pfleger<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>hoito<s n="n"/></l><r c="tierhaltung">haltung<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>holvi<s n="n"/></l><r>gruft<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>hovi<s n="n"/></l><r>hof<s n="n"/><s n="m"/></r></p></e>
@@ -8694,6 +8701,7 @@
     <e><p><l>kadota<s n="vblex"/></l><r>verschwinden<s n="vblex"/></r></p></e>
     <e><p><l>kahdentaa<s n="vblex"/></l><r>zweieren<s n="vblex"/></r></p></e>
     <e><p><l>kahlata<s n="vblex"/></l><r>waten<s n="vblex"/></r></p></e>
+    <e><p><l>kamppailla<s n="vblex"/></l><r>hadern<s n="vblex"/></r></p></e>
     <e><p><l>kamppailla<s n="vblex"/></l><r>erkämpfen<s n="vblex"/></r></p></e>
     <e><p><l>kamppailla<s n="vblex"/></l><r>kämpfen<s n="vblex"/></r></p></e>
     <e><p><l>kamppailla<s n="vblex"/></l><r>umkämpfen<s n="vblex"/></r></p></e>
@@ -10433,6 +10441,7 @@
     <e><p><l>jonottaa<s n="vblex"/></l><r>stehen<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>julistaa<s n="vblex"/></l><r>kündigen<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>järjestää<s n="vblex"/></l><r>stellen<g><b/>auf</g><s n="vblex"/></r></p></e>
+    <e><p><l>kasvattaa<s n="vblex"/></l><r>nehmen<g><b/>zu</g><s n="vblex"/></r></p></e>
     <e><p><l>kertoa<s n="vblex"/></l><r>teilen<g><b/>mit</g><s n="vblex"/></r></p></e>
     <e><p><l>kertoa<s n="vblex"/></l><r>geben<g><b/>an</g><s n="vblex"/></r></p></e>
     <e><p><l>keskustella<s n="vblex"/></l><r>reden<g><b/>an</g><s n="vblex"/></r></p></e>
@@ -11564,6 +11573,7 @@
     <e><p><l>pyöreä<s n="adj"/></l><r>ring<s n="adj"/></r></p></e>
     <e><p><l>pyöreä<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
     <e><p><l>-päinen<s n="adj"/></l><r>köpfig<s n="adj"/></r></p></e>
+    <e><p><l>päinvastainen<s n="adj"/></l><r>umgekehrt<s n="adj"/></r></p></e>
     <e><p><l>päivittäinen<s n="adj"/></l><r>täglich<s n="adj"/></r></p></e>
     <e><p><l>päivänmittainen<s n="adj"/></l><r>tagelang<s n="adj"/></r></p></e>
     <e><p><l>pätevä<s n="adj"/></l><r>qualifiziert<s n="adj"/></r></p></e>
