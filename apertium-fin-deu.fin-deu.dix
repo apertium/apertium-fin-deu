@@ -2694,6 +2694,7 @@
     <e><p><l>maanmies<s n="n"/></l><r>Landsmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Kontinent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanosa<s n="n"/></l><r>Landesteil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maanosa<s n="n"/></l><r>Staatsgebiet<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maanpuolustus<s n="n"/></l><r>Verteidigungsetat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maanraja<s n="n"/></l><r>Landesgrenze<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>maantie<s n="n"/></l><r>Landstraße<s n="n"/><s n="f"/></r></p></e>
@@ -5586,6 +5587,7 @@
     <e><p><l>ylioppilas<s n="n"/></l><r>Abiturient<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ylipäällikkö<s n="n"/></l><r>Oberbefehlshaber<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ylitys<s n="n"/></l><r>Überfahrt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ylitys<s n="n"/></l><r>Überquerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylityö<s n="n"/></l><r>Überarbeitung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylivalta<s n="n"/></l><r>Vorherrschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ylivalta<s n="n"/></l><r>Vormachtstellung<s n="n"/><s n="f"/></r></p></e>
@@ -6193,6 +6195,7 @@
     <e r="RL"><p><l>kerros<s n="n"/></l><r>schicht<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>kerros<s n="n"/></l><r>werk<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>kerta<s n="n"/></l><r>mal<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>keskiarvo<s n="n"/></l><r>durchschnitt<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>keskus<s n="n"/></l><r>zentrum<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>keskustelu<s n="n"/></l><r>gespräch<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>ketju<s n="n"/></l><r>kette<s n="n"/><s n="f"/></r></p></e>
@@ -6514,6 +6517,7 @@
     <e r="RL"><p><l>määrittely<s n="n"/></l><r>angabe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>mökki<s n="n"/></l><r>hütte<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>naapuri<s n="n"/></l><r>anrainer<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>nainen<s n="n"/></l><r>frau<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>naisjäsen<s n="n"/></l><r>angehörige<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>naisurheilija<s n="n"/></l><r>sportlerin<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>napa<s n="n"/></l><r>pol<s n="n"/><s n="m"/></r></p></e>
@@ -11162,6 +11166,7 @@
     <e><p><l>käytännöllinen<s n="adj"/></l><r>praktisch<s n="adj"/></r></p></e>
     <e><p><l>köyhä<s n="adj"/></l><r>arm<s n="adj"/></r></p></e>
     <e><p><l>köyhä<s n="adj"/></l><r>karg<s n="adj"/></r></p></e>
+    <e><p><l>köyhä<s n="adj"/></l><r>verarmt<s n="adj"/></r></p></e>
     <e><p><l>laadullinen<s n="adj"/></l><r>qualitativ<s n="adj"/></r></p></e>
     <e><p><l>laahaava<s n="adj"/></l><r>schleppend<s n="adj"/></r></p></e>
     <e><p><l>laaja-alainen<s n="adj"/></l><r>weitläufig<s n="adj"/></r></p></e>
@@ -11469,6 +11474,7 @@
     <e><p><l>palanut<s n="adj"/></l><r>abgebrannt<s n="adj"/></r></p></e>
     <e><p><l>palestiinalainen<s n="adj"/></l><r>palästinensisch<s n="adj"/></r></p></e>
     <e><p><l>paljas<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
+    <e><p><l>palkallinen<s n="adj"/></l><r>erwerbstätig<s n="adj"/></r></p></e>
     <e><p><l>panssaroitu<s n="adj"/></l><r>gepanzert<s n="adj"/></r></p></e>
     <e><p><l>paperiton<s n="adj"/></l><r>papierlos<s n="adj"/></r></p></e>
     <e><p><l>parannettava<s n="adj"/></l><r>heilbar<s n="adj"/></r></p></e>
@@ -12013,6 +12019,7 @@
     <e><p><l>uskottava<s n="adj"/></l><r>plausibel<s n="adj"/></r></p></e>
     <e><p><l>uskova<s n="adj"/></l><r>gläubig<s n="adj"/></r></p></e>
     <e><p><l>utooppinen<s n="adj"/></l><r>utopisch<s n="adj"/></r></p></e>
+    <e><p><l>uudelleenyhdistetty<s n="adj"/></l><r>wiedervereinigt<s n="adj"/></r></p></e>
     <e><p><l>uusiseelantilainen<s n="adj"/></l><r>neuseeländisch<s n="adj"/></r></p></e>
     <e><p><l>uusi<s n="adj"/></l><r>neu<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>uusittu<s n="adj"/></l><r>erneut<s n="adj"/></r></p></e>
@@ -12909,9 +12916,6 @@
     <e c="Spanish"><i>Navidad<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
     <e><i>Aachen<s n="np"/></i></e>
-    <e><i>Aachen<s n="np"/></i></e>
-    <e><i>Müller<s n="np"/></i></e>
-    <e><i>Madagaskar<s n="np"/></i></e>
     <e><i>Aallo<s n="np"/></i></e>
     <e><i>Aalto<s n="np"/></i></e>
     <e><i>Aaron<s n="np"/></i></e>
@@ -13236,6 +13240,7 @@
     <e><i>Indiana<s n="np"/></i></e>
     <e><i>Irak<s n="np"/></i></e>
     <e><i>Iran<s n="np"/></i></e>
+    <e><i>Irene<s n="np"/></i></e>
     <e><i>Isaac<s n="np"/></i></e>
     <e><i>Isabella<s n="np"/></i></e>
     <e><i>Israel<s n="np"/></i></e>
@@ -13368,6 +13373,7 @@
     <e><i>Luis<s n="np"/></i></e>
     <e><i>Luther<s n="np"/></i></e>
     <e><i>Luxemburg<s n="np"/></i></e>
+    <e><i>Madagaskar<s n="np"/></i></e>
     <e><i>Madrid<s n="np"/></i></e>
     <e><i>Mainz<s n="np"/></i></e>
     <e><i>Malcolm<s n="np"/></i></e>
@@ -13440,6 +13446,7 @@
     <e><i>Muu<s n="np"/></i></e>
     <e><i>Myanmar<s n="np"/></i></e>
     <e><i>Myer<s n="np"/></i></e>
+    <e><i>Müller<s n="np"/></i></e>
     <e><i>München<s n="np"/></i></e>
     <e><i>Mäkinen<s n="np"/></i></e>
     <e><i>Nadia<s n="np"/></i></e>
