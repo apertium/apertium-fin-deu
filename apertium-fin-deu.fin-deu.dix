@@ -3066,6 +3066,7 @@
     <e><p><l>neuvottelija<s n="n"/></l><r>Vermittler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neuvottelu<s n="n"/></l><r>Verhandlung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>niemi<s n="n"/></l><r>Halbinsel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nigerialainen<s n="n"/></l><r>Nigerianer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimellisarvo<s n="n"/></l><r>Nennwert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimimerkki<s n="n"/></l><r>Pseudonym<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>Name<s n="n"/><s n="m"/></r></p></e>
@@ -3891,6 +3892,7 @@
     <e><p><l>rajaus<s n="n"/></l><r>Begrenzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajavartiointi<s n="n"/></l><r>Grenzkontrolle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajavartiosto<s n="n"/></l><r>Grenzschutz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rajoite<s n="n"/></l><r>Beeinträchtigung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajoittaminen<s n="n"/></l><r>Begrenzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajoitus<s n="n"/></l><r>Begrenzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rajoitus<s n="n"/></l><r>Beschränkung<s n="n"/><s n="f"/></r></p></e>
@@ -4875,6 +4877,7 @@
     <e><p><l>tunnustus<s n="n"/></l><r>Erkenntnis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tunnustus<s n="n"/></l><r>Geständnis<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tuntematon<s n="n"/></l><r>Unbekannte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tuntipalkka<s n="n"/></l><r>Stundenlohn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tunti<s n="n"/></l><r>Stunde<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tuntomerkki<s n="n"/></l><r>Kennzeichen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tuoli<s n="n"/></l><r>Stuhl<s n="n"/><s n="m"/></r></p></e>
@@ -5216,6 +5219,7 @@
     <e><p><l>valvontavirasto<s n="n"/></l><r>Regierungsbüro<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vamma<s n="n"/></l><r>Behinderung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vandalismi<s n="n"/></l><r>Vandalismus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vanginta<s n="n"/></l><r>Festsetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vanhakaupunki<s n="n"/></l><r>Altstadt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vanhempi<s n="n"/></l><r>Elternteil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vanhempi<s n="n"/></l><r>Elter<s n="n"/><s n="m"/></r></p></e>
@@ -7010,6 +7014,7 @@
     <e r="RL"><p><l>tieto<s n="n"/></l><r>daten<s n="n"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>tieto<s n="n"/></l><r>kenntnis<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tiimi<s n="n"/></l><r>team<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>tilanne<s n="n"/></l><r>situation<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>tila<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tila<s n="n"/></l><r>zustand<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>tilasto<s n="n"/></l><r>statistik<s n="n"/><s n="f"/></r></p></e>
@@ -8178,6 +8183,7 @@
     <e><p><l>yllä<s n="adv"/></l><r>darüber<s n="adv"/></r></p></e>
     <e><p><l>yllä<s n="adv"/></l><r>worüber<s n="adv"/></r></p></e>
     <e><p><l>yllä<s n="adv"/></l><r>über<s n="adv"/></r></p></e>
+    <e><p><l>yllättävästi<s n="adv"/></l><r>abrupt<s n="adv"/></r></p></e>
     <e><p><l>ymmärrettävästi<s n="adv"/></l><r>vernünftig<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>herum<s n="adv"/></r></p></e>
     <e><p><l>ympäri<s n="adv"/></l><r>rund<s n="adv"/></r></p></e>
@@ -8185,6 +8191,8 @@
     <e><p><l>ystävällisesti<s n="adv"/></l><r>freundlich<s n="adv"/></r></p></e>
     <e><p><l>äsken<s n="adv"/></l><r>kürzlich<s n="adv"/></r></p></e>
     <e><p><l>äänekkäästi<s n="adv"/></l><r>laut<s n="adv"/></r></p></e>
+    <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
+    <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
     <e><p><l>äärimmäisen<s n="adv"/></l><r>äußerst<s n="adv"/></r></p></e>
@@ -13994,6 +14002,7 @@
     <e><p><l>lännempänä<s n="adv"/></l><r>westlich<s n="adv"/></r></p></e>
     <e><p><l>montako<s n="prn"/><s n="sg"/><s n="nom"/></l><r>wie<b/>viele<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>pliis<s n="ij"/></l><r>bitte<s n="adv"/></r></p></e>
+    <e><p><l>brutto<s n="n"/><s n="sg"/><s n="ess"/></l><r>brutto<s n="adv"/></r></p></e>
     <e r="LR"><p><l>takia<s n="post"/></l><r>seinetwegen<s n="adv"/></r></p></e>
     <e r="LR"><p><l>takia<s n="post"/></l><r>zuliebe<s n="adv"/></r></p></e>
     <e r="LR"><p><l>edessä<s n="adv"/></l><r>vor<s n="pr"/></r></p></e>
