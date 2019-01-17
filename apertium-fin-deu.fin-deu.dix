@@ -1382,6 +1382,7 @@
     <e><p><l>johtajatar<s n="n"/></l><r>Direktorin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtajatar<s n="n"/></l><r>Managerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johtoasema<s n="n"/></l><r>Spitzenposition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>johtokunta<s n="n"/></l><r>Verwaltungsrat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>johtolanka<s n="n"/></l><r>Anhaltspunkt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>johtopaikka<s n="n"/></l><r>Leitstelle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>johto<s n="n"/></l><r>Führung<s n="n"/><s n="f"/></r></p></e>
@@ -1594,6 +1595,7 @@
     <e><p><l>kansallisuus<s n="n"/></l><r>Nationalität<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansallisuus<s n="n"/></l><r>Staatsbürgerschaft<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansanedustaja<s n="n"/></l><r>Abgeordnete<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kansanedustaja<s n="n"/></l><r>Volksvertreter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansankieli<s n="n"/></l><r>Landessprache<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansankiihotus<s n="n"/></l><r>Volksverhetzung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kansanneuvosto<s n="n"/></l><r>Nationalrat<s n="n"/><s n="m"/></r></p></e>
@@ -3242,6 +3244,7 @@
     <e><p><l>orkesteri<s n="n"/></l><r>Orchestra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orvokki<s n="n"/></l><r>Viola<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osakas<s n="n"/></l><r>Aktionär<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>osakas<s n="n"/></l><r>Anteilseigner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osakeindeksi<s n="n"/></l><r>Aktienindex<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osake<s n="n"/></l><r>Aktie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>osallinen<s n="n"/></l><r>Mittäter<s n="n"/><s n="m"/></r></p></e>
@@ -3586,6 +3589,7 @@
     <e><p><l>poissulkeminen<s n="n"/></l><r>Ausschluss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poistaminen<s n="n"/></l><r>Entfernung<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poistomyynti<s n="n"/></l><r>Absatzmarkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>poisto<s n="n"/></l><r>Ablösung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poisto<s n="n"/></l><r>Löschung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poistovesi<s n="n"/></l><r>Abwasser<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>poistumisreitti<s n="n"/></l><r>Ausweg<s n="n"/><s n="m"/></r></p></e>
@@ -5479,6 +5483,7 @@
     <e><p><l>väestönosa<s n="n"/></l><r>Bevölkerungsgruppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>väestö<s n="n"/></l><r>Bevölkerung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vähemmistö<s n="n"/></l><r>Minderheit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vähennys<s n="n"/></l><r>Abnahme<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vähennys<s n="n"/></l><r>Abzug<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vähennys<s n="n"/></l><r>Reduzierung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vähennys<s n="n"/></l><r>Verminderung<s n="n"/><s n="f"/></r></p></e>
@@ -6824,6 +6829,7 @@
     <e r="RL"><p><l>sakko<s n="n"/></l><r>strafe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>saksalainen<s n="n"/></l><r>deutsche<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>saksalainen<s n="n"/></l><r>deutsch<s n="n"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>salaisuus<s n="n"/></l><r>geheimnis<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>salakuljettaja<s n="n"/></l><r>schmuggler<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>salakuljetus<s n="n"/></l><r>schmuggel<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>salakuuntelu<s n="n"/></l><r>abhören<s n="n"/><s n="nt"/></r></p></e>
@@ -11044,6 +11050,7 @@
     <e><p><l>keskiverto<s n="adj"/></l><r>durchschnittlich<s n="adj"/></r></p></e>
     <e><p><l>kestävä<s n="adj"/></l><r>andauernd<s n="adj"/></r></p></e>
     <e><p><l>kestävä<s n="adj"/></l><r>belastbar<s n="adj"/></r></p></e>
+    <e><p><l>kestävä<s n="adj"/></l><r>beständig<s n="adj"/></r></p></e>
     <e><p><l>kestävä<s n="adj"/></l><r>dauerhaft<s n="adj"/></r></p></e>
     <e><p><l>kestävä<s n="adj"/></l><r>haltbar<s n="adj"/></r></p></e>
     <e><p><l>kestävä<s n="adj"/></l><r>nachhaltig<s n="adj"/></r></p></e>
