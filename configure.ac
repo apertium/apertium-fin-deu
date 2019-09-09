@@ -77,5 +77,7 @@ m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertiu
 AP_CHECK_LING([1], [apertium-fin])
 AP_CHECK_LING([2], [apertium-deu])
 
+AP_MKINCLUDE
+
 AC_OUTPUT([Makefile apertium-fin-deu.pc t/config.sh])
 

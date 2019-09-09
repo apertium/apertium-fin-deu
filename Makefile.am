@@ -33,18 +33,7 @@ endif
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
-
-modes/.d: modes.xml
-	if ! test -d modes ; then \
-		$(MKDIR_P) modes/ ;\
-	fi
-	apertium-validate-modes $(srcdir)/modes.xml
-	apertium-gen-modes $(srcdir)/modes.xml
-	mv -v *.mode modes/
-	touch $@
-
-modes/fin-deu.mode: modes/.d
-modes/deu-fin.mode: modes/.d
+@ap_include@
 
 ###############################################################################
 ## Monolingual transducers
