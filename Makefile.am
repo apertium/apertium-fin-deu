@@ -215,10 +215,10 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "talo" | apertium -d . fin-deu | tee .test-mt
-	@echo "Haus#" > .test-ref
+	echo "talo" | apertium -f line -d . fin-deu | tee .test-mt
+	@echo "Haus" > .test-ref
 	@diff .test-ref .test-mt
-	echo "Haus" | apertium -d . deu-fin | tee .test-mt
+	echo "Haus" | apertium -f line -d . deu-fin | tee .test-mt
 	@echo "talo" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
