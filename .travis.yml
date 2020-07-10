@@ -1,51 +1,15 @@
-env:
-    - "FTP_USER=travisci"
-secure: "abqAzMOUq55OKGuCcAPe8lMTV/oKW9aGkmh2ROqUk6M4CC6pn2wEYI6zBT2Tbw9Bj514eqeh0xeniOm0pBm/N8LS8l6X5BsgLKvr3/CLT+cIQ/Fs6Rui4mqS6Aif61JMOZJ+TkScKCZ/cc75eK4LFTUKzkvaiJzB9TYQTLB0P+xM98jeRxdzznZV3rqE8VE5d7p/8eJ7tgU7ShpyxWh6fXqB40fuU8yt5sTQEbyLnOmWCmRh/cnvJpWOvNH9q0giZkDFbKKXWy4q0Gh0xZQ+XObByOvw5JpyzKcuZNHV6vUfttb4LqM6vvlO/JOsV+6pwnYyqrZW1JHSTPdOGLVk1NSTmyirJXDHy48YOv0SqXD/SLDF+lw8fF0GTPGPMj6WKEmr4JWAm5930WMgWghZ475N1N9rP6FD8+T/lwdEVIrKb2YZdMwTrBVgEc1ZuG4vQNLzkJOY5XHFNdenS0mXweqrsAceX6ldYHfVhMJmYEMNso4evcKNSwDD7QS4PB24tTqQ+S2xFbkepSDgaHvxs+NjZ1jhx1tA5K1GZfy7mpqtPvwAKdaIX11J1Z25mUZ73urt13wx7jkJiNQTpD2kqW2JGQ9yRAtwvnZCC+DVenjrxL/H0i72A2ts7YqqpVjW3nzBcGZ8aPdEZhqvSDUKmWH114Mqm0ey7NyYfs+yjpk="
-dist: xenial
 before_install:
     - wget http://apertium.projectjj.com/apt/install-nightly.sh -O - | sudo bash
-    - sudo apt-get install hfst apertium lttoolbox apertium-dev apertium-deu lttoolbox-dev libhfst-dev cg3 apertium-lex-tools
-    - wget https://github.com/apertium/apertium-fin/archive/master.zip
-    - unzip master.zip
-    - pushd apertium-fin-master && ./autogen.sh && ./configure && make && sudo make install && popd
+    - sudo apt-get install hfst apertium lttoolbox apertium-dev apertium-deu lttoolbox-dev libhfst-dev cg3 apertium-lex-tools apertium-fin
 script:
     - ./autogen.sh
     - ./configure --prefix=/usr
     - make
     - make check
+    - make distcheck
 notifications:
     irc:
         channels:
-            - "chat.freenode.net#omorfi"
             - "chat.freenode.net#apertium"
         on_failure: change
         on_success: never
-after_success:
-    - mkdir .deploy
-    - make DESTDIR=.deploy/ install
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.autobil.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.autogen.hfst" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.autolex.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.automorf.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.rlx.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.t1x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.t2x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.t3x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.deu-fin.t1x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.deu-fin.t2x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.deu-fin.t3x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/deu-fin.prep.cg3.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.autobil.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.autogen.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.autolex.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.automorf.hfst" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.rlx.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.t1x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.t2x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/fin-deu.t3x.bin" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.fin-deu.t1x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.fin-deu.t2x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium-fin-deu/apertium-fin-deu.fin-deu.t3x" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/apertium-fin-deu/"
-    - curl -T ".deploy/usr/share/apertium/modes/deu-fin.mode" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/modes/"
-    - curl -T ".deploy/usr/share/apertium/modes/fin-deu.mode" -u $FTP_USER:$FTP_PASSWORD ftp://39476.s.time4vps.cloud/modes/"
-
