@@ -109,7 +109,7 @@ cat $@ | $SED -ne '/<page>/,/<\/page>/p' |\
         -e 's:Verbi:<s n="vblex"/>:' \
         -e 's:Adjektiivi:<s n="adj"/>:' \
         -e 's:Numeraali:<s n="num"/>:' \
-        -e 's:Erisnimi:<s n="vblex"/>:' |\
+        -e 's:Erisnimi:<s n="np"/>:' |\
     awk -F $'\t' \
     '{tcount = split($3, trans, /, */);
         for(i=1; i<=tcount; i++) {
