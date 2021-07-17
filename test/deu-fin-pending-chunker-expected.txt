@@ -1,0 +1,54 @@
+[03UdM_nNUEnE#0] ^default<default>{^hei<ij>$}$
+[/03UdM_nNUEnE]
+[5TfiiaNPURnU#0] ^PrnP<PRN>{^tämä<prn><sg><nom>$}$ ^NP<N><FOOFOO>{^koti<n><sg><nom>$}$
+[/5TfiiaNPURnU]
+[8ehX6UYD2R5a#0] ^VP<V><INF>{^vangita<vblex><actv><infa><sg><lat>$}$ ^PRNP<PRN>{^he<prn><pl><nom>$}$ ^AdpP<Adp><dat>{}$ ^default<default>{^edessä<adv>$}$ ^AdpP<Adp><dat>{^päälle<post>$}$^sent<SENT>{^!<punct>$}$
+[/8ehX6UYD2R5a]
+[AtCHkz78XXbg#0] ^PRNP<PRN>{^minä<prn><sg><gen>$}$
+[/AtCHkz78XXbg]
+[BTTTkR1W7ksZ#0] ^PRNP<PRN>{^minä<prn><sg><nom>$}$ ^VP<V>{^nukkua<vblex><actv><pri><p1><sg>$}$ ^default<default>{^nopeasti<adv>$}$
+[/BTTTkR1W7ksZ]
+[D5Ue3mytR5Vm#0] ^NP<NP><sg><nom>{^punainen<adj><pos><sg><nom>$ ^koti<n><sg><nom>$}$
+[/D5Ue3mytR5Vm]
+[DR7zkIRU_AKz#0] ^PRNP<PRN>{^minä<prn><sg><gen>$}$
+[/DR7zkIRU_AKz]
+[LLNOSpNtXxjr#0] ^PRNP<PRN>{^minä<prn><sg><nom>$}$ ^VP<V>{^nukkua<vblex><actv><pri><p1><sg>$}$
+[/LLNOSpNtXxjr]
+[LTXBdALJZ4eo#0] ^NP<N><FOOFOO>{^Suomi<np><top><sg><nom>$}$
+[/LTXBdALJZ4eo]
+[QFEBdYRZiPE_#0] ^NumP<Num>{^1000<num><card><sg><nom>$}$
+[/QFEBdYRZiPE_]
+[TRb8ow_CvDIQ#0] ^NP<N><ADE>{^me<prn><pl><ade>$ ^olla<vaux><actv><pri><p3><sg>$}$ ^PrnP<PRN>{^tämä<prn><sg><nom>$}$ ^NP<N><FOOFOO>{^koti<n><sg><nom>$}$
+[/TRb8ow_CvDIQ]
+[WaGN5lExrDxB#0] ^NP<N><ADE>{^minä<prn><sg><ade>$ ^olla<vaux><actv><pri><p3><sg>$}$ ^PrnP<PRN>{^tämä<prn><sg><nom>$}$ ^NP<N><FOOFOO>{^kissa<n><pl><nom>$}$
+[/WaGN5lExrDxB]
+[cNO4Iff918PQ#0] ^AP<A>{^kolmas<adj><pos><sg><nom>$}$
+[/cNO4Iff918PQ]
+[ca0UitYzgQG-#0] ^NP<N><ADE>{^minä<prn><sg><ade>$ ^olla<vaux><actv><pri><p3><sg>$}$ ^PrnP<PRN>{^tämä<prn><sg><nom>$}$ ^NP<N><FOOFOO>{^kissa<n><sg><nom>$}$
+[/ca0UitYzgQG-]
+[cgsGdYOz6PSx#0] ^AdpP<Adp><dat>{^taakse<post>$}$ ^PrnP<PRN>{^tämä<prn><sg><nom>$}$ ^NP<N><FOOFOO>{^koti<n><sg><nom>$}$
+[/cgsGdYOz6PSx]
+[dA_EmREzsVI7#0] ^VP<V>{^valittaa<vblex><actv><pri><p3><sg>$}$
+[/dA_EmREzsVI7]
+[hMktir8ya9tS#0] ^PRNP<PRN>{^minä<prn><sg><nom>$}$
+[/hMktir8ya9tS]
+[hWzJnYc0NADc#0] ^default<default>{^ja<cnjcoo>$}$
+[/hWzJnYc0NADc]
+[ixV9m3BXD7PI#0] ^PrnP<PRN>{^Tämä<prn><sg><nom>$}$ ^NumP<Num>{^62<num><card><sg><nom>$}$^default<default>{^-<punct>$}$^AP<A>{^-vuotias<adj><pos><sg><nom>$}$ ^VP<V>{^erottaa<vblex><actv><past><p3><sg>$}$ ^NP<NP><ine>{ ^Berliini<np><top><sg><ine>$}$ ^AdpP<Adp><dat>{^päälle<post>$}$
+[/ixV9m3BXD7PI]
+[jJqqYbvWAtKa#0] ^PRNP<PRN>{^me<prn><pl><nom>$}$ ^VP<V>{^aloittaa<vblex><actv><pri><p3><sg>$}$ ^AdpP<Adp><dat>{}$ ^default<default>{^edessä<adv>$}$
+[/jJqqYbvWAtKa]
+[nb48_Fr3l_NR#0] ^NumP<Num>{^kaksi<num><card><sg><nom>$}$
+[/nb48_Fr3l_NR]
+[nxkA552X7kqm#0] ^NP<N><FOOFOO>{^delegaatio<n><pl><nom>$}$ ^VP<V>{^erottaa<vblex><actv><past><p3><pl>$}$ ^NP<NP><ine>{ ^Caracas<np><top><sg><ine>$}$ ^AdpP<Adp><dat>{^päälle<post>$}$
+[/nxkA552X7kqm]
+[tf0D3ZHfHPvS#0] ^NP<N><FOOFOO>{^Jack<np><ant><m><sg><nom>$}$
+[/tf0D3ZHfHPvS]
+[tyZ5iBuqUJyC#0] ^AdpP<Adp><dat>{^taakse<post>$}$ ^PrnP<PRN>{^tämä<prn><sg><gen>$}$ ^NP<N><FOOFOO>{^koti<n><sg><nom>$}$
+[/tyZ5iBuqUJyC]
+[v9a5lViOxUzh#0] ^NumP<Num>{^yksi<num><card><sg><nom>$}$
+[/v9a5lViOxUzh]
+[xNunWPACr3Rk#0] ^NP<N><sg><nom>{^kissa<n><sg><nom>$}$ ^VP<V><INF>{^vangita<vblex><actv><infa><sg><lat>$}$ ^NP<N><sg><nom>{^hiiri<n><sg><nom>$}$
+[/xNunWPACr3Rk]
+[zbTuKuppzGqD#0] ^sent<SENT>{^.<punct>$}$
+[/zbTuKuppzGqD]

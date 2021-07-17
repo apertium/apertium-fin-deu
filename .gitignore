@@ -12,3 +12,12 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
+/Makefile
+/ap_include.am
+/apertium-fin-deu.pc
+/config.status
+/*.bin
+/*.hfst
+/modes
+/test/*-output.txt

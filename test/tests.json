@@ -1,0 +1,22 @@
+{
+    "deu-fin-pending": {
+        "input": "deu-fin-pending-input.txt",
+        "mode": "deu-fin"
+    },
+    "fin-deu-pending": {
+        "input": "fin-deu-pending-input.txt",
+        "mode": "fin-deu"
+    },
+    "fin-deu-regression": {
+        "input": "fin-deu-regression-input.txt",
+        "mode": "fin-deu"
+    },
+    "deu-fin": {
+        "input": "deu-fin-input.txt",
+        "mode": "deu-fin"
+    },
+    "fin-deu": {
+        "input": "fin-deu-input.txt",
+        "mode": "fin-deu"
+    }
+}
