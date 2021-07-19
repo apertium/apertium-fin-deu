@@ -82,5 +82,5 @@ PKG_CHECK_MODULES(REGTEST, apertium-regtest >= 0.0.1, [],
 
 AP_MKINCLUDE
 
-AC_OUTPUT([Makefile apertium-fin-deu.pc t/config.sh])
+AC_OUTPUT([Makefile apertium-fin-deu.pc])
 

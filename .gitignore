@@ -21,3 +21,14 @@ Makefile.in
 /*.hfst
 /modes
 /test/*-output.txt
+/*.gz
+/*.zhfst
+/.DS_Store
+/INSTALL
+/Makefile.in
+/config.log
+/*.mode
+/*-*.prob
+/.deps
+/config.in
+/config

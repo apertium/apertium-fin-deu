@@ -215,13 +215,7 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "talo" | apertium -f line -d . fin-deu | tee .test-mt
-	@echo "Haus" > .test-ref
-	@diff .test-ref .test-mt
-	echo "Haus" | apertium -f line -d . deu-fin | tee .test-mt
-	@echo "talo" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test
 
 # Slow but near-complete test of dictionary consistency:
 test-gen-fin-deu: all
