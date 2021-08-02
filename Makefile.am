@@ -2,6 +2,8 @@
 ## Makefile for Finnish--German
 ###############################################################################
 
+SUBDIRS=docs
+
 LANG1=fin
 LANG2=deu
 PREFIX1=$(LANG1)-$(LANG2)
