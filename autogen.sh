@@ -31,5 +31,6 @@ ACLOCAL_PATH="${ACLOCAL_PATH}:${PREFIX}/share/aclocal"
 export ACLOCAL_PATH
 
 
-autoreconf -fi 
+# Pass on all args to configure
+autoreconf -fi && ./configure "$@"
 
