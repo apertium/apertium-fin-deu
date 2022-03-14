@@ -2,42 +2,72 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = (ND sg) sg pl sp ND;
-gender = (GD m) m f mf GD;
+number = sg pl sp;
+gender = m f mf nt ;
 det_type = def ind dem itg;
 tense = pres past fut ifi pri fti;
+person = p1 p2 p3 ;
+case = nom acc gen par dat ine ela ill ade abl all abe com lat ins ess ;
+npclass = ant top geo al ;
+sint = sint ;
+inf = inf infa infe infma ;
+prntype = pers ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
-n: _.gender.number;
-adj: _.gender.number;
-det_default: _.det_type;
-det_def: _.det_type.number;
+n: _.gender.number.case;
+np: _.npclass.gender.number.case;
+adj: _.sint;
+det: _.det_type.gender.number.case;
+vblex: _.inf.tense.person.number; ! sehen.vblex.pii.p3.sg
+vaux: _.inf.tense.person.number;
+vbmod: _.inf.tense.person.number;
+num: _.number;
+prn: _.prntype.person.gender.number.case;
 
-NP: _.number;
+NP: _;
+VP: _;
+
+V: _;
+N: _;
+A: _;
+DET: _;
+NUM: _;
+NEG: _;
+PRN: _;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
 !!!!!!!!!!!!!!!
 
-tense > tense : ifi past, pri pres, fti fut;
-
+tense > tense : pres pri, past pii;
+case > case : ine dat, ela dat, ill dat, ade dat, abl dat, all dat, abe dat, com dat, ins dat, lat nom, par acc, ess acc;
+inf > inf : infa inf, infe inf, infma inf ;
 !!!!!!!!!!!!!!!
 !! MACROS
 !!!!!!!!!!!!!!!
 
-det: (if (1.det_type = def or 1.det_type = ind)
-         1(det_def)
-      else
-         1(det_default));
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> n.$number adj { 2[gender=1.gender, number=1.number] _ 1 } ;
+VP -> ei@vaux vblex { 2[number=1.number,person=1.person,tense=pri] _ nicht@adv } |
+      ei@vaux vaux { 2[number=1.number,person=1.person,tense=pri] _ nicht@adv } |
+      ei@vaux vbmod { 2[number=1.number,person=1.person,tense=pri] _ nicht@adv } ;
+NEG -> ei@vaux { nicht@adv } ;
+
+V -> vblex.actv.infa { 1[number="",person="",tense=""] } |
+     vblex { 1 } |
+     vaux { 1 } |
+     vbmod { 1 } ;
+N -> n { 1 } ;
+A -> adj { 1 } ;
+DET -> det { 1 } ;
+NUM -> num { 1[number=(if (lem = "yksi") sg else pl)] } ;
+PRN -> prn { 1 } ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Apertium-recursive
