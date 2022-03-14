@@ -2,42 +2,121 @@
 !! ATTRIBUTE CATEGORIES
 !!!!!!!!!!!!!!!
 
-number = (ND sg) sg pl sp ND;
-gender = (GD m) m f mf GD;
+number = sg pl sp ;
+gender = m f mf ;
 det_type = def ind dem itg;
-tense = pres past fut ifi pri fti;
+tense = pres past pri pii ;
+voice = actv pasv ;
+person = p1 p2 p3 ;
+case = nom acc dat gen ine ela ill ade abl all ins tra abe com lat ;
+inf = inf infa infma infe ;
+comp = pst comp sup ;
+numtype = card ord ;
+prntype = pers ind ;
+npclass = ant geo top al ;
+
+
+caseadps = in ab auf über von ohne aus bis als zu an nach für ;
 
 !!!!!!!!!!!!!!!
 !! OUTPUT PATTERNS
 !!!!!!!!!!!!!!!
 
-n: _.gender.number;
-adj: _.gender.number;
-det_default: _.det_type;
-det_def: _.det_type.number;
+n: _.number.case;
+np: _.npclass.gender.number.case;
+adj: _.comp.number.case;
+num: _.numtype.number.case;
+det: _.det_type.number.case;
+prn: _.number.case;
+vblex: _.voice.inf.tense.person.number.case;
+vaux: _.voice.inf.tense.person.number.case;
+vbser: _.voice.inf.tense.person.number.case;
+vbmod: _.voice.inf.tense.person.number.case;
+vbhaver: _.voice.inf.tense.person.number.case;
+pr: _;
 
-NP: _.number;
+NP: _;
+VP: _;
+
+V: _;
+N: _;
+A: _;
+NUM: _;
+DET: _;
+PRN: _;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
 !!!!!!!!!!!!!!!
 
-tense > tense : ifi past, pri pres, fti fut;
+tense > tense : pii past;
+case > case : acc gen, dat gen;
 
 !!!!!!!!!!!!!!!
 !! MACROS
 !!!!!!!!!!!!!!!
 
-det: (if (1.det_type = def or 1.det_type = ind)
-         1(det_def)
-      else
-         1(det_default));
 
 !!!!!!!!!!!!!!!
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> n.$number adj { 2[gender=1.gender, number=1.number] _ 1 } ;
+VP -> n vbhaver { 1[case=ade] _ 2[voice=actv] } |
+      np vbhaver { 1[case=ade] _ 2[voice=actv] } |
+      prn vbhaver { 1[case=ade] _ 2[voice=actv] } ;
+NP -> pr det n { 3[case=(if (1.lem = in) 
+                            ine
+                        else-if (1.lem = ab)
+                            abl
+                        else-if (1.lem = auf)
+                            ine
+                        else-if (1.lem = um)
+                            abl
+                        else-if (1.lem = aus)
+                            ela
+                        else-if (1.lem = über)
+                            ela
+                        else-if (1.lem = bei)
+                            ade
+                        else-if (1.lem = von)
+                            abl
+                        else-if (1.lem = bis)
+                            ill
+                        else-if (1.lem = als)
+                            ess
+                        else-if (1.lem = mit)
+                            ade
+                        else-if (1.lem = zu)
+                            tra
+                        else-if (1.lem = an)
+                            abl
+                        else-if (1.lem = nach)
+                            ill
+                        else-if (1.lem = ohne)
+                            abe
+                        else-if (1.lem = für)
+                            all
+                        else
+                            gen)]
+                (if (1.lem not in caseadps) [_ 1])
+                 } ;
+
+
+V -> vblex.inf { 1[voice=actv,number=sg,case=lat,inf=infa] } |
+     vaux.inf { 1[voice=actv,number=sg,case=lat,inf=infa] } |
+     vblex { 1[voice=actv] } |
+     vaux { 1[voice=actv] } |
+     vbser { 1[voice=actv] } |
+     vbmod { 1[voice=actv] } |
+     vbhaver { 1[voice=actv,lem=omistaa,pos_tag=vblex] } ; ! stray have -> own
+N -> n { 1 } |
+     np { 1 } ;
+A -> adj { 1[comp=(if (1.comp = "") pst else 1.comp), case=nom, number=sg] } ;
+NUM -> num { 1[number=sg,case=nom,numtype=card] } ;
+PRN -> prn { 1 } ;
+DET -> der@det { _ } |
+       ein@det { _ } |
+       det { 1 } ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Apertium-recursive
