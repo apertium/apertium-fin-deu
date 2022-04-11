@@ -26,7 +26,9 @@ vaux: _.inf.tense.person.number;
 vbmod: _.inf.tense.person.number;
 num: _.number;
 prn: _.prntype.person.gender.number.case;
+post: _;
 
+PP: _ ;
 NP: _;
 VP: _;
 
@@ -59,6 +61,8 @@ VP -> ei@vaux vblex { 2[number=1.number,person=1.person,tense=pri] _ nicht@adv }
       ei@vaux vbmod { 2[number=1.number,person=1.person,tense=pri] _ nicht@adv } ;
 NEG -> ei@vaux { nicht@adv } ;
 
+
+PP -> N post { 2 _ 1 } ;
 V -> vblex.actv.infa { 1[number="",person="",tense=""] } |
      vblex { 1 } |
      vaux { 1 } |
