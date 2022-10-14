@@ -1,0 +1,24 @@
+authors:
+  - family-names: Pirinen
+    given-names: Flammie A
+    orcid: "https://orcid.org/0000-0003-1207-5395"
+cff-version: 1.2.0
+date-released: "2018-06-18"
+keywords:
+  - Finnish
+  - German
+  - MT
+  - dictionary
+message: If you use this software, please cite it using these metadata.
+repository-code: "https://github.com/apertium/apertium-fin-deu"
+title: Apertium Finnish–German
+version: 0.0.3
+preferred-citation:
+  authors:
+    - family-names: Pirinen
+      given-names: Flammie A
+  title: "Rule-based machine-translation between Finnish and German"
+  type: article
+license: GPL-3.0
+url: https://apertium.github.io/apertium-fin-deu/
+
